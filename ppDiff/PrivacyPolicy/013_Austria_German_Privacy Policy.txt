@@ -1,0 +1,335 @@
+﻿ZUSAMMENFASSUNG DER DATENSCHUTZRICHTLINIE VON SAMSUNG
+
+Samsung Electronics weiß, wie wichtig der Datenschutz für unsere Kunden ist. Wir möchten sicherstellen, dass Sie verstehen, wie wir Ihre personenbezogenen Daten auf den Geräten und in den Diensten von Samsung erfassen und nutzen, von Mobiltelefonen und Tablets bis hin zu TV-Geräten, Haushaltsgeräten, Onlinediensten und anderen Geräten und Diensten.
+
+Diese Datenschutzrichtlinie gilt für all unsere Dienste. Bei Bedarf bieten wir jedoch auch zusätzliche Informationen über den Datenschutz im Zusammenhang mit bestimmten Diensten.
+
+ÜBERSICHT ÜBER DIE PERSONENBEZOGENEN DATEN
+
+Wir erfassen personenbezogene Daten, die Sie uns direkt bereitstellen, Daten über Ihre Nutzung unserer Dienste und Daten von Dritten. Wir verwenden diese Daten, um Ihnen Dienste zur Verfügung zu stellen, um zu verstehen, wie Sie unsere Dienste nutzen, sodass wir Ihre Benutzererfahrung verbessern und personalisieren können, und um die relevantesten Apps, Technologien und Inhalte für unsere Kunden entwickeln zu können. Außerdem verwenden wir personenbezogene Daten, um auf Ihre Interessen zugeschnittene personalisierte Werbung bereitzustellen.
+
+WEITERGABE IHRER PERSONENBEZOGENEN DATEN
+
+Wir geben Ihre personenbezogenen Daten möglicherweise an angeschlossene Unternehmen von Samsung Electronics sowie an Unternehmen weiter, die im Auftrag von Samsung Electronics Dienstleistungen erbringen. Außerdem können wir Ihre personenbezogenen Daten an vertrauenswürdige Partnerunternehmen weitergeben, z. B. an Mobilfunkbetreiber oder Versicherungsunternehmen, die Ihnen die von Ihnen gewünschten Produkte und Dienste zur Verfügung stellen und Ihnen Informationen zu Produkten und Diensten bereitstellen, die für Sie interessant sein könnten. Wir geben personenbezogene Daten an Vollstreckungsbehörden weiter, wenn dies gesetzlich vorgeschrieben oder zum Schutz von Samsung Electronics und seinen Nutzern erforderlich ist.
+
+1. WELCHE DATEN ERFASSEN WIR? 
+2. VERWENDUNG IHRER DATEN 
+3. AN WEN GEBEN WIR IHRE DATEN WEITER?
+4. SICHERHEIT IHRER DATEN 
+5. WOHIN ÜBERMITTELN WIR IHRE DATEN? 
+6. IHRE RECHTE 
+7. AUFBEWAHRUNG IHRER DATEN 
+8. DIENSTE VON DRITTANBIETERN 
+9. KONTAKT
+
+SAMSUNG DATENSCHUTZRICHTLINIE
+
+Datum des Inkrafttretens: 30. April 2019
+
+Diese Datenschutzrichtlinie gilt für alle Geräte und Dienste von Samsung, von Mobiltelefonen und Tablets bis hin zu TV-Geräten, Haushaltsgeräten, Onlinediensten und anderen Geräten und Diensten (zusammen als „Dienste“ bezeichnet).
+
+Wir bitten Sie, die Datenschutzrichtlinie regelmäßig auf Aktualisierungen zu prüfen. Wir können diese Datenschutzrichtlinie von Zeit zu Zeit bei Änderungen unserer Praktiken im Zusammenhang mit personenbezogenen Daten im Hinblick auf die Dienste oder bei Änderungen des anwendbaren Rechts aktualisieren. Wir benachrichtigen Sie über einen Hinweis auf unserer Website oder Ihrem Gerät im Voraus über jegliche wesentliche Änderungen unserer Datenschutzrichtlinie und geben zu Beginn der Datenschutzrichtlinie an, wann diese zuletzt aktualisiert wurde. Die aktuelle Version der Datenschutzrichtlinie finden Sie hier: https://account.samsung.com/membership/pp.
+
+WELCHE DATEN ERFASSEN WIR?
+
+Samsung Electronics erfasst Ihre personenbezogenen Daten auf verschiedene Arten.
+
+Von Ihnen direkt bereitgestellte Daten
+
+Bei manchen Diensten können Sie Daten direkt an uns weitergeben. Zum Beispiel:
+
+•	Wenn Sie bei uns ein Konto oder Profil erstellen, können wir Sie nach Angaben wie Ihrem Namen, Ihrem Geburtsdatum oder Ihrer E-Mail-Adresse fragen.
+•	Wenn Sie ein Produkt oder einen bezahlten Dienst bei uns bestellen, fragen wir gegebenenfalls nach Ihrem Namen, Ihrer Adresse, Ihren Kontaktinformationen und Ihren Versand- und Zahlungsinformationen, damit wir Ihre Bestellung bearbeiten können.
+•	Wenn Sie sich an unseren Kundendienst wenden, benötigen wir möglicherweise Informationen zur Verifizierung Ihrer Identität und des Produkts, bei dem es in Ihrer Anfrage geht, um Ihnen eine Antwort geben zu können.
+•	Wenn Sie mit unseren Kundendienstmitarbeitern oder anderen Servicemitarbeitern kommunizieren, wird diese Kommunikation über unsere Systeme übermittelt.
+•	Wenn Sie Ihre Kontakte freigeben, erfassen wir deren Telefonnummern und sonstige Kontaktinformationen, um Dateifreigabe und Messaging zu erleichtern. Sie können diese Funktionen in den Geräteeinstellungen deaktivieren oder einschränken.
+
+Daten über Ihre Nutzung von Diensten
+
+Neben den von Ihnen bereitgestellten Daten werden wir über die Software auf Ihren Geräten und auf anderen Wegen Daten über Ihre Nutzung unserer Dienste erfassen. Wir erfassen folgende Daten:
+
+•	Geräteinformationen: Ihr Hardwaremodell, Geräte-Hardwareinformationen, IMEI-Nummer und sonstige eindeutige Gerätekennung, Telefonnummer, Seriennummer, Kundencode, Zugangserfassung, die aktuelle Softwareversion, MCC (Mobilfunklandescode), MNC (Mobilfunknetzcode), die MAC-Adresse, IP-Adresse, Daten zu Cookies und Pixeln, Abonnementdaten, Betriebssystemversionen und Einstellungen der Geräte, mit denen Sie auf die Dienste zugreifen.
+•	Anmeldeinformationen: Diagnosebezogene, technische, fehlerbezogene und nutzungsbezogene Daten, z. B. Uhrzeit und Dauer Ihrer Nutzung der Dienste, Suchbegriffe, die Sie im Zusammenhang mit einem bestimmten Dienst von Samsung auf Ihrem Gerät eingeben, und alle Informationen, die wir in Cookies auf Ihrem Gerät speichern.
+•	Standortinformationen: Das GPS-Signal Ihres Geräts oder Informationen über nahe gelegene Wi-Fi-Zugangspunkte und Mobilfunkmasten, die an uns übertragen werden können, wenn Sie bestimmte Dienste nutzen und die Standortfunktion aktiviert ist.
+•	Sprachinformationen: Aufzeichnungen Ihrer Stimme, die wir erstellen und auf unseren Servern speichern, wenn Sie diese Funktion aktivieren und Sprachbefehle zur Steuerung eines Dienstes verwenden oder wenn Sie Kontakt mit unserem Kundendienst aufnehmen. Hinweis: Wenn wir mit einem externen Dienstanbieter arbeiten, der in unserem Namen Sprache in Text umwandelt, empfängt und speichert dieser Anbieter gegebenenfalls bestimmte Sprachbefehle gemäß dem zwischen uns und unserem vertrauenswürdigen externen Dienstanbieter geschlossenen Vertrag.
+•	Samsung-Tastaturdaten: die von Ihnen getippten Wörter bei der Verwendung der Textvorerkennungsfunktion. Diese Funktion kann Ihnen im Zusammenhang mit Ihrem Samsung-Konto angeboten werden, um die Daten zur Verwendung auf Ihren anderen Samsung-Mobilgeräten zu synchronisieren. Sie können die erfassten Daten jederzeit in den Einstellungen für die Textvorerkennung löschen.
+•	Anzeigeinformationen: Netzwerke, Sender, besuchte Websites und auf Ihren Geräten gesehene Sendungen sowie Angaben zu der dafür aufgewendeten Zeit.
+•	Sonstige Daten über Ihre Nutzung von Diensten, wie z. B. die von Ihnen verwendeten Apps, die von Ihnen besuchten Websites und Ihre Interaktion mit Inhalten, die über einen Dienst angeboten werden.
+
+Öffentlich oder aus handelsüblichen Quellen zugängliche Informationen oder freigegebene Informationen
+
+Wir erfassen mitunter öffentlich oder aus handelsüblichen Quellen zugängliche Informationen, einschließlich Informationen aus den von Ihnen genutzten sozialen Netzwerken, und kombinieren diese mit anderen Informationen über Sie, sodass wir Ihre Bedürfnisse, Interessen und Präferenzen besser verstehen können. Außerdem erfassen wir mitunter Informationen über Sie, die andere Personen, die unsere Dienste nutzen, bereitstellen, z. B. Ihren Namen und Kontaktinformationen, die andere Personen verwenden, um Ihnen eine Nachricht zu senden oder Dateien für Sie freizugeben.
+
+Andere von uns erfasste Daten
+
+Wir erheben gegebenenfalls auch andere Daten über Sie, Ihre Geräte oder Ihre Nutzung von Diensten, wenn Sie der Bereitstellung dieser Daten an uns zustimmen.
+
+Analysedienste von Drittanbietern
+
+Über bestimmte Dienste erfassen wir möglicherweise personenbezogene Daten über Ihre Onlineaktivitäten auf Websites und verbundenen Geräten im zeitlichen Verlauf und mit diversen Websites, Geräten, Apps und anderen Onlinefunktionen und -diensten von Drittanbietern. Wir verwenden für die Dienste möglicherweise Analysedienste von Drittanbietern, beispielsweise von Google Analytics. Die Dienstanbieter, die diese Analysedienste verwalten, unterstützen uns dabei, Ihre Verwendung der Dienste zu analysieren und die Dienste zu verbessern. Die erhaltenen Informationen können an diese Anbieter weitergegeben oder direkt von diesen Anbietern und sonstigen relevanten Dritten erfasst werden, die die Daten nutzen, beispielsweise um die Nutzung der Dienste auszuwerten, die Verwaltung der Dienste zu unterstützen oder technische Probleme zu diagnostizieren. Weitere Informationen über Google Analytics finden Sie auf http://www.google.com/analytics/learn/privacy.html und https://www.google.com/policies/privacy/partners/.
+
+Ihre Optionen
+Sie können sich dazu entscheiden, uns bestimmte Arten von Daten nicht zur Verfügung zu stellen, z. B. Informationen, die bei der Registrierung eines Samsung-Kontos angefordert werden. In einigen Fällen kann dies Ihre Möglichkeit zur Nutzung einiger Dienste einschränken. Wir bemühen uns nach Kräften, diese Einschränkungen zu erläutern, wenn wir Sie nach Ihren Daten fragen, sodass Sie eine fundierte Entscheidung treffen können. Beispielsweise bietet Ihnen Samsung Cloud die Möglichkeit, Ihre Daten zu sichern und einen Wiederherstellungspunkt zu erstellen. Samsung Cloud ist jedoch nicht für die Speicherung oder Verarbeitung sensibler Daten konzipiert.
+
+VERWENDUNG IHRER DATEN
+
+Wir nutzen die von uns erfassten Daten für folgende Zwecke:
+•	zur Unterstützung der Registrierung von Ihnen oder Ihrem Gerät für unsere Dienste
+•	zur Bereitstellung eines von Ihnen gewünschten Dienstes oder einer von Ihnen gewünschten Funktion
+•	zur Bereitstellung von maßgeschneiderten Inhalten und personalisierten Diensten aufgrund Ihrer früheren Aktivitäten in unseren Diensten
+•	zur Bereitstellung von personalisierten Werbeanzeigen, Aktionen und Angeboten, die für Sie interessant sein könnten, auf unseren Websites, den Websites Dritter und Onlineplattformen wie sozialen Netzwerken
+•	zur Bereitstellung von Aktionen und Angeboten mithilfe von Direktmarketingmitteilungen nur mit Ihrem gesonderten Einverständnis
+•	zur Analyse unserer Produkte und Dienste, um unsere Kunden besser zu verstehen, sodass wir Ihnen entsprechende Mitteilungen, Dienste und Erfahrungen bieten können
+•	zur Einholung Ihrer Meinungen zu unseren Produkten und Diensten und zur Durchführung von Kundenbefragungen mit Ihrer gesonderten Zustimmung, falls erforderlich
+•	zur Bereitstellung von Software-Updates, Wartungsdiensten und Support für Ihre Geräte
+•	zur Einhaltung von Gesetzen und rechtlichen Prozessen
+•	zum Schutz der Rechte, des Eigentums oder der Sicherheit von Samsung Electronics oder unseren angeschlossenen Unternehmen, Geschäftspartnern oder Kunden
+
+Wir nutzen und kombinieren die Daten, die wir über unsere Dienste, Geräte oder andere Quellen über Sie erfassen, um Ihnen eine bessere Erfahrung zu bieten. Beispielsweise können Sie Ihre Samsung-Kontodetails nicht nur für den Dienst nutzen, für den Sie sich registriert haben, sondern auch für andere Dienste, die Samsung-Konten verwenden. Außerdem nutzen wir die Daten, die Sie direkt oder über andere Quellen wie oben beschrieben bereitstellen, um Inhalte bereitzustellen, die Ihnen gefallen könnten oder die für Sie personalisiert sind. 
+
+Bezüglich Ihrer Daten haben Sie verschiedene Wahlmöglichkeiten. Weitere Informationen dazu finden Sie im Abschnitt IHRE RECHTE.
+
+[Nur für im Europäischen Wirtschaftsraum (EWR) ansässige Personen]
+
+Samsung verarbeitet personenbezogene Daten zu den oben beschriebenen Zwecken. Die rechtliche Grundlage von Samsung für die Verarbeitung personenbezogener Daten bildet eine Verarbeitung, die: 
+(i)	dafür sorgt, dass wir unsere Versprechen Ihnen gegenüber einhalten können, z. B. indem wir Ihnen einen Dienst bereitstellen
+(ii)	unsere geschäftlichen Interessen unterstützt (z. B. bezüglich der Verwaltung unserer Geschäftsbeziehung mit Ihnen und der Verbesserung des Kundendienstes), einschließlich Mitteilungen auf unserer Website, den Websites Dritter und Onlineplattformen
+(iii)	die Einhaltung von Gesetzen und rechtlichen Prozessen sicherstellt
+(iv)	auf Ihrem Einverständnis beruht (z. B. zum Senden von Direktmarketingmitteilungen). Wenn Sie Ihr Einverständnis geben, können Sie dieses jederzeit widerrufen, indem Sie wie im Abschnitt KONTAKT dieser Datenschutzrichtlinie dargelegt mit uns Kontakt aufnehmen.
+
+Samsung Electronics ist der Verantwortliche Ihrer personenbezogenen Daten, wie oben beschrieben. Für bestimmte Direktmarketingmitteilungen und bestimmte personalisierte Werbung in Europa kann auch das im Vereinigten Königreich ansässige Unternehmen Samsung Electronics (UK) Limited der Verantwortliche Ihrer personenbezogenen Daten sein. Ihre personenbezogenen Daten werden auch von einigen unserer europäischen Samsung-Tochtergesellschaften in den jeweiligen Ländern verarbeitet. Gegebenenfalls stellt die europäische Samsung-Tochtergesellschaft eine eigene lokale Datenschutzrichtlinie auf ihrer Website zur Verfügung, um diesen Sachverhalt zu erläutern.
+
+AN WEN GEBEN WIR IHRE DATEN WEITER?
+
+Wir geben Ihre Daten intern innerhalb unseres Unternehmens weiter, jedoch nur an diejenigen Personen, die sie benötigen, um weiterhin Dienste bereitzustellen oder Ihnen bei Ihren Anliegen zu helfen. 
+
+Außerdem geben wir Ihre Daten an folgende Unternehmen weiter, jedoch nur in dem Maße wie für die Erbringung unserer Dienste erforderlich:
+
+•	Angeschlossene Unternehmen: andere Unternehmen der Samsung Electronics Group, die wir beherrschen oder besitzen. 
+•	Geschäftspartner: Partner, mit denen wir zusammenarbeiten, um Ihnen die von Ihnen angeforderten oder gekauften Dienste bereitzustellen. So können wir beispielsweise mit einer Bank zusammenarbeiten, damit Sie einen unserer Dienste für schnellere und effizientere Zahlungen nutzen können. Diese Geschäftspartner kontrollieren und verwalten Ihre personenbezogenen Daten.
+•	Dienstanbieter: Sorgfältig ausgewählte Unternehmen, die in unserem Namen Dienste zur Verfügung stellen, z. B. Unternehmen, die uns bei Reparaturen, Kundenkontaktzentren, Kundenbetreuungsaktivitäten, Werbung (einschließlich personalisierter Werbung auf unseren Websites, den Websites Dritter oder Onlineplattformen), bei der Durchführung von Umfragen zur Kundenzufriedenheit oder bei der Rechnungsabwicklung helfen oder E-Mails in unserem Namen senden. Diese Anbieter setzen sich ebenfalls für den Schutz Ihrer Daten ein.
+•	Andere Parteien, soweit gesetzlich oder zum Schutz unserer Dienste erforderlich: Es kann beispielsweise aufgrund eines Gesetzes, eines Rechtsverfahrens oder einer Gerichtsverfügung durch eine Behörde erforderlich sein, Ihre Daten offenzulegen. Diese Parteien können Ihre Daten auch für Zwecke der Strafverfolgung, der nationalen Sicherheit, der Terrorismusbekämpfung oder aus anderen Gründen im Zusammenhang mit der öffentlichen Sicherheit von uns anfordern.
+•	Andere Parteien im Zusammenhang mit Unternehmenstransaktionen: Wir geben Ihre Daten gegebenenfalls im Rahmen einer Übernahme oder Übertragung, eines Erwerbs oder einer Veräußerung oder im Falle eines Konkurses an Dritte weiter.
+•	Andere Parteien mit Ihrer Zustimmung oder auf Ihre Anweisung hin: Neben den in dieser Datenschutzrichtlinie beschriebenen Offenlegungen geben wir gegebenenfalls Daten über Sie an Dritte weiter, wenn Sie einer solchen Weitergabe gesondert zustimmen oder diese anfordern.
+
+SICHERHEIT IHRER DATEN
+
+Wir nehmen den Datenschutz ernst. Wir haben physische und technische Schutzmaßnahmen ergriffen, um die Sicherheit der von uns erfassten Daten zu gewährleisten. Auch wenn wir angemessene Schritte zum Schutz Ihrer Daten ergreifen, sind Websites, Internetübertragungen, Computersysteme oder Drahtlosverbindungen nie zu 100 Prozent sicher.
+
+WOHIN ÜBERMITTELN WIR IHRE DATEN?
+
+Ihre Nutzung unserer Dienste schließt die Übertragung, Speicherung und Verarbeitung Ihrer personenbezogenen Daten innerhalb und außerhalb des Landes Ihres Wohnsitzes gemäß dieser Richtlinie ein. Insbesondere werden Ihre personenbezogenen Daten in die Republik Korea übertragen. Beachten Sie, dass Datenschutz- und andere Gesetze von Ländern, in die Ihre Daten gegebenenfalls übertragen werden, eventuell nicht so umfassend wie die Ihres Landes sind.
+
+[Nur für im Europäischen Wirtschaftsraum (EWR) ansässige Personen]
+
+Außerdem kann Ihre Nutzung der Dienste gegebenenfalls auch die Übertragung, Speicherung und Verarbeitung Ihrer personenbezogenen Daten in anderen Ländern umfassen; zu diesen Ländern gehören unter anderem Länder im Europäischen Wirtschaftsraum, die Vereinigten Staaten von Amerika, China, Singapur, Vietnam, Indien, Kanada, die Philippinen und Japan. Wir werden unter Einhaltung geltender Gesetze angemessene Maßnahmen ergreifen, um sicherzustellen, dass Ihre personenbezogenen Daten geschützt bleiben. Zu solchen Maßnahmen gehört die Verwendung von Standardvertragsklauseln, um bei der Übertragung von Daten außerhalb des EWR einen angemessenen Schutz zu gewährleisten. Für weitere Informationen oder wenn Sie eine Kopie der bestehenden vertraglichen Vereinbarungen anfordern möchten, wenden Sie sich bitte an uns. Beachten Sie hierbei den Abschnitt KONTAKT. 
+
+IHRE RECHTE
+
+Ihre personenbezogenen Daten gehören Ihnen. Sie können uns auffordern, Details zu den von uns erfassten Daten bereitzustellen und diese Daten zu löschen oder Fehler zu korrigieren. Außerdem können Sie uns auffordern, die Verarbeitung, Weitergabe oder Übertragung Ihrer personenbezogenen Daten einzuschränken oder zu begrenzen sowie Ihnen die von uns über Sie erfassten personenbezogenen Daten bereitzustellen, damit Sie sie für Ihre eigenen Zwecke verwenden können. Die Aufforderung, Ihre personenbezogenen Daten zu löschen, kann jedoch auch zu einem Verlust des Zugangs zu den von uns bereitgestellten Diensten führen. Wir löschen keine Daten, zu deren Aufbewahrung wir gesetzlich verpflichtet sind.
+
+Für Anfragen bezüglich Ihrer Rechte oder sonstige Anfragen nehmen Sie bitte mit uns Kontakt auf. Beachten Sie hierbei den Abschnitt KONTAKT.
+
+AUFBEWAHRUNG IHRER DATEN
+
+Wir speichern Ihre personenbezogenen Daten nicht länger, als es für den Zweck notwendig ist, zu dem sie erfasst wurden. Das bedeutet, dass Daten in unseren Systemen vernichtet oder gelöscht werden, wenn sie nicht länger benötigt werden.
+
+Wir ergreifen angemessene Maßnahmen, um sicherzustellen, dass Ihre Daten gemäß den folgenden Voraussetzungen verarbeitet und aufbewahrt werden:
+
+1.	Mindestens für die Dauer, die die Daten verwendet werden, um Ihnen einen Dienst bereitzustellen
+2.	Wie laut Gesetz, Vertrag oder im Hinblick auf unsere gesetzlichen Verpflichtungen erforderlich
+3.	Nur so lange, wie es für den Zweck notwendig ist, zu dem die Daten erfasst wurden, oder länger, wenn dies zu vertraglichen, geltenden gesetzlichen oder statistischen Zwecken erforderlich ist, vorbehaltlich der angemessenen Schutzmaßnahmen.
+
+DIENSTE VON DRITTANBIETERN
+
+Bestimmte Inhalte, Werbung oder Funktionalitäten im Rahmen unserer Dienste werden von Dritten bereitgestellt. Diese Dritten verwenden möglicherweise Cookies, Beacons, Zählpixel und andere Tools, um Daten zu Ihrer Nutzung dieser Dienste zu erfassen. Diese Dritten werden nicht direkt von Samsung kontrolliert. Daher empfehlen wir Ihnen, sich ihre Datenschutzrichtlinien durchzulesen, um sich über deren Nutzung Ihrer Daten zu informieren.
+
+Für einige Apps und Dienste, einschließlich sozialer Netzwerke, erhalten und speichern wir Anmeldeinformationen sowie andere Daten, in deren Weitergabe Sie bei der Verbindung mit diesen Apps und Diensten einwilligen.
+
+KONTAKT
+
+Sie können mit uns Kontakt aufnehmen, um Ihre Voreinstellungen zu aktualisieren, Ihre Daten zu berichtigen, eine Anfrage zu übermitteln oder um uns Fragen zu stellen.
+
+Außerdem können Sie unter folgender Adresse mit uns Kontakt aufnehmen:
+
+Verantwortlicher
+Samsung Electronics Co., Ltd.
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+[Nur für im Europäischen Wirtschaftsraum (EWR) ansässige Personen]
+
+Samsung Electronics hat Niederlassungen in ganz Europa, sodass wir sicherstellen können, dass Ihre Anfrage oder Frage vom in Ihrer Region ansässigen Datenschutzteam beantwortet wird.
+
+Die einfachste Art, mit uns Kontakt aufzunehmen, bietet unsere Seite für Datenschutz-Support unter https://www.samsung.com/request-desk. 
+
+Außerdem können Sie unter folgender Adresse mit uns Kontakt aufnehmen:
+
+Datenschutzbeauftragter für Europa
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+
+Sie können eine Beschwerde bei der zuständigen Aufsichtsbehörde einreichen, wenn Sie der Ansicht sind, dass unsere Verarbeitung Ihrer personenbezogenen Daten gegen geltendes Recht verstößt. Die Kontaktangaben für sämtliche EU-Aufsichtsbehörden finden Sie unter https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+SAMSUNG-DATENSCHUTZRICHTLINIE – ERGÄNZUNG FÜR SMART TV
+
+Der Smart TV-Dienst von Samsung bietet eine Reihe von Funktionen, die verbesserte Videoinhalte, personalisiertes Fernsehen, Filme, Verbindungen zu sozialen Netzwerkdiensten und die Steuerung Ihres Smart TV sowie Interaktion mit diesem mithilfe von Sprachbefehlen bieten. Wir erfassen, nutzen, teilen und speichern Informationen über Ihr Smart TV und die mit Ihrem Smart TV verbundenen Geräte wie in der Samsung-Datenschutzrichtlinie beschrieben. Die Ergänzung bietet weitere Informationen zu den Datenschutzpraktiken einiger Funktionen des Smart TV.
+
+Mit dem Smart TV können Sie Videos und andere Inhalte ganz einfach finden und abrufen. So können Sie beispielsweise Informationen über Livesendungen Ihres Kabel- oder Satellitenanbieters sowie On-Demand-Videoinhalte von Drittanbietern über durchsuchbare Programmführer auf Ihrem Smart TV abrufen.
+Bei Livesendungen stellen wir teilweise mithilfe Ihrer Postleitzahl fest, welche Inhalte Ihnen zur Verfügung stehen. Darüber hinaus können Sie mit dem Smart TV andere Smart TV-Inhalte finden und anzeigen. Dazu zeigen wir Ihnen Programme und Inhalte, die Sie wahrscheinlich interessieren, oder bieten zusätzliche Dienste, die Ihr Erlebnis verbessern. Unsere Empfehlungen und zusätzlichen Dienste beruhen auf:
+•	Informationen über Inhalte, die Sie über Samsung-Anwendungen auf Ihrem Smart TV oder anderen Geräten heruntergeladen oder gestreamt haben (weitere Informationen zu TV-Anzeigeinformationen enthält der Abschnitt „Anzeigeinformationsdienste“ unten);
+•	Informationen über Anwendungen, die Sie über Ihr Smart TV abgerufen haben;
+•	Informationen über Ihre Klicks auf die Schaltflächen „Gefällt mir“, „Gefällt mir nicht“ und „Jetzt ansehen“ oder andere Schaltflächen auf Ihrem Smart TV;
+•	Schlagwörtern, die Sie in die Suchfunktion Ihres Smart TV eingeben, unter anderem bei der Suche nach bestimmten Videoinhalten;
+•	sonstigen Nutzungs- und Geräteinformationen Ihres Smart TV, unter anderem Informationen wie IP-Adresse, Protokolldaten und Informationen, die Ihre Hardware- oder Softwarekonfiguration, Ihre Browser-Informationen und die von Ihnen angefragten Seiten identifizieren.
+
+Anzeigeinformationsdienste
+Diese Datenschutzerklärung gilt zusammen mit der Samsung-Datenschutzrichtlinie, die auch für die Nutzung von personalisierten Smart TV-Diensten gilt und unter https://account.samsung.com/membership/pp verfügbar ist.
+Damit wir Ihnen ein auf Sie zugeschnittenes Seherlebnis auf Ihrem Smart TV bieten können, beruhen einige unserer Funktionen und Dienste auf Ihrem TV-Anzeigeverlauf und Ihren Smart TV-Nutzungsinformationen.
+Ihr TV-Anzeigeverlauf enthält Informationen über Netze, Sender, besuchte Websites und auf dem Smart TV gesehene Sendungen sowie Angaben zu der dafür aufgewendeten Zeit.
+Wir können zur Erhebung dieser Daten die automatische Inhaltserkennung (ACR) und andere Technologien verwenden. Ihr Smart TV ermöglicht die Bestimmung der gesehenen Programme durch Übertragung von Bruchstücken von Audio- und Videodaten bzw. von Informationen vom TV-Tuner.
+Sie können Ihre Datenschutzeinstellungen jederzeit im Einstellungsmenü ändern und eine bestimmte Funktion oder einen bestimmten Dienst nach eigenem Ermessen deaktivieren. In diesem Fall wird Ihr TV-Anzeigeverlauf nicht mehr für diese bestimmte Funktion oder diesen bestimmten Dienst gesammelt.
+
+[Nur für im Europäischen Wirtschaftsraum (EWR) ansässige Personen]
+
+Ihre Nutzung unserer Dienste schließt die Übertragung, Speicherung und Verarbeitung Ihrer personenbezogenen Daten außerhalb des Landes Ihres Wohnsitzes nach Korea gemäß dieser Richtlinie ein. Außerdem kann Ihre Nutzung der Dienste gegebenenfalls auch die Übertragung, Speicherung und Verarbeitung Ihrer personenbezogenen Daten in anderen Ländern umfassen; zu diesen Ländern gehören unter anderem Länder im Europäischen Wirtschaftsraum, die Vereinigten Staaten von Amerika und Kanada. Beachten Sie, dass Datenschutz- und andere Gesetze von Ländern außerhalb des Europäischen Wirtschaftsraums, in die Ihre Daten gegebenenfalls übertragen werden, eventuell nicht so umfassend wie die Ihres Landes sind. Wir werden unter Einhaltung geltender Gesetze angemessene Maßnahmen ergreifen, um sicherzustellen, dass Ihre personenbezogenen Daten geschützt bleiben. Zu solchen Maßnahmen gehört die Verwendung von Standardvertragsklauseln, um bei der Übertragung von Daten außerhalb des EWR einen angemessenen Schutz zu gewährleisten. Für weitere Informationen oder wenn Sie ein Exemplar der bestehenden vertraglichen Vereinbarungen anfordern möchten, nehmen Sie bitte über unsere Seite für Datenschutz-Support (https://www.samsung.com/request-desk) mit uns Kontakt auf.
+Denken Sie daran, dass die Wahl Ihrer Datenschutzeinstellung die Verfügbarkeit oder Qualität dieses bestimmten auf Anzeigeinformationen beruhenden Dienstes beeinflussen kann.
+
+Services für interessenbasierte Werbung
+Die Services für interessenbasierte Werbung („IBA-Services“) dienen dazu, Ihnen nützliche, interaktive und interessenbasierte Werbung zu Produkten und Diensten von Samsung und Dritten auf Ihrem Samsung Smart TV oder über verschiedene Plattformen oder Geräte von Samsung und Dritten (einschließlich linearer Werbefilme) im Internet und auf Mobilgeräten und Tablets bereitzustellen und anzuzeigen.
+
+Um die Werbung auf Ihren Geräten für Sie relevanter zu gestalten, nutzt der IBA-Service Ihren TV-Anzeigeverlauf (einschließlich Informationen zu den Netzwerken, Kanälen, besuchten Websites und Programmen, die auf Ihrem Samsung Smart TV angezeigt wurden, und zu der Anzeigedauer), Samsung Smart TV-Nutzungsinformationen und weitere statistische Daten aus vertrauenswürdigen dritten Datenquellen. Wir können zur Erhebung Ihres TV-Anzeigeverlaufs die automatische Inhaltserkennung (ACR) und andere Technologien verwenden.
+
+Anhand der oben genannten Informationen erstellen wir Gruppen von Samsung Smart TV-Besitzern mit ähnlichen Interessen, die wir dann für den IBA-Service nutzen. Die Gruppen, denen Ihr Samsung Smart TV zugeordnet ist, und damit die erhaltene Werbung werden anhand der oben genannten Informationen bestimmt.
+
+Sie können den IBA-Service jederzeit im Einstellungsmenü Ihres Samsung Smart TV deaktivieren.
+
+Denken Sie daran, dass die Wahl Ihrer Datenschutzeinstellung für den IBA-Service keine Auswirkungen darauf hat, ob Sie andere Arten von Werbung und Marketing erhalten, die nicht von Ihrem TV-Anzeigeverlauf oder den Samsung Smart TV-Nutzungsinformationen abhängen. Diese anderen Arten von Werbung und Marketing basieren auf anderen Informationen wie dem generalisierten Standort und sonstigen geschätzten oder abgeleiteten Informationen. Diese sind gegebenenfalls weniger relevant, da sie nicht auf Ihren Interessen basieren.
+
+Weitere Informationen zu den IBA-Services finden Sie in der Datenschutzerklärung für IBA-Services unten in dieser Ergänzung.
+
+PSID
+Der Anzeigeverlauf und die Nutzungsdaten Ihres Smart TV werden zur Bereitstellung von interessenbasierter Werbung mit einer zufällig erstellten, nicht permanenten und zurücksetzbaren Gerätekennung, der personalisierten Dienst-ID oder „PSID“, verknüpft.
+Sie können Ihre PSID jederzeit über das Einstellungsmenü auf Ihrem Smart TV zurücksetzen; die Verknüpfung Ihres Smart TV-Anzeigeverlaufs und Ihrer Smart TV-Nutzungsdaten in Bezug auf interessenbasierte Werbung mit der früheren PSID wird nach dem Zurücksetzen aufgehoben. Wenn Sie Ihre PSID zurücksetzen, ist die Qualität der interessenbasierten Werbung möglicherweise nicht optimal auf Ihre Interessen ausgerichtet.
+
+Spracherkennung
+Sie können Ihr Smart TV und viele seiner Funktionen mit Sprachbefehlen steuern.
+Wenn Sie Spracherkennung aktivieren, können Sie Ihr Smart TV mit Ihrer Stimme steuern. Um die Spracherkennungsfunktion zur Verfügung stellen zu können, werden Ihre Sprachbefehle (sowie andere Informationen über Ihr Gerät, einschließlich Gerätekennung) an uns übertragen und wir wandeln Ihre Sprachbefehle zur Bereitstellung der Spracherkennungsfunktionen in Text um. Darüber hinaus kann Samsung Sprachbefehle und damit verknüpfte Texte sammeln, sodass wir diese Funktionen evaluieren und verbessern können. Samsung sammelt Ihre Sprachbefehle, wenn Sie eine spezifische Anfrage an das Smart TV richten, indem Sie die Aktivierungstaste auf der Fernbedienung oder auf Ihrem Bildschirm drücken oder ein Weckwort (z. B. „Hi, Bixby“) sagen und in das Mikrofon an der Fernbedienung oder am Smart TV sprechen.
+Wenn Sie die Spracherkennung nicht aktivieren, können Sie die Spracherkennungsfunktionen nicht nutzen.
+Sie können die Datenerfassung durch die Spracherkennung jederzeit im Menü „Einstellungen“ deaktivieren. So können Sie die Spracherkennungsfunktionen jedoch nicht verwenden.
+
+Weitere Informationen zur Spracherkennung finden Sie in der Datenschutzerklärung für Spracherkennung unten in dieser Ergänzung.
+
+Drittanbieter
+Wenn Sie ein Video ansehen oder Anwendungen oder Inhalte abrufen, die von einem Dritten angeboten werden, kann dieser Anbieter Informationen über Ihr Smart TV (z. B. dessen IP-Adresse und Gerätekennung), die angefragte Transaktion (z. B. Ihre Anfrage zum Erwerb oder zur Ausleihe des Videos) und Ihre Nutzung der Anwendung oder des Dienstes sammeln oder empfangen. Samsung ist nicht für Datenschutz- oder Sicherheitspraktiken dieses Anbieters verantwortlich. Sie sollten umsichtig vorgehen und die Datenschutzerklärungen lesen, die für die von Ihnen verwendeten Websites und Dienste von Drittanbietern gelten.
+
+Landesspezifische Funktionen
+Beachten Sie, dass eine oder mehrere der Funktionen in dieser Ergänzung für das Smart TV in Ihrem Land gegebenenfalls nicht zur Verfügung stehen.
+
+DATENSCHUTZERKLÄRUNG FÜR DEN SPRACHERKENNUNGSDIENST
+
+Datum des Inkrafttretens: 30. April 2019
+
+Samsung Electronics und seine angeschlossenen Unternehmen respektieren Ihre Bedenken zum Thema Datenschutz. Diese Datenschutzerklärung gilt für die personenbezogenen Daten, die wir im Rahmen des Spracherkennungsdienstes erheben („Sprachdienst“).
+
+Der Sprachdienst stellt Nutzern Funktionen für die rein sprachbasierte Suche und Anzeige von Inhalten und die Verwaltung ihrer Samsung-Produktumgebung zur Verfügung. Zu den Funktionen zählen die Verarbeitung der natürlichen Sprache bei der Inhaltssuche und Diensten für die Samsung Smart TV-Steuerung, Internet, Wetterinformationen und sonstige Dienste, die Nutzer heute von ihren Samsung Smart TV-Geräten erwarten.
+
+Je nach ausgewählter Sprache können Sie die erweiterte Spracherkennungsfunktion Bixby nutzen. Ob Bixby aktiviert ist, erkennen Sie an den Symbolen, Bannern und sonstigen Hinweisen auf dem Samsung Smart TV-Bildschirm.
+
+Diese Datenschutzerklärung informiert Sie ausführlich und konkret darüber, wie Ihre personenbezogenen Daten im Zusammenhang mit dem Sprachdienst verwendet werden, und gilt zusammen mit der Samsung-Datenschutzrichtlinie für Ihre Nutzung des Sprachdienstes. Diese Richtlinie ist unter https://account.samsung.com/membership/pp verfügbar.
+
+In diesen Datenschutzhinweisen beschreiben wir, welche Art von Daten über den Sprachdienst erfasst werden, wie wir die Daten verwenden dürfen und welche Möglichkeiten Sie im Zusammenhang mit unserer Verwendung der Daten haben. Samsung ist der Verantwortliche für die Verarbeitung personenbezogener Daten.
+
+WELCHE DATEN ERFASSEN WIR?
+Wir können mithilfe des Sprachdienstes verschiedene Informationen über Sie erfassen. Die von uns erhaltenen personenbezogenen Daten sind unter anderem folgender Art:
+
+•	Samsung-Kontoinformationen (optional). Wenn Sie sich auf Ihrem Smart TV bei Ihrem Samsung-Konto anmelden, können wir Informationen zu Ihrem Samsung-Konto erfassen, mit dem Sie auf den Sprachdienst zugreifen, z. B. Ihren Namen, Ihre E-Mail-Adresse und die Samsung-Konto-ID.
+
+•	Sprachdienstinteraktionen. Wir können Daten erfassen, die Sie über Ihre Interaktionen mit den Diensten mit dem Sprachdienst austauschen, darunter Aufnahmen Ihrer Sprachbefehle (wie etwa Ihre Fragen, Anfragen und Anweisungen), Ihre Bilder und sonstige Eingaben sowie die Ihrerseits von den Diensten erhaltenen Daten (wie etwa Reaktionen, Antworten und Inhalte). Wir erfassen möglicherweise auch andere Daten im Zusammenhang mit Ihrer Verwendung des Sprachdienstes, einschließlich der Daten (wie Daten im Zusammenhang mit den von Ihnen verwendeten Apps, den von Ihnen besuchten Websites, Bildern, Musiktiteln, Kalendereinträgen, Lesezeichen und Inhalten sowie Daten von anderen Apps, Websites und Diensten von Samsung und Drittanbietern), die wir von Apps und Diensten von Samsung und Drittanbietern erhalten, auf die über den Sprachdienst zugegriffen wird oder die damit verwendet werden, um Ihnen die Dienste (z. B. Musik-Streaming oder Wetterinformationen) bereitzustellen.
+
+•	Daten zum geografischen Standort. Wir erhalten möglicherweise über in Ihrem TV-Gerät gespeicherte Postleitzahlinformationen, die über Ihre IP-Adresse oder Ihre Eingabe zu bestimmten Zwecken verfügbar sind, z. B. um Ihnen die Dienste bereitzustellen, den genauen geografischen Standort Ihres Geräts und andere Daten im Zusammenhang mit Ihrem Standort.
+
+•	Geräte- und App-Daten. Wir erfassen möglicherweise über automatisierte Verfahren Daten über Ihre für den Sprachdienst aktivierten Geräte, wie etwa Gerätemodelle, Betriebssystemversionen, Gerätekonfigurationen und Einstellungen, IP-Adressen und Gerätekennungen sowie andere eindeutige Kennungen. Darüber hinaus erhalten wir möglicherweise Daten darüber, wie, wann und wie lange Sie Ihre für den Sprachdienst aktivierten Geräte verwenden, einschließlich Ihrer Verwendung des Sprachdienstes sowie Apps und Diensten von Samsung und Drittanbietern auf den Geräten (etwa eine Liste von Apps auf Ihren Geräten, die auf Ihren Geräten abgespielte Musik, die von Ihnen besuchten Websites und die von Ihnen durchgeführten Suchvorgänge).
+
+VERWENDUNG IHRER DATEN
+Wir nutzen die über den Sprachdienst erfassten Daten möglicherweise, um
+
+•	Ihnen die Dienste bereitzustellen, u. a. um auf Ihre über den Sprachdienst übermittelten Anfragen, Fragen und Anweisungen zu reagieren;
+•	Sie zu identifizieren und zu authentifizieren, damit Sie den Sprachdienst nutzen können;
+•	Ihre Benutzererfahrung mit dem Sprachdienst zu verbessern und anzupassen, u. a. durch Bereitstellung von Inhalten und Antworten, die an unsere Benutzer und deren Art, mit dem Sprachdienst zu interagieren, angepasst sind;
+•	mit Ihrer gesonderten Zustimmung mit Ihnen zu Produkten und Diensten zu kommunizieren und Ihnen Nachrichten, Inhalte, Hinweise, Angebote, Aktionen, Marketinginformationen, Mitteilungen und Werbung bereitzustellen;
+•	auf Ihre Anfragen und Fragen zu reagieren;
+•	unsere Geschäftsabläufe durchzuführen, zu bewerten und zu verbessern (einschließlich Entwicklung neuer Produkte; Weiterentwicklung und Verbesserung unserer Produkte und Dienste; Verwalten unserer Kommunikation; Analyse unserer Produkte, unserer Kundenbasis und unserer Dienste; Marktforschung; Datenanalysen sowie Buchhaltung, Buchprüfung und anderer interner Funktionen);
+•	Ihnen die Interaktion mit bestimmten Apps und Diensten von Drittanbietern und deren Verwendung zu ermöglichen;
+•	Sie vor Betrug und sonstiger krimineller Aktivität, Forderungen und sonstiger Haftung zu schützen und diese zu erkennen und zu verhindern sowie
+•	die anwendbaren gesetzlichen Vorschriften, relevanten Branchenstandards und unsere Richtlinien einschließlich dieser Datenschutzerklärung und der Datenschutzrichtlinien für Samsung-Konten zu erfüllen und durchzusetzen.
+
+Wir erfassen über den Sprachdienst möglicherweise personenbezogene Daten über Ihre Onlineaktivitäten auf für den Sprachdienst aktivierten Geräten im zeitlichen Verlauf und für diverse Apps, Websites und andere Onlinedienste von Drittanbietern. Wir nutzen bei unseren Diensten möglicherweise Analysedienste von Drittanbietern. Die Anbieter, die diese Analysedienste verwalten, unterstützen uns dabei, Ihre Verwendung der Dienste zu analysieren und unsere Dienste zu verbessern. Die erhaltenen Informationen können an diese Anbieter weitergegeben oder direkt von diesen Anbietern und sonstigen relevanten Dritten erfasst werden, die die Daten nutzen, beispielsweise um die Nutzung der Dienste auszuwerten, die Dienstbereitstellung zu unterstützen oder technische Probleme zu diagnostizieren.
+
+Samsung verarbeitet personenbezogene Daten zu den oben beschriebenen Zwecken. Die rechtliche Grundlage für die Verarbeitung personenbezogener Daten durch Samsung bildet eine Verarbeitung, die erforderlich ist: für die Erbringung des Vertrags zwischen Ihnen und Samsung (beispielsweise um die Dienste an Sie bereitzustellen und Sie zu identifizieren und zu authentifizieren, damit Sie bestimmte Dienste nutzen können); zur Erfüllung rechtlicher Anforderungen (beispielsweise zur Erfüllung anwendbarer Buchhaltungsgrundsätze und gegebenenfalls für obligatorische Meldungen an Strafverfolgungsbehörden); für legitime Interessen von Samsung (beispielsweise zur Verwaltung unserer Geschäftsbeziehung mit Ihnen und zur Verbesserung der Dienste). Die Verarbeitung basiert auf der Zustimmung unserer Kunden (z. B., dass wir mit Ihnen bezüglich unserer Produkte und Dienste in Verbindung treten und Ihnen Marketingmaterialien zukommen lassen), die jederzeit widerrufen werden kann, indem Sie sich über die Angaben im Abschnitt „Kontakt“ in der Datenschutzrichtlinie von Samsung an uns wenden, ohne dabei die Rechtmäßigkeit der Verarbeitung einzuschränken, die vor dem Widerruf stattgefunden hat.
+
+Für den Abschluss eines Vertrags ist es zwingend erforderlich, dass Sie uns entsprechend der Beschreibung oben personenbezogene Daten für eine Verarbeitung zur Verfügung stellen. Wenn Sie uns keine personenbezogenen Daten zur Verfügung stellen, können wir Ihnen nicht alle über den Sprachdienst verfügbaren Funktionen bereitstellen.
+
+IHRE WAHLMÖGLICHKEITEN
+Sie können den Sprachdienst jederzeit im Einstellungsmenü deaktivieren. Sie können den Sprachdienst dann jedoch möglicherweise nicht nutzen.
+
+Wir bieten Ihnen im Zusammenhang mit den von uns über Sie erhaltenen personenbezogenen Daten bestimmte Wahlmöglichkeiten. Wenn Sie Ihre Einstellungen aktualisieren, die von uns erhaltenen Mitteilungen beschränken oder uns eine Anfrage stellen möchten, wenden Sie sich bitte wie im Abschnitt „Kontakt“ in der Datenschutzrichtlinie von Samsung dargelegt an uns.
+
+AKTUALISIERUNGEN UNSERER DATENSCHUTZERKLÄRUNG
+Diese Datenschutzhinweise werden möglicherweise von Zeit zu Zeit bei Änderungen unserer Praktiken im Zusammenhang mit personenbezogenen Daten im Hinblick auf die Dienste oder bei Änderungen des anwendbaren Rechts aktualisiert. Wir benachrichtigen Sie über einen Hinweis auf unserer Website und/oder Ihrem Gerät über jegliche wichtige Änderungen unserer Datenschutzhinweise und geben oben im Hinweis an, wann dieser zuletzt aktualisiert wurde.
+
+DATENSCHUTZERKLÄRUNG ZUM SERVICE FÜR INTERESSENBASIERTE WERBUNG (IBA-SERVICE)
+
+Datum des Inkrafttretens: 30. April 2019
+
+Samsung Electronics und seine angeschlossenen Unternehmen respektieren Ihre Bedenken zum Thema Datenschutz. Diese Datenschutzerklärung gilt für die personenbezogenen Daten, die wir im Rahmen der Services für interessenbasierte Werbung erheben („IBA-Service“).
+
+Diese Datenschutzerklärung informiert Sie ausführlich und konkret darüber, wie Ihre personenbezogenen Daten im Zusammenhang mit dem IBA-Service verwendet werden, und gilt zusammen mit der Samsung-Datenschutzrichtlinie, die auch für Ihre Nutzung des IBA-Services gilt. Diese Richtlinie ist unter https://account.samsung.com/membership/pp verfügbar.
+
+In dieser Datenschutzerklärung wird beschrieben, welche Informationstypen für die interessenbasierte Werbung genutzt werden, wie wir die Informationen nutzen und welche Wahlmöglichkeiten Sie im Zusammenhang mit unserer Nutzung der Informationen und bei der Geltendmachung Ihrer Rechte haben. Samsung ist der Verantwortliche für die Verarbeitung personenbezogener Daten.
+
+WAS IST DER IBA-SERVICE?
+Der IBA-Service dient dazu, Ihnen nützliche, interaktive und interessenbasierte Werbung zu Produkten und Services von Samsung und Dritten auf Ihrem Samsung Smart TV oder über verschiedene Plattformen oder Geräte von Samsung und Dritten (einschließlich linearer Werbefilme) im Internet und auf Mobilgeräten und Tablets bereitzustellen und anzuzeigen.
+
+Um die Werbung auf Ihren Geräten für Sie relevanter zu gestalten, nutzt der IBA-Service Ihren TV-Anzeigeverlauf (einschließlich Informationen zu den Netzwerken, Kanälen, besuchten Websites und Programmen, die auf Ihrem Samsung Smart TV angezeigt wurden, und zu der Anzeigedauer), Samsung Smart TV-Nutzungsinformationen und weitere statistische Daten aus vertrauenswürdigen dritten Datenquellen. Wir können zur Erhebung Ihres TV-Anzeigeverlaufs die automatische Inhaltserkennung (ACR) und andere Technologien verwenden.
+
+Anhand der oben genannten Informationen erstellen wir Gruppen von Samsung Smart TV-Besitzern mit ähnlichen Interessen, die wir dann für den IBA-Service nutzen. Die Gruppen, denen Ihr Samsung Smart TV zugeordnet ist, und damit die erhaltene Werbung werden anhand der oben genannten Informationen bestimmt.
+
+PSID
+Daten über die Nutzung Ihres Geräts, die zu dem Zweck der Bereitstellung des IBA-Services erfasst werden, werden mit einer zufällig erstellten, nicht permanenten und zurücksetzbaren Kennung verknüpft, der sogenannten PSID. Sie können Ihre PSID wie in dieser Datenschutzerklärung im Abschnitt „Ihre Wahlmöglichkeiten“ beschrieben zurücksetzen.
+
+WELCHE DATEN ERFASSEN WIR?
+Wir erfassen über den IBA-Service verschiedene Informationen zu Ihren Geräten. Folgende Informationstypen werden erfasst:
+•	Geräteinformationen. Wir erfassen Informationen wie Gerätemodell, Betriebssystemversionen, Konfigurationen und Einstellungen des Geräts, IP-Adresse, Gerätekennungen und weitere Kennungen.
+•	Gerätenutzung und Protokollinformationen. Wir erfassen Informationen dazu, wie, wann und wie lange Sie Ihre Geräte nutzen, darunter auch Ihre Interaktionen mit dem IBA-Service und Geräte-Apps und -Services von Samsung und Dritten (z. B. App-Listen auf Ihren Geräten).
+•	Anzeigeinformationen. Wir erfassen Ihren TV-Anzeigeverlauf. Ihr TV-Anzeigeverlauf enthält Informationen über Netze, Sender, besuchte Websites und auf dem Samsung Smart TV gesehene Sendungen sowie Angaben zu der dafür aufgewendeten Zeit. Wir können zur Erhebung dieses TV-Anzeigeverlaufs die automatische Inhaltserkennung (ACR) und andere Technologien verwenden.
+•	Statistische Informationen. Wir können statistische Informationen zu Ihnen und Ihren Geräten wie den generalisierten Standort und die geschätzte Altersgruppe nutzen. Diese statistischen Informationen rufen wir aus handelsüblichen Quellen (im gesetzlich zulässigen Umfang) wie unseren Drittanbietern ab. Wir arbeiten ausschließlich mit Drittanbietern zusammen, die sicherstellen, dass diese Informationen gemäß den anwendbaren Gesetzen erfasst wurden und zur Nutzung und Weitergabe bereitgestellt werden dürfen.
+
+Auf den Samsung-Servern gehen Informationen ein, wenn Sie mit dem IBA-Service interagieren, z. B. Informationen zu Ihren Interaktionen mit dem IBA-Service, Ihrem geografischen Standort und den Geräten, über die Sie den IBA-Service nutzen.
+
+VERWENDUNG IHRER DATEN
+Wir nutzen die über den IBA-Service erfassten Daten zu folgenden Zwecken:
+
+•	Bereitstellung des IBA-Services für Sie;
+•	Verbesserung und Anpassung Ihrer Erfahrung mit dem IBA-Service;
+•	mit Ihrer gesonderten Zustimmung, um mit Ihnen über E-Mail- und Push-Nachrichten zu Produkten und Diensten von Samsung und Dritten zu kommunizieren, die zu Ihren Interessen passen;
+•	um auf Ihre Anfragen und Fragen zu reagieren;
+•	um unsere Geschäftsabläufe durchzuführen, zu bewerten und zu verbessern (einschließlich Entwicklung neuer Produkte; Weiterentwicklung und Verbesserung unserer Produkte und Dienste; Verwalten unserer Kommunikation; Analyse unserer Produkte, unserer Kundenbasis und unserer Dienste; Marktforschung; Datenanalysen sowie Buchhaltung, Buchprüfung und anderer interner Funktionen); 
+•	um Sie vor Betrug und sonstiger krimineller Aktivität, Forderungen und sonstiger Haftung zu schützen und diese zu erkennen und zu verhindern sowie
+•	um die anwendbaren gesetzlichen Vorschriften, relevanten Branchenstandards und unsere Richtlinien einschließlich dieser Datenschutzerklärung und der Datenschutzrichtlinien für Samsung-Konten zu erfüllen und durchzusetzen.
+
+Samsung verarbeitet personenbezogene Daten zu den oben beschriebenen Zwecken. Die rechtliche Grundlage für die Verarbeitung personenbezogener Daten durch Samsung bildet eine Verarbeitung, die erforderlich ist: für die Erbringung des Vertrags zwischen Ihnen und Samsung (beispielsweise zur Bereitstellung des IBA-Services für Sie und zu Ihrer Identifikation und Authentifizierung); zur Erfüllung rechtlicher Anforderungen (beispielsweise zur Erfüllung anwendbarer Buchhaltungsgrundsätze und für obligatorische Meldungen an Strafverfolgungsbehörden); für legitime Interessen von Samsung (beispielsweise zur Verwaltung unserer Geschäftsbeziehung mit Ihnen und zur Verbesserung des IBA-Services). Die Verarbeitung basiert auf der Zustimmung unserer Kunden (z. B. um mit Ihnen zu unseren Produkten und Services zu kommunizieren und Ihnen Marketinginformationen bereitzustellen), die jederzeit über das Einstellungsmenü widerrufen werden kann, das in dieser Datenschutzerklärung im Abschnitt „Ihre Wahlmöglichkeiten“ angegeben ist, wobei die Rechtmäßigkeit der Verarbeitung, der vor dem Widerruf zugestimmt wurde, davon unberührt bleibt.
+
+Für die Nutzung des IBA-Services ist es zwingend erforderlich, dass Sie uns entsprechend der Beschreibung oben personenbezogene Daten für eine Verarbeitung zur Verfügung stellen. Wenn Sie uns keine personenbezogenen Daten zur Verfügung stellen, können wir Ihnen nicht alle über den IBA-Service verfügbaren Funktionen bereitstellen.
+
+IHRE WAHLMÖGLICHKEITEN
+Sie können Ihre PSID jederzeit im Einstellungsmenü zurücksetzen. Durch das Zurücksetzen wird die Verknüpfung Ihres TV-Anzeigeverlaufs und Ihrer Smart TV-Nutzungsinformationen mit der bisherigen PSID aufgehoben. Denken Sie daran, dass das Zurücksetzen Ihrer PSID die Qualität des IBA-Services beeinträchtigen kann.
+
+Sie können den IBA-Service außerdem jederzeit im Einstellungsmenü Ihres Samsung Smart TV deaktivieren.
+
+Denken Sie daran, dass die Wahl Ihrer Datenschutzeinstellung für den IBA-Service keine Auswirkungen darauf hat, ob Sie andere Arten von Werbung und Marketing erhalten, die nicht von Ihrem TV-Anzeigeverlauf oder den Samsung Smart TV-Nutzungsinformationen abhängen. Diese anderen Arten von Werbung und Marketing basieren auf anderen Informationen wie dem generalisierten Standort und sonstigen geschätzten oder abgeleiteten Informationen. Diese sind gegebenenfalls weniger relevant, da sie nicht auf Ihren Interessen basieren.
+
+AKTUALISIERUNGEN UNSERER DATENSCHUTZERKLÄRUNG
+Diese Datenschutzerklärung wird gegebenenfalls von Zeit zu Zeit bei Änderungen unserer Praktiken im Zusammenhang mit personenbezogenen Daten im Hinblick auf den IBA-Service oder bei Änderungen des anwendbaren Rechts aktualisiert. Wir benachrichtigen Sie über einen Hinweis auf unserer Website und/oder Ihrem Gerät über jegliche wichtige Änderungen unserer Datenschutzhinweise und geben oben im Hinweis an, wann dieser zuletzt aktualisiert wurde.
+
+Samsung-Druck- und Kopierprodukte gehören jetzt zur HP-Produktfamilie. Weitere Informationen dazu enthält die HP-Datenschutzerklärung unter: http://www.hp.com/go/privacy.

@@ -1,0 +1,333 @@
+﻿SAMSUNG KONFIDENCIALITĀTES POLITIKAS SVARĪGĀKĀ INFORMĀCIJA
+
+Samsung Electronics zina, cik konfidencialitāte ir svarīga mūsu klientiem. Mēs vēlamies pārliecināties, ka jūs izprotat, kā mēs apkopojam un izmantojam jūsu personas informāciju visās mūsu Samsung ierīcēs un pakalpojumos, no mobilajiem tālruņiem un planšetdatoriem līdz televizoriem, sadzīves ierīcēm, tiešsaistes pakalpojumiem utt.
+
+Lai gan šī Konfidencialitātes politika attiecas uz visiem mūsu pakalpojumiem, mēs arī sniegsim papildinformāciju par konfidencialitāti, kas saistīti ar konkrētiem pakalpojumiem (kad nepieciešams).
+
+PERSONAS INFORMĀCIJAS PĀRSKATS
+
+Mēs apkopojam jūsu tieši sniegto personas informāciju, informāciju par to, kā jūs izmantojat mūsu pakalpojumus un informāciju no trešo pušu avotiem. Mēs izmantojam šo informāciju, lai sniegtu jums pakalpojumus, izprastu, kā jūs izmantojat mūsu pakalpojumus, lai mēs varētu uzlabot un personalizēt jūsu pieredzi un izstrādāt saistošas lietotnes, tehnoloģijas un saturu saviem klientiem. Mēs arī izmantojam personas informāciju, lai nodrošinātu jūsu interesēm pielāgotas reklāmas.
+
+JŪSU PERSONAS INFORMĀCIJAS KOPĪGOŠANA
+
+Mēs varam izsniegt jūsu personas informāciju Samsung Electronics filiālēm, kā arī uzņēmumiem, kas sniedz pakalpojumus Samsung Electronics vārdā. Mēs varam arī nodot jūsu personas informāciju uzticamiem partneriem, piemēram, mobilo sakaru operatoriem vai apdrošināšanas kompānijām, kas sniedz jūsu pieprasītos produktus vai pakalpojumus un informāciju par jūs interesējošajiem produktiem un pakalpojumiem. Mēs sniedzam personas informāciju tiesībsargājošām iestādēm, kad to pieprasa likums vai lai aizsargātu Samsung Electronics un tā lietotājus.
+
+1. KĀDU INFORMĀCIJU MĒS APKOPOJAM? 
+2. KĀ MĒS IZMANTOJAM JŪSU INFORMĀCIJU? 
+3. KAM MĒS DODAM JŪSU INFORMĀCIJU? 
+4. KĀ MĒS UZTURAM JŪSU INFORMĀCIJAS DROŠĪBU?
+5. KUR MĒS SŪTĀT JŪSU DATUS?
+6. KĀDAS IR JŪSU TIESĪBAS?
+7. CIK ILGI MĒS UZGLABĀJAM JŪSU INFORMĀCIJU?
+8. KĀDUS TREŠO PUŠU PAKALPOJUMUS MĒS IZMANTOJAM?
+9. SAZIŅA AR MUMS
+
+SAMSUNG KONFIDENCIALITĀTES POLITIKA
+
+Spēkā stāšanās datums: 2019. gada 30. aprīlis
+
+Šī Konfidencialitātes politika attiecas uz visām mūsu Samsung ierīcēm un pakalpojumiem, no mobilajiem tālruņiem un planšetdatoriem līdz televizoriem, sadzīves ierīcēm, tiešsaistes pakalpojumiem utt. (turpmāk tekstā kopīgi — “Pakalpojumi”).
+
+Ir svarīgi, ka jūs bieži pārbaudāt Konfidencialitātes politikas atjauninājumus. Mēs varam periodiski atjaunināt šo Konfidencialitātes politiku, lai atspoguļotu izmaiņas mūsu personas informācijas praksē attiecībā uz Pakalpojumiem vai izmaiņām piemērojamajos tiesību aktos. Lai iepriekš informētu jūs par būtiskām izmaiņām mūsu Konfidencialitātes politikā, mēs ievietosim paziņojumu mūsu vietnē un/vai jūsu ierīcē, un paziņojuma augšdaļā norādīsim, kad tā pēdējo reizi tika atjaunināta. Konfidencialitātes politikas visjaunākā versija vienmēr būs pieejama šeit: https://account.samsung.com/membership/pp.
+
+KĀDU INFORMĀCIJU MĒS APKOPOJAM?
+
+Samsung Electronics apkopo jūsu personas informāciju dažādos veidos.
+
+Jūsu tieši sniegtā informācija
+
+Daži Pakalpojumi jums dod iespēju sniegt informāciju tiešā veidā. Piemēram:
+
+•	Kad izveidojat kontu vai profilu mūsu tīklos, mēs varam pieprasīt informāciju, piemēram, jūsu vārdu, uzvārdu, dzimšanas datumu un e-pasta adresi.
+•	Ja jūs no mums pasūtat produktu vai maksas pakalpojumu, jūsu pasūtījuma apstrādes nolūkos mēs varam lūgt jūs norādīt savu vārdu, uzvārdu, adresi, kontaktinformāciju un nosūtīšanas un apmaksas informāciju.
+•	Atbilžu sniegšanai, kad sazināties ar klientu apkalpošanas dienestu, mums var būt nepieciešama informācija, lai pārbaudītu jūsu identitāti un produktu, par kuru vaicājat.
+•	Saziņa ar mūsu klientu apkalpošanas dienesta personālu vai citu pakalpojumu personālu notiks mūsu sistēmās.
+•	Ja kopīgojat savu kontaktinformāciju, mēs apkopojam tālruņa numuru un citu kontaktinformāciju, lai sekmētu failu kopīgošanu un ziņapmaiņu. Šīs funkcijas var izslēgt vai ierobežot ierīces iestatījumos.
+
+Informācija par to, kā jūs izmantojat Pakalpojumus
+
+Papildus jūsu sniegtajai informācijai mēs apkoposim informāciju par to, kā jūs izmantojat mūsu Pakalpojumus ar ierīču programmatūras vai citu līdzekļu starpniecību. Mēs apkoposim tālāk norādīto.
+•	Informācija par ierīci: jūsu aparatūras modelis, ierīces aparatūras informācija, IMEI numurs un citi unikālie ierīču identifikatori, tālruņa numurs, sērijas numurs, tirdzniecības kods, piekļuves uzskaite, pašreizējā programmatūras versija, MCC (mobilā tīkla valsts kods), MNC (mobilā tīkla kods), MAC adrese, IP adrese, sīkfaili, pikseļi, abonēšanas informācija, operētājsistēmas versijas un ierīču iestatījumi, kas tiek izmantoti, lai piekļūtu Pakalpojumiem.
+•	Pieteikšanās informācija: diagnostikas, tehniskā, kļūdu un lietošanas informācija, piemēram, Pakalpojumu lietošanas laiks un ilgums, meklēšanas vaicājumi, kad ievadāt meklēšanas terminus savā ierīcē saistībā ar konkrētu Samsung pakalpojumu, un informācija, kas saglabāta sīkfailos ierīču iestatīšanas laikā.
+•	Informācija par atrašanās vietu: jūsu ierīces GPS signāls vai informācija par tuvumā esošajiem Wi-Fi piekļuves punktiem un mobilajiem torņiem, kura var tikt mums pārsūtīta, kad lietojat noteiktus Pakalpojumus un iespējojat atrašanās vietas funkciju.
+•	Balss informācija: jūsu balss ieraksts, kurus mēs veidojam un saglabājam savos serveros, kad iespējojat šo funkciju un izmantojat balss komandas, lai vadītu Pakalpojumu, vai kad sazināties ar mūsu klientu apkalpošanas dienesta komandu. Ņemiet vērā — ja mēs sadarbojamies ar trešās puses pakalpojumu nodrošinātāju, kas piedāvā runas pārvēršanas tekstā pakalpojumus mūsu vārdā, šis pakalpojumu nodrošinātājs var saņemt un uzglabāt konkrētas balss komandas saskaņā ar līgumu, kas noslēgts starp mums un mūsu uzticamo trešās puses pakalpojumu nodrošinātāju.
+•	Samsung tastatūras informācija: vārdi, kurus ievadāt, kad iespējojat paredzētā teksta funkciju. Šī funkcija var tikt piedāvāta saistībā ar jūsu Samsung kontu, lai sinhronizētu datus lietošanai citās jūsu Samsung mobilajās ierīcēs. Varat notīrīt datus, izmantojot paredzētā teksta iestatījumus.
+•	Skatīšanās informācija: tīkli, kanāli, apmeklētās tīmekļa vietnes un programmas, kuras skatījāties savās ierīcēs, kā arī laiks, ko veltījāt, lai tās skatītos.
+•	Citu informācija par to, kā jūs izmantojat Pakalpojumus, piemēram, izmantotās lietojumprogrammas, apmeklētās tīmekļa vietnes un jūsu mijiedarbība ar saturu, kas tiek nodrošināts ar Pakalpojuma starpniecību.
+
+Publiski vai komerciāli pieejama vai kopīgota informācija
+
+Mēs dažreiz apkopojam publiski vai komerciāli pieejamu informāciju, tostarp informāciju no sociālajiem tīkliem, kurus izmantojat, un apvienojam to ar citu informāciju par jums, lai mēs varētu labāk izprast jūsu vajadzības, intereses un preferences. Mēs arī dažreiz apkopojam informāciju par jums, kad citi cilvēki to sniedz, izmantojot mūsu Pakalpojumus, piemēram, jūsu vārdu, uzvārdu un kontaktinformāciju, kad citi sūta ziņojumu jums vai kopīgo failus ar jums.
+
+Cita informācija, ko apkopojam
+
+Mēs varam arī apkopot citu informāciju par jums, jūsu ierīcēm vai Pakalpojumu izmantošanu, kuru piekrītat mums nosūtīt.
+
+Trešo pušu analītikas pakalpojumi.
+
+Izmantojot konkrētus Pakalpojumus, mēs varam apkopot personas informāciju par jūsu tiešsaistes darbībām laika gaitā tīmekļa vietnēs un pievienotajās ierīcēs un trešo pušu lietotnēs, ierīcēs, lietotnēs un citās tiešsaistes funkcijās un pakalpojumos. Pakalpojumos mēs varam izmantot trešo pušu analītikas pakalpojumus, piemēram, Google Analytics pakalpojumus. Pakalpojumu nodrošinātāji, kuri pārvalda šos analītikas pakalpojumus, palīdz mums analizēt Pakalpojumu lietošanu un uzlabot Pakalpojumus. Mūsu iegūto informāciju var tiešā veidā atklāt vai saņemt tie pakalpojumu sniedzēji un citas attiecīgās trešās puses, kuras izmanto informāciju, piemēram, lai novērtētu pakalpojumu lietošanu, palīdzētu administrēt Pakalpojumus un diagnosticētu tehniskas problēmas. Lai uzzinātu par Google Analytics, apmeklējiet http://www.google.com/analytics/learn/privacy.html un https://www.google.com/policies/privacy/partners/.
+
+Jūsu iespējas
+
+Varat izvēlēties mums nesniegt noteikta veida informāciju, piemēram, informāciju, kas tiek pieprasīta kā daļa no Samsung konta reģistrācijas. Dažos gadījumos tas var ierobežot jūsu iespējas izmantot noteiktus Pakalpojumus. Mēs darīsim visu iespējamo, lai izskaidrotu šos ierobežojumus, kad mēs pieprasām jums informāciju, tādējādi jūs varēsiet pieņemt informatīvu lēmumu. Piemēram, Samsung Cloud ļauj dublēt informāciju un izveidot atjaunošanas punktu; tomēr Samsung Cloud netika izstrādāts, kā arī nav paredzēts sensitīvas informācijas saglabāšanai vai apstrādei.
+
+KĀ MĒS IZMANTOJAM JŪSU INFORMĀCIJU?
+
+Mēs izmantojam apkopoto informāciju, lai:
+•	palīdzētu reģistrēt jūs vai jūsu ierīci mūsu Pakalpojumiem;
+•	nodrošinātu pieprasīto Pakalpojumu vai funkciju;
+•	nodrošinātu pielāgotu saturu un sniegtu personalizētus pakalpojumus, pamatojoties uz jūsu iepriekšējām aktivitātēm mūsu Pakalpojumos;
+•	nodrošinātu pielāgotas reklāmas, kampaņas un piedāvājumus, kas jūs varētu interesēt mūsu tīmekļa vietnēs, trešo pušu vietnēs un tiešsaistes platformās, piemēram, sociālo tīklu vietnēs;
+•	nodrošinātu kampaņas un piedāvājumus ar tiešā mārketinga saziņas palīdzību, tikai gadījumos, kad sniedzat savu piekrišanu;
+•	analizētu mūsu produktus un pakalpojumus, lai gūtu labāku izpratni par saviem klientiem, piedāvājot viņiem vissaistošākos saziņas veidus, pakalpojumus un pieredzi;
+•	lūgtu jums sniegt savu viedokli par mūsu produktiem un pakalpojumiem un veiktu klientu aptaujas, saņemot no jums atsevišķu piekrišanu, ja nepieciešams;
+•	jūsu ierīcei nodrošinātu jūsu ierīču programmatūras atjauninājumus, apkopes pakalpojumus un atbalstu;
+•	ievērotu likumus un tiesiskos procesus;
+•	aizsargātu uzņēmuma Samsung Electronics vai mūsu filiāļu, biznesa partneru vai klientu tiesības, īpašumu vai drošību.
+
+Mēs izmantojam un apvienojam informāciju, ko apkopojam par jums no mūsu Pakalpojumiem vai citiem resursiem, lai nodrošinātu jums labāku pieredzi. Piemēram, varat izmantot sava Samsung konta informāciju ne tikai Pakalpojumā, kurā esat reģistrējies, bet arī citos Pakalpojumos, kas izmanto Samsung kontus. Mēs arī izmantojam informāciju, kuru sniedzat tieši vai citos avotos, kā aprakstīts iepriekš, lai nodrošinātu saturu, kas jums varētu patikt vai kuru esat personalizējis. 
+Jums ir iespēja izvēlēties, kādu informāciju uzrādīt. Skatiet sadaļu KĀDAS IR JŪSU TIESĪBAS?, lai uzzinātu vairāk.
+
+[Tikai Eiropas Ekonomikas zonas (EEZ) iedzīvotājiem]
+Samsung apstrādā personas informāciju iepriekš aprakstītajiem mērķiem. Samsung juridiskais pamats personas informācijas apstrādei ietver apstrādi: 
+(i)	lai mēs varētu turēt savus solījumus jums, piemēram, sniedzot jums Pakalpojumus;
+(ii)	lai veicinātu savas biznesa intereses (piemēram, lai pārvaldītu savas attiecības ar jums un uzlabotu jūsu klientu apkalpošanas pieredzi), tostarp saziņu mūsu tīmekļa vietnē, trešo pušu vietnēs un tiešsaistes platformās;
+(iii)	lai ievērotu likumus un tiesiskos procesus;
+(iv)	ar jūsu piekrišanu (piemēram, sūtīt tiešā mārketinga ziņojumus). Ja sniedzat piekrišanu, vienmēr varat to atsaukt, sazinoties ar mums, kā norādīts šīs Konfidencialitātes politikas sadaļā SAZIŅA AR MUMS.
+
+Samsung Electronics ir personas informācijas apstrādes datu pārzinis, kā aprakstīts iepriekš. Noteiktai tiešā mārketinga saziņai un dažām pielāgotām reklāmām Eiropā Samsung Electronics (UK) Limited, kas atrodas Apvienotajā Karalistē, ir arī jūsu personas informācijas apstrādes datu pārzinis. Dažas no mūsu Eiropas Samsung filiālēm arī apstrādā jūsu personas informāciju savās valstīs. Ja piemērojams, Eiropas Samsung filiālei ir sava vietējā Konfidencialitātes politika, kas izskaidrota tās tīmekļa vietnē.
+
+KAM MĒS DODAM JŪSU INFORMĀCIJU?
+
+Mēs atklāsim jūsu informāciju iekšēji mūsu uzņēmumā, bet tikai tiem, kuriem turpmāk ir jānodrošina Pakalpojumi vai jāpalīdz jums ar pieprasījumiem.
+
+Mēs varam arī izpaust informāciju tālāk norādītajām struktūrvienībām tikai tādā apjomā, kas ir nepieciešams Pakalpojumu nodrošināšanai.
+
+•	Filiāles: citi Samsung Electronics grupas uzņēmumi, kurus mēs kontrolējam vai kuri mums pieder. 
+•	Biznesa partneri: partneri, ar kuriem mēs sadarbojamies, lai nodrošinātu pieprasītos vai iegādātos pakalpojumus. Piemēram, mēs varam sadarboties ar banku, lai jūs varētu izmantot vienu no mūsu Pakalpojumiem, veicot ātrākus un efektīvākus maksājumus. Šie biznesa partneri kontrolē un pārvalda jūsu personas informāciju.
+•	Pakalpojumu sniedzēji: rūpīgi izvēlēti uzņēmumi, kas sniedz pakalpojums mums vai mūsu vārdā, piemēram, uzņēmumi, kas palīdz ar remontdarbiem, klientu saziņas centri, uzņēmumi, kas veic klientu apkalpošanas darbības, nodrošina reklāmas (tostarp pielāgotas reklāmas mūsu tīmekļa vietnēs, trešo pušu vietnēs vai tiešsaistes platformās), veic klientu apmierinātības aptaujas, rēķinu izrakstīšanu un e-pasta ziņojumu sūtīšanu mūsu vārdā. Šie pakalpojumu sniedzēji ir arī apņēmušies aizsargāt jūsu informāciju.
+•	Citas puses, ja to pieprasa likums vai tas ir nepieciešams, lai aizsargātu mūsu pakalpojumus: piemēram, pēc likuma, tiesiskā procesa vai tiesas rīkojuma no valsts iestādēm var būt nepieciešams atklāt jūsu informāciju. Viņi arī var lūgt jūsu informāciju mums tiesībsargājošiem, valsts drošības, pretterorisma vai citu problēmu saistībā ar publisko drošību mērķiem.
+•	Citas puses saistībā ar uzņēmuma darījumiem: mēs varam izpaust jūsu informāciju trešajām pusēm uzņēmumu apvienošanas, nodošanas, iegādes, pārdošanas vai bankrota gadījumā.
+•	Citas puses ar jūsu piekrišanu vai pēc jūsu ieskatiem: papildus šajā Konfidencialitātes politikā minētajiem izpaušanas veidiem mēs varam kopīgot informāciju par jums ar trešajām pusēm, ja jūs tam atsevišķi piekrītat vai pieprasāt šādu informācijas kopīgošanu.
+
+KĀ MĒS UZTURAM JŪSU INFORMĀCIJAS DROŠĪBU?
+
+Mēs nopietni izturamies pret datu drošību. Mēs esam ieviesuši fiziskus un tehniskus aizsarglīdzekļus, lai aizsargātu mūsu apkopoto informāciju. Tomēr, lūdzu, ievērojiet, ka, lai gan mēs veicam saprātīgus pasākumus, lai pasargātu jūsu informāciju, tomēr neviena tīmekļa vietne vai interneta pārraide, datorsistēma vai bezvadu savienojums nav pilnībā droši.
+
+KUR MĒS SŪTĀT JŪSU DATUS?
+
+Izmantojot mūsu Pakalpojumus, jūsu personas informācija tiks nodota tālāk, uzglabāta un apstrādāta jūsu mītnes valstī un ārpus tās saskaņā ar šo politiku. It īpaši, jūsu personas informācija tiks nosūtīta uz Korejas Republiku. Lūdzu, ņemiet vērā, ka datu aizsardzības un citi likumi valstīs, uz kurām var tikt nosūtīta jūsu informācija, var nebūt tik visaptveroši kā jūsu valstī.
+
+[Tikai Eiropas Ekonomikas zonas (EEZ) iedzīvotājiem]
+
+Turklāt, izmantojot mūsu Pakalpojumus, jūsu personas informācija var arī tikt nodota tālāk, uzglabāta un apstrādāta citās valstīs, piemēram, šādas valstis cita starpā var būt Eiropas Ekonomikas zonas valstis, Amerikas Savienotās Valstis, Ķīna, Singapūra, Vjetnama, Indija, Kanāda, Filipīnas un Japāna. Mēs veiksim atbilstošos pasākumus saskaņā ar piemērojamiem tiesību aktiem, lai garantētu jūsu personas informācijas aizsardzību. Šādi pasākumi ir standarta līguma nosacījumu piemērošana, lai aizsargātu datu nodošanu tālāk ārpus Eiropas Ekonomikas zonas. Lai pieprasītu vairāk informācijas vai iegūtu spēkā esošo līgumu nosacījumu kopiju, sazinieties ar mums. Skatiet sadaļu SAZIŅA AR MUMS.
+
+KĀDAS IR JŪSU TIESĪBAS?
+
+Jūsu personas informācija pieder jums. Jūs varat pieprasīt mums sniegt informāciju par to, ko mēs apkopojam, un jūs varat lūgt mūs izdzēst to vai izlabot jebkādas neprecizitātes. Varat arī lūgt mūs ierobežot jūsu personas informācijas apstrādi, kopīgošanu vai nodošanu tālāk, kā arī izsniegt jums personas informāciju, kuru mēs apkopojam, lai jūs varētu izmantot to personīgiem nolūkiem. Tomēr, ja pieprasāt dzēst jūsu personas informāciju, var tikt pazaudēta mūsu garantētā piekļuve Pakalpojumiem. Mēs nedzēsīsim datus, kas ir jāsaglabā pēc likuma.
+
+Lai veiktu pieprasījumu par jūsu tiesībām vai uzdotu jautājumu, sazinieties ar mums. Skatiet sadaļu SAZIŅA AR MUMS.
+
+CIK ILGI MĒS UZGLABĀJAM JŪSU INFORMĀCIJU?
+
+Mēs neuzglabāsim jūsu personas informāciju ilgāk, nekā tas ir nepieciešams mērķim, kādam tā tika apkopota. Tas nozīmē, ka informācija tiks iznīcināta vai izdzēsta no mūsu sistēmām, kad tā vairs nebūs nepieciešama.
+
+Mēs veicam atbilstošas darbības, lai garantētu, ka mūsu veiktā informācijas par jums apstrāde un uzglabāšana ir balstīta uz tālāk norādīto loģiku.
+
+1.	Vismaz tik ilgs laika posms, kamēr informāciju izmanto, lai jums nodrošinātu pakalpojumu 
+2.	Saskaņā ar tiesību aktiem, līgumu vai atbilstoši mūsu tiesiskajām saistībām
+3.	Tikai tāds laika posms, kāds ir nepieciešams datu apkopošanas mērķa realizācijai, vai ilgāk, ja tas tiek prasīts saskaņā ar līgumu, piemērojamiem tiesību aktiem, statistikas nolūkos, atbilstoši saistošajiem aizsargpasākumiem
+
+KĀDUS TREŠO PUŠU PAKALPOJUMUS MĒS IZMANTOJAM?
+
+Noteiktu saturu, reklāmas un funkcijas mūsu Pakalpojumos piedāvā trešās puses. Trešās puses var izmantot sīkfailus, bāksignālus, izsekošanas pikseļus un citus rīkus, lai apkopotu informāciju par to, kā izmantojat šos Pakalpojumus. Samsung nekontrolē tieši šīs trešās puses, tāpēc mēs iesakām jums pārbaudīt to konfidencialitātes politikas, lai izprastu, ka tās izmanto jūsu datus.
+
+Dažām lietotnēm un pakalpojumiem, tostarp sociālajiem tīkliem, mēs saņemam un uzglabājam autentifikācijas informāciju, kā arī citu informāciju, kuru jūs atļaujat mums saņemt, kad pievienojaties ar šīm lietotnēm un pakalpojumiem.
+
+SAZIŅA AR MUMS
+
+Varat sazināties ar mums, lai atjauninātu savas preferences, labotu savu informāciju, iesniegtu pieprasījumu vai uzdotu jebkādus jautājumus.
+
+Varat arī sazināties ar mums, izmantojot šādu kontaktinformāciju:
+
+Datu pārzinis
+Samsung Electronics Co., Ltd.
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+[Tikai Eiropas Ekonomikas zonas (EEZ) iedzīvotājiem]
+
+Samsung Electronics ir biroji visā Eiropā, lai mēs varētu nodrošināt, ka jūs pieprasījumu vai jautājumu apstrādās mūsu datu aizsardzības komanda, kas atrodas jūsu reģionā.
+
+Visvieglākais saziņas veids ir, izmantojot mūsu konfidencialitātes atbalsta lapu šeit: https://www.samsung.com/request-desk. 
+
+Varat arī sazināties ar mums, izmantojot šādu kontaktinformāciju:
+
+Eiropas datu aizsardzības speciālists
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+
+Ja jūs uzskatāt, ka mūsu personas informācijas apstrāde pārkāpj piemērojamos tiesību aktus, jums ir tiesības iesniegt sūdzību attiecīgajai uzraudzības iestādei. Visu ES uzraudzības iestāžu kontaktinformācija ir atrodama šeit: https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+SAMSUNG KONFIDENCIALITĀTES POLITIKA — SMART TV PIELIKUMS
+
+Samsung Smart TV pakalpojums piedāvā dažādu funkciju kopumu, kas nodrošina uzlabotu video saturu, pielāgotu TV pieredzi, filmas, savienojumus ar sociālajiem tīkliem un iespējas kontrolēt un sazināties ar jūsu Smart TV, izmantojot balss komandas. Mēs apkopojam, izmantojam, kopīgojam un uzglabājam jūsu informāciju, izmantojot jūsu Smart TV un ierīces, kuras ir pieslēgtas jūsu Smart TV tā, kā tas aprakstīts Samsung konfidencialitātes politikā. Šajā Pielikumā tiek sniegta papildinformācija par dažu Smart TV funkciju konfidencialitātes praksi.
+
+Smart TV ir izstrādāts, lai piedāvātu iespēju jums viegli atrast un piekļūt video programmām un citam saturam. Piemēram, jūs varat piekļūt informācijai par tiešraides televīzijas programmām, kuras jums izplata jūsu kabeļpakalpojumu vai satelītpakalpojumu operators un pieprasījumvideo satura piedāvājumiem no trešajām pusēm — satura nodrošinātājiem, izmantojot Smart TV piedāvātās instrukcijas ar meklēšanas funkciju.
+Tiešraides televīzijas programmu gadījumā mēs nosakām, kāds saturs ir jums pieejams, daļēji ņemot vērā jūsu pasta indeksu. Turklāt pakalpojums Smart TV palīdz jums atrast un iepazīties ar citu pakalpojuma Smart TV saturu, kas ir jums atbilstošāks, izceļot programmas un saturu, kas jūs, visticamāk, interesēs, vai, sniedzot papildu pakalpojumus, uzlabos jūsu skatīšanās pieredzi. Mēs balstām šos ieteikumus un papildu pakalpojumus uz:
+•	informāciju par saturu, kuru skatījāt, iegādājāties, lejupielādējāt vai straumējāt, izmantojot Samsung lietojumprogrammas, savā Smart TV vai citās ierīcēs (TV skatīšanās informāciju, lūdzu, skatiet zemāk sadaļā “Informācijas pakalpojumu skatīšana”);
+•	informāciju par lietojumprogrammām, kurām piekļuvāt, izmantojot Smart TV;
+•	informāciju par jūsu klikšķiem uz pogām “Patīk”, “Nepatīk”, “Skatīt tūlīt” un citām pogām jūsu Smart TV;
+•	vaicājuma terminiem, kurus ievadāt Smart TV meklēšanas funkcijās, tostarp, kad meklējat konkrētu video saturu;
+•	citu Smart TV izmantošanu un ierīces informāciju, tostarp IP adresi, pierakstīšanās informāciju, informāciju, kas identificē jūsu ierīces vai programmatūras konfigurāciju, informāciju par pārlūkprogrammu un pieprasīto(-ajām) lapu(-ām).
+
+Skatīšanās informācijas pakalpojumi
+Šis Paziņojums par konfidencialitāti ir jālasa kontekstā ar Samsung konfidencialitātes politiku, kas arī ir attiecināma uz saņemtajām pielāgotajām Smart TV lietošanas iespējām un ir pieejama vietnē https://account.samsung.com/membership/pp.
+Lai nodrošinātu jums pielāgotās Smart TV lietošanas iespējas, mēs dažās funkcijās un pakalpojumos izmantojam jūsu TV skatīšanās vēsturi un informāciju par Smart TV lietojumu.
+Jūsu TV skatīšanās vēsture ietver informāciju par tīkliem, kanāliem, apmeklētajām tīmekļa vietnēm un programmām, ko skatījāties savā Smart TV, kā arī par laiku, ko veltījāt, lai tās skatītos.
+Mēs varam izmantot automātisko satura atpazīšanu (Automatic Content Recognition — ACR) un citas tehnoloģijas, lai tvertu šo informāciju. Jūsu Smart TV pārraida video fragmentus vai TV uztvērēja informāciju, lai noteiktu, kādas programmas ir skatītas.
+Izvēlēto konfidencialitātes iestatījumu var jebkurā laikā mainīt, iestatījumu izvēlnē pēc savas izvēles atspējojot noteikto funkciju vai pakalpojumu, kā rezultātā attiecīgās funkcijas vai pakalpojuma datu apkopošana TV skatīšanās vēsturē tiek pārtraukta.
+
+[Tikai Eiropas Ekonomikas zonas (EEZ) iedzīvotājiem]
+
+Izmantojot mūsu Pakalpojumus, jūsu personas informācija tiks nodota tālāk, uzglabāta un apstrādāta ārpus jūsu mītnes valsts (Korejā) saskaņā ar šo politiku. Turklāt, izmantojot mūsu Pakalpojumus, jūsu personas informācija var arī tikt nodota tālāk, uzglabāta un apstrādāta citās valstīs, piemēram, šādas valstis cita starpā var būt Eiropas Ekonomikas zonas valstis, Amerikas Savienotās Valstis un Kanāda. Lūdzu, ņemiet vērā, ka datu aizsardzības un citi likumi valstīs ārpus Eiropas Ekonomikas zonas, uz kurām var tikt nosūtīta jūsu informācija, var nebūt tik visaptveroši kā jūsu valstī. Mēs veiksim atbilstošos pasākumus saskaņā ar piemērojamiem tiesību aktiem, lai garantētu jūsu personas informācijas aizsardzību. Šādi pasākumi ir standarta līguma nosacījumu piemērošana, lai aizsargātu datu nodošanu tālāk ārpus Eiropas Ekonomikas zonas. Lai uzzinātu vairāk vai iegūtu spēkā esošo līgumu nosacījumu kopiju, sazinieties ar mums, izmantojot mūsu konfidencialitātes atbalsta lapā sniegto kontaktinformāciju (https://www.samsung.com/request-desk).
+Ņemiet vērā, ka jūsu izvēlētais konfidencialitātes iestatījums var ietekmēt noteikto skatāmās informācijas pakalpojumu pieejamību vai kvalitāti.
+
+Uz interesēm balstītas reklāmas pakalpojumi
+Uz interesēm balstītas reklāmas pakalpojumi (“IBA pakalpojumi”) ir izstrādāti, lai nodrošinātu jums iespēju iegūt un skatīt noderīgas, interaktīvas un interesējošas reklāmas par Samsung un trešo pušu piedāvātajiem produktiem un pakalpojumiem savā Samsung Smart TV vai citās Samsung un trešo pušu platformās un ierīcēs, tostarp lineārās reklāmās tīmeklī, mobilajās ierīcēs un planšetdatoros.
+
+Lai padarītu reklāmas jūsu ierīcēs vēl saistošākas jums, IBA pakalpojums paļaujas uz jūsu TV skatīšanās vēsturi (tostarp informāciju par tīkliem, kanāliem, apmeklētajām vietnēm un Samsung Smart TV skatītajām programmām, kā arī to skatīšanai veltītā laika), Samsung Smart TV lietošanas informāciju un citiem statistikas datiem, kas iegūti no uzticamiem trešo pušu datu avotiem. Mēs varam izmantot automātisko satura atpazīšanu (Automatic Content Recognition — ACR) un citas tehnoloģijas, lai iegūtu jūsu TV skatīšanās vēsturi.
+
+Ņemot vērā iepriekš minēto informāciju, mēs izveidojam Samsung Smart TV īpašnieku grupas, kurās ir līdzīgas intereses, un izmantojam šīs grupas IBA pakalpojumam. Iepriekš minētā informācija tiek izmantota, lai noteiktu grupas, kurās iekļaut jūsu Samsung Smart TV, tādējādi nosakot jūsu ierīcēs redzamās reklāmas.
+
+Jūs varat atspējot IBA pakalpojumu jebkurā laikā, savā Samsung Smart TV apmeklējot iestatījumu izvēlni.
+
+Lūdzu, ņemiet vērā, ka konfidencialitātes iestatījums, ko izvēlējāties attiecībā uz IBA pakalpojumam, neietekmē to, vai jums tiek/netiek rādītas citu veidu reklāmas un mārketinga paziņojumi, kas nav īpaši balstīti uz TV skatīšanās vēsturi vai informāciju par Samsung Smart TV lietojumu. Citi reklāmu un mārketinga veidi tiks balstīti uz citu informāciju, piemēram, atrašanās vietu un citu paredzamo vai varbūtējo informāciju. Šāda informācija var būt mazāk saistoša, jo tā nav balstīta uz interesēm.
+
+Plašākai informācijai par IBA pakalpojumiem, lūdzu, skatiet IBA pakalpojumu Paziņojumu par konfidencialitāti šī Pielikuma beigās.
+
+PSID
+Interaktīvās un uz interesēm balstītās reklāmas nodrošināšanas nolūkos apkopotā skatīšanās vēsture un Smart TV lietošanas informācija tiks savienota ar anonīmu, vienā virzienā šifrētu, atiestatāmu ierīces identifikatoru — Personalizēto pakalpojuma ID vai “PSID”.
+Jūs varat atiestatīt savu PSID jebkurā laikā, dodoties uz Smart TV iestatījumu sadaļu, kad atiestatāt savu Smart TV skatīšanas vēsturi un Smart TV lietošanas informāciju, visa informācija attiecībā uz interesēm balstītu reklāmu tiks izdzēsta un atvienota no tā iepriekšējā PSID. Ņemiet vērā, ka pēc PSID atiestatīšanas pielāgoto un interesēm atbilstošo reklāmu kvalitāte var nebūt piemērota precīzi.
+
+Balss atpazīšana
+Jūs varat pārvaldīt Smart TV un lietot dažādas tā piedāvātās funkcijas, izmantojot balss komandas.
+Ja Balss atpazīšana tiek iespējota, jums būs iespēja sazināties ar Smart TV, izmantojot balsi. Lai tiktu nodrošināta Balss atpazīšanas funkcija, dažas interaktīvas balss komandas var tikt pārsūtītas (kopā ar informāciju par jūsu ierīci, tostarp ierīces identifikatoriem) mums, un mēs tās pārveidosim tekstā, lai jums nodrošinātu Balss atpazīšanas funkciju. Turklāt uzņēmums Samsung drīkst apkopot jūsu balss komandas un saistītos tekstus ar nolūku novērtēt funkcijas darbību un uzlabot to. Samsung apkopos jūsu balss komandas tikai tad, kad iesniegsiet konkrētu meklēšanas pieprasījumu savam Smart TV, noklikšķinot uz aktivizēšanas pogas uz tālvadības pults vai ekrāna, izrunājot aktivizēšanas vārdu (piem., Hi, Bixby) un runājot vadības pults vai Smart TV mikrofonā.
+Ja Balss atpazīšana netiks iespējota, jums netiks nodrošināta iespēja izmantot balss atpazīšanas funkcijas.
+Jūs jebkurā brīdī iestatījumu izvēlnē varat atspējot datu apkopošanu Balss atpazīšanas pakalpojumā. Taču šādi jums var tikt liegta iespēja izmantot dažas Balss atpazīšanas funkcijas.
+
+Plašākai informācijai par Balss atpazīšanu, lūdzu, skatiet Balss atpazīšanas pakalpojumu Paziņojumu par konfidencialitāti šī Pielikuma beigās.
+
+Trešās puses
+Lūdzu, ievērojiet, ka, skatoties video vai piekļūstot trešo pušu lietojumprogrammām vai saturam, šo pakalpojumu sniedzējs var apkopot vai saņemt informāciju par jūsu Smart TV (piemēram, tā IP adresi un ierīces identifikatoriem), pieprasīto darījumu (piemēram, jūsu pieprasījumu iegādāties vai iznomāt video) un par to, kā jūs lietojat lietojumprogrammu vai pakalpojumu. Samsung neuzņemas atbildību par šo pakalpojumu nodrošinātāju konfidencialitātes un drošības praksi. Jums ir jārīkojas piesardzīgi un jāpārskata paziņojumi par konfidencialitāti, kas tiek piemēroti trešās puses tīmekļa vietnēs un pakalpojumos, ko jūs lietojat.
+
+Valstu specifiskās funkcijas
+Lūdzu, ņemiet vērā, ka viena vai vairākas funkcijas, kas aprakstītas šajā Smart TV pielikumā, var nebūt jums pieejamas atkarībā no jūsu dzīvesvietas.
+
+BALSS ATPAZĪŠANAS PAKALPOJUMA PAZIŅOJUMS PAR KONFIDENCIALITĀTI
+
+Spēkā stāšanās datums: 2019. gada 30. aprīlis
+
+Samsung Electronics un ar to saistītie uzņēmumi ciena jūsu bažas par konfidencialitāti. Šis Paziņojums par konfidencialitāti attiecas uz personas informāciju, kuru mēs apkopojam Balss atpazīšanas pakalpojumā (turpmāk tekstā — “Balss pakalpojums”).
+
+Balss pakalpojums ir pakalpojums, kas lietotājiem nodrošina iespēju atrast un skatīties saturu un pārvaldīt savu pasauli Samsung produktos, izmantojot tikai savu balsi. Tā iespējas iekļauj dabiskās valodas apstrādi satura meklēšanā un Samsung Smart TV vadībā; internetu, laikapstākļus un citus pakalpojumus, ko lietotāji sagaida no saviem Samsung Smart TV.
+
+Atkarībā no izvēlētas valodas varat izmantot un izbaudīt uzlaboto balss atpazīšanas funkciju Bixby. Kad Bixby funkcija ir aktivizēta, jūs varat to apstiprināt ar ikonām, reklāmkarogiem vai citām zīmēm sava Samsung Smart TV ekrānā.
+
+Šis Paziņojums par konfidencialitāti sniedz papildu specifisku informāciju par to, kā jūsu personas dati tiek lietoti saistībā ar Balss pakalpojumu, un tie ir jālasa kontekstā ar Samsung konfidencialitātes politiku, kas arī ir attiecināma uz saņemto Balss pakalpojumu un ir pieejama vietnē https://account.samsung.com/membership/pp.
+
+Šajā Paziņojumā par konfidencialitāti mēs raksturojam informācijas veidus, kas apkopoti, izmantojot Balss pakalpojumu, aprakstām to, kā mēs varam izmantot informāciju, kā arī iepazīstinām ar jums pieejamajām izvēles iespējām attiecībā uz informācijas izmantošanu. Samsung ir personas informācijas apstrādes datu pārzinis.
+
+KĀDU INFORMĀCIJU MĒS APKOPOJAM?
+Izmantojot Balss pakalpojumu, mēs dažādos veidos varam iegūt informāciju par jums. Mūsu iegūtās personas informācijas veidi ir norādīti tālāk.
+
+•	Samsung konta informācija (neobligāti). Kad jūs pierakstāties Samsung kontā savā Smart TV, mēs varam apkopot informāciju, kas saistīta ar jūsu Samsung kontu un kuru izmantojat, lai piekļūtu Balss pakalpojumam, piemēram, jūsu vārdu, uzvārdu, e-pasta adresi un Samsung konta ID.
+
+•	Balss pakalpojuma mijiedarbības. Mēs varam apkopot informāciju, kuru jūs kopīgojat ar Balss pakalpojuma starpniecību, veicot darbības Pakalpojumos, tostarp jūsu balss komandas ierakstus (piemēram, jūsu jautājumus, pieprasījumus un norādījumus), jūsu attēlus un citas ievades, kā arī informāciju, ko saņemat no pakalpojumiem (piemēram, atbildes reakcijas, atbildes un saturu). Mēs arī varam iegūt citu informāciju, kas saistīta ar to, kā jūs lietojat Balss pakalpojumu, tostarp informāciju (piemēram, informāciju, kas attiecas uz jūsu izmantotajām lietotnēm, jūsu apmeklētajām vietnēm, un attēlus, mūziku, kalendāra ierakstus, grāmatzīmes, kā arī saturu un datus no citām Samsung un trešo pušu lietotnēm, vietnēm un pakalpojumiem), ko mēs saņemam no Samsung un trešo pušu lietotnēm un pakalpojumiem, kuriem Balss pakalpojums var piekļūt vai kurus Balss pakalpojums var izmantot, lai nodrošinātu jums Pakalpojumus (piemēram, mūzikas straumēšanu un laikapstākļu paziņojumus).
+
+•	Ģeogrāfiskās atrašanās vietas dati. Mēs varam saņemt informāciju par jūsu ierīces ģeogrāfisko atrašanās vietu un citu informāciju, kas saistīta ar jūsu atrašanās vietu, izmantojot pasta indeksa informāciju, kas saglabāta televizorā un var tikt saņemta caur jūsu IP adresi vai ievadi, kas paredzēta noteiktiem mērķiem, piemēram, Pakalpojumu nodrošināšanai.
+
+•	Informācija par ierīci un lietotni. Mēs varam automatizēti apkopot informāciju par jūsu ierīcēm, kurās ir iespējots Balss pakalpojums, piemēram, informāciju par ierīces modeļiem, operētājsistēmu versijām, ierīces konfigurācijām un iestatījumiem, IP adresēm un ierīces identifikatoriem, kā arī citiem unikāliem identifikatoriem. Turklāt mēs varam iegūt informāciju par to, kā, kad un cik ilgi jūs izmantojat ierīces, kurās ir iespējots Balss pakalpojums, tostarp informāciju par Balss pakalpojuma un Samsung lietošanu, kā arī par trešo pušu lietotņu un pakalpojumu izmantošanu jūsu ierīcēs (piemēram, par lietotņu uzskaitījumu jūsu ierīcēs, mūzikas atskaņošanu jūsu ierīcēs, jūsu apmeklētajām vietnēm un veiktajiem meklējumiem).
+
+KĀ MĒS IZMANTOJAM JŪSU INFORMĀCIJU?
+Mēs varam izmantot informāciju, kuru mēs iegūstam, izmantojot Balss pakalpojumu, lai:
+
+•	sniegtu jums Pakalpojumus, piemēram, lai atbildētu uz jūsu pieprasījumiem, jautājumiem un norādījumiem, kas sniegti, izmantojot Balss pakalpojumu;
+•	jūs identificētu un autentificētu un tādējādi ļautu jums izmantot Balss pakalpojumu;
+•	uzlabotu un pielāgotu jūsu pieredzi saistībā ar Balss pakalpojuma lietošanu, piemēram, nodrošinot mūsu lietotājiem pielāgotu saturu un atbildes reakcijas, kā arī veidu, kādā viņi mijiedarbojas ar Balss pakalpojumu;
+•	ar jūsu atsevišķu piekrišanu sazinātos ar jums saistībā ar mūsu produktiem un pakalpojumiem un nodrošinātu jums paziņojumus, saturu, brīdinājumus, piedāvājumus, akcijas, mārketinga informāciju, saziņu un reklāmas;
+•	atbildētu uz jūsu lūgumiem un pieprasījumiem;
+•	vadītu, novērtētu un uzlabotu savu uzņēmējdarbību (tostarp veicot jaunu produktu izstrādi, pilnveidojot un uzlabojot mūsu produktus un pakalpojumus, organizējot mūsu saziņu, analizējot mūsu produktus, klientu bāzi un pakalpojumus, veicot tirgus izpēti, veicot datu analīzi, kā arī izpildot grāmatvedības, auditēšanas un citas iekšējās funkcijas);
+•	ļautu jums mijiedarboties ar trešo pušu lietotnēm un pakalpojumiem un tos izmantot;
+•	identificētu un novērstu krāpšanu un citas noziedzīgas darbības, aizsargātu pret to, veiktu attiecīgos aizsardzības pasākumus, ierosinātu prasības un īstenotu citas saistības;
+•	ievērotu un izpildītu spēkā esošās juridiskās prasības, attiecīgos nozares standartus un mūsu politiku, tostarp šo Paziņojumu par konfidencialitāti, Samsung kontam piemērojamo Konfidencialitātes politiku.
+
+Izmantojot Balss pakalpojumu, mēs varam apkopot personas informāciju par jūsu tiešsaistes darbībām ierīcēs, kurās ir iespējots Balss pakalpojums, laika gaitā izmantojot trešo pušu lietotnes, vietnes un citus tiešsaistes pakalpojumus. Mēs savos Pakalpojumos varam izmantot trešo pušu analītikas pakalpojumus. Pakalpojumu sniedzēji, kuri pārvalda šos analītikas pakalpojumus, palīdz mums analizēt Pakalpojumu lietošanu un uzlabot savus Pakalpojumus. Mūsu iegūto informāciju var tiešā veidā atklāt vai saņemt tie pakalpojumu nodrošinātāji un citas attiecīgās trešās puses, kuras izmanto informāciju, piemēram, lai novērtētu pakalpojumu lietošanu, palīdzētu nodrošināt pakalpojumus un diagnosticētu tehniskas problēmas.
+
+Samsung apstrādā personas informāciju iepriekš aprakstītajiem mērķiem. Samsung juridiskais pamats apstrādāt personas informāciju ietver apstrādi, kas ir: nepieciešama, lai izpildītu līgumu starp jums un Samsung (piemēram, lai nodrošinātu jums Pakalpojumus un jūs identificētu un autentificētu, tādējādi ļaujot jums izmantot noteiktus Pakalpojumus); nepieciešama, lai izpildītu spēkā esošās prasības (piemēram, lai ievērotu piemērojamos grāmatvedības noteikumus un sniegtu obligāto informāciju tiesībaizsardzības iestādēm); nepieciešama Samsung likumīgo interešu īstenošanā (piemēram, lai pārvaldītu mūsu attiecības ar jums un uzlabotu Pakalpojumus); un kas pamatojas uz mūsu klientu piekrišanu (piemēram, lai sazinātos ar jums saistībā ar mūsu produktiem un pakalpojumiem un sniegtu jums mārketinga informāciju), kuru pēc tam var atsaukt jebkurā laikā, sazinoties ar mums, kā norādīts Samsung konfidencialitātes politikas sadaļā Saziņa ar mums, neietekmējot apstrādes likumību, pamatojoties uz piekrišanu pirms tās atsaukšanas.
+
+Jums ir jānoslēdz līgums un jāiesniedz mums personas informācija apstrādei, kā aprakstīts iepriekš. Ja jūs neiesniegsiet mums personas informāciju, mēs nevarēsim jums nodrošināt visas funkcijas, kas pieejamas Balss pakalpojumā.
+
+JŪSU IZVĒLES IESPĒJAS
+Jūs varat jebkurā laikā iestatījumu izvēlnē atspējot Balss pakalpojumu, taču tad jūs vairs nevarēsiet izmantot Balss pakalpojumu.
+
+Mēs piedāvājam jums arī noteiktas izvēles, kas saistītas ar personas informāciju, ko mēs iegūstam par jums. Lai atjauninātu savas izvēles iespējas, ierobežotu no mums saņemamos paziņojumus vai iesniegtu pieprasījumu, lūdzu, sazinieties ar mums, kā norādīts Samsung konfidencialitātes politikas sadaļā Saziņa ar mums
+
+MŪSU PAZIŅOJUMA PAR KONFIDENCIALITĀTI ATJAUNINĀJUMI
+Šo Paziņojumu par konfidencialitāti var periodiski atjaunināt, lai atspoguļotu izmaiņas mūsu personas informācijas praksē attiecībā uz Pakalpojumiem vai izmaiņām piemērojamajos tiesību aktos. Lai informētu jūs par jebkurām būtiskām izmaiņām mūsu Paziņojumā par konfidencialitāti, mēs ievietosim paziņojumu mūsu vietnē un/vai jūsu ierīcē, un paziņojuma augšdaļā norādīsim, kad tas pēdējo reizi tika atjaunināts.
+
+PAZIŅOJUMS PAR KONFIDENCIALITĀTI ATTIECĪBĀ UZ INTERESĒJOŠO REKLĀMU PAKALPOJUMIEM
+
+Spēkā stāšanās datums: 2019. gada 30. aprīlis
+
+Samsung Electronics un ar to saistītie uzņēmumi ciena jūsu bažas par konfidencialitāti. Šis Paziņojums par konfidencialitāti attiecas uz personas informāciju, kuru mēs apkopojam Interesējošo reklāmu pakalpojumos (turpmāk tekstā — “IBA pakalpojums”).
+
+Šis Paziņojums par konfidencialitāti sniedz papildu, specifisku informāciju par to, kā jūsu personas informācija tiek lietota saistībā ar IBA pakalpojumu, un šis dokuments ir jālasa kontekstā ar Samsung konfidencialitātes politiku, kas arī ir attiecināma uz saņemto IBA pakalpojumu un ir pieejama vietnē https://account.samsung.com/membership/pp.
+
+Šajā Paziņojumā par konfidencialitāti mēs raksturojam Interesējošo reklāmu pakalpojumos izmantotās informācijas veidus, aprakstām to, kā mēs izmantojam informāciju, kā arī iepazīstinām ar jums pieejamajām izvēles iespējām attiecībā uz informācijas izmantošanu un jūsu tiesību lietošanu. Samsung ir personas informācijas apstrādes datu pārzinis.
+
+KAS IR IBA PAKALPOJUMS?
+IBA pakalpojums ir izstrādāts, lai nodrošinātu jums iespēju iegūt un skatīt noderīgas, interaktīvas un interesējošas reklāmas par Samsung un trešo pušu piedāvātajiem produktiem un pakalpojumiem savā Samsung Smart TV vai citās Samsung un trešo pušu platformās un ierīcēs, tostarp lineārajās reklāmās tīmeklī, mobilajās ierīcēs un planšetdatoros.
+
+Lai padarītu reklāmas jūsu ierīcēs vēl saistošākas jums, IBA pakalpojums paļaujas uz jūsu TV skatīšanās vēsturi (tostarp informāciju par tīkliem, kanāliem, apmeklētajām vietnēm un Samsung Smart TV skatītajām programmām, kā arī to skatīšanai veltītā laika), Samsung Smart TV lietošanas informāciju un citiem statistikas datiem, kas iegūti no uzticamiem trešo pušu datu avotiem. Mēs varam izmantot automātisko satura atpazīšanu (Automatic Content Recognition — ACR) un citas tehnoloģijas, lai iegūtu jūsu TV skatīšanās vēsturi.
+
+Ņemot vērā iepriekš minēto informāciju, mēs izveidojam Samsung Smart TV īpašnieku grupas, kurās ir līdzīgas intereses, un izmantojam šīs grupas IBA pakalpojumam. Iepriekš minētā informācija tiek izmantota, lai noteiktu grupas, kurās iekļaut jūsu Samsung Smart TV, tādējādi nosakot jūsu ierīcēs redzamās reklāmas.
+
+PSID
+IBA pakalpojuma rādīšanas nolūkos apkopotā informācija par jūsu mobilās ierīces lietojumu tiek saistīta ar nejauši atlasītu, nepastāvīgu un atiestatāmu ierīces identifikatoru, kas tiek saukts par PSID. PSID var atiestatīt, kā norādīts šī Paziņojuma par konfidencialitāti sadaļā Jūsu izvēles iespējas.
+
+KĀDU INFORMĀCIJU MĒS APKOPOJAM?
+Izmantojot IBA pakalpojumu, mēs dažādos veidos iegūstam informāciju par jūsu ierīci. Mūsu iegūtās informācijas veidi ir norādīti tālāk.
+•	Informācija par ierīci. Mēs apkopojam tādu informāciju kā ierīces modelis, operētājsistēmu versijas, ierīces konfigurācija un iestatījumi, IP adrese un ierīces identifikatori, kā arī citi identifikatori.
+•	Informācija par ierīces lietojumu un žurnāliem. Mēs apkopojam informāciju par to, kā, kad un cik ilgi jūs izmantojat ierīces, tostarp, kā lietojat IBA pakalpojumu, Samsung un trešo pušu lietotnes un pakalpojumus ierīcēs (piemēram, par lietotņu uzskaitījumu jūsu ierīcēs).
+•	Skatīšanās informācija. Mēs apkopojam TV skatīšanās vēsturi. Jūsu TV skatīšanās vēsture ietver informāciju par tīkliem, kanāliem, apmeklētajām vietnēm un programmām, ko skatījāties ierīcē Samsung Smart TV, kā arī par laiku, ko veltījāt, lai skatītos tās. Mēs varam izmantot automātisko satura atpazīšanu (Automatic Content Recognition — ACR) un citas tehnoloģijas, lai iegūtu šī TV skatīšanās vēsturi.
+•	Statistikas informācija. Mēs varam izmantot statistikas informāciju par jums un jūsu ierīcēm, piemēram, atrašanās vietu un paredzamo vecuma grupu. Mēs iegūstam šādu statistikas informāciju no komerciāli pieejamiem avotiem (kā atļauts pēc likuma), piemēram, no trešo pušu pakalpojumu nodrošinātājiem. Mēs sadarbojamies tikai ar tādiem trešo pušu pakalpojumu nodrošinātājiem, kuri garantē, ka šāda informācija ir iegūta atbilstoši piemērojamam likumam un var tikt izsniegta mums lietošanai un izpaušanai.
+
+Izmantojot IBA pakalpojumu, Samsung serveri var saņemt informāciju, piemēram, par IBA pakalpojumu lietošanu, jūsu ģeogrāfisko atrašanās vietu un ierīcēm, kuras jūs izmantojat, lai saņemtu IBA pakalpojumu.
+
+KĀ MĒS IZMANTOJAM JŪSU INFORMĀCIJU?
+Mēs izmantojam informāciju, kuru mēs iegūstam, izmantojot IBA pakalpojumu, lai:
+
+•	nodrošinātu jums IBA pakalpojumu;
+•	uzlabotu un pielāgotu IBA pakalpojuma saturu;
+•	ar jūsu atsevišķu piekrišanu sazinātos ar jums e-pastā un nosūtītu paziņojumu par Samsung un trešo pušu piedāvātajiem produktiem un pakalpojumiem, kas pielāgoti jūsu interesēm;
+•	atbildētu uz jūsu lūgumiem un pieprasījumiem;
+•	vadītu, novērtētu un uzlabotu savu uzņēmējdarbību (tostarp veicot jaunu produktu izstrādi, pilnveidojot un uzlabojot mūsu produktus un pakalpojumus, organizējot mūsu saziņu, analizējot mūsu produktus, klientu bāzi un pakalpojumus, veicot tirgus izpēti, veicot datu analīzi, kā arī izpildot grāmatvedības, auditēšanas un citas iekšējās funkcijas); 
+•	identificētu un novērstu krāpšanu un citas noziedzīgas darbības, aizsargātu pret to, veiktu attiecīgos aizsardzības pasākumus, ierosinātu prasības un īstenotu citas saistības;
+•	ievērotu un izpildītu spēkā esošās juridiskās prasības, attiecīgos nozares standartus un mūsu politiku, tostarp šo Paziņojumu par konfidencialitāti, Samsung kontam piemērojamo Konfidencialitātes politiku.
+
+Samsung apstrādā personas informāciju iepriekš aprakstītajiem mērķiem. Samsung juridiskais pamats apstrādāt personas informāciju ietver apstrādi, kas ir: nepieciešama, lai izpildītu līgumu starp jums un Samsung (piemēram, lai nodrošinātu jums IBA pakalpojumu un jūs identificētu un autentificētu, tādējādi ļaujot jums izmantot noteiktus pakalpojumus); nepieciešama, lai izpildītu spēkā esošās prasības (piemēram, lai ievērotu piemērojamos grāmatvedības noteikumus un sniegtu obligāto informāciju tiesībaizsardzības iestādēm); nepieciešama Samsung likumīgo interešu īstenošanā (piemēram, lai pārvaldītu mūsu attiecības ar jums un uzlabotu IBA pakalpojumu); un kas pamatojas uz mūsu klientu piekrišanu (piemēram, lai sazinātos ar jums saistībā ar mūsu produktiem un pakalpojumiem un sniegtu jums mārketinga informāciju), kuru pēc tam var atsaukt jebkurā laikā, apmeklējot iestatījumu izvēlni, kā norādīts šī Paziņojuma par konfidencialitāti sadaļā Jūsu izvēles iespējas, neietekmējot apstrādes likumību, pamatojoties uz piekrišanu pirms tās atsaukšanas.
+
+Lai saņemtu IBA pakalpojumu, jums ir jāiesniedz mums personas informācija apstrādei, kā aprakstīts iepriekš. Ja jūs neiesniegsiet mums personas informāciju, mēs nevarēsim jums nodrošināt visas funkcijas, kas pieejamas IBA pakalpojumā.
+
+JŪSU IZVĒLES IESPĒJAS
+Iestatījumu izvēlnē jūs jebkurā laikā varat atiestatīt PSID, un pēc atiestatīšanas TV skatīšanās vēsture un informācija par Smart TV lietojumu tiks atsaistīta no iepriekšējā PSID. Ņemiet vērā, ka pēc PSID atiestatīšanas IBA pakalpojuma kvalitāte var tikt ietekmēta.
+
+Turklāt varat atspējot IBA pakalpojumu jebkurā laikā, savā Samsung Smart TV apmeklējot iestatījumu izvēlni.
+
+Lūdzu, ņemiet vērā, ka konfidencialitātes iestatījums, ko izvēlējāties attiecībā uz IBA pakalpojumam, neietekmē to, vai jums tiek/netiek rādītas citu veidu reklāmas un mārketinga paziņojumi, kas nav īpaši balstīti uz TV skatīšanās vēsturi vai informāciju par Samsung Smart TV lietojumu. Citi reklāmu un mārketinga veidi tiks balstīti uz citu informāciju, piemēram, atrašanās vietu un citu paredzamo vai varbūtējo informāciju. Šāda informācija var būt mazāk saistoša, jo tā nav balstīta uz interesēm.
+
+MŪSU PAZIŅOJUMA PAR KONFIDENCIALITĀTI ATJAUNINĀJUMI
+Šo Paziņojumu par konfidencialitāti var periodiski atjaunināt, lai atspoguļotu izmaiņas mūsu personas informācijas praksē attiecībā uz IBA pakalpojumu vai izmaiņām piemērojamajos tiesību aktos. Lai informētu jūs par jebkurām būtiskām izmaiņām mūsu Paziņojumā par konfidencialitāti, mēs ievietosim paziņojumu mūsu vietnē un/vai jūsu ierīcē, un paziņojuma augšdaļā norādīsim, kad tas pēdējo reizi tika atjaunināts.
+
+Samsung drukas un kopēšanas produkti tagad ir daļa no HP produktu saimes. Lūdzu, skatiet HP paziņojumu par konfidencialitāti, izmantojot šo saiti: http://www.hp.com/go/privacy.

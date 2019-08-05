@@ -1,0 +1,358 @@
+﻿DESTAQUES DA POLÍTICA DE PRIVACIDADE DA SAMSUNG
+
+A Samsung Electronics sabe quão importante é a privacidade para os respetivos clientes. A Samsung pretende garantir que o Cliente compreende a forma como a Samsung recolhe e utiliza as informações pessoais do Cliente em todos os dispositivos e serviços da Samsung, desde telemóveis e tablets a TVs, aparelhos domésticos, serviços online e muito mais.
+Além de se aplicar a todos os serviços da Samsung, esta Política de Privacidade fornece informações adicionais sobre privacidade relativamente a determinados serviços, conforme necessário.
+
+DESCRIÇÃO GERAL DAS INFORMAÇÕES PESSOAIS
+
+A Samsung recolhe informações pessoais que o Cliente fornece diretamente, informações sobre como o Cliente utiliza os serviços da Samsung e informações de terceiros. A Samsung utiliza estas informações para fornecer ao Cliente serviços, para compreender como o Cliente utiliza os serviços da Samsung para que esta possa melhorar e personalizar a experiência do Cliente, bem como para desenvolver as aplicações mais relevantes, tecnologias e conteúdo para os clientes da Samsung. A Samsung também utiliza informações pessoais para fornecer publicidade personalizada e adaptada aos interesses do Cliente.
+
+PARTILHAR AS INFORMAÇÕES PESSOAIS DO CLIENTE
+
+A Samsung poderá partilhar as informações pessoais do Cliente com empresas afiliadas da Samsung Electronics, bem como com empresas que fornecem serviços em nome da Samsung Electronics. A Samsung também poderá partilhar as informações pessoais do Cliente com empresas de parceiros fidedignos, como fornecedores de serviços móveis ou companhias de seguros, que fornecem ao Cliente produtos e serviços pedidos por este e informações sobre produtos e serviços pelos quais o Cliente poderá ter interesse. A Samsung partilha informações pessoais com agências para a aplicação da lei quando exigido por lei ou para proteger a Samsung Electronics e os respetivos utilizadores.
+
+1. QUAIS AS INFORMAÇÕES RECOLHIDAS PELA SAMSUNG?  
+2. DE QUE FORMA A SAMSUNG UTILIZA AS INFORMAÇÕES DO CLIENTE?  
+3. COM QUEM A SAMSUNG PARTILHA AS INFORMAÇÕES DO CLIENTE?  
+4. DE QUE FORMA A SAMSUNG MANTÉM AS INFORMAÇÕES DO CLIENTE SEGURAS?  
+5. QUAL O DESTINO DOS DADOS DO CLIENTE?  
+6. QUAIS SÃO OS DIREITOS DO CLIENTE?  
+7. POR QUANTO TEMPO A SAMSUNG GUARDA AS INFORMAÇÕES DO CLIENTE?  
+8. QUAIS SÃO OS SERVIÇOS DE TERCEIROS UTILIZADOS PELA SAMSUNG?  
+9. COOKIES, BEACONS E TECNOLOGIAS SEMELHANTES  
+10. CONTACTAR  
+
+POLÍTICA DE PRIVACIDADE DA SAMSUNG
+
+Data de Entrada em Vigor: 30 de abril de 2019
+
+Esta Política de Privacidade aplica-se a todos os dispositivos e serviços da Samsung, desde telemóveis e tablets a TVs, aparelhos domésticos, serviços online e muito mais, coletivamente designados Serviços.
+
+É importante verificar regularmente se existem atualizações à Política de Privacidade. A Samsung poderá atualizar esta Política de Privacidade periodicamente para refletir alterações nas práticas de informações pessoais da Samsung relativamente aos Serviços ou alterações na lei aplicável. A Samsung publicará uma notificação no Web site da Samsung ou no dispositivo do Cliente a informar o mesmo atempadamente sobre alterações de materiais efetuadas na Política de Privacidade da Samsung e a indicar na parte superior da Política de Privacidade a data da realização da atualização mais recente. A versão mais atual da Política de Privacidade estará sempre disponível aqui: https://account.samsung.com/membership/pp.
+
+QUAIS AS INFORMAÇÕES RECOLHIDAS PELA SAMSUNG?
+
+A Samsung Electronics recolhe as informações pessoais do Cliente de diversas formas.
+
+Informações Fornecidas pelo Cliente Diretamente
+
+Alguns Serviços permitem que o Cliente forneça diretamente à Samsung informações. Por exemplo:
+
+•	Quando o Cliente cria uma conta ou um perfil na Samsung, esta poderá solicitar informações como o nome do Cliente, a respetiva data de nascimento ou o endereço de e-mail.
+•	Se o Cliente encomendar um produto ou um serviço pago à Samsung, esta poderá pedir ao Cliente o respetivo nome, o endereço, as informações de contacto e os endereços de entrega e pagamento para processar a encomenda do Cliente.
+•	Para fornecer respostas quando o Cliente contactar a Assistência ao Cliente, a Samsung poderá precisar de informações para verificar a identidade do Cliente e o produto sobre o qual o Cliente está a inquirir.
+•	Quando comunicar com a equipa da Assistência ao Cliente da Samsung ou com outra equipa de outros Serviços, as comunicações serão transmitidas através dos nossos sistemas.
+•	Se o Cliente partilhar os seus contactos, a Samsung recolherá os respetivos números de telefone e outras informações de contacto para facilitar a partilha de ficheiros e o processamento de mensagens. O Cliente pode desativar ou restringir estas funcionalidades em Definições nos dispositivos da Samsung.
+
+Informações Sobre a Utilização dos Serviços por Parte do Cliente
+
+Para além das informações que o Cliente fornece, a Samsung vai recolher informações sobre a utilização, por parte do Cliente, dos Serviços da Samsung através do software nos dispositivos do Cliente e outros meios. A Samsung vai recolher:
+
+•	Informações do dispositivo: O modelo do hardware, as informações de hardware do dispositivo, o número IMEI e outros identificadores de dispositivos exclusivos, número de telefone, número de série, código de vendas, registo de acesso, versão de software atual, MCC (Indicativo de País Móvel), MNC (Código de Rede Móvel), endereço MAC, endereço IP, cookies, pixéis, informações de subscrição, versões do sistema operativo e definições dos dispositivos que o Cliente utiliza para aceder aos Serviços.
+•	Informações de registo: Informações de diagnóstico, técnicas, de erro e de utilização, como a hora e a duração da utilização, por parte do Cliente, dos Serviços, termos de consulta de pesquisa quando o Cliente introduz esses termos de pesquisa no respetivo dispositivo relativamente a um determinado Serviço da Samsung e quaisquer informações armazenadas em cookies que a Samsung tenha definido nos dispositivos do Cliente.
+•	Informações de localização: O sinal GPS do dispositivo do Cliente ou as informações sobre pontos de acesso Wi-Fi próximos, e também de torres de serviços móveis, que possam ser transmitidas à Samsung quando o Cliente utiliza determinados Serviços e ativa a função de localização.
+•	Informações de voz: Gravações da voz do Cliente que a Samsung efetua e armazena nos respetivos servidores quando o Cliente ativa esta função e utiliza comandos de voz para controlar um Serviço ou quando contacta a equipa de Assistência ao Cliente da Samsung. Tenha em atenção que, se a Samsung trabalhar com outro fornecedor de serviços que forneça serviços de conversão de discurso em texto em nome da Samsung, este fornecedor poderá receber e armazenar determinados comandos de voz em conformidade com o contrato celebrado entre a Samsung e o fornecedor de serviços de terceiros fidedigno da Samsung.
+•	Informações do teclado da Samsung: As palavras introduzidas pelo Cliente quando este ativa a funcionalidade de texto preditivo. Esta funcionalidade pode ser disponibilizada em conjunto com a conta Samsung para sincronizar os dados para utilização nos outros dispositivos móveis da Samsung do Cliente. 
+O Cliente pode limpar os dados ao aceder às definições de texto preditivo.
+•	Informações de Visualização: As informações sobre redes, canais, Web sites visitados e programas visualizados nos dispositivos do Cliente, bem como o tempo gasto na respetiva visualização.
+•	Outras informações sobre a utilização, por parte do Cliente, dos Serviços, tais como as aplicações que o Cliente utiliza, os Web sites que este visita e como este interage com o conteúdo oferecido através de um Serviço.
+
+Informações Partilhadas ou Disponíveis Pública ou Comercialmente
+
+A Samsung reúne por vezes informações disponíveis pública ou comercialmente, incluindo informações de redes sociais que o Cliente utiliza, e combina estas com outras informações sobre o Cliente para que a Samsung possa compreender melhor as necessidades, interesses e preferências do Cliente. Por vezes, a Samsung reúne informações sobre o Cliente quando outras pessoas fornecem essas informações utilizando os Serviços da Samsung, como o nome do Cliente, bem como as informações de contacto, quando outros enviam uma mensagem para o Cliente ou partilham ficheiros com o Cliente.
+
+Outras Informações Recolhidas pela Samsung
+
+A Samsung também poderá recolher outras informações sobre o Cliente, os respetivos dispositivos ou a utilização, por parte do Cliente, dos Serviços que o Cliente autoriza que sejam enviadas para a Samsung.
+
+Serviço de Análise de Terceiros
+
+Determinados Serviços permitem à Samsung recolher informações pessoais sobre as atividades online do Cliente em Web sites e nos dispositivos ligados ao longo do tempo e em Web sites, dispositivos, aplicações e outros serviços e funcionalidades online. A Samsung poderá utilizar serviços de análises de terceiros nos respetivos Serviços, tais como os do Google Analytics. Os fornecedores de serviços que administram estes serviços de análises ajudam a Samsung a analisar a utilização que o Cliente faz dos Serviços e a melhorar os Serviços. As informações que a Samsung obtém poderão ser divulgadas ou recolhidas diretamente por estes fornecedores e outras entidades de terceiros relevantes que utilizam as informações, por exemplo, para avaliar a utilização dos Serviços, para ajudar a administrar os Serviços e para diagnosticar problemas técnicos. Para obter mais informações sobre o Google Analytics, visite http://www.google.com/analytics/learn/privacy.html e https://www.google.com/policies/privacy/partners/.
+
+Opções do Cliente
+
+O Cliente poderá optar por fornecer à Samsung determinados tipos de informações, tais como informações solicitadas como parte do registo de uma conta Samsung. Em alguns casos, esta opção poderá limitar a capacidade do Cliente em utilizar alguns Serviços. A Samsung envidará todos os esforços para explicar estas limitações quando estiver a pedir as informações ao Cliente para que este possa tomar uma decisão informada. Por exemplo, a Samsung Cloud permite ao Cliente efetuar cópias de segurança e criar um ponto de restauro; no entanto, a Samsung Cloud não foi concebida nem se destina a armazenar ou processar informações confidenciais.
+
+DE QUE FORMA A SAMSUNG UTILIZA AS INFORMAÇÕES DO CLIENTE?
+
+A Samsung utiliza as informações que recolhe para as seguintes finalidades:
+•	Para ajudar o Cliente ou o registo do respetivo dispositivo nos Serviços da Samsung
+•	Para fornecer um Serviço ou uma funcionalidade solicitada pelo Cliente
+•	Para fornecer conteúdo e serviços personalizados com base nas atividades passadas do Cliente nos Serviços da Samsung
+•	Para fornecer publicidade, promoções e ofertas personalizadas que poderão ser do interesse do Cliente nos Web sites da Samsung, nos Web sites de terceiros e nas plataformas online como os sites de redes sociais
+•	Para fornecer promoções e ofertas através de comunicações de marketing direto apenas onde o Cliente concedeu permissão em separado à Samsung
+•	Para analisar os produtos e serviços da Samsung de modo a ajudar esta a compreender os respetivos clientes para oferecer as comunicações mais relevantes, bem como serviços e experiências ao Cliente
+•	Para solicitar a opinião do Cliente sobre os produtos e serviços da Samsung e para a realização de inquéritos aos clientes com o consentimento em separado do Cliente se necessário
+•	Para fornecer serviços de manutenção e de suporte e atualizações de software para o dispositivo do Cliente
+•	Para cumprir a lei aplicável e os processos legais
+•	Para proteger os direitos, propriedade ou segurança da Samsung Electronics ou qualquer uma das afiliadas da Samsung, parceiros de negócio ou clientes
+
+A Samsung utiliza e combina as informações que recolhe sobre o Cliente a partir dos Serviços, dispositivos ou outras fontes da Samsung de modo a oferecer ao Cliente a melhor experiência. Por exemplo, pode utilizar os detalhes da conta Samsung tanto no serviço no qual o Cliente está registado como noutros Serviços que utilizam as contas Samsung. A Samsung também utiliza as informações que o Cliente fornece diretamente ou através de outras fornes conforme descrito acima para fornecer conteúdo do agrado do Cliente ou que tenha sido personalizado por este. 
+
+O Cliente tem opções sobre as respetivas informações. Consulte a secção QUAIS SÃO OS DIREITOS DO CLIENTE? para obter mais informações.
+
+[Para os residentes do Espaço Económico Europeu (EEE) apenas]
+
+A Samsung processa informações pessoais para os fins descritos acima. A base legal da Samsung para processar informações pessoais inclui o processamento: 
+(i)	Para que a Samsung possa cumprir as respetivas promessas para com o Cliente, como fornecer ao Cliente um Serviço
+(ii)	Para promover os interesses de negócio da Samsung (por exemplo, para gerir a relação da Samsung com o Cliente e melhorar a experiência do serviço do Cliente), incluindo as comunicações no Web site da Samsung, nos Web sites de terceiros e nas plataformas online
+(iii)	Para cumprir a lei aplicável e os processos legais
+(iv)	Com o consentimento do Cliente (por exemplo, para enviar comunicações de marketing direto). Se o Cliente conceder permissão, é sempre possível revogar contactando a Samsung conforme especificado na secção CONTACTAR desta Política de Privacidade.
+
+A Samsung Electronics é o controlador de dados das informações pessoais do Cliente conforme descrito acima. Para algumas comunicações de marketing direto e alguma publicidade personalizada na Europa, a Samsung Electronics (UK) Limited, que está localizada no Reino Unido, também é o controlador de dados das informações pessoais do Cliente. Algumas das subsidiárias europeias da Samsung também processam as informações pessoais do Cliente nos respetivos países. Quando for aplicável, a subsidiária europeia da Samsung tem a sua própria Política de Privacidade local no respetivo Web site com a explicação para tal.
+
+COM QUEM A SAMSUNG PARTILHA AS INFORMAÇÕES DO CLIENTE?
+
+A Samsung divulgará as informações do Cliente internamente pela Samsung, mas apenas aos que precisam das mesmas de modo a fornecer os Serviços ou ajudar a dar resposta aos pedidos do Cliente. 
+
+A Samsung também divulgará as informações do Cliente às seguintes entidades, mas apenas na medida em que tal seja necessário para fornecer os Serviços da Samsung:
+
+•	Afiliadas: Outras empresas do grupo Samsung Electronics que a Samsung controla ou detém. 
+•	Parceiros de Negócio: Parceiros com os quais a Samsung trabalha para fornecer ao Cliente os Serviços que este último pediu ou comprou. Por exemplo, a Samsung poderá trabalhar com um banco para que o Cliente possa utilizar um dos Serviços da Samsung para efetuar pagamentos mais rápidos e mais eficientes. Estes parceiros de negócio controlam e gerem as informações pessoais do Cliente.
+•	Fornecedores de Serviços: Empresas cuidadosamente selecionadas que prestam serviços para ou em nome da Samsung, tais como empresas responsáveis por reparações, centros de contacto com clientes, atividades de atendimento ao cliente, publicidade (incluindo publicidade personalizada nos Web sites da Samsung, Web sites de terceiros ou plataformas online), realização de inquéritos à satisfação dos clientes ou faturação, ou que enviam e-mails em nome da Samsung. Estes fornecedores estão também dedicados a proteger as informações do Cliente.
+•	Outras Partes quando Exigido por Lei ou conforme Necessário para Proteger os Serviços da Samsung: Por exemplo, pode ser necessário por lei, processos legais ou ordem judicial das autoridades governamentais divulgar as informações do Cliente. Poderão também solicitar à Samsung informações por motivos de aplicação da lei, de segurança nacional, de combate ao terrorismo ou por outros motivos relacionados com a segurança pública.
+•	Outras Partes Relativamente a Transações Empresariais: A Samsung poderá divulgar as informações do Cliente a terceiros como parte de uma fusão ou transferência, aquisição ou venda, ou em caso de insolvência.
+•	Outras Partes com a Autorização do Cliente ou com a Orientação do Cliente: Para além das divulgações descritas nesta Política de Privacidade, a Samsung poderá partilhar informações sobre o Cliente com terceiros quando o Cliente autorizar ou solicitar em separado essa partilha.
+
+DE QUE FORMA A SAMSUNG MANTÉM AS INFORMAÇÕES DO CLIENTE SEGURAS?
+
+A Samsung leva a sério a proteção dos dados. A Samsung toma medidas físicas e técnicas para manter as informações que recolhe seguras. No entanto, é de salientar que, embora a Samsung envide os esforços razoáveis para proteger as informações do Cliente, nenhum Web site, transmissão via Internet, sistema informático ou ligação sem fios está sob segurança total.
+
+QUAL O DESTINO DOS DADOS DO CLIENTE?
+
+A utilização dos Serviços da Samsung por parte do Cliente vai envolver a transferência, armazenamento e processamento das respetivas informações pessoais dentro e fora do país de residência do Cliente, em conformidade com a presente política. Em especial, as informações pessoais do Cliente serão transferidas para a República da Coreia. Note-se que a proteção de dados e outras leis de países para os quais as informações do Cliente poderão ser transferidas poderão não ser tão abrangentes como as do país do Cliente.
+
+[Para os Residentes do Espaço Económico Europeu (EEE) Apenas]
+
+Para além disso, a utilização dos Serviços por parte do Cliente poderá também envolver a transferência, armazenamento e processamento das respetivas informações pessoais para outros países; os países em questão incluem, sem limitação, países no Espaço Económico Europeu, os Estados Unidos da América, China, Singapura, Vietname, Índia, Canadá, as Filipinas e o Japão. A Samsung tomará as medidas adequadas, em conformidade com a lei aplicável, para garantir que as informações pessoais do Cliente permanecem protegidas. Essas medidas incluem a utilização de Cláusulas Contratuais-tipo para salvaguardar a transferência de dados fora do EEE. Para pedir mais informações ou para obter uma cópia dos acordos contratuais em vigor, contacte a Samsung. Consulte a secção CONTACTAR. 
+
+QUAIS SÃO OS DIREITOS DO CLIENTE?
+
+As informações pessoais do Cliente pertencem ao Cliente. O Cliente pode pedir à Samsung para fornecer detalhes sobre o que esta recolheu e também pode pedir à Samsung para os apagar ou corrigir quaisquer imprecisões. O Cliente também pode pedir à Samsung para restringir ou limitar o processamento, a partilha ou a transferência das informações pessoais do Cliente, bem como para fornecer ao Cliente as informações pessoais do Cliente que foram recolhidas pela Samsung para que o Cliente possa utilizá-las para as suas próprias finalidades. No entanto, pedir a eliminação das informações pessoais do Cliente também poderá resultar numa perda de acesso aos Serviços fornecidos pela Samsung. Quando requerido por lei, os dados são guardados, pelo que a Samsung não poderá apagá-los.
+
+Para efetuar um pedido relativamente aos direitos do Cliente ou para efetuar perguntas, deverá ser contactada a Samsung. Consulte a secção CONTACTAR.
+
+POR QUANTO TEMPO A SAMSUNG GUARDA AS INFORMAÇÕES DO CLIENTE?
+
+A Samsung não vai manter as informações pessoais do Cliente durante mais tempo do que o necessário para o fim para o qual foram recolhidas. Isto significa que as informações serão destruídas ou apagadas dos sistemas da Samsung quando deixarem de ser necessárias.
+
+A Samsung toma medidas adequadas para garantir que a Samsung processa e mantém as informações sobre o Cliente com base na seguinte lógica:
+
+1.	Pelo menos no período de tempo durante o qual as informações são utilizadas para fornecer um serviço ao Cliente 
+2.	Consoante necessário ao abrigo da lei, de um contrato ou relativamente às obrigações estatutárias da Samsung
+3.	Apenas durante o período de tempo necessário para a finalidade para a qual foram recolhidas, são processadas, ou mais tempo se for requerido ao abrigo de algum contrato, por uma lei aplicável ou para fins de estatística, de acordo com as salvaguardas apropriadas.
+
+QUAIS SÃO OS SERVIÇOS DE TERCEIROS UTILIZADOS PELA SAMSUNG?
+
+Alguns dos conteúdos, publicidades e funcionalidades dos Serviços da Samsung são fornecidos por terceiros. Estes terceiros poderão utilizar cookies, beacons, pixéis de ajuste e outras ferramentas para recolher informações sobre a utilização que o Cliente faz destes Serviços. Estes terceiros não são controlados diretamente pela Samsung, pelo que é recomendável que o Cliente verifique as respetivas políticas de privacidade para perceber o modo como os respetivos dados são utilizados.
+
+Para algumas aplicações e serviços, incluindo as redes sociais, a Samsung recebe e armazena informações de início de sessão, bem como outras informações que o Cliente permite que sejam recebidas pela Samsung quando o Cliente se liga com estas aplicações e serviços.
+
+COOKIES, BEACONS E TECNOLOGIAS SEMELHANTES
+
+A Samsung, bem como determinados terceiros que fornecem conteúdo, publicidade ou outra funcionalidade nos Serviços da Samsung, utiliza cookies, pixéis, beacons e outras tecnologias em determinadas áreas dos Serviços da Samsung.
+
+Cookies
+Os cookies são pequenos ficheiros que armazenam informações no computador, TV, telemóvel ou outro dipositivo do Cliente. Permitem à entidade que coloca o cookie no dispositivo do Cliente reconhecer este último em diferentes Web sites, serviços, dispositivos e sessões de navegação. Os cookies destinam-se a diversas finalidades úteis. Por exemplo:
+•	Os cookies podem lembrar as credenciais de início de sessão do Cliente para que este não tenha de introduzir essas credenciais sempre que inicia sessão num serviço.
+•	Os cookies ajudam a Samsung e terceiros a compreender quais as partes dos Serviços da Samsung que são mais populares porque ajudam a Samsung a ver as páginas e funcionalidades às quais os visitantes estão a aceder e quanto tempo estão a gastar nas páginas. Ao analisar estas informações, a Samsung poderá adaptar os Serviços e fornecer ao Cliente uma experiência mais enriquecedora.
+•	Os cookies ajudam a Samsung e terceiros a compreender quais os anúncios que o Cliente viu para que este não tenha de receber o mesmo anúncio sempre que aceder a um Serviço.
+•	Os cookies ajudam a Samsung e terceiros a fornecer ao Cliente o conteúdo e publicidade relevantes recolhendo informações sobre a utilização que o Cliente faz dos Serviços da Samsung e outros Web sites e aplicações.
+
+Quando o Cliente utiliza um Web browser para aceder aos Serviços, o Cliente pode configurar o respetivo browser para aceitar todos os cookies, rejeitar todos os cookies ou notificar o Cliente quando um cookie é enviado. Cada browser é diferente, pelo que o Cliente deve verificar o menu de ajuda do respetivo browser para saber como alterar as preferências de cookies. O sistema operativo do dispositivo do Cliente poderá conter controlos adicionais para cookies. É de salientar que alguns Serviços foram concebidos para funcionar utilizando cookies, pelo que a desativação dos cookies poderá afetar a capacidade do Cliente em utilizar esses Serviços ou determinadas partes dos mesmos.
+
+Outro Armazenamento Local
+A Samsung, juntamente com determinados terceiros, poderão utilizar outros tipos de tecnologias de armazenamento local, tais como Objetos Partilhados Locais (também designados como cookies Flash) e armazenamento local HTML5, relativamente aos Serviços da Samsung. Estas tecnologias são semelhantes aos cookies mencionados acima. São armazenadas nos dispositivos do Cliente e podem ser utilizadas para armazenar determinadas informações sobre as atividades e preferências do Cliente. No entanto, estas tecnologias poderão utilizar diferentes partes dos dispositivos do Cliente dos cookies standard e, por isso, o Cliente poderá não conseguir controlá-las utilizando as ferramentas e definições do browser standard. Para obter informações sobre como desativar ou apagar as informações contidas em Objetos Partilhados Locais, visite http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html.
+
+Beacons
+A Samsung, juntamente com determinados terceiros, também poderão utilizar tecnologias denominadas beacons ou pixéis que comunicam as informações do dispositivo do Cliente para um servidor. Os beacons podem ser incorporados em conteúdo online, vídeos e e-mails e podem permitir a um servidor ler determinados tipos de informações do dispositivo do Cliente, saber quando o Cliente visualizou um determinado conteúdo ou uma determinada mensagem de e-mail e determinar a hora e a data em que o Cliente visualizou o beacon e o endereço IP do dispositivo do Cliente. A Samsung e determinados terceiros utilizam beacons para uma variedade de finalidades, incluindo para analisar a utilização dos Serviços da Samsung, em conjunto com os cookies, para fornecer conteúdo e anúncios mais relevantes para o Cliente.
+
+CONTACTAR
+
+O Cliente pode contactar a Samsung para atualizar as respetivas preferências, corrigir as respetivas informações, submeter um pedido ou efetuar perguntas à Samsung.
+
+A forma mais fácil é através da secção Contactar de https://www.samsung.com/.
+
+O Cliente também pode contactar a Samsung através de:
+
+Controlador de Dados
+Samsung Electronics Co., Ltd.
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+[Para os Residentes do Espaço Económico Europeu (EEE) Apenas]
+
+A Samsung Electronics tem escritórios na Europa, pelo que é possível garantir que o pedido ou pergunta do Cliente será processada pela equipa de proteção de dados sediada na região do Cliente.
+
+A forma mais fácil de contactar a Samsung é através da respetiva página de suporte da privacidade em https://www.samsung.com/request-desk. 
+
+O Cliente também pode contactar a Samsung através de:
+
+Autoridade Europeia para a Proteção de Dados
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+
+O Cliente pode apresentar uma reclamação junto da autoridade supervisora relevante se considerar que o processamento que a Samsung faz das informações pessoais do Cliente viola a lei aplicável. Os detalhes de contacto de todas as autoridades supervisoras da UE podem ser encontrados em https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+POLÍTICA DE PRIVACIDADE DA SAMSUNG – SUPLEMENTO DA SMART TV
+
+O serviço Smart TV da Samsung oferece um conjunto de funcionalidades que fornecem conteúdo de vídeo melhorado, experiências de TV personalizadas, filmes, ligações a serviços de redes sociais e a capacidade de controlar e interagir com a Smart TV com comandos de voz. A Samsung procede à recolha, utilização, partilha e armazenamento de informações através da Smart TV do Cliente e dos dispositivos ligados à Smart TV do Cliente através das formas descritas na Política de Privacidade da Samsung. Este Suplemento fornece detalhes adicionais sobre as práticas de privacidade de algumas funcionalidades da Smart TV.
+
+A Smart TV foi concebida para permitir ao Cliente encontrar e aceder facilmente à programação de vídeo e outro conteúdo. Por exemplo, o Cliente poderá aceder a informações sobre programas de televisão em direto distribuídos ao Cliente através da respetiva operadora de cabo ou satélite e ofertas de conteúdo de vídeo a pedido distribuídas por outros fornecedores de conteúdo através dos guias pesquisáveis apresentados na Smart TV do Cliente.
+No caso de programas de televisão em direto, a Samsung determina qual o conteúdo disponível para o Cliente com base em parte do código postal do Cliente. Além disso, a Smart TV ajuda o Cliente a encontrar e a experimentar outro conteúdo da Smart TV mais relevante para o Cliente realçando a programação e o conteúdo provavelmente com mais interesse para o Cliente ou fornecendo serviços adicionais que irão melhorar a experiência de visualização do Cliente. A Samsung baseia estas recomendações e serviços adicionais em:
+•	Informações sobre o conteúdo que o Cliente viu, comprou, transferiu ou transmitiu através de aplicações da Samsung na Smart TV do Cliente ou outros dispositivos (para obter informações de visualização de TV, consulte a secção "Serviços de Informações de Visualização" abaixo);
+•	Informações sobre aplicações a que o Cliente acedeu através da Smart TV;
+•	Informações sobre os cliques do Cliente nos botões “Gosto”, “Não Gosto”, “Ver Agora” e noutros botões da respetiva Smart TV;
+•	Os termos de consulta que o Cliente introduz nas funcionalidades de pesquisa da Smart TV, incluindo quando o Cliente procura um conteúdo de vídeo em especial;
+•	Outras informações de utilização e dispositivo da Smart TV, incluindo, mas sem limitação, endereço IP, dados de registo, informações que identificam a configuração do hardware ou software do Cliente, informações do browser e as páginas que o Cliente pede.
+
+Serviços de Informações de Visualização
+Este aviso de privacidade deverá ser lido em conjunto com a Política de Privacidade da Samsung, que também se aplica à receção por parte do Cliente de experiências da Smart TV personalizadas, podendo ser encontrado em https://account.samsung.com/membership/pp.
+Para proporcionar ao Cliente experiências da Smart TV personalizadas, algumas das funcionalidades e serviços da Samsung baseiam-se nas informações do histórico de visualização da TV e de utilização da Smart TV do Cliente.
+O histórico de visualização de TV do Cliente inclui informações sobre as redes, os canais, os Web sites visitados e os programas visualizados na Smart TV do Cliente, bem como o tempo gasto na respetiva visualização.
+Podemos utilizar o reconhecimento de conteúdo automático (ACR) e outras tecnologias para capturar estas informações. A sua Smart TV transfere fragmentos de vídeo ou informações do sintonizador da TV para determinar os programas visualizados.
+Pode alterar a opção de privacidade em qualquer altura ao aceder ao menu de definições para desativar a funcionalidade ou o serviço específico. Nesse caso, o seu histórico de visualização da TV deixará de ser recolhido para esse serviço ou funcionalidade.
+
+[Para os Residentes do Espaço Económico Europeu (EEE) Apenas]
+
+A utilização que o Cliente faz dos Serviços da Samsung vai envolver a transferência, o armazenamento e o processamento das respetivas informações pessoais fora do país de residência do Cliente, para a Coreia, em conformidade com esta política. Para além disso, a utilização que o Cliente faz dos Serviços poderá também envolver a transferência, o armazenamento e o processamento das respetivas informações pessoais para outros países; os países em questão incluem, sem limitação, países no Espaço Económico Europeu, os Estados Unidos da América e o Canadá. Tenha em atenção que a proteção de dados e outras leis de países fora do Espaço Económico Europeu para os quais as informações do Cliente poderão ser transferidas poderão não ser tão abrangentes como as do país do Cliente. A Samsung tomará as medidas adequadas, em conformidade com a lei aplicável, para garantir que as informações pessoais do Cliente permanecem protegidas. Essas medidas incluem a utilização de Cláusulas Contratuais-tipo para salvaguardar a transferência de dados fora do EEE. Para mais informações, ou para obter uma cópia dos acordos contratuais em vigor, deverá contactar a Samsung através da respetiva página de suporte da privacidade (https://www.samsung.com/request-desk).
+Tenha em atenção que a sua opção de privacidade poderá afetar a disponibilidade ou a qualidade do serviço baseado em informações de visualização específico.
+
+Serviços de Anúncios Baseados em Interesses
+Os Serviços de Anúncios Baseados em Interesses (os “Serviços IBA”) foram concebidos para proporcionar a capacidade de obter e ver anúncios baseados em interesses úteis e interativos sobre os produtos e serviços disponibilizados pela Samsung e terceiros na Samsung Smart TV do Cliente ou em várias plataformas ou dispositivos da Samsung e de terceiros, incluindo em anúncios publicitários lineares, na Web, em dispositivos móveis e em tablets.
+
+Para que a publicidade nos dispositivos do Cliente seja mais relevante, o serviço IBA vai basear-se no histórico de visualização de TV do Cliente (incluindo informações sobre as redes, canais, Web sites visitados e programas visualizados na Samsung Smart TV do Cliente, bem como o tempo gasto na respetiva visualização), nas informações de utilização da Samsung Smart TV e noutros dados estatísticos obtidos a partir de fontes de dados de terceiros fidedignas. A Samsung poderá utilizar o reconhecimento de conteúdo automático (ACR) e outras tecnologias para capturar o histórico de visualização de TV do Cliente.
+
+Com base nas informações acima, a Samsung cria grupos de proprietários de Samsung Smart TV que partilham interesses semelhantes e utilizam estes grupos para o Serviço IBA. As informações acima são utilizadas para determinar os grupos aos quais a Samsung Smart TV do Cliente está atribuída e, deste modo, os anúncios que os dispositivos do Cliente recebem.
+
+O Cliente poderá desativar o Serviço IBA em qualquer altura ao aceder ao menu Definições na respetiva Samsung Smart TV.
+
+Tenha em consideração que, relativamente ao Serviço IBA, a opção de privacidade do Cliente não afetará a possibilidade de receber ou visualizar outros tipos de anúncios e marketing que não se baseiem especificamente nas informações do histórico de visualização de TV ou de utilização da Samsung Smart TV. Esses outros tipos de anúncios e de marketing basear-se-ão noutras informações, como a localização generalizada e outras informações estimadas ou inferidas. Poderão ser menos relevantes, uma vez que não se baseiam nos interesses do Cliente.
+
+Para obter informações mais detalhadas sobre os Serviços IBA, deverá consultar o Aviso de Privacidade dos Serviços IBA na parte inferior deste Suplemento.
+
+PSID
+As informações do histórico de visualização e de utilização da Smart TV recolhidas para fins de fornecimento de anúncios baseados em interesses serão associadas a um identificador de dispositivo com reposição, não permanente e aleatório denominado ID de Serviço Personalizado ou “PSID”.
+O Cliente poderá repor o PSID em qualquer altura visitando o menu Definições na respetiva Smart TV. Uma vez reposto, as informações do histórico de visualização da Smart TV do Cliente e de utilização da Smart TV do Cliente relativamente aos anúncios baseados em interesses serão desassociadas do respetivo PSID anterior. É de salientar que, se o Cliente efetuar a reposição do PSID, a qualidade dos anúncios personalizados e baseados em interesses poderá não ser otimizada.
+
+Reconhecimento de Voz
+O Cliente pode controlar a respetiva Smart TV e utilizar muitas das suas funcionalidades com comandos de voz.
+Se o Cliente ativar o Reconhecimento de Voz, poderá interagir com a Smart TV utilizando a respetiva voz. Para fornecer a funcionalidade Reconhecimento de Voz, os comandos de voz do Cliente serão transmitidos (juntamente com as informações sobre o dispositivo do Cliente, incluindo os identificadores do dispositivo) à Samsung e esta irá converter os comandos de voz do Cliente em texto para fornecer as funcionalidades de Reconhecimento de Voz. Para além disso, a Samsung poderá recolher os comandos de voz e os textos associados para que a Samsung possa avaliar e melhorar as funcionalidades. A Samsung recolherá apenas os comandos de voz do Cliente quando este fizer um pedido de pesquisa específico à Smart TV clicando no botão de ativação no comando ou no ecrã, ou falando uma palavra que reative (por exemplo, “Hi, Bixby”) e falando ao microfone no comando ou Smart TV.
+Se o Cliente não ativar o Reconhecimento de Voz, não poderá utilizar as funcionalidades de reconhecimento de voz.
+Poderá desativar a recolha de dados do Reconhecimento de Voz a qualquer altura no menu Definições. Contudo, tal poderá impedir o Cliente de utilizar as funcionalidades do Reconhecimento de Voz.
+
+Para obter informações mais detalhadas sobre o Reconhecimento de Voz, deverá consultar o Aviso de Privacidade de Reconhecimento de Voz na parte inferior deste Suplemento.
+
+Terceiros
+É de salientar que, quando o Cliente vê um vídeo ou acede a aplicações ou conteúdo fornecido por terceiros, esse fornecedor poderá recolher ou receber informações sobre a Smart TV do Cliente (por exemplo, o respetivo endereço IP e os identificadores do dispositivo), a transação pedida (por exemplo, o pedido do Cliente para comprar ou alugar o vídeo) e a utilização que o Cliente faz da aplicação ou serviço. A Samsung não é responsável pelas práticas de privacidade ou segurança destes fornecedores. O Cliente deverá ser prudente e rever as declarações de privacidade aplicáveis aos Web sites e serviços de terceiros utilizados pelo mesmo.
+
+Funcionalidades Consoante o País
+Note que uma ou mais das funcionalidades descritas neste Suplemento da Smart TV poderão não estar disponíveis para o Cliente, dependendo do local onde reside.
+
+AVISO DE PRIVACIDADE DO SERVIÇO DE RECONHECIMENTO DE VOZ
+
+Data de Entrada em Vigor: 30 de abril de 2019
+
+A Samsung Electronics e as respetivas empresas afiliadas respeitam as preocupações do Cliente sobre privacidade. O presente Aviso de Privacidade aplica-se às informações pessoais que a Samsung recolhe através do serviço de Reconhecimento de Voz (o “Serviço de Voz”).
+
+O Serviço de Voz é um serviço que fornece capacidades para os utilizadores encontrarem e verem conteúdo, bem como gerirem o seu mundo com os produtos Samsung utilizando apenas a voz. As suas funcionalidades incluem o processamento de idioma natural na pesquisa de conteúdo e o controlo da respetiva Samsung Smart TV; Internet, meteorologia e outros serviços que os utilizadores esperam das respetivas Samsung Smart TVs.
+
+Consoante o idioma selecionado, o Cliente pode utilizar e desfrutar da funcionalidade de reconhecimento de voz otimizada, Bixby. Quando a Bixby está ativada, pode reconhecê-la através dos ícones, faixas ou outras marcas no ecrã da Samsung Smart TV.
+
+O presente Aviso de Privacidade fornece mais informações específicas sobre como as informações pessoais do Cliente são utilizadas em associação com o Serviço de Voz e deve ser lido em conjunto com a Política de Privacidade da Samsung, aplicável também à receção por parte do Cliente do Serviço de Voz, podendo ser encontrado em https://account.samsung.com/membership/pp.
+
+No presente Aviso de Privacidade, a Samsung descreve os tipos de informações recolhidas através do Serviço de Voz, a forma como a Samsung poderá utilizar as informações e as escolhas disponibilizadas ao Cliente relativamente à utilização que a Samsung faz das informações. A Samsung é o controlador de dados para o processamento de informações pessoais.
+
+QUAIS AS INFORMAÇÕES RECOLHIDAS PELA SAMSUNG?
+O Serviço de Voz permite obter informações sobre o Cliente de diversas formas. Os tipos de informações pessoais que a Samsung obtém incluem:
+
+•	Informações da Conta Samsung (Opcional). Quando o Cliente inicia sessão na conta Samsung na respetiva Smart TV, a Samsung recolhe informações associadas à conta Samsung do Cliente utilizada para aceder ao Serviço de Voz, tais como o nome, o endereço de e-mail e o ID da conta Samsung do Cliente.
+
+•	As Interações do Serviço de Voz. A Samsung pode recolher informações que o Cliente troca com o Serviço de Voz através das interações do Cliente com os Serviços, incluindo as gravações dos comandos de voz do Cliente (tais como perguntas, pedidos e instruções do Cliente), as imagens e outras ações de introdução de dados do Cliente, bem como as informações que o Cliente recebe dos Serviços (tais como respostas e conteúdo). A Samsung também pode obter outras informações relacionadas com a utilização que o Cliente faz do Serviço de Voz, incluindo informações (tais como as informações relacionadas com as aplicações utilizadas pelo Cliente, os Web sites que visita e as imagens, músicas, entradas da agenda, marcadores, conteúdo e dados de outras aplicações, Web sites e serviços da Samsung e de terceiros) que a Samsung recebe de aplicações e serviços da Samsung e de terceiros que são acedidos ou utilizados pelo Serviço de Voz para fornecer ao Cliente os Serviços (tais como transmissão de música e meteorologia).
+
+•	Dados de Geolocalização. A Samsung pode receber a geolocalização do dispositivo do Cliente e outras informações relacionadas com a localização do Cliente através de informações do código postal armazenadas na TV e que só podem ser obtidas através do endereço IP ou através da introdução de dados para determinados fins, tais como o fornecimento dos Serviços ao Cliente.
+
+•	Informações sobre Dispositivos e Aplicações. A Samsung pode recolher informações através de meios automatizados sobre os dispositivos do Cliente compatíveis com o Serviço de Voz, tais como modelos de dispositivo, versões do SO, configurações e definições de dispositivo, endereços IP, identificadores de dispositivo e outros identificadores exclusivos. Além disso, a Samsung pode obter informações sobre como, quando e por quanto tempo o Cliente utiliza os respetivos dispositivos compatíveis com o Serviço de Voz, incluindo a utilização que o Cliente faz do mesmo e de aplicações e serviços da Samsung e de terceiros nos dispositivos (tais como uma lista das aplicações existentes nos dispositivos do Cliente, da música reproduzida nos dispositivos do Cliente, dos Web sites que o Cliente visita e das pesquisas que este efetua).
+
+DE QUE FORMA A SAMSUNG UTILIZA AS INFORMAÇÕES DO CLIENTE?
+A Samsung pode utilizar as informações obtidas através do Serviço de Voz para:
+
+•	fornecer ao Cliente os Serviços, tais como responder aos pedidos do Cliente, bem como às perguntas e instruções efetuadas através do Serviço de Voz;
+•	identificar e autenticar o Cliente para que este possa utilizar o Serviço de Voz;
+•	melhorar e personalizar a experiência do Cliente com o Serviço de Voz, tais como o fornecimento de conteúdo e respostas adaptadas aos utilizadores da Samsung e a respetiva interação com o Serviço de Voz;
+•	com o consentimento do Cliente em separado, informar o Cliente sobre os produtos e serviços da Samsung e fornecer ao Cliente notificações, conteúdo, alertas, ofertas, promoções, informações de marketing, comunicações e publicidade;
+•	responder aos pedidos e perguntas do Cliente;
+•	operar, avaliar e melhorar o negócio da Samsung (incluindo o desenvolvimento de novos produtos; o melhoramento dos produtos e serviços da Samsung; a gestão das comunicações da Samsung; a análise dos produtos, da base de clientes e dos serviços da Samsung; a realização de estudos de mercado; a execução de análises de dados e de procedimentos de contabilidade, auditoria e outras funções internas);
+•	permitir que o Cliente interaja com e utilize determinadas aplicações e serviços de terceiros;
+•	proteger, identificar e impedir a fraude e outras atividades criminais, medidas cautelares e outras responsabilidades; e
+•	cumprir e aplicar os requisitos legais aplicáveis, normas relevantes da indústria e as políticas da Samsung, incluindo o presente Aviso de Privacidade, a Política de Privacidade da conta Samsung.
+
+O Serviço de Voz permite à Samsung recolher informações pessoais sobre as atividades online do Cliente nos dispositivos compatíveis com o Serviço de Voz ao longo do tempo e em aplicações, Web sites e outros serviços online de terceiros. A Samsung poderá utilizar serviços de análises de terceiros nos respetivos Serviços. Os fornecedores que administram estes serviços de análises ajudam a Samsung a analisar a utilização que o Cliente faz dos Serviços e a melhorar os Serviços da Samsung. As informações que a Samsung obtém poderão ser divulgadas ou recolhidas diretamente por estes fornecedores e outras entidades de terceiros relevantes que utilizam as informações, por exemplo, para avaliar a utilização dos Serviços, para ajudar a fornecer os Serviços e para diagnosticar problemas técnicos.
+
+A Samsung processa informações pessoais para os fins descritos acima. A base legal da Samsung para processar dados pessoais inclui o processamento que seja: necessário para o desempenho do contrato entre o Cliente e a Samsung (por exemplo, para fornecer ao Cliente os Serviços e para identificar e autenticar o Cliente para que este possa utilizar determinados Serviços); necessário para cumprir os requisitos legais (por exemplo, para cumprir as regras de contabilidade aplicáveis e para proceder a divulgações obrigatórias para a aplicação da lei); necessário para os interesses legítimos da Samsung (por exemplo, para gerir as relações entre a Samsung e o Cliente e para melhorar os Serviços); e baseado no consentimento dos clientes da Samsung (por exemplo, para informar o Cliente sobre os produtos e serviços da Samsung e fornecer ao Cliente informações de marketing), que poderão ser subsequentemente retiradas em qualquer altura ao contactar a Samsung conforme especificado na secção Contactar da presente Política de Privacidade da Samsung sem afetar a legitimidade do processamento com base no consentimento antes da sua retirada.
+
+O Cliente deverá celebrar um contrato para fornecer à Samsung informações pessoais para o processamento conforme descrito acima. Se o Cliente não fornecer informações pessoais à Samsung, não será possível fornecer-lhe todas as funcionalidades disponíveis através do Serviço de Voz.
+
+ESCOLHAS DO CLIENTE
+O Cliente poderá desativar o Serviço de Voz em qualquer altura ao visitar o menu Definições, no entanto, essa ação poderá impedi-lo de utilizar o Serviço de Voz.
+
+Além disso, a Samsung oferece ao Cliente determinadas opções relativamente às informações pessoais sobre o Cliente obtidas pela Samsung. Para atualizar as preferências do Cliente, limitar as comunicações que este recebe da Samsung ou submeter um pedido, deverá entrar em contacto com a Samsung conforme especificado na secção Como Contactar a Samsung da presente Política de Privacidade da Samsung
+
+ATUALIZAÇÕES AO AVISO DE PRIVACIDADE DA SAMSUNG 
+O presente Aviso de Privacidade poderá ser atualizado periodicamente para refletir alterações nas práticas de informações pessoais da Samsung relativamente aos Serviços ou alterações na lei aplicável. A Samsung publicará um aviso no Web site da Samsung e/ou no dispositivo do Cliente a informar o mesmo sobre quaisquer alterações significativas no Aviso de Privacidade da Samsung e a indicar na parte superior do aviso a data da realização da atualização mais recente.
+
+AVISO DE PRIVACIDADE DO SERVIÇO DE ANÚNCIOS BASEADOS EM INTERESSES
+
+Data de Entrada em Vigor: 30 de abril de 2019
+
+A Samsung Electronics e as respetivas empresas afiliadas respeitam as preocupações do Cliente sobre privacidade. O presente Aviso de Privacidade aplica-se às informações pessoais que a Samsung recolhe através dos serviços de Anúncios Baseados em Interesses (o “Serviço IBA”).
+
+O presente Aviso de Privacidade fornece mais informações específicas sobre como as informações pessoais do Cliente são utilizadas em associação com o Serviço IBA e deve ser lido em conjunto com a Política de Privacidade da Samsung, aplicável também à receção por parte do Cliente do Serviço IBA, podendo ser encontrado em https://account.samsung.com/membership/pp.
+
+Neste Aviso de Privacidade, a Samsung descreve os tipos de informações utilizados através dos Anúncios Baseados em Interesses, a forma como a Samsung utiliza as informações e as opções disponibilizadas ao Cliente relativamente à utilização que a Samsung faz das informações e na execução dos direitos deste. A Samsung é o controlador de dados para o processamento de informações pessoais.
+
+O QUE É O SERVIÇO IBA?
+O Serviço IBA foi concebido para proporcionar a capacidade de obter e ver anúncios baseados em interesses úteis e interativos sobre os produtos e serviços disponibilizados pela Samsung e terceiros na Samsung Smart TV do Cliente ou em várias plataformas ou dispositivos da Samsung e de terceiros, incluindo em anúncios publicitários lineares, na Web, em dispositivos móveis e em tablets.
+
+Para que a publicidade nos dispositivos do Cliente seja mais relevante, o Serviço IBA vai basear-se no histórico de visualização de TV do Cliente (incluindo informações sobre as redes, canais, Web sites visitados e programas visualizados na Samsung Smart TV do Cliente, bem como o tempo gasto na respetiva visualização), nas informações de utilização da Samsung Smart TV e noutros dados estatísticos obtidos a partir de fontes de dados de terceiros fidedignas. A Samsung poderá utilizar o reconhecimento de conteúdo automático (ACR) e outras tecnologias para capturar o histórico de visualização de TV do Cliente.
+
+Com base nas informações acima, a Samsung cria grupos de proprietários de Samsung Smart TV que partilham interesses semelhantes e utilizam estes grupos para o Serviço IBA. As informações acima são utilizadas para determinar os grupos aos quais a Samsung Smart TV do Cliente está atribuída e, deste modo, os anúncios que os dispositivos do Cliente recebem.
+
+PSID
+As informações sobre a utilização do dispositivo do Cliente recolhidas com o objetivo de proporcionar o Serviço IBA serão associadas a um identificador de dispositivo com reposição, não permanente e aleatório, designado de PSID. Poderá repor o PSID consoante especificado na secção Escolhas do Cliente da presente Notificação de Privacidade.
+
+QUAIS AS INFORMAÇÕES RECOLHIDAS PELA SAMSUNG?
+O Serviço IBA permite obter informações sobre os dispositivos do Cliente de diversas formas. Os tipos de informações que a Samsung obtém incluem:
+•	Informações do Dispositivo. A Samsung recolhe informações como o modelo do dispositivo, versões do sistema operativo, configurações e definições de dispositivo, endereço IP, identificadores de dispositivo e outros identificadores.
+•	Informações de Registo e Utilização do Dispositivo. A Samsung recolhe informações sobre como, quando e por quanto tempo o Cliente utiliza os respetivos dispositivos, incluindo as interações com o Serviço IBA e com aplicações e serviços da Samsung e de terceiros nos dispositivos (como uma lista das aplicações nos dispositivos do Cliente).
+•	Informações de Visualização. A Samsung procede à recolha do histórico de visualização de TV do Cliente. O histórico de visualização de TV do Cliente inclui informações sobre as redes, os canais, os Web sites visitados e os programas visualizados na Samsung Smart TV do Cliente, bem como o tempo gasto na respetiva visualização. A Samsung poderá utilizar ACR e outras tecnologias para capturar este histórico de visualização de TV.
+•	Informações Estatísticas. A Samsung poderá utilizar informações estatísticas sobre o Cliente ou os respetivos dispositivos, como a localização generalizada e o grupo etário estimado. A Samsung obtém estas informações estatísticas a partir de fontes comercialmente disponíveis (consoante permitido por lei), tal como os nossos fornecedores de serviços de terceiros. A Samsung trabalha com fornecedores de serviços de terceiros apenas para garantir que estas informações são obtidas em conformidade com a lei aplicável e que podem ser disponibilizadas à Samsung para fins de utilização e divulgação.
+
+Os servidores da Samsung recebem informações quando o Cliente interage com o Serviço IBA, tais como informações sobre as respetivas interações com o Serviço IBA, a respetiva geolocalização e os dispositivos que o Cliente utiliza para receber o Serviço IBA.
+
+DE QUE FORMA A SAMSUNG UTILIZA AS INFORMAÇÕES DO CLIENTE?
+A Samsung utiliza as informações obtidas através do Serviço IBA para:
+
+•	fornecer o Serviço IBA ao Cliente;
+•	melhorar e personalizar a experiência do Cliente com o Serviço IBA;
+•	com o consentimento do Cliente em separado, comunicar com o Cliente via e-mail e notificação push sobre produtos e serviços disponibilizados pela Samsung e por terceiros adaptados aos interesses do Cliente;
+•	responder aos pedidos e perguntas do Cliente;
+•	operar, avaliar e melhorar o negócio da Samsung (incluindo o desenvolvimento de novos produtos; o melhoramento dos produtos e serviços da Samsung; a gestão das comunicações da Samsung; a análise dos produtos, da base de clientes e dos serviços da Samsung; a realização de estudos de mercado; a execução de análises de dados e de procedimentos de contabilidade, auditoria e outras funções internas); 
+•	proteger, identificar e impedir a fraude e outras atividades criminais, medidas cautelares e outras responsabilidades; e
+•	cumprir e aplicar os requisitos legais aplicáveis, normas relevantes da indústria e as políticas da Samsung, incluindo o presente Aviso de Privacidade, a Política de Privacidade da conta Samsung.
+
+A Samsung processa informações pessoais para os fins descritos acima. A base legal da Samsung para processar informações pessoais inclui o processamento que seja: necessário para o desempenho do contrato entre o Cliente e a Samsung (por exemplo, para fornecer ao Cliente o Serviço IBA e para identificar e autenticar o Cliente); necessário para cumprir os requisitos legais (por exemplo, para cumprir as regras de contabilidade aplicáveis e para proceder a divulgações obrigatórias para a aplicação da lei); necessário para os interesses legítimos da Samsung (por exemplo, para gerir as relações entre a Samsung e o Cliente e para melhorar o Serviço IBA); e que seja baseado no consentimento dos clientes da Samsung (por exemplo, para informar o Cliente sobre os produtos e serviços da Samsung e fornecer ao Cliente as informações de marketing), que poderá ser subsequentemente retirado em qualquer altura ao aceder ao menu Definições conforme especificado na secção Escolhas do Cliente do presente Aviso de Privacidade sem afetar a legitimidade do processamento com base no consentimento antes da sua retirada.
+
+O Cliente, para poder receber o Serviço IBA, deverá fornecer informações pessoais à Samsung para o processamento acima descrito. Se o Cliente não fornecer informações pessoais à Samsung, não será possível fornecer-lhe todas as funcionalidades disponíveis através do Serviço IBA.
+
+ESCOLHAS DO CLIENTE
+O Cliente poderá repor o PSID em qualquer altura ao aceder ao menu de definições. Uma vez reposto, o histórico de visualização de TV e as informações de utilização da Smart TV serão desassociadas do respetivo PSID anterior. Tenha em atenção que, se efetuar a reposição do PSID, a qualidade do Serviço IBA poderá ser afetada.
+
+Adicionalmente, o Cliente poderá desativar o Serviço IBA em qualquer altura ao aceder ao menu Definições na respetiva Samsung Smart TV.
+
+Tenha em consideração que, relativamente ao Serviço IBA, a opção de privacidade do Cliente não afetará a possibilidade de receber ou visualizar outros tipos de anúncios e marketing que não se baseiem especificamente nas informações do histórico de visualização de TV ou de utilização da Samsung Smart TV. Esses outros tipos de anúncios e de marketing basear-se-ão noutras informações, como a localização generalizada e outras informações estimadas ou inferidas. Poderão ser menos relevantes, uma vez que não se baseiam nos interesses do Cliente.
+
+ATUALIZAÇÕES AO AVISO DE PRIVACIDADE DA SAMSUNG 
+O presente Aviso de Privacidade poderá ser atualizado periodicamente para refletir alterações nas práticas de informações pessoais da Samsung relativamente ao Serviço IBA ou alterações na lei aplicável. A Samsung publicará um aviso no Web site da Samsung e/ou no dispositivo do Cliente a informar o mesmo sobre quaisquer alterações significativas no Aviso de Privacidade da Samsung e a indicar na parte superior do aviso a data da realização da atualização mais recente.
+
+Os produtos de impressão e de cópia da Samsung estão agora incluídos na família de produtos da HP. Consulte a Declaração de Privacidade da HP no seguinte Web site: http://www.hp.com/go/privacy.

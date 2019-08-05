@@ -1,0 +1,335 @@
+﻿INFORMATIVA SULLA PRIVACY DI SAMSUNG - SINTESI
+
+Samsung Electronics è consapevole dell'importanza della privacy per i propri clienti. Ritiene quindi importante aiutare gli utenti a comprendere in che modo vengono raccolti e utilizzati i dati personali in tutti i dispositivi e servizi Samsung, quali telefoni cellulari, tablet, televisori, elettrodomestici, servizi online e così via.
+
+La presente Informativa sulla privacy si applica a tutti i servizi. Verranno anche fornite ulteriori informazioni sulla privacy relative a specifici servizi, laddove necessario.
+
+INFORMAZIONI GENERALI SUI DATI PERSONALI
+
+Samsung raccoglie dati personali forniti direttamente dall'utente, informazioni sull'utilizzo dei servizi da parte dell'utente e informazioni ottenute da terze parti. Questi dati vengono utilizzati per fornire i servizi, per comprendere in che modo vengono utilizzati i servizi allo scopo di migliorare e personalizzare l'esperienza dell'utente e per sviluppare le app, le tecnologie e i contenuti più pertinenti per i clienti. I dati personali vengono utilizzati anche per presentare annunci pubblicitari mirati in base agli interessi dell'utente.
+
+CONDIVISIONE DEI DATI PERSONALI
+
+I dati personali potranno essere condivisi con le affiliate di Samsung Electronics e con società che erogano servizi per conto di Samsung Electronics. I dati personali dell'utente potranno essere condivisi anche con società partner affidabili, ad esempio provider di servizi di telefonia mobile o compagnie di assicurazioni, che forniscono prodotti e servizi richiesti dall'utente stesso e informazioni sui prodotti e servizi che possono essere di interesse per l'utente. I dati personali vengono condivisi con le forze dell'ordine qualora ciò sia richiesto per legge o per proteggere Samsung Electronics e i relativi utenti.
+
+1. QUALI INFORMAZIONI VENGONO RACCOLTE? 
+2. COME UTILIZZA SAMSUNG LE INFORMAZIONI DELL'UTENTE? 
+3. CON CHI VENGONO CONDIVISE LE INFORMAZIONI DELL'UTENTE? 
+4. COME MANTIENE SAMSUNG LE INFORMAZIONI DELL'UTENTE SICURE? 
+5. DOVE VENGONO INVIATI I DATI? 
+6. DIRITTI DELL’UTENTE 
+7. PER QUANTO TEMPO CONSERVA SAMSUNG LE INFORMAZIONI DELL'UTENTE? 
+8. QUALI SERVIZI DI TERZI UTILIZZA SAMSUNG? 
+9. CONTATTACI
+
+INFORMATIVA SULLA PRIVACY DI SAMSUNG
+
+Data di entrata in vigore: 30 aprile 2019
+
+La presente Informativa sulla privacy si applica a tutti i dispositivi e servizi Samsung, quali telefoni cellulari, tablet, televisori, elettrodomestici, servizi online e così via (collettivamente denominati ”Servizi”).
+
+È importante verificare spesso l'Informativa sulla privacy per conoscere gli eventuali aggiornamenti. La presente Informativa sulla privacy potrà essere aggiornata periodicamente per tenere conto delle modifiche apportate alle procedure di Samsung sui dati personali in relazione ai Servizi oppure delle variazioni di legge. Samsung pubblicherà una comunicazione sul proprio sito Web o sul dispositivo dell’utente per informarlo in anticipo delle modifiche sostanziali apportate all’Informativa sulla privacy e indicherà la data dell’ultimo aggiornamento nella parte superiore dell'Informativa sulla privacy. La versione più aggiornata dell'Informativa sulla privacy è sempre disponibile all'indirizzo: https://account.samsung.com/membership/pp.
+
+QUALI INFORMAZIONI VENGONO RACCOLTE?
+
+Samsung Electronics raccoglie dati personali dell’utente in diversi modi.
+
+Informazioni fornite direttamente dall'utente
+
+Alcuni servizi consentono all'utente di fornire direttamente a Samsung alcune informazioni. Ad esempio:
+
+•	Durante la creazione di un account o profilo Samsung, è possibile che venga chiesto all'utente di specificare il proprio nome, la propria data di nascita o il proprio indirizzo e-mail.
+•	Se l'utente ordina un prodotto o servizio a pagamento, Samsung può chiedere di fornire nome, indirizzo, informazioni di contatto e informazioni per la spedizione e il pagamento al fine di elaborare l'ordine.
+•	Per rispondere alle richieste inviate al servizio di assistenza clienti possono essere necessarie informazioni per verificare l'identità del cliente e il prodotto oggetto della richiesta.
+•	Quando l'utente comunica con il personale del servizio di assistenza clienti o di altri servizi, le comunicazioni vengono trasmesse attraverso i sistemi Samsung.
+•	Se l’utente condivide i propri contatti, Samsung raccoglierà i relativi numeri di telefono e altre informazioni di contatto per facilitare la condivisione dei file e lo scambio di messaggi. L'utente può disattivare o limitare queste funzionalità nelle impostazioni dei dispositivi.
+
+Informazioni sull'utilizzo che l'utente fa dei Servizi
+
+Oltre ai dati forniti dall’utente, Samsung raccoglierà dati sull’utilizzo dei Servizi da parte dell’utente tramite il software sui suoi dispositivi e con altri mezzi. Dati raccolti da Samsung:
+
+•	Informazioni sul dispositivo: modello hardware, informazioni sull’hardware del dispositivo, codice IMEI e altri identificativi univoci del dispositivo, numero di telefono, numero di serie, codice di vendita, registrazioni degli accessi, versione software attuale, codice MCC (Mobile Country Code), codice MNC (Mobile Network Code), indirizzo MAC, indirizzo IP, cookie, pixel, informazioni relative alla sottoscrizione, versioni del sistema operativo e impostazioni dei dispositivi usati dall’utente per accedere ai Servizi.
+•	Dati di log: informazioni diagnostiche, tecniche e relative agli errori e all'utilizzo, ad esempio l'orario e la durata di utilizzo dei Servizi, i termini delle query di ricerca immessi per le ricerche nel dispositivo in relazione a uno specifico servizio Samsung e qualsiasi informazione memorizzata nei cookie installati sui dispositivi dell’utente.
+•	Informazioni sulla posizione: segnale GPS del dispositivo o informazioni sui ripetitori e i punti di accesso Wi-Fi nelle vicinanze, che possono essere trasmesse a Samsung quando l’utente utilizza determinati Servizi e abilita la funzione di localizzazione.
+•	Informazioni vocali: registrazioni della voce dell’utente eseguite da Samsung e memorizzate sui suoi server quando l’utente utilizza i comandi vocali per controllare un Servizio o quando contatta il team del servizio di assistenza clienti. Tenere presente che, qualora i servizi di conversione da voce a testo siano forniti da un provider di servizi esterno che opera per conto di Samsung, tale provider potrebbe ricevere e conservare determinati comandi vocali ai sensi del contratto stipulato tra Samsung e il suo provider di servizi esterno di fiducia.
+•	Informazioni sulla tastiera Samsung: parole digitate dall'utente quando è abilitata la funzione Previsione testo. Questa funzione può essere offerta insieme all'account Samsung dell’utente per sincronizzare i dati da utilizzare sugli altri dispositivi mobili Samsung dell’utente. I dati digitati possono essere cancellati nelle impostazioni di Previsione testo.
+•	Informazioni sulla visione: reti, canali, siti Web visitati e programmi visti sui dispositivi dell'utente e quantità di tempo dedicata alla loro visione.
+•	Altre informazioni sull'utilizzo dei Servizi, come le app utilizzate, i siti Web visitati e le modalità di interazione con il contenuto offerto mediante un Servizio.
+
+Informazioni disponibili o condivise a livello pubblico o commerciale
+
+Talvolta Samsung può raccogliere informazioni disponibili a livello pubblico o commerciale, comprese le informazioni acquisite dai social network utilizzati dall'utente, e combinarle con altre informazioni riguardanti l'utente per comprendere meglio le sue esigenze, i suoi interessi e le sue preferenze. In alcuni casi Samsung raccoglie informazioni sull'utente anche quando queste vengono fornite da altri utenti tramite i Servizi, ad esempio il nome e le informazioni di contatto quando altre persone inviano un messaggio all'utente o condividono file con l'utente.
+
+Altre informazioni raccolte da Samsung
+
+Samsung può inoltre raccogliere altre informazioni riguardanti l'utente, i suoi dispositivi o l'utilizzo dei Servizi che l'utente abbia acconsentito a inviare.
+
+Servizi di analisi di terzi.
+
+Tramite alcuni Servizi, Samsung può raccogliere dati personali riguardanti le attività online svolte nel tempo dall’utente su siti Web e dispositivi connessi, nonché su siti Web, dispositivi e altre funzionalità e servizi online di terzi. Samsung potrà utilizzare servizi di analisi di terzi, ad esempio Google Analytics. I provider di servizi che gestiscono tali servizi di analisi aiutano Samsung ad analizzare l'utilizzo dei Servizi da parte dell'utente e a migliorare i Servizi. I dati che Samsung ottiene potranno essere divulgati a, o direttamente raccolti da, tali provider e altri terzi pertinenti che li utilizzeranno, ad esempio, per valutare l'uso dei Servizi, per facilitare l'amministrazione dei Servizi e per diagnosticare problemi tecnici. Per ulteriori informazioni su Google Analytics, visitare http://www.google.com/analytics/learn/privacy.html e https://www.google.com/policies/privacy/partners/.
+
+Opzioni a disposizione dell'utente
+
+L'utente può scegliere di non fornire alcuni tipi di informazioni, ad esempio quelle richieste durante la registrazione dell'account Samsung. In alcuni casi, questo può limitare la possibilità di utilizzare alcuni Servizi. Queste limitazioni saranno illustrate il più possibile nel momento in cui viene richiesto di fornire informazioni personali, per consentire all'utente di prendere una decisione informata. Ad esempio, Samsung Cloud consente di eseguire il backup delle informazioni e di creare un punto di ripristino, ma Samsung Cloud non è progettato né pensato per l'archiviazione o l'elaborazione di dati sensibili.
+
+COME UTILIZZA SAMSUNG LE INFORMAZIONI DELL'UTENTE?
+
+La Società tratta i dati che raccoglie per le seguenti finalità:
+•	Agevolare la registrazione dell'utente o del suo dispositivo per i Servizi
+•	Fornire un Servizio o una funzione richiesta dall'utente
+•	Fornire contenuti e servizi personalizzati in base alle attività precedenti dell'utente sui Servizi Samsung
+•	Fornire annunci pubblicitari personalizzati, promozioni e offerte che potrebbero essere di interesse per l'utente sui nostri siti Web, su siti Web di terzi e su piattaforme online come i siti di social media
+•	Fornire promozioni e offerte mediante comunicazioni di direct marketing, solo dietro consenso specifico dell'utente
+•	Analizzare i prodotti e servizi di Samsung per meglio comprendere i clienti al fine di offrire le comunicazioni, i servizi e le esperienze più pertinenti per loro
+•	Chiedere all’utente di esprimere la propria opinione riguardo ai prodotti e ai servizi e svolgere sondaggi sulla clientela, con il suo consenso specifico, se previsto
+•	Fornire aggiornamenti software, servizi di manutenzione e assistenza per i dispositivi dell’utente
+•	Attenersi alle disposizioni di legge e a quanto sancito nell'ambito di un'azione legale
+•	Proteggere i diritti, la proprietà o la sicurezza di Samsung Electronics o di una qualsiasi delle sue affiliate, dei suoi partner commerciali o dei suoi clienti
+
+Le informazioni relative all'utente che vengono raccolte dai Servizi, dai dispositivi o da altre fonti vengono combinate per fornire un'esperienza utente ottimale. Ad esempio, i dettagli dell'account Samsung dell'utente possono essere utilizzati non solo nei Servizi per cui l'utente ha effettuato la registrazione, ma anche in altri Servizi che utilizzano gli account Samsung. Le informazioni fornite direttamente dall'utente o tramite altre fonti vengono utilizzate anche nei modi descritti sopra per fornire all'utente contenuti che possono essere di suo gradimento o che ha personalizzato. 
+
+L'utente può operare alcune scelte in relazione alle informazioni che lo riguardano. Per saperne di più, fare riferimento alla sezione DIRITTI DELL'UTENTE.
+
+[Solo per residenti nello Spazio Economico Europeo (SEE)]
+
+Samsung tratta i dati personali per le finalità descritte sopra. Il trattamento dei dati personali da parte di Samsung è legale qualora sia:
+(i)	tale da consentire alla società di rispettare gli impegni presi con l'utente, ad esempio per fornire un Servizio
+(ii)	finalizzato alla promozione degli interessi commerciali di Samsung (ad esempio per gestire il rapporto con l'utente e migliorare l'esperienza di servizio del cliente), comprese le comunicazioni sul nostro sito Web, su siti Web di terzi e su piattaforme online
+(iii)	necessario per attenersi alle disposizioni di legge e a quanto sancito nell'ambito di un'azione legale
+(iv)	basato sul consenso dell'utente, ad esempio per l'invio di comunicazioni di direct marketing. Tale consenso potrà essere revocato in qualsiasi momento contattando Samsung come indicato nella sezione CONTATTACI della presente Informativa sulla privacy.
+
+Samsung Electronics è il titolare del trattamento dei dati personali di cui sopra. Per alcune comunicazioni di direct marketing e alcune pubblicità personalizzate in Europa, il titolare del trattamento dei dati personali è anche Samsung Electronics (UK) Limited, società con sede nel Regno Unito. Alcune consociate europee di Samsung trattano i dati personali degli utenti nei propri paesi. Laddove applicabile, la consociata europea di Samsung interessata fornirà un'apposita spiegazione nella propria Informativa sulla privacy sul proprio sito Web.
+
+CON CHI VENGONO CONDIVISE LE INFORMAZIONI DELL'UTENTE?
+
+Le informazioni dell'utente vengono divulgate all'interno dell'azienda, ma solo alle persone che hanno la necessità di conoscerle per fornire Servizi o per rispondere a una richiesta. 
+
+Le informazioni dell'utente verranno divulgate anche alle seguenti entità, solo nella misura in cui ciò sia necessario per l’erogazione dei Servizi:
+
+•	Consociate: altre società del Gruppo Samsung Electronics di cui Samsung è controllante o proprietaria. 
+•	Partner commerciali: partner con cui Samsung collabora per fornire i Servizi richiesti o acquistati dall'utente. Ad esempio, la collaborazione con una banca può essere necessaria per eseguire pagamenti in modo più rapido ed efficiente mediante l'utilizzo di uno dei Servizi. Questi partner commerciali controllano e gestiscono i dati personali dell'utente.
+•	Provider di servizi: aziende attentamente selezionate che prestano servizi a nome o per conto di Samsung, come le aziende che collaborano con Samsung nell'ambito delle riparazioni, dei centri di contatto clienti, delle attività di assistenza ai clienti, della pubblicità (inclusi gli annunci pubblicitari personalizzati sui siti Web Samsung, su siti Web di terzi o su piattaforme online), delle indagini sulla soddisfazione del cliente o della fatturazione o che inviano e-mail per conto di Samsung. Questi provider si impegnano anche a proteggere i dati dell’utente.
+•	Altre parti, quando ciò sia richiesto per legge o indispensabile per tutelare i Servizi: la divulgazione dei dati personali dell'utente può ad esempio essere necessaria per conformarsi alle norme di legge, a quanto sancito nell'ambito di un'azione legale o a un provvedimento di un tribunale. I dati dell'utente possono inoltre essere richiesti da autorità governative per finalità di ordine pubblico, sicurezza nazionale, anti-terrorismo o altre questioni di pubblica sicurezza.
+•	Altre parti nell'ambito di transazioni aziendali: i dati dell'utente possono essere comunicati a terzi nel contesto di una procedura di fusione, cessione, acquisizione, vendita o fallimento.
+•	Altre parti, dietro consenso e istruzione dell'utente: oltre ai casi di divulgazione descritti nella presente Informativa sulla privacy, Samsung può condividere con terze parti le informazioni sull’utente quando quest’ultimo presti il suo consenso specifico o ne faccia richiesta.
+
+COME MANTIENE SAMSUNG LE INFORMAZIONI DELL'UTENTE SICURE?
+
+Samsung prende in seria considerazione la protezione dei dati dell’utente e ha adottato adeguate misure tecniche e fisiche per proteggere le informazioni raccolte. Si tenga tuttavia presente che, benché Samsung adotti precauzioni ragionevoli per proteggere le informazioni, nessun sito Web, trasmissione tramite Internet, computer o connessione wireless è completamente sicura.
+
+DOVE VENGONO INVIATI I DATI?
+
+L’utilizzo dei Servizi Samsung da parte dell’utente implicherà il trasferimento, la memorizzazione e il trattamento dei suoi dati personali all'interno e all'esterno del suo paese di residenza, secondo le modalità descritte nella presente informativa. In particolare, i dati personali verranno trasferiti nella Repubblica di Corea. Si tenga presente che le leggi sulla protezione dei dati e le altre leggi dei paesi in cui possono essere trasferite le informazioni possono non essere ampie quanto quelle in vigore nel paese dell'utente.
+
+[Solo per residenti nello Spazio Economico Europeo (SEE)]
+
+Inoltre, l’utilizzo dei Servizi da parte dell’utente potrà implicare il trasferimento, la memorizzazione e il trattamento dei suoi dati personali in altri paesi. Detti paesi comprendono, senza limitazione, i Paesi dello Spazio Economico Europeo, Stati Uniti d’America, Cina, Singapore, Vietnam, India, Canada, Filippine e Giappone. Samsung adotterà precauzioni appropriate, in conformità alla legge applicabile, per garantire che i dati personali dell’utente rimangano protetti. Tali misure comprendono l’uso delle Clausole contrattuali tipo a salvaguardia del trasferimento dei dati al di fuori dello SEE. Per richiedere ulteriori informazioni o una copia degli accordi contrattuali vigenti, contattare Samsung. Vedere la sezione CONTATTACI. 
+
+DIRITTI DELL’UTENTE
+
+I dati personali dell'utente appartengono all'utente stesso. È possibile ottenere dettagli sulle informazioni raccolte, nonché richiedere la cancellazione o correzione di eventuali imprecisioni. L'utente può inoltre richiedere a Samsung di limitare o circoscrivere il trattamento, la condivisione o il trasferimento dei suoi dati personali, nonché di fornire i dati personali relativi all'utente che sono stati raccolti, per utilizzarli per scopi personali. La richiesta di eliminare i dati personali, tuttavia, potrebbe comportare la perdita dell'accesso ai Servizi forniti da Samsung. Non verranno cancellati i dati per cui sussiste l'obbligo di conservazione per legge.
+
+Per inviare una richiesta riguardante i propri diritti o per richiedere informazioni, contattare Samsung. Vedere la sezione CONTATTACI.
+
+PER QUANTO TEMPO CONSERVA SAMSUNG LE INFORMAZIONI DELL'UTENTE?
+
+Samsung non conserverà i dati personali dell’utente per un tempo superiore al necessario per le finalità per cui sono stati raccolti. Ciò significa che i dati saranno distrutti o cancellati dai sistemi Samsung quando non saranno più necessari.
+
+Samsung adotta misure adeguate per garantire che i dati dell’utente vengano trattati e conservati in base ai seguenti principi:
+
+1.	Almeno per il tempo necessario a erogare un servizio all’utente 
+2.	In conformità alla legge, a un contratto o relativamente agli obblighi legali di Samsung
+3.	Solo per il tempo necessario ad adempiere allo scopo per il quale vengono raccolti e trattati o per un tempo più lungo, qualora sia richiesto ai sensi di un contratto, della legge vigente o per fini statistici, purché soggetti a tutele appropriate.
+
+QUALI SERVIZI DI TERZI UTILIZZA SAMSUNG?
+
+Alcuni contenuti, annunci pubblicitari e funzionalità presenti nei Servizi Samsung sono forniti da terzi. Tali terzi possono utilizzare cookie, beacon, pixel di tracciamento e altri strumenti per raccogliere informazioni riguardanti l'utilizzo di tali Servizi da parte dell'utente. Tali terzi non sono controllati direttamente da Samsung, pertanto si consiglia di leggere le rispettive informative sulla privacy per scoprire in che modo utilizzano i dati dell'utente.
+Per alcune app e alcuni servizi, inclusi i social network, Samsung riceve e archivia le credenziali di accesso e altre informazioni che l'utente permette a Samsung di ricevere quando si connette a tali app e servizi.
+
+CONTATTACI
+
+L'utente può contattare Samsung per aggiornare le proprie preferenze, correggere i propri dati, inviare una richiesta o porre domande.
+
+In alternativa, è possibile contattare Samsung all'indirizzo:
+
+Titolare del trattamento
+Samsung Electronics Co., Ltd.
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+[Solo per residenti nello Spazio Economico Europeo (SEE)]
+
+Samsung Electronics dispone di uffici in tutta Europa ed è quindi in grado di assicurare che le richieste o domande vengano gestite dal team titolare del trattamento che opera nell'area geografica dell'utente.
+
+Il modo più semplice per contattare Samsung consiste nell'utilizzare la pagina Supporto Privacy all'indirizzo https://www.samsung.com/request-desk. 
+
+In alternativa, è possibile contattare Samsung all'indirizzo:
+
+Titolare del trattamento per l'UE
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+
+L’utente può sporgere denuncia all’autorità di controllo pertinente qualora ritenga che il trattamento dei propri dati personali da parte di Samsung violi la legge applicabile. I recapiti di tutte le autorità di controllo della UE sono disponibili all'indirizzo https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+INFORMATIVA SULLA PRIVACY DI SAMSUNG – SUPPLEMENTO PER SMART TV
+
+Il servizio Smart TV di Samsung offre una serie di funzionalità che offrono contenuto video migliorato, esperienze TV personalizzate, film, connessione ai social network e la possibilità di controllare e interagire con lo Smart TV tramite i comandi vocali. Samsung raccoglie, utilizza, condivide e memorizza informazioni tramite lo Smart TV e i dispositivi connessi allo Smart TV secondo le modalità descritte nell'Informativa sulla privacy di Samsung. Il presente Supplemento fornisce ulteriori dettagli sulla gestione della privacy di alcune funzionalità dello Smart TV.
+
+Lo Smart TV è studiato per permettere all'utente di trovare e accedere facilmente alla programmazione video e ad altri contenuti. Attraverso le guide ricercabili visualizzate sullo Smart TV, ad esempio, è possibile accedere alle informazioni sui programmi televisivi in diretta distribuiti dall'operatore satellitare e all'offerta di contenuto video on-demand di fornitori di contenuti di terze parti.
+Nel caso dei programmi televisivi in diretta, Samsung determina il contenuto disponibile all'utente in base al suo codice postale. Lo Smart TV, inoltre, permette di trovare e fruire di altro contenuto Smart TV pertinente per l'utente, evidenziando la programmazione e il contenuto che può essere di suo interesse o fornendo servizi aggiuntivi che ne arricchiscono l'esperienza. Samsung basa tali raccomandazioni e servizi aggiuntivi su:
+•	informazioni sul contenuto che l'utente ha visualizzato, acquistato, scaricato o fruito in streaming attraverso le applicazioni Samsung sullo Smart TV o su altri dispositivi (per informazioni sulla visualizzazione del TV, vedere la sezione "Servizi basati sulle informazioni di visualizzazione" riportata di seguito);
+•	informazioni sulle applicazioni a cui l'utente ha eseguito l'accesso attraverso lo Smart TV;
+•	informazioni sui clic eseguiti sui pulsanti “Mi piace”, “Non mi piace più”, “Guarda ora” e altri pulsanti dello Smart TV;
+•	i termini delle query immessi nelle funzionalità di ricerca dello Smart TV, comprese le ricerche di contenuti video particolari;
+•	Altre informazioni sull'utilizzo dello Smart TV e sul dispositivo, ad esempio indirizzo IP, dati di log, informazioni che identificano la configurazione hardware o software, informazioni sul browser e le pagine richieste dall'utente.
+
+Servizi basati sulle informazioni di visualizzazione
+Il presente Supplemento deve essere letta unitamente all'Informativa sulla privacy di Samsung, che è applicabile anche alla ricezione di esperienze Smart TV personalizzate ed è disponibile all'indirizzo https://account.samsung.com/membership/pp.
+Per fornire esperienze Smart TV personalizzate agli utenti, alcune delle funzioni e dei servizi si basano sulla cronologia di visualizzazione del TV e sulle informazioni di utilizzo dello Smart TV.
+La cronologia di visualizzazione del TV include informazioni su reti, canali, siti Web visitati e programmi visti sullo Smart TV e sulla quantità di tempo dedicata alla loro visione.
+Per acquisire queste informazioni, potrebbero venire usati il riconoscimento automatico dei contenuti (ACR) e altre tecnologie. Per determinare quali programmi sono stati guardati, lo Smart TV trasmette frammenti di video oppure informazioni sul sintonizzatore TV.
+È possibile modificare tale scelta relativa alla privacy in qualsiasi momento andando al menu delle impostazioni e disattivare una funzione o un servizio particolari a propria discrezione. In questo caso, la cronologia di visualizzazione del TV non verrà più registrata.
+
+[Solo per residenti nello Spazio Economico Europeo (SEE)]
+
+L’utilizzo dei Servizi Samsung da parte dell’utente implicherà il trasferimento, la memorizzazione e il trattamento dei suoi dati personali al di fuori del suo Paese di residenza, in Corea, secondo le modalità descritte nella presente informativa. Inoltre, l’utilizzo dei Servizi da parte dell’utente potrà implicare il trasferimento, la memorizzazione e il trattamento dei suoi dati personali in altri Paesi. Detti Paesi comprendono, senza limitazione, i Paesi dello Spazio Economico Europeo, gli Stati Uniti d’America e il Canada. Si noti che le leggi in materia di protezione dei dati e altre leggi dei Paesi al di fuori dello Spazio Economico Europeo verso i quali potranno essere trasferiti i dati potrebbero offrire un livello di tutela inferiore a quello del Paese di residenza dell’utente. Samsung adotterà precauzioni appropriate, in conformità alla legge applicabile, per garantire che i dati personali dell’utente rimangano protetti. Tali misure comprendono l’uso delle Clausole contrattuali tipo a salvaguardia del trasferimento dei dati al di fuori dello SEE. Per maggiori informazioni, o per richiedere una copia degli accordi contrattuali vigenti, si prega di contattare Samsung dalla pagina Supporto Privacy (https://www.samsung.com/request-desk).
+Tenere presente che tale scelta relativa alla privacy potrebbe influire sulla disponibilità o sulla qualità del servizio specifico basato sulle informazioni di visualizzazione.
+
+Servizi Contenuti pubblicitari basati sugli interessi
+I Servizi di pubblicità basata sugli interessi ("Servizi IBA") consentono di ricevere e visualizzare annunci pubblicitari utili e interattivi basati sui propri interessi relativamente ai prodotti e servizi offerti da Samsung e da terzi sul Samsung Smart TV o su vari dispositivi e piattaforme Samsung e di terzi, compresi annunci linear, sul Web, su dispositivi mobili e tablet.
+
+Per fare in modo che gli annunci sui dispositivi dell'utente siano più pertinenti, il servizio IBA si basa sulla cronologia di visualizzazione del TV (comprese le informazioni su reti, canali, siti Web visitati e programmi visualizzati sul Samsung Smart TV e la durata della visione), sulle informazioni relative all'utilizzo del Samsung Smart TV e su altri dati statistici ottenuti da origini dati di terze parti attendibili. Per acquisire la cronologia di visualizzazione del TV, potrebbero essere usati il riconoscimento automatico dei contenuti (ACR) e altre tecnologie.
+
+Sulla base delle informazioni suindicate, vengono creati gruppi di proprietari di Samsung Smart TV che condividono interessi simili, i quali vengono utilizzati per il Servizio IBA. Le suddette informazioni vengono utilizzate per determinare i gruppi a cui è assegnato il Samsung Smart TV dell'utente e quindi quali annunci riceverà il dispositivo.
+
+L'utente può disabilitare il Servizio IBA in qualsiasi momento attraverso il menu delle impostazioni del proprio Samsung Smart TV.
+
+Tenere presente che la scelta relativa alla privacy per il Servizio IBA non influirà sulla ricezione o la visualizzazione di altri tipi di annunci e contenuti di marketing non basati specificamente sulla cronologia di visualizzazione del TV o sulle informazioni di utilizzo del Samsung Smart TV. Questi altri tipi di pubblicità e di offerte commerciali si baseranno su altri dati, quali la posizione approssimativa e altre informazioni basate su stime o deduzioni. Questi potrebbero essere meno pertinenti perché non basati sugli interessi dell'utente.
+
+Per informazioni più dettagliate sui Servizi IBA, consultare la Comunicazione sulla privacy dei Servizi IBA nella parte finale di questo Supplemento.
+
+PSID
+La cronologia di visualizzazione e le informazioni di utilizzo dello Smart TV raccolte per fornire contenuti pubblicitari basati sugli interessi verranno collegate a un identificatore di dispositivo casuale, non persistente e ripristinabile denominato PSID (Personalised Service ID).
+L'utente potrà reimpostare il proprio PSID in qualsiasi momento nel menu delle impostazioni dello Smart TV. Dopo la reimpostazione, la cronologia di visualizzazione dello Smart TV e le informazioni di utilizzo dello Smart TV riguardanti il contenuto pubblicitario basato sugli interessi verranno scollegate dal PSID precedente. Tenere presente che, in caso di reimpostazione del PSID, la qualità dei contenuti pubblicitari personalizzati e basati sugli interessi potrebbe non essere ottimizzata.
+
+Riconoscimento vocale
+L'utente può controllare lo Smart TV e utilizzare molte delle sue funzionalità mediante comandi vocali.
+Il riconoscimento vocale consente di interagire con lo Smart TV utilizzando la voce. Per fornire la funzionalità di riconoscimento vocale, i comandi vocali e le informazioni riguardanti il dispositivo, inclusi gli identificatori, verranno trasmessi a Samsung, che li convertirà in testo. Inoltre, Samsung potrebbe raccogliere alcuni di questi comandi e i testi associati per valutare e migliorare le funzionalità. Samsung raccoglie i comandi vocali dell'utente solo quando questi esegue una specifica richiesta sullo Smart TV facendo clic sul pulsante di attivazione, sul telecomando o sullo schermo, o pronunciando una parola di attivazione (ad esempio “Hi, Bixby”) parlando nel microfono del telecomando o dello Smart TV.
+Se l'utente non abilita il riconoscimento vocale, non potrà utilizzare le funzionalità che vi sono collegate.
+È possibile disabilitare la raccolta dei dati relativi al riconoscimento vocale in qualsiasi momento nel menu Impostazioni. Tuttavia, ciò impedisce l'utilizzo delle funzionalità di riconoscimento vocale.
+
+Per informazioni più dettagliate sul Riconoscimento vocale, consultare la Comunicazione sulla privacy relativa al servizio di riconoscimento vocale nella parte finale di questo Supplemento.
+
+Terze parti
+Quando si guarda un video o si accede ad applicazioni o contenuti forniti da terze parti, tali fornitori esterni possono raccogliere o ricevere informazioni sullo Smart TV (ad esempio l'indirizzo IP e gli identificatori del dispositivo), la transazione richiesta (ad esempio la richiesta di acquistare o noleggiare il video) e l'utilizzo dell'applicazione o del servizio da parte dell'utente. Samsung non è responsabile delle procedure di gestione della privacy o della sicurezza di tali terze parti. L’utente deve prestare attenzione e leggere le dichiarazioni sulla privacy che si applicano ai siti Web e ai servizi di terze parti che utilizza.
+
+Funzionalità specifiche a livello di paese
+A seconda del paese in cui ci si trova, una o più delle funzionalità descritte nel Supplemento relativo allo Smart TV potrebbero non essere disponibili.
+
+COMUNICAZIONE SULLA PRIVACY RELATIVA AL SERVIZIO DI RICONOSCIMENTO VOCALE DI SAMSUNG
+
+Data di entrata in vigore: 30 aprile 2019
+
+Samsung Electronics e le relative società affiliate prendono in seria considerazione la privacy dell'utente. La presente Comunicazione sulla privacy si applica ai dati personali che Samsung raccoglie attraverso il servizio di riconoscimento vocale (di seguito “Servizio vocale”).
+
+Il Servizio vocale è un servizio che consente agli utenti di trovare e guardare contenuti e gestire i prodotti Samsung utilizzando solo la voce. Le sue funzionalità includono l'elaborazione del linguaggio naturale per la ricerca di contenuti e il controllo del Samsung Smart TV, Internet, il meteo e altri servizi che gli utenti sono abituati a utilizzare sui Samsung Smart TV.
+
+A seconda della lingua selezionata, è possibile utilizzare e sfruttare la funzionalità di riconoscimento vocale avanzata denominata Bixby. L'attivazione di Bixby è segnalata dalla presenza di icone, banner e altri segni sullo schermo del Samsung Smart TV.
+
+La presente Comunicazione sulla privacy fornisce ulteriori informazioni specifiche sulla modalità di utilizzo dei dati personali in relazione al Servizio vocale e deve essere letta unitamente all'Informativa sulla privacy di Samsung che è applicabile anche alla ricezione del Servizio vocale da parte dell'utente ed è disponibile all'indirizzo https://account.samsung.com/membership/pp.
+
+Nella presente Comunicazione sulla privacy, Samsung descrive i tipi di dati raccolti tramite il Servizio vocale, il modo in cui li utilizzerà e le scelte che l'utente potrà operare in merito al trattamento dei dati da parte di Samsung. Samsung è il titolare del trattamento dei dati personali.
+
+QUALI INFORMAZIONI VENGONO RACCOLTE?
+Tramite il Servizio vocale, Samsung riceve informazioni relative all'utente in diversi modi. I tipi di dati personali che Samsung riceve includono:
+
+•	Dati dell'account Samsung (facoltativo). Quando l'utente accede al proprio account Samsung sullo Smart TV, Samsung può raccogliere i dati associati all'account Samsung utilizzato per accedere al Servizio vocale, ad esempio il nome, l'indirizzo e-mail e l'ID dell'account Samsung dell'utente.
+
+•	Interazioni con il Servizio vocale. Samsung potrà raccogliere i dati che l’utente scambia con i Servizi vocali attraverso le interazioni con i Servizi, tra cui le registrazioni dei comandi vocali (ad esempio domande, richieste e istruzioni), le foto e altri input, e i dati che l’utente riceve dai Servizi (ad esempio, risposte e contenuti). Samsung potrà inoltre ottenere altri dati relativi all'utilizzo del Servizio vocale da parte dell'utente, inclusi i dati (ad esempio i dati relativi alle app usate dall'utente, i siti Web visitati dall'utente e le foto, i brani musicali, le voci del calendario, i preferiti, i contenuti dell'utente, nonché i dati di altre app, siti Web e servizi di Samsung e di terzi) che Samsung riceve dalle proprie app e dai propri servizi e da quelli di terzi accessibili o utilizzati dal Servizio vocale per erogare all'utente i Servizi (ad esempio, musica in streaming e meteo).
+
+•	Dati di geolocalizzazione. Samsung potrà ottenere la posizione geografica del dispositivo dell’utente e altri dati relativi alla sua posizione tramite le informazioni sul codice postale memorizzate sul televisore, che possono desumersi dall’indirizzo IP dell’utente o da un suo input per determinate finalità, quale l’erogazione dei Servizi all’utente.
+
+•	Dati sui dispositivi e le app. Samsung può utilizzare mezzi automatizzati per raccogliere dati sui dispositivi dell'utente in cui è abilitato il Servizio vocale, come i modelli dei dispositivi, le versioni del sistema operativo, le configurazioni e le impostazioni dei dispositivi, gli indirizzi IP e gli identificatori dei dispositivi e altri identificatori univoci. Inoltre, Samsung potrà ottenere dati riguardanti la modalità, il periodo e la durata dell'utilizzo dei dispositivi in cui è abilitato il Servizio vocale da parte dell'utente, incluso l'utilizzo del Servizio vocale e delle app e dei servizi di Samsung e di terzi sui dispositivi, ad esempio un elenco delle app presenti, i brani musicali riprodotti, i siti Web visitati e le ricerche effettuate.
+
+COME UTILIZZA SAMSUNG LE INFORMAZIONI DELL'UTENTE?
+Samsung può utilizzare i dati che riceve attraverso il Servizio vocale per:
+
+•	erogare i Servizi all’utente, ovvero per rispondere alle richieste e alle domande poste, nonché alle istruzioni fornite tramite il Servizio vocale;
+•	identificare e autenticare l'utente in modo che possa utilizzare il Servizio vocale;
+•	migliorare e personalizzare l'esperienza dell'utente con il Servizio vocale, fornendo ad esempio contenuti e risposte su misura per i propri utenti e per il modo in cui essi interagiscono con il Servizio vocale;
+•	inviare all’utente, dietro suo consenso specifico, notizie in merito ai prodotti e ai servizi offerti e fornirgli notifiche, contenuti, avvisi, offerte, promozioni, informazioni commerciali, comunicazioni e annunci pubblicitari;
+•	rispondere alla richieste e alle domande dell’utente;
+•	gestire, valutare e migliorare la propria attività (inclusi lo sviluppo di nuovi prodotti, l’ottimizzazione e il miglioramento dei prodotti e dei servizi esistenti, la gestione delle comunicazioni, l’analisi dei prodotti, della base di clienti e dei servizi, lo svolgimento di ricerche di mercato, l’analisi dei dati e l’esecuzione delle funzioni di contabilità, di controllo e di altre funzioni interne);
+•	consentire all’utente di interagire con determinati servizi e applicazioni di terzi e di utilizzarli;
+•	proteggere da frodi e da altre attività illecite, rivendicazioni e altre responsabilità, nonché per individuarle e prevenirle e
+•	rispettare e applicare i requisiti legali, gli standard specifici del settore e le informative di Samsung applicabili, tra cui la presente Comunicazione sulla privacy e l'Informativa sulla privacy di Samsung.
+
+Tramite il Servizio vocale, Samsung potrà raccogliere dati personali sulle attività online svolte nel tempo dall’utente sui dispositivi abilitati per il Servizio vocale e su applicazioni, siti Web e altri servizi online di terzi. Samsung potrà utilizzare servizi di analisi di terzi sui propri Servizi. I provider che gestiscono tali servizi di analisi aiutano Samsung ad analizzare l’utilizzo dei Servizi da parte dell’utente e a migliorare i Servizi di Samsung. I dati che Samsung ottiene potranno essere divulgati a, o direttamente raccolti da, tali provider e altri terzi pertinenti che li utilizzeranno, ad esempio, per valutare l'uso dei Servizi, per facilitare l'erogazione dei Servizi e per diagnosticare problemi tecnici.
+
+Samsung tratta i dati personali per le finalità descritte sopra. Il trattamento dei dati personali da parte di Samsung è legale qualora sia: necessario per l’adempimento del contratto stipulato tra l’utente e Samsung (ad esempio, per erogare all’utente i Servizi e per identificare e autenticare l’utente in modo che possa utilizzare determinati Servizi), necessario per conformarsi ai requisiti legali (ad esempio, per conformarsi alle regole contabili applicabili e per effettuare divulgazioni obbligatorie alle forze dell’ordine), necessario per gli interessi legittimi di Samsung (ad esempio, per gestire le relazioni di Samsung con l’utente e per migliorare i Servizi) e basato sul consenso dei clienti di Samsung (ad esempio, per comunicare con l’utente riguardo ai prodotti e ai servizi di Samsung e per fornire all’utente informazioni commerciali), consenso che potrà successivamente essere revocato in qualsiasi momento contattando Samsung come indicato alla sezione Come contattarci dell'Informativa sulla privacy di Samsung senza compromettere la legittimità del trattamento sulla base del consenso accordato prima della sua revoca.
+
+Per stipulare un contratto, l'utente dovrà fornire i dati personali per il trattamento di cui sopra. Diversamente, Samsung non sarà in grado di fornire all'utente tutte le funzioni disponibili tramite il Servizio vocale.
+
+SCELTE DELL'UTENTE
+L’utente può disabilitare il Servizio vocale in qualsiasi momento attraverso il menu delle impostazioni, ma ciò potrebbe impedire l’utilizzo del Servizio vocale.
+
+Samsung offre altresì all’utente la possibilità di operare determinate scelte in relazione ai dati personali di cui Samsung è in possesso. Per aggiornare le proprie preferenze, limitare le comunicazioni che riceve da Samsung o inviare una richiesta, l’utente potrà contattare Samsung all’indirizzo indicato alla sezione Come contattarci dell'Informativa sulla privacy di Samsung.
+
+AGGIORNAMENTI ALLA COMUNICAZIONE SULLA PRIVACY DI SAMSUNG 
+La presente Comunicazione sulla privacy potrà essere aggiornata periodicamente per tenere conto delle modifiche apportate alle procedure di Samsung sui dati personali in relazione ai Servizi o delle modifiche della legge applicabile. Samsung pubblicherà una comunicazione sul proprio sito Web e/o sul dispositivo dell’utente con cui informerà l’utente di eventuali modifiche significative alla Comunicazione sulla privacy e indicherà la data dell'ultimo aggiornamento nella parte superiore della comunicazione.
+
+COMUNICAZIONE SULLA PRIVACY RELATIVA AI SERVIZI DI PUBBLICITÀ BASATA SUGLI INTERESSI
+
+Data di entrata in vigore: 30 aprile 2019
+
+Samsung Electronics e le relative società affiliate prendono in seria considerazione la privacy dell'utente. La presente Comunicazione sulla privacy si applica ai dati personali che Samsung raccoglie tramite i servizi di pubblicità basata sugli interessi (il “Servizio IBA”).
+
+La presente Comunicazione sulla privacy fornisce ulteriori informazioni specifiche sulla modalità di utilizzo dei dati personali in relazione al Servizio IBA e deve essere letta unitamente all'Informativa sulla privacy di Samsung, che è applicabile anche alla ricezione del Servizio IBA da parte dell'utente ed è disponibile all'indirizzo https://account.samsung.com/membership/pp.
+
+Nella presente Comunicazione sulla privacy sono descritti i tipi di dati utilizzati nei contenuti pubblicitari basati sugli interessi, il modo in cui vengono trattati e le scelte che l'utente potrà operare in merito al trattamento dei dati da parte di Samsung e all'esercizio dei propri diritti. Samsung è il titolare del trattamento dei dati personali.
+
+CHE COS’È IL SERVIZIO IBA?
+Il Servizio IBA consente di ricevere e visualizzare annunci pubblicitari utili e interattivi basati sui propri interessi relativamente ai prodotti e servizi offerti da Samsung e da terze parti sul Samsung Smart TV o su vari dispositivi e piattaforme Samsung e di terze parti, compresi annunci linear, sul Web, su dispositivi mobili e tablet.
+
+Per fare in modo che gli annunci sui dispositivi dell'utente siano più pertinenti, il Servizio IBA si basa sulla cronologia di visualizzazione del TV (comprese le informazioni su reti, canali, siti Web visitati e programmi visualizzati sul Samsung Smart TV e la durata della visione), sulle informazioni relative all'utilizzo del Samsung Smart TV e su altri dati statistici ottenuti da origini dati di terze parti attendibili. Per acquisire la cronologia di visualizzazione del TV, potrebbero essere usati il riconoscimento automatico dei contenuti (ACR) e altre tecnologie.
+
+Sulla base delle informazioni suindicate, vengono creati gruppi di proprietari di Samsung Smart TV che condividono interessi simili, i quali vengono utilizzati per il Servizio IBA. Le suddette informazioni vengono utilizzate per determinare i gruppi a cui è assegnato il Samsung Smart TV dell'utente e quindi quali annunci riceverà il dispositivo.
+
+PSID
+Le informazioni sull'utilizzo del dispositivo raccolte per fornire il Servizio IBA verranno associate a un identificatore del dispositivo casuale, non persistente e ripristinabile, denominato PSID. Il PSID può essere reimpostato come specificato nella sezione Scelte dell'utente della presente Comunicazione sulla privacy.
+
+QUALI INFORMAZIONI VENGONO RACCOLTE?
+Tramite il Servizio IBA Samsung riceve informazioni sui dispositivi dell'utente in diversi modi. I tipi di informazioni che Samsung riceve includono:
+•	Informazioni sul dispositivo. Samsung raccoglie quali i modelli dei dispositivi dell’utente, le versioni del sistema operativo, le configurazioni e le impostazioni dei dispositivi, gli indirizzi IP e altri identificativi.
+•	Informazioni sull’utilizzo dei dispositivo e sui dati del registro. Samsung raccoglie dati riguardanti la modalità, il momento e la durata dell'utilizzo dei dispositivi da parte dell'utente, comprese le interazioni con il Servizio IBA e le app e i servizi di Samsung e di terze parti sui dispositivi (ad esempio, un elenco delle app presenti nei dispositivi dell'utente).
+•	Informazioni sulla visualizzazione. Samsung raccogliere la cronologia di visualizzazione del TV. La cronologia di visualizzazione del TV include informazioni su reti, canali, siti Web visitati e programmi visti sul Samsung Smart TV e sulla quantità di tempo dedicata alla loro visione. Per acquisire questa cronologia di visualizzazione del TV, potrebbero essere usati il riconoscimento automatico dei contenuti (ACR) e altre tecnologie.
+•	Dati statistici. Samsung può utilizzare dati statistici relativi all'utente o ai suoi dispositivi, come la posizione generica e la fascia di età stimata. Entro i limiti di legge, Samsung riceve questi dati statistici da fonti disponibili a livello commerciale, ad esempio i suoi provider di servizi terzi. Samsun collabora solo con provider di servizi terzi che garantiscono che questi dati siano stati acquisiti in conformità alla legge applicabile e che possano essere utilizzati e divulgati da Samsung.
+
+I server di Samsung ricevono i dati quando l'utente interagisce con il Servizio IBA, ad esempio i dati sulle interazioni dell'utente con il Servizio IBA, la geolocalizzazione e i dispositivi usati dall'utente per ricevere il Servizio IBA.
+
+COME UTILIZZA SAMSUNG LE INFORMAZIONI DELL'UTENTE?
+Samsung utilizza i dati che riceve attraverso il Servizio IBA per:
+
+•	fornire il Servizio IBA all'utente;
+•	migliorare e personalizzare l'esperienza con il Servizio IBA;
+•	con il consenso specifico dell'utente, comunicare con l'utente tramite e-mail e notifiche push riguardo a prodotti e servizi offerti da Samsung e da terzi, personalizzati in base agli interessi dell'utente;
+•	rispondere alla richieste e alle domande dell’utente;
+•	gestire, valutare e migliorare la propria attività (inclusi lo sviluppo di nuovi prodotti, l’ottimizzazione e il miglioramento dei prodotti e dei servizi esistenti, la gestione delle comunicazioni, l’analisi dei prodotti, della base di clienti e dei servizi, lo svolgimento di ricerche di mercato, l’analisi dei dati e l’esecuzione delle funzioni di contabilità, di controllo e di altre funzioni interne); 
+•	proteggere da frodi e da altre attività illecite, rivendicazioni e altre responsabilità, nonché per individuarle e prevenirle e
+•	rispettare e applicare i requisiti legali, gli standard specifici del settore e le informative di Samsung applicabili, tra cui la presente Comunicazione sulla privacy e l'Informativa sulla privacy di Samsung.
+
+Samsung tratta i dati personali per le finalità descritte sopra. Il trattamento dei dati personali da parte di Samsung è legale qualora sia: necessario per l'adempimento del contratto stipulato tra l'utente e Samsung (ad esempio, per erogare all'utente il Servizio IBA e per identificare e autenticare l'utente), necessario per conformarsi ai requisiti legali (ad esempio, per conformarsi alle regole contabili applicabili e per effettuare divulgazioni obbligatorie alle forze dell'ordine), necessario per gli interessi legittimi di Samsung (ad esempio, per gestire le relazioni di Samsung con l'utente e per migliorare il Servizio IBA) e basato sul consenso dei clienti di Samsung (ad esempio, per comunicare con l'utente riguardo ai prodotti e ai servizi di Samsung e per fornire all'utente informazioni commerciali), consenso che potrà successivamente essere revocato in qualsiasi momento attraverso il menu di impostazioni, come indicato nella sezione Scelte dell'utente della presente Comunicazione sulla privacy senza compromettere la legittimità del trattamento sulla base del consenso accordato prima della sua revoca.
+
+Per ricevere il Servizio IBA, l'utente dovrà fornire i dati personali per il trattamento di cui sopra. Diversamente, Samsung non sarà in grado di fornire all’utente tutte le funzioni disponibili tramite il Servizio IBA.
+
+SCELTE DELL'UTENTE
+L'utente potrà reimpostare il proprio PSID in qualsiasi momento visitando il menu delle impostazioni. Dopo la reimpostazione, la cronologia di visualizzazione del TV e i dati relativi all'utilizzo dello Smart TV verranno scollegati dal PSID precedente. Tenere presente che, in caso di ripristino del PSID, la qualità del Servizio IBA potrebbe essere compromessa.
+
+Inoltre, l'utente può disabilitare il Servizio IBA in qualsiasi momento attraverso il menu delle impostazioni del proprio Samsung Smart TV.
+
+Tenere presente che la scelta relativa alla privacy per il Servizio IBA non influirà sulla ricezione o la visualizzazione di altri tipi di annunci e contenuti di marketing non basati specificamente sulla cronologia di visualizzazione del TV o sulle informazioni di utilizzo del Samsung Smart TV. Questi altri tipi di pubblicità e di offerte commerciali si baseranno su altri dati, quali la posizione approssimativa e altre informazioni basate su stime o deduzioni. Questi potrebbero essere meno pertinenti perché non basati sugli interessi dell'utente.
+
+AGGIORNAMENTI ALLA COMUNICAZIONE SULLA PRIVACY DI SAMSUNG 
+La presente Comunicazione sulla privacy potrà essere aggiornata periodicamente per tenere conto delle modifiche apportate alle procedure di Samsung sui dati personali in relazione al Servizio IBA o delle modifiche della legge applicabile. Samsung pubblicherà una comunicazione sul proprio sito Web e/o sul dispositivo dell’utente con cui informerà l’utente di eventuali modifiche significative alla Comunicazione sulla privacy e indicherà la data dell'ultimo aggiornamento nella parte superiore della comunicazione.
+
+Le stampanti e le fotocopiatrici Samsung ora fanno parte della famiglia di prodotti HP. Consultare l'Informativa sulla privacy di HP all'indirizzo seguente: http://www.hp.com/go/privacy.

@@ -1,0 +1,372 @@
+﻿SAMSUNG PRIVACY POLICY HIGHLIGHTS
+
+Samsung Electronics knows how important privacy is to our customers. We want to make sure you understand how we collect and use your personal information across all of our Samsung products and services, from mobile phones and tablets to TVs, home appliances (collectively, “Products”), and websites, applications, services, contests, surveys, redemptions, marketing, promotions, warranty registration, after sales support, repair support, online services, and other services that refer to or link to the Privacy Policy (collectively, “Services”).
+
+While this Privacy Policy applies to all our Products and Services, we will also provide privacy supplements that contain additional information about our practices related to particular services where necessary.
+
+OVERVIEW OF PERSONAL INFORMATION
+
+We collect personal information that you provide directly, information about how you use our Products and Services and information from third party sources. We use this information to provide you with Products and Services, understand the way you use our Products and Services so we can improve and personalize your experience and to develop the most relevant apps, technologies, and content for our customers. We also use personal information to provide customized advertising tailored to your interests.
+
+SHARING YOUR PERSONAL INFORMATION
+
+We may share your personal information with affiliate companies of Samsung Electronics, as well as with companies that provide services on behalf of Samsung Electronics. We may also share your personal information with trusted partner companies, such as mobile service providers or insurance companies, that provide you with products and services that you request and information about products and services you may be interested in. We share personal information with law enforcement agencies when it’s required by law or to protect Samsung Electronics and its users.
+
+1. WHAT INFORMATION DO WE COLLECT? 
+2. HOW DO WE USE YOUR INFORMATION? 
+3. WHO DO WE SHARE YOUR INFORMATION WITH? 
+4. HOW DO WE KEEP YOUR INFORMATION SECURE? 
+5. WHERE DO WE SEND YOUR DATA? 
+6. WHAT ARE YOUR RIGHTS? 
+7. HOW LONG DO WE KEEP YOUR INFORMATION? 
+8. WHAT THIRD-PARTY SERVICES DO WE USE? 
+9. COOKIES, BEACONS, AND SIMILAR TECHNOLOGIES 
+10. CONTACT US 
+
+SAMSUNG PRIVACY POLICY
+
+Effective Date: 30th April, 2019
+
+This Privacy Policy applies all of our Samsung products and services, from mobile phones and tablets to TVs, home appliances (collectively, “Products”), and websites, applications, services, contests, surveys, redemptions, marketing, promotions, warranty registration, after sales support, repair support, online services, and other services ( collectively, “Services”).
+
+It’s important that you check back often for updates to the Privacy Policy. We may update this Privacy Policy periodically to reflect changes in our personal information practices with respect to the Products and Services or changes in applicable law. We will post a notice on our website or on your Product to notify you in advance of material changes to our Privacy Policy and indicate at the top of the Privacy Policy when it was most recently updated. The most current version of the Privacy Policy will always be available here: https://www.samsung.com/sg/info/privacy. 
+
+WHAT INFORMATION DO WE COLLECT?
+
+Samsung Electronics collects your personal information in a variety of ways.
+
+Information You Provide Directly
+
+Some Products and Services enable you to give us information directly. For example:
+
+• When you create an account or profile with us, we may ask for information such as your name, date of birth, or email address.
+• If you order a Product or paid Service from us, we may ask for your name, address, contact information, and shipping and payment information to process your order.
+• To provide responses when you contact Customer Service, we may need information to identify and authenticate your identify and the Product you’re inquiring about.
+• When you communicate with our Customer Service staff or others, your communications will be transmitted through our systems.
+• If you share your contacts, we will collect their phone numbers and other contact information to facilitate file sharing and messaging. You can turn off or restrict these features in Settings on your Products.
+
+Information About Your Use of Services
+
+In addition to the information you provide, we will collect information about your use of our Products and Services, such as through software on your Products and by other means. We will collect:
+
+• Product information: Your hardware model, Product hardware information, IMEI number and other unique device identifiers, phone number, serial number, sales code, access recording, current software version, MCC (Mobile Country Code), MNC (Mobile Network Code), MAC address, IP address, Android Advertising ID, cookies, pixels, subscription information, operating system versions, and settings of the Products you use to access Services.
+• Log information: Diagnostic, technical, error, and usage information such as the time and duration of your use of Services, search query terms when you enter search terms into your Product in connection with a particular Service, and any information stored in cookies that we have set on your Products.
+• Location information: Your Product’s GPS signal or information about nearby Wi-Fi access points and cell towers that may be transmitted to us when you use certain Services and enable the Location function.
+• Voice information: Recordings of your voice that we make and store on our servers when you enable this function and use voice commands to control a Service, or when you contact our Customer Service team. Note that if we work with a third party service provider that provides speech-to-text conversion services on our behalf, this provider may receive and store certain voice commands in accordance with the contract concluded between us and our trusted third-party service provider.
+• Samsung Keyboard information: The words that you type when you enable Predictive text. This feature may be offered in connection with your Samsung account to synchronize the data for use on your other Samsung Products. You can clear the data by going to the Predictive text settings.
+• Viewing Information: The networks, channels, websites visited, and programs viewed on your Products and the amount of time spent viewing them.
+• Other information about your use of Products and Services, such as the apps you use, the websites you visit, and how you interact with content offered through a Products or Service.
+
+Publicly or Commercially Available or Shared Information
+
+We may receive information about you from publicly or commercially available sources, including such information about you from third party social networking services you use, and combine this with other information about you so that we can better understand your needs, interests, and preferences. We also  may receive information about you when other people provide it using our Services, such as your name and contact information when others send a message to you or share files with you.
+
+Other Information We Collect
+
+We may also collect other information about you, your Products, or your use of Services that you consent to send us.
+
+Third Party Analytics
+
+Through certain Services, we may collect personal information about your online activities on websites and connected Products over time and across third-party websites, Products, apps and other online features and services.  We may use third-party analytics services on the Services, such as those of Google Analytics.  The service providers that administer these analytics services help us to analyze your use of the Services and improve the Services.  The information we obtain may be disclosed to or collected directly by these providers and other relevant third parties who use the information, for example, to evaluate use of the Services, help administer the Services and diagnose technical issues. To learn more about Google Analytics, please visit http://www.google.com/analytics/learn/privacy.html and https://www.google.com/policies/privacy/partners/.
+
+Your Options
+
+You can choose not to provide us with certain types of information, such as information requested as part of registering a Samsung account. In some cases, this may limit your ability to use some Products and Services. We will do our best to explain these limitations when we’re asking for your information so you can make an informed decision. For example, Samsung Cloud allows you to back up your information and create a restore point; however, Samsung Cloud was not designed nor intended to store or process sensitive personal information.
+
+HOW DO WE USE YOUR INFORMATION?
+
+We use the information we collect for the following purposes:
+• To help you or your Product register for our Services;
+• To provide a Service or feature you request;
+• To provide customized content and personalized services based on your past activities on our Services;
+• To provide customized advertising, promotions, and offers that might interest you on our websites, third-party websites, and online platforms such as social media sites;
+• To provide promotions and offers by way of direct marketing communications, only where you have given us your separate consent;
+• To analyze our Products and Services to help us better understand our customers in order to offer the most relevant communications, services, and experiences to you;
+• To ask you for your opinions on our Products and Services and to carry out customer surveys, with your separate consent if required;
+• To provide software updates, maintenance services, important notices and support for your Products;
+•	To administer contests, lucky draws, redemptions or similar promotions that you enter into, where you have given us your separate consent;
+• To comply with the law and legal processes;
+• To protect the rights, property, or safety of Samsung Electronics, or any of our affiliates, business partners, or customers; and
+•	Otherwise with your consent.
+
+We use and combine the information we collect about you from our Services, Products, or other sources to provide you with a better experience. For example, you can use your Samsung account details not only on the Service you registered with, but other Services which use Samsung accounts. We also use the information you provide directly or through other sources as described above to provide content you may like or that you’ve personalized. 
+
+You have choices about your information. Check out the WHAT ARE YOUR RIGHTS? section to learn more.
+
+Samsung processes personal information for the purposes described above. Samsung’s legal basis to process personal information includes processing: 
+(i) So that we can keep our promises to you, such as providing you with a Service
+(ii) To promote our business interests (for example, to manage our relationship with you and improve your customer service experience), including communications on our website, third party websites, and online platforms
+(iii) To comply with the law and legal processes
+(iv) With your consent (for example, to send direct marketing communications). If you give consent, you can always withdraw your consent by following the unsubscribe instructions included in the communication or by changing your settings for specific Services or when we give you a just-in-time notice, or by visiting relevant webpages. Please note that unsubscribing from receiving marketing communications from a Product or Service may not stop all of the ads (including customized ads) provided by Samsung Electronics. You may continue to receive ads from Samsung Electronics if you have consented to receiving them from other Products or Services. Please visit the settings menu in the applicable Product or Service for more information on how to opt out of such ads from such Product or Service.
+
+[For European Economic Area (EEA) Residents only]
+
+Samsung Electronics is the data controller of your personal information as described above. For some direct marketing communications and some customized advertising in Europe, Samsung Electronics (UK) Limited, which is located in the United Kingdom, is also the data controller of your personal information. Some of our European Samsung subsidiaries also process your personal information in their countries. Where applicable, the European Samsung subsidiary has its own local Privacy Policy on its website to explain this.
+
+WHO DO WE SHARE YOUR INFORMATION WITH?
+
+We will disclose your information internally within our business, but only to those who need it to further provide Services or to help with your requests. 
+
+We will also disclose your information to the following entities, only to the extent that this will be necessary to provide our Services:
+
+• Affiliates: Other Samsung Electronics Group companies which we control or own. Affiliates may also include other companies related by common ownership or control, such as Samsung SDS and Cheil Worldwide.
+• Business Partners: Partners who we work together with to provide you the Services you’ve requested or bought. For example, we may work with a bank so that you can use one of our Services to make faster and more efficient payments. These business partners control and manage your personal information.
+• Service Providers: Carefully selected companies that provide services for or on behalf of us, such as companies that help us with repairs, customer contact centers, redemption centers, customer care activities, customer event organizers, advertising (including customized advertising on our websites, third-party websites, or online platforms), conducting customer satisfaction surveys, or billing, or that send emails on our behalf, performing data analytics, or operating data management platforms. These providers are also committed to protecting your information.
+• Other Parties when Required by Law or as Necessary to Protect Our Services: For example, it may be necessary by law, legal process, or court order from governmental authorities to disclose your information. They may also seek your information from us for the purposes of law enforcement, national security, anti-terrorism, or other issues that are related to public security.
+• Other Parties in Connection with Corporate Transactions: We may disclose your information to a third party as part of a merger or transfer, acquisition or sale, or in the event of a bankruptcy.
+• Other Parties with Your Consent or at Your Direction: In addition to the disclosures described in this Privacy Policy, we may share information about you with third parties when you separately consent to or request such sharing.
+
+HOW DO WE KEEP YOUR INFORMATION SECURE?
+
+We take data protection seriously. We have put in place physical and technical safeguards to keep the information we collect secure. However, please note that although we take reasonable steps to protect your information, no website, Internet transmission, computer system, or wireless connection is completely secure.
+
+WHERE DO WE SEND YOUR DATA?
+
+Your use of our Services will involve the transfer, storage, and processing of your personal information within and outside Singapore, consistent with this policy, including, without limitation, countries in the European Economic Area, the Republic of Korea, the United States of America, China, Singapore, Vietnam, India, Malaysia, Canada, the Philippines, and Japan.  Please note that the data protection and other laws of countries to which your information may be transferred might not be as comprehensive as those in your country.
+
+[For European Economic Area (EEA) Residents Only]
+
+We will take appropriate measures, in compliance with applicable law, to ensure that your personal information remains protected. Such measures include the use of Standard Contractual Clauses to safeguard the transfer of data outside of the EEA. To request more information or to obtain a copy of the contractual agreements in place, contact us. See the CONTACT US section. 
+
+WHAT ARE YOUR RIGHTS?
+
+Your personal information belongs to you. You can ask us to provide details about what we’ve collected, and you can ask us to correct any inaccuracies.  If permitted by law, we may charge you a small fee for providing you with this ability. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law.
+
+To make a request concerning your rights or to make an inquiry, contact us. See the CONTACT US section.
+
+HOW LONG DO WE KEEP YOUR INFORMATION?
+
+We will not keep your personal information for longer than is necessary for the purpose for which it was collected. This means that information will be anonymized, destroyed or erased from our systems when it’s no longer required.
+
+We take appropriate steps to ensure that we process and retain information about you based on the following logic:
+
+1. At least the duration for which the information is used to provide you with a Service; 
+2. As required under law, a contract, or with regard to our statutory obligations; or
+3. Only for as long as is necessary for the purpose for which it was collected, is processed, or longer if required under any contract, by applicable law, or for statistical purposes, subject to appropriate safeguards.
+
+WHAT THIRD-PARTY SERVICES DO WE USE?
+
+Some of the content, advertising, and functionality in our Services is provided by third parties. These third parties may use cookies, beacons, tracking pixels, and other tools to collect information about your use of these Services. These third parties are not controlled directly by Samsung, so we recommend that you check their privacy policies to understand how they use your data. We also may make available to you certain products or services (e.g., apps available through Galaxy Store or Apps) developed by third parties. Samsung is not responsible for these third-party products or services.
+
+If you choose to connect the Services with a social networking service, we may receive and store authentication information from that service to enable you to log in, as well as other information that you allow us to receive. Also, please note that if you choose to connect with a social networking service on a Product used by people in addition to you, those other users may be able to see information stored or displayed in connection with your account on the social networking service(s) with which you connect.
+
+COOKIES, BEACONS, AND SIMILAR TECHNOLOGIES
+
+We, as well as certain third parties that provide content, advertising, or other functionality in our Services, use cookies, pixels, beacons, and other technologies in certain areas of our Services.
+
+Cookies
+Cookies are small files that store information on your computer, TV, mobile phone, or other device. They enable the entity that put the cookie on your Product to recognize you across different websites, services, devices, and browsing sessions. Cookies serve many useful purposes. For example:
+• Cookies can remember your sign-in credentials so you don’t have to enter those credentials each time you sign in to a service.
+• Cookies help us and third parties understand which parts of our Services are the most popular because they help us to see which pages and features visitors are accessing and how much time they’re spending on the pages. Studying this information helps us to adapt the Services and provide you with a better experience.
+• Cookies help us and third parties understand which ads you’ve seen so you don’t get the same ad each time you access a Service.
+• Cookies help us and third parties to provide you with relevant content and advertising by collecting information about your use of our Services and other websites and apps.
+
+When you use a web browser to access Services, you can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Each browser is different, so check the help menu of your browser to learn how to change your cookie preferences. Your Product operating system may contain additional cookie controls. Note that some Services are designed to work using cookies, so disabling cookies may affect your ability to use those Services or certain parts of them.
+
+Other Local Storage
+We, along with certain third parties, may use other kinds of local storage technologies, such as Local Shared Objects (also referred to as Flash cookies) and HTML5 local storage, in connection with our Services. These technologies are similar to the cookies discussed above. They’re stored on your Products and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your Products from standard cookies, so you might not be able to control them using standard browser tools and settings. For information about disabling or deleting information contained in Local Shared Objects, visit http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html.
+
+Beacons
+We, along with certain third parties, may use technologies called beacons or pixels that communicate information from your Product to a server. Beacons can be embedded in online content, videos, and emails, and can allow a server to read certain types of information from your Product, know when you’ve viewed particular content or a particular email message, and determine the time and date on which you viewed the beacon and the IP address of your Product. We and certain third parties use beacons for a variety of purposes, including to analyze the use of our Services and, along with cookies, to provide content and ads that are more relevant to you.
+
+CONTACT US
+
+You can contact us to update your preferences, correct your information, submit a request, or ask us questions at:
+
+The Data Protection Officer
+Samsung Asia Pte Ltd
+30 Pasir Panjang Road #17-31/32 Mapletree Business City 
+Singapore 117440
+Email: privacy.sg@samsung.com 
+or contact our customer service department at http://www.samsung.com/sg/info/contactus.html.
+
+[For European Economic Area (EEA) Residents Only]
+
+Samsung Electronics has offices across Europe, so we can ensure that your request or query will be handled by the data protection team based in your region.
+
+The easiest way to contact us is through our Privacy Support Page at https://www.samsung.com/request-desk. 
+
+You can also contact us at:
+
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+
+You can lodge a complaint with the relevant supervisory authority if you consider that our processing of your personal information infringes applicable law. Contact details for all EU supervisory authorities can be found at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+SAMSUNG PRIVACY POLICY – SMART TV SUPPLEMENT
+
+Samsung’s Smart TV service offers a set of features that provide enhanced video content, customized TV experiences, movies, connections to social networking services, and the ability to control and interact with your Smart TV with voice commands. We collect, use, share, and store information through your Smart TV and the Products connected with your Smart TV in the ways described in the Samsung Privacy Policy. This Supplement provides additional details about the privacy practices of some Smart TV features.
+
+The Smart TV is designed to enable you to easily find and access video programming and other content. For example, you may access information about live television programs distributed to you by your cable or satellite operator and on-demand video content offerings distributed by third party content providers through searchable guides displayed on your Smart TV.
+
+In the case of live television programs, we determine what content is available to you based in part on your postcode. In addition, the Smart TV helps you find and experience other Smart TV content more relevant to you by highlighting programming and content that is likely to interest you or providing additional services that will enhance your viewing experience. We base these recommendations and additional services on:
+• Information about content that you have watched, purchased, downloaded, or streamed through Samsung applications on your Smart TV or other Products (About the TV viewing information please see ‘Viewing Information Services’ section below);
+• Information about applications you have accessed through the Smart TV;
+• Information about your clicks on the “Like”, “Dislike”, “Watch Now”, and other buttons on your Smart TV;
+• The query terms you enter into Smart TV search features, including when you search for particular video content;
+• Other Smart TV usage and Product information, including, but not limited to, IP address, log data, information that identifies your hardware or software configuration, browser information, and the page(s) you request.
+
+Viewing Information Services
+This privacy notice should be read in conjunction with the Samsung Privacy Policy, which also applies to your receipt of customized Smart TV experiences and can be found at https://account.samsung.com/membership/pp.
+In order to provide you with customized Smart TV experiences, some of our features and services will rely on your TV viewing history and Smart TV usage information.
+Your TV viewing history includes information about the networks, channels, websites visited, and programs viewed on your Smart TV and the amount of time spent viewing them.
+We may use automatic content recognition (ACR) and other technologies to capture this information. Your Smart TV transfers video snippets or TV tuner information in order to determine the programs watched.
+You may change your privacy choice at any time by going to the settings menu to disable the particular feature or service at your sole discretion, in which case your TV viewing history will cease to be collected for that particular feature or service.
+
+Your use of our Services will involve the transfer, storage, and processing of your personal information outside of Singapore to the Republic of Korea, consistent with this policy. In addition, your use of the Services may also involve the transfer, storage, and processing of your personal information to other countries; such countries include, without limitation, countries in the European Economic Area, the United States of America, and Canada. 
+
+Please note that the data protection and other laws of countries to which your information may be transferred might not be as comprehensive as those in your country. We will take appropriate measures, in compliance with applicable law, to ensure that your personal information remains protected. 
+
+[For European Economic Area (EEA) Residents Only]
+
+Such measures include the use of Standard Contractual Clauses to safeguard the transfer of data outside of the EEA. For more information, or to obtain a copy of the contractual agreements in place, please contact us at our Privacy Support Page (https://www.samsung.com/request-desk).
+
+Bear in mind, that your privacy choice may affect the availability or quality of the specific viewing information based service.
+
+Interest-Based Advertisement Services
+The Interest-Based Advertisement Services (the “IBA Services”) is designed to provide the ability to obtain and view useful, interactive, and interest based advertisements about products and services offered by Samsung and third parties on your Samsung Smart TV or across various Samsung and third party platforms or Products, including linear commercials, on the web, mobile devices, and tablets.
+
+In order to make the advertising on your Products more relevant to you, the IBA service will rely on your TV viewing history (including information about the networks, channels, websites visited, and programs viewed on your Samsung Smart TV and the amount of time spent viewing them), Samsung Smart TV usage information, and other statistical data obtained from trusted third party data sources. We may use automatic content recognition (ACR) and other technologies to capture your TV viewing history.
+
+Based on the information above we create groups of Samsung Smart TV owners who share similar interests and use these groups for the IBA Service. The information above is used to determine the groups to which your Samsung Smart TV is assigned and thus, which advertisements your Products receive.
+
+You may disable the IBA Service at any time by visiting the Settings menu on your Samsung Smart TV.
+
+Please note that your privacy choice with respect to the IBA Service will not affect whether or not you receive or are served with other types of ads and marketing that are not specifically based on TV viewing history or Samsung Smart TV usage information. Those other types of ads and marketing will be based on other information such as generalized location and other estimated or inferred information. They might be less relevant because they are not based on your interests.
+
+For more detailed information about the IBA Services, please refer to the IBA Services Privacy Notice at the bottom of this Supplement.
+
+PSID
+Your Smart TV viewing history and usage information collected for the purposes of providing interest based advertisements will be linked to a randomized, non-persistent, and resettable device identifier called the Personalized Service ID or “PSID”.
+
+You may reset your PSID at any time by visiting the Settings menu on your Smart TV and, once reset, your Smart TV viewing history and Smart TV usage information with respect to interest based advertisements will be de-linked from its previous PSID. Bear in mind that if you reset your PSID, the quality of customized and interest based advertisements may not be fine-tuned.
+
+Voice Recognition
+You can control your Smart TV, and use many of its features, with voice commands.
+
+If you enable Voice Recognition, you can interact with your Smart TV using your voice. To provide the Voice Recognition feature, your voice commands will be transmitted (along with information about your Product, including Product identifiers) to us and we will convert your voice commands into text to provide the Voice Recognition features. In addition, Samsung may collect voice commands and associated texts so that we can evaluate and improve the features. Samsung will collect your voice commands when you make a specific request to the Smart TV by clicking the activation button either on the remote control or on your screen or by speaking a wake word (e.g. “Hi, Bixby”) and speaking into the microphone on the remote control or Smart TV.
+
+If you do not enable Voice Recognition, you will not be able to use the voice recognition features.
+
+You may disable Voice Recognition data collection at any time by visiting the Settings menu. However, this would prevent you from using the Voice Recognition features.
+
+For more detailed information about the Voice Recognition, please refer to the Voice Recognition Privacy Notice at the bottom of this Supplement.
+
+Third Parties
+Please note that when you watch a video or access applications or content provided by a third party, that provider may collect or receive information about your Smart TV (e.g. its IP address and Product identifiers), the requested transaction (e.g. your request to buy or rent the video), and your use of the application or service. Samsung is not responsible for these providers’ privacy or security practices. You should exercise caution and review the privacy statements applicable to the third party websites and services you use.
+
+Country-Specific Features
+Please note that one or more of the features described in this Smart TV Supplement may not be available to you depending on where you live.
+
+VOICE RECOGNITION SERVICE PRIVACY NOTICE
+
+Effective Date: 30th April, 2019
+
+Samsung Electronics and its affiliated companies respect your concerns about privacy. This Privacy Notice applies to the personal information we collect through the Voice Recognition service (the “Voice Service”).
+
+The Voice Service is a service that provides capabilities for users to find and watch content and manage their world across the Samsung products using only their voice. Its features include the natural language processing in content search and their Samsung Smart TV control; Internet, weather, and other services users have come to expect from their Samsung Smart TVs.
+
+Depending on the language you select, you may use and enjoy the enhanced voice recognition feature, Bixby. When Bixby is activated you may acknowledge it by the icons, banners, or other marks on your Samsung Smart TV screen.
+
+This Privacy Notice provides further, specific information about how your personal information is used in connection with the Voice Service, and should be read in conjunction with the Samsung Privacy Policy, which also applies to your receipt of the Voice Service and can be found at https://account.samsung.com/membership/pp.
+
+In this Privacy Notice, we describe the types of information collected through the Voice Service, how we may use the information and the choices available to you regarding our use of the information.  Samsung is the data controller for the processing of personal information.
+
+WHAT INFORMATION DO WE COLLECT?
+Through the Voice Service, we may obtain information about you in various ways. The types of personal information we obtain include:
+
+• Samsung account Information (Optional). When you log in to Samsung account on your Smart TV, we may collect information associated with your Samsung account used to access the Voice Service, such as your name, email address, and Samsung account ID.
+
+• The Voice Service Interactions. We may collect information you exchange with the Voice Service through your interactions with the Services, including recordings of your voice commands (such as your questions, requests, and instructions), your pictures, and other inputs, and the information you receive from the Services (such as responses, answers, and content). We also may obtain other information related to your use of the Voice Service, including the information (such as information related to the apps you use, the websites you visit, and pictures, music, calendar entries, bookmarks, and content and data from other Samsung and third party apps, websites, and services) we receive from Samsung and third party apps and services that are accessed or used by the Voice Service to provide you with the Services (such as music streaming and weather).
+
+• Geolocation Data. We may receive your device’s geolocation and other information related to your location through postcode information stored on the TV which can be obtained through your IP address or through your input for certain purposes, such as to provide you with the Services.
+
+• Product and App Information. We may collect information through automated means about your Voice Service-enabled Products, such as Product models, OS versions, Product configurations and settings, IP addresses, and Product identifiers and other unique identifiers. In addition, we may obtain information about how, when, and for how long you use your Voice Service-enabled Products, including your usage of the Voice Service and Samsung and third party apps and services on the Products (such as a list of apps on your Products, music played on your Products, the websites you visit, and the searches you make).
+
+HOW DO WE USE YOUR INFORMATION?
+We may use the information we obtain through the Voice Service to:
+
+• provide you with the Services, such as to respond to your requests, questions, and instructions made through the Voice Service;
+• identify and authenticate you so you may use the Voice Service;
+• improve and customize your experience with the Voice Service, such as delivering content and responses tailored to our users and the manner in which they interact with the Voice Service;
+• with your separate consent, communicate with you about our products and services, and provide you with notifications, content, alerts, offers, promotions, marketing information, communications, and advertisements;
+• respond to your requests and enquiries;
+• operate, evaluate, and improve our business (including developing new products; enhancing and improving our products and services; managing our communications; analyzing our products, customer base and services; conducting market research; performing data analytics; and performing accounting, auditing, and other internal functions);
+• allow you to interact with and use certain third party apps and services;
+• protect against, identify, and prevent fraud and other criminal activity, claims, and other liabilities; and
+• comply with and enforce applicable legal requirements, relevant industry standards, and our policies, including this Privacy Notice, the Samsung account Privacy Policy.
+
+Through the Voice Service, we may collect personal information about your online activities on Voice Service-enabled Products over time and across third party apps, websites, and other online services. We may use third party analytics services on our Services. The providers that administer these analytics services help us analyze your use of the Services and improve our Services. The information we obtain may be disclosed to or collected directly by these providers and other relevant third parties who use the information, for example, to evaluate use of the Services, help provide the Services, and diagnose technical issues.
+
+Samsung processes personal information for the purposes described above. Samsung’s legal basis to process personal information includes processing that is: necessary for the performance of the contract between you and Samsung (for example, to provide you with the Services and to identify and authenticate you so you may use certain Services); necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for Samsung’s legitimate interests (for example, to manage our relationship with you and to improve the Services); and based on consent by our customers (for example, to communicate with you about our products and services and provide you with marketing information), which may subsequently be withdrawn at any time by contacting us as specified in the Contact Us section of Samsung Privacy Policy without affecting the lawfulness of processing based on consent before its withdrawal.
+
+You are required, as a necessity to enter into a contract, to provide us with personal information for processing as described above. If you do not provide us with personal information, we will not be able to provide you all of the features available through the Voice Service.
+
+YOUR CHOICES 
+You may disable the Voice Service at any time by visiting the Settings menu, however this may prevent you from using the Voice Service.
+
+And also, we offer you certain choices in connection with the personal information we obtain about you. To update your preferences, limit the communications you receive from us, or submit a request, please contact us as specified in the How to Contact Us section of Samsung Privacy Policy
+
+UPDATES TO OUR PRIVACY NOTICE 
+This Privacy Notice may be updated periodically to reflect changes in our personal information practices with respect to the Services or changes in the applicable law. We will post a notice on our website and/or your Product to notify you of any significant changes to our Privacy Notice and indicate at the top of the notice when it was most recently updated.
+
+INTEREST-BASED ADVERTISEMENTS SERVICE PRIVACY NOTICE
+
+Effective Date: 30th April, 2019
+
+Samsung Electronics and its affiliated companies respect your concerns about privacy. This Privacy Notice applies to the personal information we collect through the Interest Based Advertisement services (the “IBA Service”).
+
+This Privacy Notice provides further, specific information about how your personal information is used in connection with the IBA Service, and should be read in conjunction with the Samsung Privacy Policy, which also applies to your receipt of the IBA Service and can be found at https://account.samsung.com/membership/pp.
+
+In this Privacy Notice, we describe the types of information used through Interest-Based Advertisements, how we use the information, and the choices available to you regarding our use of the information and exercising your rights.  Samsung is the data controller for the processing of personal information.
+
+WHAT IS THE IBA SERVICE? 
+The IBA Service is designed to provide the ability to obtain and view useful, interactive, and interest based advertisements about products and services offered by Samsung and third parties on your Samsung Smart TV or across various Samsung and third party platforms or Products, including linear commercials, on the web, mobile devices, and tablets.
+
+In order to make the advertising on your Products more relevant to you, the IBA Service will rely on your TV viewing history (including information about the networks, channels, websites visited, and programs viewed on your Samsung Smart TV and the amount of time spent viewing them), Samsung Smart TV usage information, and other statistical data obtained from trusted third party data sources. We may use automatic content recognition (ACR) and other technologies to capture your TV viewing history.
+
+Based on the information above we create groups of Samsung Smart TV owners who share similar interests and use these groups for the IBA Service. The information above is used to determine the groups to which your Samsung Smart TV is assigned and thus, which advertisements your Products receive.
+
+PSID
+Information about your Product usage that is collected for the purposes of providing the IBA Service will be linked to a randomized, non-persistent, and resettable Product identifier called the PSID. You may reset your PSID as specified in the Your Choices section of this Privacy Notice.
+
+WHAT INFORMATION DO WE COLLECT?
+Through the IBA Service, we obtain information about your Products in various ways. The types of information we obtain include:
+• Product Information. We collect information such as your Product model, operating system versions, device configurations and settings, IP address, Product identifiers, and other identifiers.
+• Product Usage and Log Information. We collect information about how, when, and for how long you use your Products, including your interactions with the IBA Service and Samsung and third party apps and services on the Products (such as a listing of apps on your Products).
+• Viewing Information. We collect your TV viewing history. Your TV viewing history includes information about the networks, channels, websites visited, and programs viewed on your Samsung Smart TV and the amount of time spent viewing them. We may use ACR and other technologies to capture this TV viewing history.
+• Statistical Information. We may use statistical information about you or your Products such as generalized location and estimated age group. We obtain this statistical information from commercially available sources (as permitted by law) such as our third party service providers. We work with third party service providers only who ensure that this information has been obtained in accordance with applicable law and can be provided to us for use and disclosure.
+
+Samsung’s servers receive information when you interact with the IBA Service, such as information about your interactions with the IBA Service, your geolocation, and the Products you use to receive the IBA Service.
+
+HOW DO WE USE YOUR INFORMATION?
+We use the information we obtain through the IBA Service to:
+
+• provide you with the IBA Service;
+• improve and customize your experience with the IBA Service;
+• with your separate consent, to communicate with you via email and push notification about products and services offered by Samsung and third parties that are tailored to your interests;
+• respond to your requests and enquiries;
+• operate, evaluate and improve our business (including developing new products; enhancing and improving our products and services; managing our communications; analyzing our products, customer base and services; conducting market research; performing data analytics; and performing accounting, auditing and other internal functions); 
+• protect against, identify, and prevent fraud and other criminal activity, claims, and other liabilities; and
+• comply with and enforce applicable legal requirements, relevant industry standards, and our policies, including this Privacy Notice, the Samsung account Privacy Policy.
+
+Samsung processes personal information for the purposes described above. Samsung’s legal basis to process personal information includes processing that is: necessary for the performance of the contract between you and Samsung (for example, to provide you with the IBA Service and to identify and authenticate you); necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for Samsung’s legitimate interests (for example, to manage our relationship with you and to improve the IBA Service); and based on consent by our customers (for example, to communicate with you about our products and services and provide you with marketing information), which may subsequently be withdrawn at any time by visiting the Settings menu as specified in the Your Choices section of this Privacy Notice without affecting the lawfulness of processing based on consent before its withdrawal.
+
+You are required, as a necessity to receive the IBA Service, to provide us with personal information for processing as described above. If you do not provide us with personal information, we will not be able to provide you with all of the features available through the IBA Service.
+
+YOUR CHOICES 
+You may reset your PSID at any time by visiting the settings menu, and once reset, your TV viewing history and Smart TV usage information will be unlinked from its previous PSID. Bear in mind that if you reset your PSID, the quality of the IBA Service might be affected.
+
+In addition, you may disable the IBA Service at any time by visiting the Settings menu on your Samsung Smart TV.
+
+Please note that your privacy choice with respect to the IBA Service will not affect whether or not you receive or are served with other types of ads and marketing that are not specifically based on TV viewing history or Samsung Smart TV usage information. Those other types of ads and marketing will be based on other information such as generalized location and other estimated or inferred information. They might be less relevant because they are not based on your interests.
+
+UPDATES TO OUR PRIVACY NOTICE 
+This Privacy Notice may be updated periodically to reflect changes in our personal information practices with respect to the IBA Service or changes in the applicable law. We will post a notice on our website and/or your Product to notify you of any significant changes to our Privacy Notice, and indicate at the top of the notice when it was most recently updated.
+
+PRIVACY NOTICE - SAMSUNG PRINTERS AND COPIERS
+
+Effective: June 2018
+
+Samsung printing and copier products are now part of the HP product family. Please refer to the HP Privacy Statement at the following link: http://www.hp.com/go/privacy.

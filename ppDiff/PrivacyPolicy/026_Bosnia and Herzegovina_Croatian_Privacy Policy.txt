@@ -1,0 +1,335 @@
+﻿SAMSUNG PRAVILA O ZAŠTITI PRIVATNOSTI – NAJVAŽNIJE
+
+Tvrtka Samsung Electronics zna koliko je privatnost važna našim klijentima. Htjeli bismo da razumijete način na koji prikupljamo i upotrebljavamo vaše osobne podatke na svim uređajima i uslugama tvrtke Samsung, od mobilnih telefona i tableta do TV-a, kućanskih aparata, mrežnih usluga i više.
+
+Iako se ova Pravila o zaštiti privatnosti primjenjuju na sve naše usluge, pružit ćemo i dodatne informacije o privatnosti u vezi s određenim uslugama, ondje gdje je potrebno.
+
+PREGLED OSOBNIH PODATAKA
+
+Izravno prikupljamo osobne podatke koje ste nam pružili, podatke o načinu na koji upotrebljavate naše usluge i podatke od izvora treće strane. Te informacije upotrebljavamo za pružanje usluga, razumijevanje načina na koji upotrebljavate naše usluge kako bismo mogli poboljšati i personalizirati vaše iskustvo te za razvoj najrelevantnijih aplikacija, tehnologija i sadržaja za naše klijente. Osobne podatke također upotrebljavamo za pružanje prilagođenog oglašavanja u skladu s vašim interesima.
+
+DIJELJENJE VAŠIH OSOBNIH PODATAKA
+
+Vaše podatke možemo dijeliti s povezanim društvima tvrtke Samsung Electronics te s tvrtkama koje pružaju usluge u ime tvrtke Samsung Electronics. Vaše podatke također možemo dijeliti s pouzdanim partnerskim tvrtkama, kao što su davatelji mobilnih usluga ili osiguravajuće tvrtke, koje vam pružaju proizvode i usluge koje ste zatražili te podatke o proizvodima koji bi vas mogli zanimati. Osobne podatke dijelimo sa zakonodavnim tijelima kada je to propisano zakonom ili kako bismo zaštitili tvrtku Samsung Electronics i njezine korisnike.
+
+1. KOJE PODATKE PRIKUPLJAMO? 
+2. KAKO UPOTREBLJAVAMO VAŠE PODATKE? 
+3. S KIME DIJELIMO VAŠE PODATKE? 
+4. KAKO ČUVAMO VAŠE PODATKE NA SIGURNOM? 
+5. GDJE ŠALJEMO VAŠE PODATKE? 
+6. KOJA SU VAŠA PRAVA? 
+7. KOLIKO DUGO ČUVAMO VAŠE PODATKE? 
+8. KOJE USLUGE TREĆIH STRANA UPOTREBLJAVAMO? 
+9. KONTAKT 
+
+PRAVILA O ZAŠTITI PRIVATNOSTI TVRTKE SAMSUNG
+
+Datum stupanja na snagu: 30. travanj 2019.
+
+Ova se Pravila o zaštiti privatnosti primjenjuju na sve uređaje i usluge tvrtke Samsung, od mobilnih telefona i tableta do TV-a, kućanskih aparata, mrežnih usluga i više, zajedničkog naziva Usluge.
+
+Važno je da često provjerite ažuriranja Pravila o zaštiti privatnosti. Ova Pravila o zaštiti privatnosti možemo povremeno ažurirati kako bi obuhvatila izmjene u našim postupcima obrade osobnih podataka u sklopu Usluga ili izmjena u mjerodavnom pravu. Na našem web-mjestu ili na vašem uređaju unaprijed ćemo vas obavijestiti o bitnim izmjenama Pravila o zaštiti privatnosti i na početku Pravila naznačiti kada su posljednji put ažurirana. Najnovija verzija Pravila o zaštiti privatnosti uvijek će biti dostupna ovdje: https://account.samsung.com/membership/pp.
+
+KOJE PODATKE PRIKUPLJAMO?
+
+Tvrtka Samsung Electronics vaše osobne podatke prikuplja na različite načine.
+
+Podaci koje izravno dajete
+
+Neke Usluge omogućuju vam da nam izravno date podatke. Na primjer:
+
+•	Kada izradite račun ili profil, od vas možemo tražiti podatke kao što su vaše ime, datum rođenja ili adresa e-pošte.
+•	Ako od nas naručite proizvod ili plaćenu uslugu, možemo od vas zatražiti ime, adresu, podatke za kontakt te adresu za dostavu i podatke o plaćanju kako bismo obradili vašu narudžbu.
+•	Kako bismo vam mogli pružiti odgovore kada se obratite službi za korisnike, bit će nam potrebni podaci za provjeru vašeg identiteta i proizvoda o kojem se raspitujete.
+•	Kada komunicirate s osobljem službe za korisnike ili osobljem drugih Usluga, vaša se komunikacija prenosi putem naših sustava.
+•	Ako podijelite svoje kontakte, prikupit ćemo njihove brojeve telefona te ostale podatke za kontakt kako bismo olakšali dijeljenje datoteka i razmjenu poruka. Ove značajke možete isključiti ili ograničiti u Postavkama na svojim uređajima.
+
+Podaci o vašoj upotrebi Usluga
+
+Osim podataka koje pružite, prikupit ćemo podatke o vašoj upotrebi naših Usluga putem softvera na vašim uređajima i drugim sredstvima. Prikupit ćemo sljedeće:
+
+•	Podatke o uređaju: model vašeg hardvera, podatke o hardveru uređaja, IMEI broj i druge identifikatore, telefonski broj, serijski broj, prodajni kôd, razinu pristupa, trenutačnu verziju softvera, pozivni mobilni broj, kôd mobilne mreže, MAC adresu, IP adresu, kolačiće, piksele, podatke o pretplati, verzije operativnog sustava i postavke uređaja koje upotrebljavate za pristupanje Uslugama.
+•	Podatke zapisa: dijagnostičke, tehničke podatke, podatke o pogreškama i upotrebi, kao što su vrijeme i trajanje vaše upotrebe Usluga, pojmove za pretraživanje koje unesete u uređaj povezan s određenom Uslugom tvrtke Samsung i bilo koje podatke pohranjene u kolačićima koje smo postavili na vaše uređaje.
+•	Podatke o lokaciji: GPS signal vašeg uređaja ili podatke o Wi-Fi pristupnim točkama i baznim stanicama u blizini, koji nam se mogu prenijeti kad upotrebljavate određene Usluge i omogućite funkciju Lokacija.
+•	Podatke o glasu: snimke vašeg glasa koje načinimo i pohranjujemo na svojim poslužiteljima kad upotrebljavate tu funkciju i glasovne naredbe za upravljanje Uslugom ili kada se obratite našem timu za korisničku podršku. Imajte na umu da, ako surađujemo s davateljem usluga treće strane koji pruža usluge pretvorbe govora u tekst u naše ime, taj davatelj može primiti i pohraniti određene glasovne naredbe u skladu s ugovorom između nas i pouzdanog davatelja usluga treće strane.
+•	Podatke Samsung tipkovnice: riječi koje unosite kada omogućite značajku Predviđanje teksta. Ta značajka može biti ponuđena u vezi s vašim Samsung računom radi sinkronizacije podataka za upotrebu na drugim mobilnim uređajima tvrtke Samsung. Podatke možete izbrisati ulaskom u postavke značajke Predviđanje teksta.
+•	Podatke o prikazivanju: mreže, kanale, posjećena web-mjesta i programe prikazane na uređajima te količinu vremena koju ste proveli gledajući ih.
+•	Druge podatke o vašoj upotrebi Usluga, primjerice aplikacije koje upotrebljavate, web-mjesta koja posjećujete i način na koji stupate u interakciju sa sadržajem koji se nudi putem usluge.
+
+Javni ili komercijalno dostupni ili objavljeni podaci
+
+Ponekad prikupljamo javne ili komercijalno dostupne podatke, uključujući podatke s društvenih mreža koje upotrebljavate te ih kombiniramo s drugim podacima o vama kako bismo bolje razumjeli vaše potrebe, interese i preferencije. Također, ponekad prikupljamo podatke o vama kada nam ih druge osobe pruže upotrebom naših Usluga, kao što su vaše ime ili podaci za kontakt, koji se dijele kada primate poruke ili podijeljene datoteke.
+
+Drugi podaci koje prikupljamo
+
+Možemo prikupiti i druge podatke o vama, vašim uređajima ili vašoj upotrebi Usluga koje ste pristali podijeliti s nama.
+
+Analitika trećih strana
+
+Putem određenih Usluga možemo prikupljati osobne podatke o vašim mrežnim aktivnostima na web-mjestima i povezanim uređajima te na web-mjestima, uređajima, aplikacijama i u drugim mrežnim uslugama trećih strana. U našim Uslugama možemo upotrebljavati usluge analitike trećih strana, primjerice Google Analytics. Davatelji tih usluga analitike pomažu nam u analizi vaše upotrebe Usluga i poboljšanju Usluga. Podatke koje prikupljamo možemo otkriti tim davateljima usluga i drugim relevantnim trećim stranama ili ih oni mogu izravno prikupiti te upotrijebiti za, primjerice, procjenu upotrebe Usluga, pomoć u održavanju Usluga i dijagnostiku tehničkih poteškoća. Da biste saznali više o usluzi Google Analytics, posjetite web-mjesta http://www.google.com/analytics/learn/privacy.html i https://www.google.com/policies/privacy/partners/.
+
+Vaše mogućnosti
+
+Možete odabrati da nam ne pružite određene vrste podataka, kao što su podaci koje zatražimo tijekom registracije Samsung računa. U nekim slučajevima to može ograničiti vašu mogućnost da upotrebljavate neke Usluge. Sa zadovoljstvom ćemo vam objasniti ta ograničenja prilikom traženja vaših podataka kako biste mogli donijeti informiranu odluku. Primjerice, Samsung Cloud omogućuje vam da izradite sigurnosnu kopiju svojih podataka i stvorite točku vraćanja. S druge strane, Samsung Cloud nije namijenjen za pohranu ili obradu povjerljivih podataka.
+
+KAKO UPOTREBLJAVAMO VAŠE PODATKE?
+
+Prikupljene podatke upotrebljavamo u sljedeće svrhe:
+•	da bismo registrirali vas ili vaš uređaj za naše Usluge
+•	da bismo pružili Uslugu ili značajku koju zatražite
+•	da bismo pružili prilagođeni sadržaj i personalizirane usluge na temelju vaših prethodnih aktivnosti u našim Uslugama
+•	da bismo pružili prilagođeno oglašavanje, promotivne akcije i ponude koje bi vas mogle zanimati na našim web-mjestima, web-mjestima treće strane i mrežnim platformama, kao što su društvene mreže
+•	da bismo pružili promotivne akcije i ponude putem izravnih marketinških obavijesti, uz vaš zaseban pristanak
+•	da bismo analizirali proizvode i usluge radi boljeg razumijevanja klijenata kako bismo vam mogli ponuditi najrelevantniju komunikaciju, usluge i doživljaje
+•	da bismo saznali vaše mišljenje o našim proizvodima i uslugama te proveli ankete za klijente uz vaš zaseban pristanak, ako je potreban
+•	da bismo pružili ažuriranje softvera, usluge održavanja i podrške za vaš uređaj
+•	da bismo se pridržavali zakona ili pravnih postupaka
+•	da bismo zaštitili prava, imovinu ili sigurnost tvrtke Samsung Electronics ili bilo kojeg našeg povezanog društva, poslovnog partnera ili klijenta.
+
+Podatke koje smo prikupili o vama putem naših Usluga, uređaja ili drugih izvora upotrebljavamo i kombiniramo kako bismo vam pružili bolje iskustvo. Na primjer, podatke o svome Samsung računu možete upotrebljavati na Usluzi s kojom ste se registrirali, ali i s drugim Uslugama koje upotrebljavaju Samsung račune. Podatke koje ste nam izravno pružili ili koje smo pribavili putem drugih izvora, kao što je gore opisano, upotrebljavamo za pružanje personaliziranog sadržaja koji bi vam se mogao svidjeti. 
+
+Na raspolaganju su vam različite mogućnosti izbora u vezi sa vašim podacima. Za više informacija pogledajte odjeljak KOJA SU VAŠA PRAVA?
+
+[Samo za osobe s prebivalištem u Europskom gospodarskom prostoru (EGP)]
+
+Tvrtka Samsung obrađuje osobne podatke u prethodno navedene svrhe. Pravna osnova tvrtke Samsung za obradu osobnih podataka obuhvaća obradu: 
+(i)	kako bismo mogli održati obećanja koja smo vam dali, kao što je pružanje Usluge
+(ii)	da bismo promovirali naše poslovne interese (primjerice, kako bismo upravljali našim odnosom s vama te poboljšali iskustvo korisničke podrške), što uključe komunikaciju na našem web-mjestu, web-mjestima trećih strana i mrežnim platformama
+(iii)	da bismo se pridržavali zakona ili pravnih postupaka
+(iv)	uz vaš pristanak (primjerice, za slanje izravnih marketinških obavijesti. Ako nam date svoj pristanak, u svakom ga trenutku možete povući na način naveden u odjeljku KONTAKT ovih Pravila o zaštiti privatnosti.
+
+Tvrtka Samsung Electronics voditelj je obrade vaših osobnih podataka na prethodno opisan način. Za neke izravne marketinške obavijesti i prilagođeno oglašavanje u Europi tvrtka Samsung Electronics (UK) Limited, koja se nalazi u Ujedinjenom Kraljevstvu, također je voditelj obrade vaših osobnih podataka. Neka od povezanih društava tvrtke Samsung u Europi također obrađuju vaše osobne podatke u svojim državama. Ako je primjenjivo, to je objašnjeno i u lokalnim Pravilima o zaštiti privatnosti koja se nalaze na web-mjestu povezanog društva tvrtke Samsung u Europi.
+
+S KIME DIJELIMO VAŠE PODATKE?
+
+Vaše ćemo podatke otkriti interno, unutar tvrtke, no samo onima kojima su potrebni nastavak pružanja Usluga ili pomoći sa zahtjevima. 
+
+Vaše ćemo podatke otkriti i sljedećim subjektima, ali samo u mjeri potrebnoj za pružanje Usluga:
+
+•	Povezana društva: druge tvrtke Samsung Electronics grupe kojima upravljamo ili koje posjedujemo. 
+•	Poslovni partneri: partneri s kojima surađujemo kako bismo vam pružili Usluge koje ste zatražili ili kupili. Primjerice, možemo surađivati s bankom kako biste mogli upotrebljavati jednu od naših Usluga za obavljanje bržih i učinkovitijih plaćanja. Ti poslovni partneri nadziru vaše osobne podatke i upravljaju njima.
+•	Davatelji usluga: pažljivo odabrane tvrtke koje pružaju usluge za nas ili u naše ime, kao što su tvrtke koje nam pomažu s popravcima, centri za kontaktiranje s korisnicima, tvrtke za aktivnosti korisničke podrške, oglašavanje (uključujući prilagođeno oglašavanje na našim web-mjestima, web-mjestima trećih strana ili mrežnim platformama), provođenje anketa o zadovoljstvu korisnika, naplata ili slanje e-pošte u naše ime. Ti su davatelji usluga predani zaštiti vaših podataka.
+•	Druge strane kad je to propisano zakonom ili kako je neophodno za zaštitu naših Usluga: primjerice, otkrivanje vaših podataka može biti nužno kada to nalaže zakon, pravni postupak ili sudski nalog državnih tijela. Oni nas mogu tražiti vaše podatke u svrhu provedbe zakona, državne sigurnosti, antiterorističkih radnji ili drugih poteškoća vezanih uz javnu sigurnost.
+•	Druge strane u vezi s korporacijskim transakcijama: vaše podatke možemo otkriti trećoj strani kao dio spajanja ili prijenosa, akvizicije ili prodaje, ili u slučaju bankrota.
+•	Druge strane uz vaš pristanak ili po vašem naputku: osim otkrivanja opisanih u ovim Pravilima o zaštiti privatnosti, možemo podijeliti podatke o vama s trećim stranama kad date posebni pristanak za to ili zatražite takvo dijeljenje.
+
+KAKO ČUVAMO VAŠE PODATKE NA SIGURNOM?
+
+Ozbiljno shvaćamo zaštitu podataka. Primijenili smo fizičke i tehničke zaštitne mjere da bismo štitili podatke koje prikupljamo. Međutim, napominjemo da, premda poduzimamo razumne korake da zaštitimo vaše podatke, nijedno web-mjesto, internetski prijenos, računalni sustav ili bežična veza nisu potpuno sigurni.
+
+GDJE ŠALJEMO VAŠE PODATKE?
+
+Upotreba naših Usluga uključivat će prijenos, pohranu i obradu osobnih podataka unutar i izvan vaše zemlje stanovanja, u skladu s ovim pravilom. Konkretno, vaši će se osobni podaci prenijeti u Republiku Koreju. Napominjemo da zaštita podataka i drugi zakoni zemalja u koje se vaši podaci mogu prenijeti možda nisu tako sveobuhvatni kao oni u vašoj zemlji.
+
+[Samo za osobe s prebivalištem u Europskom gospodarskom prostoru (EGP)]
+
+Osim toga, upotreba Usluga može uključivati pohranu, obradu i prijenos osobnih podataka u druge zemlje; te zemlje uključuju, bez ograničenja, zemlje u Europskom gospodarskom području, Sjedinjene Američke Države, Kinu, Singapur, Vijetnam, Indiju, Kanadu, Filipine i Japan. Poduzet ćemo odgovarajuće mjere u skladu s mjerodavnim pravom kako bismo osigurali da vaši osobni podaci ostanu zaštićeni. Takve mjere uključuju upotrebu standardnih ugovornih odredbi radi zaštite prijenosa podataka izvan EGP-a. Obratite nam se da biste zatražili više informacija ili dobili kopiju ugovora na snazi. Pogledajte odjeljak KONTAKT. 
+
+KOJA SU VAŠA PRAVA?
+
+Vaši osobni podaci pripadaju vama. Možete zatražiti da pružimo pojedinosti o tome što smo prikupili te da izbrišemo ili ispravimo moguće netočnosti. Također možete zatražiti da ograničimo obradu, dijeljenje ili prijenos vaših osobnih podataka te da vam pružimo osobne podatke koje smo prikupili kako biste ih mogli upotrebljavati u vlastite svrhe. Doduše, ako zatražite brisanje svojih osobnih podataka, mogli biste izgubiti pristup Uslugama koje pružamo. Nećemo izbrisati podatke koje moramo zadržati u skladu sa zakonom.
+
+Da biste uputili zahtjev u vezi s vašim pravima ili poslali upit, obratite nam se. Pogledajte odjeljak KONTAKT.
+
+KOLIKO DUGO ČUVAMO VAŠE PODATKE?
+
+Vaše osobne podatke nećemo čuvati duže nego što je potrebno za svrhu u koju su prikupljeni. To znači da će se podaci uništiti ili izbrisati iz naših sustava kada nam više ne budu potrebni.
+
+Poduzet ćemo odgovarajuće mjere kako bismo osigurali da se podaci o vama koje obrađujemo i zadržavamo temelje na sljedećoj logici:
+
+1.	barem dok se podaci upotrebljavaju da bismo vam pružili uslugu 
+2.	kako je propisano zakonom, ugovorom ili u skladu s našim zakonskim obavezama
+3.	samo onoliko dugo koliko je neophodno u svrhu radi koje se obrađuju ili su prikupljeni, ili dulje ako je to potrebno na temelju bilo kojeg ugovora, propisano mjerodavnim zakonom ili u statističke svrhe, uz primjenu odgovarajućih zaštitnih mjera.
+
+KOJE USLUGE TREĆIH STRANA UPOTREBLJAVAMO?
+
+Dio sadržaja, oglašavanja i funkcija u našim Uslugama pružaju treće strane. Te treće strane mogu upotrebljavati kolačiće, pratilice, piksele za praćenje i druge alate za prikupljanje podataka o vašoj upotrebi tih Usluga. Tim trećim stranama ne upravlja tvrtka Samsung izravno, stoga preporučamo da provjerite njihova pravila o zaštiti privatnosti kako biste razumjeli na koji način upotrebljavaju vaše podatke.
+
+Za neke aplikacije i usluge, uključujući i društvene mreže, primamo i pohranjujemo podatke za prijavu, kao i druge podatke koji nam omogućuju primanje kad se povežete s tim uslugama.
+
+KONTAKT
+
+Možete nam se obratiti kako biste ažurirali svoje preferencije, ispravili svoje podatke, poslali nam zahtjev ili nam postavili pitanja.
+
+Možete nam se obratiti i na:
+
+Voditelj obrade podataka
+Samsung Electronics Co., Ltd.
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+[Samo za osobe s prebivalištem u Europskom gospodarskom prostoru (EGP)]
+
+Tvrtka Samsung Electronics ima urede diljem Europe pa možemo biti sigurni da će vaš zahtjev ili upit obraditi tim za zaštitu podataka u vašoj regiji.
+
+Najlakše je obratiti nam se putem naše stranice podrške privatnosti na web-mjestu https://www.samsung.com/request-desk. 
+
+Možete nam se obratiti i na:
+
+Europski službenik za zaštitu podataka
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+
+Ako smatrate da naša obrada vaših osobnih podataka nije u skladu s mjerodavnim pravom, možete podnijeti pritužbu odgovarajućem nadzornom tijelu. Pojedinosti za kontakt za sva nadzorna tijela EU-a mogu se pronaći na web-mjestu https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+PRAVILA O ZAŠTITI PRIVATNOSTI TVRTKE SAMSUNG – DODATAK ZA SMART TV
+
+Smart TV tvrtke Samsung nudi skup značajki koje pružaju poboljšani videosadržaj, prilagođene doživljaje TV-a, filmove, veze na društvene mreže i mogućnost upravljanja vašim uređajem Smart TV i interakcije s njim pomoću glasovnih naredbi. Prikupljamo, upotrebljavamo, dijelimo i pohranjujemo podatke putem vašeg Smart TV-a i uređaja povezanih sa Smart TV-om na načine opisane u Pravilima o zaštiti privatnosti tvrtke Samsung. Ovaj Dodatak pruža dodatne pojedinosti o postupcima u vezi s privatnošću nekih značajki Smart TV-a.
+
+Smart TV osmišljen je da vam omogući da lako pronađete videoprograme i drugi sadržaj. Na primjer, možete pristupiti informacijama o televizijskim programima uživo koje distribuira kabelski ili satelitski operator te ponudama videosadržaja na zahtjev koji distribuiraju davatelji sadržaja treće strane putem pretraživih vodiča prikazanih na vašem Smart TV-u.
+Kada je riječ o televizijskim programima uživo, utvrđujemo koji vam je sadržaj dostupan dijelom na temelju vašeg poštanskog broja. K tome, Smart TV vam pomaže da pronađete i doživite drugi sadržaj na Smart TV-u koji je relevantniji za vas ističući programe i sadržaj za koji je izgledno da će vas zanimati ili pružajući dodatne usluge koje će poboljšati vaš doživljaj gledanja. Te preporuke i dodatne usluge temeljimo na:
+•	informacijama o sadržaju koji ste gledali, kupili, preuzeli ili prenosili strujanjem putem Samsung aplikacija na vašem Smart TV-u ili drugim uređajima (informacije o gledanju TV-a potražite u odjeljku „Usluge informacija o prikazivanju” u nastavku)
+•	informacijama o aplikacijama kojima ste pristupili putem Smart TV-a
+•	informacijama o vašim klikovima na „Sviđa mi se”, „Ne sviđa mi se”, „Prikaži” i druge tipke na vašem Smart TV-u
+•	pojmovima za pretraživanje koje unesete u značajke za pretraživanje Smart TV-a, uključujući vaše pretraživanje određenog videosadržaja
+•	drugim podacima o upotrebi Smart TV-a i o uređaju, uključujući, bez ograničenja, IP adresu, podatke zapisnika, podatke koji identificiraju vašu hardversku ili softversku konfiguraciju, podatke o pregledniku i stranice koje zahtijevate.
+
+Usluge informacija o prikazivanju
+Ova bi se izjava o zaštiti privatnosti trebala pročitati zajedno s Pravilima o zaštiti privatnosti tvrtke Samsung, koja se također primjenjuju na primitak prilagođenog iskustva upotrebe Smart TV-a, a možete ih pronaći na web-mjestu https://account.samsung.com/membership/pp.
+Da bismo vam pružili prilagođeno iskustvo upotrebe Smart TV-a, neke od naših značajki i usluga oslanjat će se na povijest prikazivanja na vašem TV-u i na podatke o upotrebi Smart TV-a.
+Vaša povijest prikazivanja na TV-u uključuje podatke o mrežama, kanalima, posjećenim web-mjestima, programima prikazanima na Smart TV-u i o količini vremena koje ste proveli gledajući ih.
+Da bismo dohvatili te informacije, možemo upotrebljavati automatsko prepoznavanje sadržaja (ACR) i druge tehnologije. Vaš Smart TV prenosi videoisječke ili podatke o TV prijemniku da bi utvrdio koji se programi gledaju.
+Svoj izbor privatnosti možete promijeniti u bilo kojem trenutku ulaskom u izbornik postavki i onemogućivanjem određene značajke ili usluge prema svome nahođenju, nakon čega nećemo više prikupljati vašu povijest prikazivanja na TV-u za tu značajku ili uslugu.
+
+[Samo za osobe s prebivalištem u Europskom gospodarskom prostoru (EGP)]
+
+Upotreba naših usluga uključivat će prijenos, pohranu i obradu osobnih podataka izvan vaše zemlje stanovanja u Koreju, u skladu s ovim pravilom. Osim toga, upotreba Usluga može uključivati pohranu, obradu i prijenos osobnih podataka u druge zemlje; te zemlje uključuju, bez ograničenja, zemlje u Europskom gospodarskom području, Sjedinjene Američke Države i Kanadu. Napominjemo da zaštita podataka i drugi zakoni zemalja izvan Europskog gospodarskog područja u koje se vaši podaci mogu prenijeti možda nisu tako sveobuhvatni kao oni u vašoj zemlji. Poduzet ćemo odgovarajuće mjere u skladu s mjerodavnim pravom kako bismo osigurali da vaši osobni podaci ostanu zaštićeni. Takve mjere uključuju upotrebu standardnih ugovornih odredbi radi zaštite prijenosa podataka izvan EGP-a. Da biste saznali više informacija ili dobili kopiju ugovora na snazi, obratite nam se putem naše stranice podrške privatnosti (https://www.samsung.com/request-desk).
+Imajte na umu da vaš izbor privatnosti može utjecati na dostupnost ili kvalitetu određene usluge koja se temelji na prikazivanju informacija.
+
+Usluge oglašavanja na temelju interesa
+Usluge oglašavanja na temelju interesa („Usluge IBA”) osmišljene su za pružanje mogućnosti primanja i pregledavanja korisnih, interaktivnih oglasa temeljenih na interesima o proizvodima i uslugama tvrtke Samsung i trećih strana na vašem Samsung Smart TV-u ili na raznim platformama ili uređajima tvrtke Samsung i trećih strana, uključujući linearne reklame, na webu, mobilnim uređajima i tabletima.
+
+Kako bismo oglašavanje na vašim uređajima učinili relevantnijim, Usluga IBA upotrebljava vašu povijest prikazivanja na TV-u (uključujući podatke o mrežama, kanalima, posjećenim web-mjestima i programima gledanim na Samsung Smart TV-u i o količini vremena koje ste proveli gledajući ih), podatke o upotrebi Samsung Smart TV-a te ostale statističke podatke dobivene iz pouzdanih izvora podataka trećih strana. Da bismo dohvatili vašu povijest prikazivanja na TV-u, možemo upotrebljavati automatsko prepoznavanje sadržaja (ACR) i druge tehnologije.
+
+Na temelju prethodnih podataka, stvaramo skupine vlasnika Samsung Smart TV-a koji dijele slične interese i upotrebljavamo ih za Uslugu IBA. Prethodni podaci upotrebljavaju se za određivanje skupina kojima je dodijeljen vaš Samsung Smart TV pa tako i za određivanje oglasa koje primate.
+
+Uslugu IBA možete onemogućiti u bilo kojem trenutku tako da posjetite izbornik Postavke na svojem Samsung Smart TV-u.
+
+Napominjemo da vaš izbor postavki privatnosti koje se odnose na Uslugu IBA neće utjecati na to primate li druge vrste oglašavanja i marketinga, koje se ne temelje izričito na povijesti prikazivanja na TV-u ili podacima o upotrebi Samsung Smart TV-a. Te druge vrste oglašavanja i marketinga temeljit će se na drugim podacima poput opće lokacije i ostalih procijenjenih ili konačnih podataka. Isti bi mogli biti manje relevantni jer se ne temelje na vašim interesima.
+
+Detaljnije informacije o Uslugama IBA potražite u Izjavi o zaštiti privatnosti za Usluge IBA pri dnu ovog Dodatka.
+
+PSID
+Vaša povijest prikazivanja i informacije o upotrebi Smart TV-a prikupljene u svrhu pružanja oglašavanja koje se temelji na vašim interesima povezat će se s nasumičnim, nepostojanim identifikatorom uređaja koji se može ponovno postaviti, naziva ID personalizirane usluge ili „PSID”.
+Svoj PSID možete u bilo kojem trenutku ponovno postaviti ulaskom u izbornik Postavke na Smart TV-u, a kad ga postavite, povijest prikazivanja na Smart TV-u i podaci o upotrebi Smart TV-a, koji se odnose na oglašavanje na temelju interesa, uklonit će se s prethodnog PSID-a. Imajte na umu da, ako ponovno postavite PSID, kvaliteta prilagođenog oglašavanja koje se temelji na vašim interesima možda neće biti fino podešena.
+
+Prepoznavanje glasa
+Pomoću glasovnih naredbi možete upravljati Smart TV-om i upotrebljavati mnoge njegove značajke.
+Ako omogućite Prepoznavanje glasa, možete biti u glasovnoj interakciji sa Smart TV-om. Da bismo pružili značajku Prepoznavanje glasa, vaše će se glasovne naredbe prenijeti (zajedno s podacima o vašem uređaju, uključujući identifikatore uređaja) nama, a mi ćemo te glasovne naredbe pretvoriti u tekst radi pružanja značajki Prepoznavanje glasa. Usto, Samsung može prikupljati glasovne naredbe i s njima povezane tekstove radi procjene i poboljšanja značajki. Samsung će prikupljati vaše glasovne naredbe samo kad Smart TV-u pošaljete konkretan zahtjev za pretraživanje tako da kliknete tipku za aktivaciju na daljinskom upravljaču ili na zaslonu, odnosno izgovorite riječ za buđenje (npr. „Hi, Bixby”) i govorite u mikrofon na daljinskom upravljaču ili Smart TV-u.
+Ako ne omogućite Prepoznavanje glasa, nećete moći upotrebljavati značajke Prepoznavanje glasa.
+Prikupljanje podataka putem značajke Prepoznavanje glasa možete onemogućiti u bilo kojem trenutku, odlaskom na izbornik Postavke. Međutim, to bi vam onemogućilo upotrebu značajki Prepoznavanje glasa.
+
+Detaljnije informacije o usluzi Prepoznavanje glasa potražite u Izjavi o zaštiti privatnosti za Prepoznavanje glasa pri dnu ovog Dodatka.
+
+Treće strane
+Napominjemo da, kad gledate videozapis ili pristupite aplikacijama ili sadržaju koji pruža treća strana, taj davatelj usluga može prikupljati ili primati podatke o vašem Smart TV-u (npr. njegovu IP adresu i identifikatore uređaja), zatraženoj transakciji (npr. vašem zahtjevu za kupnju ili najam videozapisa) i vašoj upotrebi aplikacije ili usluge. Samsung ne odgovara za zaštitu privatnosti ili sigurnosne postupke tih davatelja usluga. Trebali biste biti oprezni i pregledati izjave o zaštiti privatnosti primjenjive na web-mjesta i usluge treće strane koje upotrebljavate.
+
+Značajke specifične za određenu zemlju
+Napominjemo da vam jedna ili više značajki opisanih u ovom Dodatku za Smart TV možda neće biti dostupne ovisno o tome gdje živite.
+
+IZJAVA O ZAŠTITI PRIVATNOSTI ZA USLUGU PREPOZNAVANJE GLASA
+
+Datum stupanja na snagu: 30. travanj 2019.
+
+Tvrtka Samsung Electronics i njezine povezane tvrtke poštuju vašu brigu za privatnost. Ova se Izjava o zaštiti privatnosti primjenjuje na osobne podatke prikupljene putem usluge Prepoznavanje glasa („Glasovna usluga”).
+
+Glasovna usluga jest usluga koja korisnicima pruža mogućnost pronalaženja i gledanja sadržaja te upravljanje njime u proizvodima tvrtke Samsung koristeći samo vlastiti glas. Njezine značajke obuhvaćaju obrađivanje prirodnog jezika u pretraživanju sadržaja i upravljanju Samsung Smart TV-om, internet, usluge vremenske prognoze i druge usluge koje korisnici sada očekuju od svojih Samsung Smart TV-a.
+
+Ovisno o jeziku koji odaberete, možete upotrebljavati značajku poboljšanog prepoznavanja glasa Bixby i uživati u njoj. Kad se Bixby aktivira, možete to prepoznati po ikonama, natpisima ili drugim oznakama na zaslonu Samsung Smart TV-a.
+
+Ova Izjava o zaštiti privatnosti pruža dodatne, konkretne informacije o upotrebi vaših osobnih podataka u vezi s Glasovnom uslugom i trebala bi se pročitati zajedno s Pravilima o zaštiti privatnosti tvrtke Samsung, koja se također primjenjuju na primljenu Glasovnu uslugu, a možete ih pronaći na web-mjestu https://account.samsung.com/membership/pp.
+
+U ovoj Izjavi o zaštiti privatnosti opisujemo vrste podataka koje se prikupljaju putem Glasovne usluge, kako smijemo upotrijebiti te podatke i koje su vam mogućnosti dostupne u vezi s našom upotrebom podataka. Tvrtka Samsung voditelj je obrade podataka pri obradi osobnih podataka.
+
+KOJE PODATKE PRIKUPLJAMO?
+Putem Glasovne usluge, podatke o vama možemo pribavljati na različite načine. Vrste osobnih podataka koje pribavljamo obuhvaćaju sljedeće:
+
+•	Podaci o Samsung računu (neobavezno). Kada se prijavite u Samsung račun na Smart TV-u, možemo prikupljati podatke povezane s vašim Samsung računom koji se upotrebljava za pristup Glasovnoj usluzi, kao što su ime, adresa e-pošte i ID Samsung računa.
+
+•	Interakcije Glasovne usluge. Možemo prikupljati podatke koje razmjenjujete s Glasovnom uslugom tijekom interakcija s Uslugama, uključujući snimke glasovnih naredbi (kao što su pitanja, zahtjevi i upute), slike i ostale unose te podatke koje primite od Usluga (kao što su odgovori i sadržaj). Možemo prikupljati i druge podatke povezane s vašom upotrebom Glasovne usluge, uključujući podatke (kao što su podaci povezani s aplikacijama koje upotrebljavate, web-mjestima koja posjećujete i slikama, glazbom, unosima u kalendaru, oznakama te sadržajem i podacima iz drugih aplikacija, web-mjesta i usluga tvrtke Samsung i trećih strana) koje primimo od aplikacija i usluga tvrtke Samsung i trećih strana kojima Glasovna usluga pristupa ili ih upotrebljava radi pružanja Usluga (kao što su strujanje glazbe i vremenska prognoza).
+
+•	Podaci o geografskoj lokaciji. Možemo primati preciznu geografsku lokaciju vašeg uređaja i druge podatke povezane s vašom lokacijom putem podataka o poštanskom broju pohranjenih u TV-u, a koji se mogu pribaviti putem vaše IP adrese ili vašeg unosa za određene svrhe, primjerice za pružanje Usluga.
+
+•	Podaci o uređaju i aplikacijama. Automatiziranim postupcima možemo prikupljati podatke o uređajima na kojima je omogućena Glasovna usluga, kao što su modeli uređaja, verzije OS-a, konfiguracije i postavke uređaja, IP adrese, identifikatori uređaja i ostali jedinstveni identifikatori. Osim toga, možemo prikupljati podatke o tome kako, kada i koliko dugo upotrebljavate uređaje na kojima je omogućena Glasovna usluga, uključujući upotrebu Glasovne usluge te aplikacija i usluga tvrtke Samsung i trećih strana na uređajima (kao što je popis aplikacija na uređajima, glazba koju reproducirate na uređajima, web-mjesta koja posjećujete i pretraživanja koja obavljate).
+
+KAKO UPOTREBLJAVAMO VAŠE PODATKE?
+Podatke koje pribavimo putem Glasovne usluge možemo upotrebljavati u sljedeće svrhe:
+
+•	za pružanje Usluga, npr. za odgovaranje na vaše zahtjeve, pitanja i upute u Glasovnoj usluzi
+•	za utvrđivanje i provjeru vašeg identiteta kako biste mogli upotrebljavati određene Glasovne usluge
+•	za poboljšanje i prilagodbu vašeg iskustva upotrebe Glasovne usluge, npr. za pružanje sadržaja i odgovora prilagođenih našim korisnicima i načinu na koji oni stupaju u interakcije s Glasovnom uslugom
+•	uz vaš zaseban pristanak, za komunikaciju s vama o našim proizvodima i uslugama te za pružanje obavijesti, sadržaja, upozorenja, ponuda, promotivnih akcija, marketinških informacija, obavijesti i oglasa
+•	za odgovaranje na vaše zahtjeve i upite
+•	za vođenje, ocjenjivanje i unaprjeđenje našeg poslovanja (uključujući razvoj novih proizvoda, unaprjeđenje i poboljšanje naših proizvoda i usluga, upravljanje našom poslovnom komunikacijom, analizu naših proizvoda, baze korisnika i usluga, provođenje istraživanja tržišta, obavljanje analize podataka, obavljanje računovodstvenih, revizijskih i drugih internih poslova)
+•	za omogućivanje upotrebe određenih aplikacija i usluga trećih strana i interakcije s njima
+•	za otkrivanje, sprječavanje i zaštitu od prijevara i drugih kriminalnih aktivnosti, potraživanja i drugih obveza te
+•	za osiguravanje sukladnosti s važećim pravnim zahtjevima, relevantnim standardima u industriji i našim pravilima te za njihovu provedbu, uključujući ovu Izjavu o zaštiti privatnosti i Pravila o zaštiti privatnosti Samsung računa.
+
+Putem Glasovne usluge možemo prikupljati osobne podatke o vašim mrežnim aktivnostima na uređajima s omogućenom Glasovnom uslugom te u aplikacijama, na web-mjestima i u drugim mrežnim uslugama trećih strana. U našim Uslugama možemo upotrebljavati usluge analitike trećih strana. Davatelji tih usluga analitike pomažu nam u analizi vaše upotrebe Usluga i poboljšanju naših Usluga. Podatke koje prikupljamo možemo otkriti tim davateljima usluga i drugim relevantnim trećim stranama ili ih oni mogu izravno prikupiti te upotrijebiti za, primjerice, procjenu upotrebe usluga, pomoć u pružanju usluga i dijagnostiku tehničkih poteškoća.
+
+Tvrtka Samsung obrađuje osobne podatke u prethodno navedene svrhe. Pravna osnova tvrtke Samsung za obradu osobnih podataka obuhvaća obradu koja je: nužna za izvršavanje ugovora između vas i tvrtke Samsung (npr. za pružanje Usluga te utvrđivanje i provjeru vašeg identiteta kako biste mogli upotrebljavati određene Usluge), nužna za ispunjavanje zakonskih obveza (npr. za postupanje u skladu s važećim računovodstvenim pravilima i za obvezno otkrivanje podataka pravosudnim tijelima), nužna za zakonom zaštićene interese tvrtke Samsung (npr. za reguliranje našeg odnosa s vama i za poboljšanje Usluga) i koja se temelji na pristanku naših korisnika (npr. da bismo s vama komunicirali o svojim proizvodima i uslugama i pružali vam marketinške informacije), a koji se kasnije u svakom trenutku može povući tako da nam se obratite na način određen u odjeljku Kontakt u Pravilima o zaštiti privatnosti tvrtke Samsung bez utjecaja na zakonitost obrade koja se temelji na pristanku prije njegova povlačenja.
+
+Kao preduvjet za sklapanje ugovora, obvezni ste pružiti nam osobne podatke za obradu na prethodno opisan način. Ako nam ne dostavite osobne podatke, nećemo vam moći osigurati sve značajke dostupne u Glasovnoj usluzi.
+
+VAŠE MOGUĆNOSTI IZBORA 
+Glasovnu uslugu možete onemogućiti u bilo kojem trenutku tako da posjetite izbornik Postavke, no to vas može spriječiti u upotrebi Glasovne usluge.
+Nudimo vam i određene mogućnosti izbora u vezi s osobnim podacima koje od vas prikupljamo. Da biste ažurirali svoje preferencije, ograničili obavijesti koje primate od nas ili nam poslali zahtjev, obratite nam se na način naveden u odjeljku Kako nam se možete obratiti u Pravilima o zaštiti privatnosti tvrtke Samsung
+
+AŽURIRANJA IZJAVE O ZAŠTITI PRIVATNOSTI 
+Ova Izjava o zaštiti privatnosti može se povremeno ažurirati kako bi obuhvatila izmjene u našim postupcima obrade osobnih podataka u sklopu Usluga ili izmjene mjerodavnog prava. Na našem web-mjestu i/ili vašem uređaju objavit ćemo obavijest o svim značajnim izmjenama Izjave o zaštiti privatnosti i na početku izjave naznačiti kada je posljednji put ažurirana.
+
+IZJAVA O ZAŠTITI PRIVATNOSTI ZA USLUGU OGLAŠAVANJA NA TEMELJU INTERESA
+
+Datum stupanja na snagu: 30. travanj 2019.
+
+Tvrtka Samsung Electronics i njezine povezane tvrtke poštuju vašu brigu za privatnost. Ova se Izjava o zaštiti privatnosti primjenjuje na osobne podatke prikupljene putem usluga oglašavanja na temelju interesa („Usluga IBA”).
+
+Ova Izjava o zaštiti privatnosti pruža dodatne, konkretne informacije o upotrebi vaših osobnih podataka u vezi Usluge IBA i trebala bi se pročitati zajedno s Pravilima o zaštiti privatnosti tvrtke Samsung, koja se također primjenjuju na primljenu Uslugu IBA, a možete ih pronaći na https://account.samsung.com/membership/pp.
+
+U ovoj Izjavi o zaštiti privatnosti opisujemo vrste podataka koje upotrebljava usluga oglašavanja-na temelju interesa, način upotrebe podataka i mogućnosti kojima raspolažete u vezi s našom upotrebom podataka i ostvarivanjem svojih prava. Tvrtka Samsung voditelj je obrade podataka pri obradi osobnih podataka.
+
+ŠTO JE USLUGA IBA?
+Usluga IBA osmišljena je za pružanje mogućnosti primanja i pregledavanja korisnih, interaktivnih oglasa temeljenih na interesima o proizvodima i uslugama tvrtke Samsung i trećih strana na vašem Samsung Smart TV-u ili na raznim platformama ili uređajima tvrtke Samsung i trećih strana, uključujući linearne reklame, na webu, mobilnim uređajima i tabletima.
+
+Kako bismo oglašavanje na vašim uređajima učinili relevantnijim, Usluga IBA upotrebljava vašu povijest prikazivanja na TV-u (uključujući podatke o mrežama, kanalima, posjećenim web-mjestima i programima gledanim na Samsung Smart TV-u i o količini vremena koje ste proveli gledajući ih), podatke o upotrebi Samsung Smart TV-a te ostale statističke podatke dobivene iz pouzdanih izvora podataka trećih strana. Da bismo dohvatili vašu povijest prikazivanja na TV-u, možemo upotrebljavati automatsko prepoznavanje sadržaja (ACR) i druge tehnologije.
+
+Na temelju prethodnih podataka, stvaramo skupine vlasnika Samsung Smart TV-a koji dijele slične interese i upotrebljavamo ih za Uslugu IBA. Prethodni podaci upotrebljavaju se za određivanje skupina kojima je dodijeljen vaš Samsung Smart TV pa tako i za određivanje oglasa koje primate.
+
+PSID
+Podaci o upotrebi vašeg uređaja koji se prikupe u svrhu pružanja Usluge IBA povezat će se s nasumičnim, nepostojanim identifikatorom uređaja koji se može ponovno postaviti, naziva PSID. Vaš se PSID može ponovno postaviti na način naveden u odjeljku Vaši odabiri u ovoj Izjavi.
+
+KOJE PODATKE PRIKUPLJAMO?
+Putem Usluge IBA, podatke o vašim uređajima pribavljamo na različite načine. Podaci koje pribavimo obuhvaćaju sljedeće:
+•	Podaci o uređaju. Prikupljamo podatke kao što su model vašeg uređaja, verzije operativnog sustava, konfiguracije i postavke uređaja, IP adresa, identifikatori uređaja i ostali identifikatori.
+•	Podaci o zapisima i upotrebi uređaja. Prikupljamo podatke o načinu, vremenu i duljini upotrebe uređaja, uključujući interakcije s Uslugom IBA te aplikacijama i uslugama tvrtke Samsung i trećih strana (kao što je popis aplikacija na uređajima).
+•	Podaci o prikazivanju. Prikupljamo povijest prikazivanja na TV-u. Vaša povijest prikazivanja na TV-u uključuje podatke o mrežama, kanalima, posjećenim web-mjestima i programima prikazanima na Samsung Smart TV-u te o količini vremena koje ste proveli gledajući ih. Da bismo pristupili povijesti prikazivanja na TV-u, možemo upotrebljavati automatsko prepoznavanje sadržaja (ACR) i druge tehnologije.
+•	Statistički podaci. Možemo upotrebljavati statističke podatke o vama ili vašim uređajima, kao što su opća lokacija i procijenjena dobna skupina. Te statističke podatke pribavljamo iz komercijalno dostupnih izvora (u skladu sa zakonom), kao što su davatelji usluga treće strane. Surađujemo jedino s davateljima usluga treće strane koji jamče da te podatke pribavljaju u skladu s mjerodavnim pravom te da nam ih mogu proslijediti za upotrebu i objavljivanje.
+
+Poslužitelji tvrtke Samsung primaju podatke tijekom vaše interakcije s Uslugom IBA, kao što su podaci o vašoj interakciji s Uslugom IBA, vašoj geografskoj lokaciji i uređajima koje upotrebljavate za primanje Usluge IBA.
+
+KAKO UPOTREBLJAVAMO VAŠE PODATKE?
+Podatke koje pribavimo putem Usluge IBA upotrebljavamo u sljedeće svrhe:
+
+•	za pružanje Usluge IBA
+•	za unaprjeđenje i personalizaciju vašeg iskustva s Uslugom IBA
+•	za komunikaciju putem e-pošte i slanje automatske obavijesti o proizvodima i uslugama prilagođenim vašim interesima koje nudi tvrtka Samsung i treće strane, uz vaš zaseban pristanak
+•	za odgovaranje na vaše zahtjeve i upite
+•	za vođenje, ocjenjivanje i unaprjeđenje našeg poslovanja (uključujući razvoj novih proizvoda, unaprjeđenje i poboljšanje naših proizvoda i usluga, upravljanje našom poslovnom komunikacijom, analizu naših proizvoda, baze korisnika i usluga, provođenje istraživanja tržišta, obavljanje analize podataka, obavljanje računovodstvenih, revizijskih i drugih internih poslova) 
+•	za otkrivanje, sprječavanje i zaštitu od prijevara i drugih kriminalnih aktivnosti, potraživanja i drugih obveza te
+•	za osiguravanje sukladnosti s važećim pravnim zahtjevima, relevantnim standardima u industriji i našim pravilima te za njihovu provedbu, uključujući ovu Izjavu o zaštiti privatnosti i Pravila o zaštiti privatnosti Samsung računa.
+
+Tvrtka Samsung obrađuje osobne podatke u prethodno navedene svrhe. Pravna osnova tvrtke Samsung za obradu osobnih podataka obuhvaća obradu koja je: nužna za izvršavanje ugovora između vas i tvrtke Samsung (npr. za pružanje Usluga IBA te utvrđivanje i provjeru vašeg identiteta), nužna za ispunjavanje zakonskih obveza (npr. za postupanje u skladu s važećim računovodstvenim pravilima i za obvezno otkrivanje podataka pravosudnim tijelima), nužna za zakonom zaštićene interese tvrtke Samsung (npr. za upravljanje našim odnosom s vama i za poboljšanje Usluge IBA) i koja se temelji na pristanku naših korisnika (npr. da bismo s vama komunicirali o svojim proizvodima i uslugama i pružali vam marketinške informacije), a koji se kasnije u svakom trenutku može povući tako da nam se obratite putem izbornika Postavke, kako je određeno u odjeljku Vaše mogućnosti izbora ove Izjave o zaštiti privatnosti bez utjecaja na zakonitost obrade koja se temelji na pristanku prije njegova povlačenja.
+
+Kao preduvjet za ostvarivanje prava na Uslugu IBA, obvezni ste dostaviti nam vaše osobne podatke za obradu na prethodno opisan način. Ako nam ne dostavite osobne podatke, nećemo vam moći osigurati sve značajke dostupne u Usluzi IBA.
+
+VAŠE MOGUĆNOSTI IZBORA
+Svoj PSID možete u bilo kojem trenutku ponovno postaviti ulaskom u izbornik postavki, a kad ga postavite, veze za vašu povijest prikazivanja na TV-u i za podatke o upotrebi Smart TV-a uklonit će se s prethodnog PSID-a. Imajte na umu da bi ponovnim postavljanjem PSID-a kvaliteta Usluge IBA mogla biti narušena.
+
+Također, Uslugu IBA možete onemogućiti u bilo kojem trenutku tako da posjetite izbornik Postavke na Samsung Smart TV-u.
+
+Napominjemo da vaš izbor postavki privatnosti koje se odnose na Uslugu IBA neće utjecati na to primate li druge vrste oglašavanja i marketinga, koje se ne temelje izričito na povijesti prikazivanja na TV-u ili podacima o upotrebi Samsung Smart TV-a. Te druge vrste oglašavanja i marketinga temeljit će se na drugim podacima poput opće lokacije i ostalih procijenjenih ili konačnih podataka. Isti bi mogli biti manje relevantni jer se ne temelje na vašim interesima.
+
+AŽURIRANJA IZJAVE O ZAŠTITI PRIVATNOSTI 
+Ova Izjava o zaštiti privatnosti može se povremeno ažurirati kako bi obuhvatila izmjene u našim postupcima obrade osobnih podataka u sklopu Usluga IBA ili izmjene mjerodavnog prava. Na našem web-mjestu i/ili vašem uređaju objavit ćemo obavijest o svim značajnim izmjenama Izjave o zaštiti privatnosti i na početku izjave naznačiti kada je posljednji put ažurirana.
+
+Proizvodi za ispis i kopiranje tvrtke Samsung sada su dio linije proizvoda tvrtke HP. Pogledajte Izjavu o zaštiti privatnosti tvrtke HP na sljedećoj vezi: http://www.hp.com/go/privacy.

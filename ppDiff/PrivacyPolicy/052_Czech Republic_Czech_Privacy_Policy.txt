@@ -1,0 +1,343 @@
+﻿HLAVNÍ FAKTA ZÁSAD OCHRANY OSOBNÍCH ÚDAJŮ SPOLEČNOSTI SAMSUNG
+
+Ve společnosti Samsung Electronics víme, jak je pro naše zákazníky důležité soukromí. Chceme se ujistit, že porozumíte způsobu, jakým shromažďujeme a používáme Vaše osobní údaje ve všech zařízeních a při službách poskytovaných společností Samsung, od mobilních telefonů a tabletů po televizory, domácí spotřebiče, online služby a další.
+
+Zatímco tyto Zásady ochrany osobních údajů platí pro všechny naše služby, v případě potřeby poskytujeme  také další informace o ochraně osobních údajů v souvislosti s konkrétními službami.
+
+PŘEHLED OSOBNÍCH ÚDAJŮ
+
+Shromažďujeme osobní údaje, které nám poskytnete přímo, údaje o Vašem používání našich služeb a údaje od třetích stran. Tyto údaje používáme, abychom vám mohli poskytnout služby a abychom pochopili, jak naše služby používáte, abychom mohli vylepšit Váš zážitek při jejich používání a přizpůsobit je Vaší potřebě a dále vyvíjet pro naše zákazníky ty nejrelevantnější aplikace, technologie a obsah. Osobní údaje rovněž používáme k poskytování reklamy přizpůsobené vašim zájmům.
+
+SDÍLENÍ OSOBNÍCH ÚDAJŮ
+
+Vaše osobní údaje můžeme sdílet s přidruženými společnostmi společnosti Samsung Electronics a také se společnostmi, které poskytují služby jménem společnosti Samsung Electronics. Vaše osobní údaje můžeme sdílet také s důvěryhodnými partnery, například s poskytovateli mobilních služeb nebo pojišťovnami, kteří vám poskytují požadované produkty a služby a informace o produktech a službách, které vás zajímají. Osobní údaje sdílíme s orgány veřejné moci, pokud je to vyžadováno právními předpisy  za účelem ochrany společnosti Samsung Electronics a jejích uživatelů.
+
+1. JAKÉ ÚDAJE SHROMAŽĎUJEME? 
+2. JAK PRACUJEME S ÚDAJI O VÁS? 
+3. S KÝM SDÍLÍME ÚDAJE O VÁS? 
+4. JAK JSOU VAŠE ÚDAJE ZABEZPEČENÉ?
+5. KAM ZASÍLÁME VAŠE ÚDAJE? 
+6. JAKÁ JSOU VAŠE PRÁVA?
+7. JAK DLOUHO ÚDAJE O VÁS UCHOVÁVÁME?
+8. JAKÉ SLUŽBY TŘETÍCH STRAN VYUŽÍVÁME?
+9. KONTAKT
+
+ZÁSADY OCHRANY OSOBNÍCH ÚDAJŮ SPOLEČNOSTI SAMSUNG
+
+Datum účinnosti: 30. duben 2019
+
+Tyto Zásady ochrany osobních údajů platí pro všechna zařízení a služby poskytované společností Samsung, od mobilních telefonů a tabletů po televizory, domácí spotřebiče, online služby a další (souhrnně označované jako „Služby“).
+
+Je důležité pravidelně z Vaší strany kontrolovat, zda nebyly tyto Zásady ochrany osobních údajů aktualizované. Tyto Zásady ochrany osobních údajů mohou být pravidelně aktualizovány v reakci na změny v našich postupech zpracování osobních údajů v souvislosti se Službami nebo v návaznosti na změny platné právní úpravy. Na náš web nebo do Vašeho zařízení odešleme upozornění, kterým vás předem upozorníme na významné změny v našich Zásadách ochrany osobních údajů. Na začátku těchto Zásad uvádíme datum poslední aktualizace. Nejaktuálnější verzi Zásad ochrany osobních údajů naleznete vždy na stránce: https://account.samsung.com/membership/pp.
+
+JAKÉ ÚDAJE SHROMAŽĎUJEME?
+
+Společnost Samsung Electronics shromažďuje osobní údaje různými způsoby.
+
+Údaje, které poskytujete přímo
+
+Některé Služby umožňují, abyste nám poskytovali údaje přímo. Například:
+
+•	Při vytvoření účtu nebo profilu vás můžeme požádat o určité údaje, například jméno, datum narození nebo e-mailovou adresu.
+•	Pokud si od nás objednáte produkt nebo placenou službu, můžeme vás požádat o vaše jméno, adresu, kontaktní údaje a dodací a platební údaje, abychom mohli vaši objednávku zpracovat.
+•	Abychom vám poskytovali odpovědi v případě, že kontaktujete Zákaznické služby, můžeme potřebovat údaje k ověření vaší identity a produktu, kterého se váš dotaz týká.
+•	Když komunikujete s personálem Zákaznických služeb nebo jiných služeb, komunikace je přenášena našimi systémy.
+•	Pokud sdílíte své kontakty, shromáždíme jejich telefonní čísla a další kontaktní údaje, abychom vám usnadnili sdílení souborů a zasílání zpráv. Tyto funkce můžete v menu Nastavení ve svých zařízeních vypnout nebo omezit.
+
+Údaje o vašem používání Služeb
+
+Kromě údajů, které nám poskytnete, budeme shromažďovat údaje o vašem používání našich Služeb prostřednictvím softwaru v zařízeních a dalších prostředků. Budeme shromažďovat následující údaje:
+
+•	Údaje o zařízení: model zařízení, údaje o hardwarovém vybavení zařízení, číslo IMEI a další jedinečné identifikátory zařízení, telefonní číslo, sériové číslo, prodejní kód, záznamy přístupů, aktuální verzi softwaru, MCC (mobilní kód země), MNC (mobilní kód sítě), MAC adresu, IP adresu, soubory cookie, pixely, údaje o předplatném, verzi operačního systému a nastavení zařízení používaných pro přístup ke Službám
+•	Údaje z protokolů: diagnostické, technické, chybové údaje a údaje o využití, např. čas a dobu trvání Vašeho používání Služeb, vyhledávané termíny zadávané do zařízení ve spojení s konkrétní Službou Samsung a údaje uložené v souborech cookie v zařízeních
+•	Údaje o poloze: signál GPS Vašeho zařízení nebo údaje o okolních přístupových bodech Wi-Fi a vysílačích, které k nám mohou být přenášeny, když používáte určité Služby a máte zapnutou funkci Zjišťování polohy
+•	Hlasové údaje: nahrávky vašeho hlasu, které pořizujeme a můžeme ukládat na našich serverech, když zapnete tuto funkci a používáte k ovládání Služby hlasové příkazy, nebo když kontaktujete náš tým Zákaznických služeb. Když pracujeme s třetí stranou, která pro nás poskytuje služby převodu řeči na text , tato třetí strana může přijímat a ukládat některé hlasové příkazy v souladu se smlouvou uzavřenou mezi námi a naším touto důvěryhodnou poskytující třetí stranou.
+•	Údaje z klávesnice Samsung: slova, která píšete, když zapnete funkci Prediktivní zadávání textu. Tato funkce může být nabízena ve spojení s účtem Samsung k synchronizaci dat a jejich použití v jiných mobilních zařízeních Samsung. Data můžete smazat v nastavení Prediktivní zadávání textu.
+•	Historie sledování: údaje o sítích, kanálech, navštívených webových stránkách a programech, které sledujete prostřednictvím zařízení, a množství času, který jejich sledováním strávíte.
+•	Jiné údaje o používání Služeb, např. aplikace, které používáte, webové stránky, které navštěvujete, a jakým způsobem pracujete s obsahem nabízeným prostřednictvím Služby.
+
+Veřejné nebo komerčně dostupné či sdílené údaje
+
+Příležitostně shromažďujeme veřejné nebo komerčně dostupné či sdílené údaje, včetně údajů ze sociálních sítí, a kombinujeme je s jinými údaji o Vás, abychom lépe pochopili Vaše potřeby, zájmy a preference. Příležitostně také shromažďujeme údaje o Vás, když naše Služby používají jiní uživatelé, například Vaše jméno a kontaktní údaje tehdy, když Vám jiní uživatelé zašlou zprávu nebo s Vámi sdílí soubory.
+
+Jiné údaje, které shromažďujeme
+
+S Vaším souhlasem můžeme shromažďovat také jiné údaje o Vás, Vašich zařízeních nebo o tom, jak Služby používáte.
+
+Analytika třetích stran
+
+Prostřednictvím některých Služeb můžeme průběžně shromažďovat osobní údaje o vašich online aktivitách na webových stránkách a na připojených zařízeních a na webových stránkách, zařízeních, aplikacích a jiných online funkcích a službách třetích stran. V rámci našich Služeb můžeme používat analytické služby třetích stran, například Google Analytics. Poskytovatelé služeb, kteří spravují tyto analytické služby, nám pomáhají analyzovat vaše používání Služeb a zlepšovat Služby. Získané údaje mohou být předány nebo je mohou přímo shromažďovat tito poskytovatelé a jiné relevantní třetí strany, které údaje používají, například k vyhodnocení používání Služeb, pomoci při správě Služeb nebo k diagnostice technických problémů. Chcete-li se dozvědět další informace o službě Google Analytics, navštivte stránky http://www.google.com/analytics/learn/privacy.html a https://www.google.com/policies/privacy/partners/.
+
+Vaše možnosti
+
+Můžete se rozhodnout, že nám určité kategorie údajů neposkytnete, například údaje, které požadujeme při zakládání účtu Samsung. V některých případech to může omezit Vaše možnosti používat některé Služby. Uděláme vše pro to, abychom Vám tato omezení vysvětlili, když Vás o tyto údaje žádáme, a vy tak budete moci učinit informované rozhodnutí. Například Služba Samsung Cloud umožňuje zálohovat údaje a vytvořit bod obnovení, nicméně Služba Samsung Cloud není určena pro ukládání či zpracování citlivých údajů.
+
+JAK PRACUJEME S ÚDAJI O VÁS?
+
+Shromažďované údaje používáme k následujícím účelům:
+•	Abychom Vám či Vašemu zařízení pomohli zaregistrovat se do našich Služeb.
+•	Abychom poskytli Službu nebo funkci, kterou požadujete.
+•	Abychom poskytovali přizpůsobený obsah a individualizované Služby na základě vašich minulých aktivit v našich Službách.
+•	Abychom poskytovali na našich webových stránkách, webových stránkách třetích stran a online platformách, například na sociálních sítích, přizpůsobené reklamy, propagační akce a nabídky, které by Vás mohly zajímat.
+•	Abychom poskytovali propagační akce a nabídky pomocí přímého marketingu (to však pouze na základě Vašeho samostatného souhlasu).
+•	K analýze našich produktů a Služeb, abychom lépe porozuměli našim zákazníkům a mohli vám nabízet co nejrelevantnější komunikaci, Služby a prostředí.
+•	Abychom se Vás zeptali na Vaše názory na naše produkty a Služby a abychom prováděli zákaznické průzkumy (v případě potřeby s vaším zvláštním souhlasem).
+•	Abychom poskytovali aktualizace softwaru, údržbu a podporu Vašich zařízení.
+•	Abychom jednali v souladu s právním řádem a právem stanovenými postupy.
+•	Abychom chránili práva, majetek nebo bezpečnost společnosti Samsung Electronics nebo některé z našich přidružených společností, obchodních partnerů nebo zákazníků.
+
+Údaje, které o Vás shromažďujeme z našich Služeb, zařízení nebo jiných zdrojů, používáme a kombinujeme tak, abychom vám poskytovali lepší zážitek z užívání naších Služeb. Například účet Samsung můžete používat nejen ve Službě, do které jste se zaregistrovali, ale také v dalších Službách používajících účet Samsung. Údaje, které poskytujete přímo nebo prostřednictvím jiných zdrojů výše popsaným způsobem, používáme také k poskytování obsahu, který by se Vám mohl líbit nebo je Vám přizpůsobený. 
+
+O poskytovaných údajích můžete rozhodovat. Další informace najdete v části JAKÁ JSOU VAŠE PRÁVA?.
+
+[Pouze pro občany EHP (Evropského hospodářského prostoru)]
+
+Společnost Samsung zpracovává osobní údaje k výše uvedeným účelům. Právní základ společnosti Samsung pro zpracování osobních údajů zahrnuje zpracování: 
+(i)	Abychom dodrželi své sliby, například Vám poskytovali Službu.
+(ii)	Abychom propagovali své obchodní zájmy (například abychom spravovali náš vztah s Vámi a vylepšovali Vaše zákaznické možnosti) včetně komunikace na naší webové stránce, webových stránkách třetích stran a online platformách.
+(iii)	Abychom jednali v souladu s platnými právními předpisy a právem stanovenými postupy.
+(iv)	S Vaším souhlasem (například ke komunikaci v rámci přímého marketingu). Pokud nám poskytnete souhlas, můžete ho vždy odvolat, pokud nás kontaktujete postupem uvedeným v sekci KONTAKT, která je součástí těchto Zásad ochrany osobních údajů.
+
+Společnost Samsung Electronics je ve věci zpracování osobních údajů (jak bylo popsáno výše) správcem údajů. V případě některé komunikace v rámci přímého marketingu a některých přizpůsobených reklam v Evropě je správcem údajů pro zpracování osobních údajů také společnost Samsung Electronics (UK) Limited, která sídlí ve Spojeném království. Vaše osobní údaje také zpracovávají některé evropské přidružené společnosti Samsung ve svých zemích. Pokud je tomu tak, má evropská přidružená společnosti Samsung na svých webových stránkách vlastní Zásady ochrany osobních údajů s příslušným vysvětlením.
+
+S KÝM SDÍLÍME ÚDAJE O VÁS?
+
+Údaje o Vás zpřístupňujeme interně v rámci naší společnosti, ale pouze osobám, které takové údaje potřebují k dalšímu poskytování Služeb nebo k tomu aby vám pomohly s vašimi požadavky. 
+Vaše osobní údaje zpřístupňujeme také následujícím subjektům, pouze však v rozsahu nezbytném k poskytování Služeb:
+
+•	Přidruženým společnostem: další společnosti skupiny Samsung Electronics, které řídíme nebo vlastníme. 
+•	Obchodním partnerům: partneři, se kterými spolupracujeme, abychom Vám poskytovali Služby, o které jste požádali nebo které jste zakoupili. Například můžeme spolupracovat s bankou, abyste mohli používat některou z našich Služeb k rychlejšímu a efektivnějšímu placení. Tito obchodní partneři spravují a nakládají s Vašimi osobními údaji.
+•	Poskytovatelům služeb: pečlivě vybrané společnosti, které poskytují služby pro nás nebo naším jménem, např. společnosti, které nám pomáhají s opravami, komunikací se zákazníky, péčí o zákazníky, reklamou (včetně přizpůsobené reklamy na našich webových stránkách, webových stránkách třetích stran nebo online platformách), s prováděním průzkumů spokojenosti zákazníků, fakturací nebo společnosti, které zasílají e-maily naším jménem. Tito poskytovatelé se zavázali Vaše údaje chránit.
+•	Dalším stranám, pokud to vyžadují právní předpisy nebo je to nezbytné k ochraně našich Služeb: Například musíme údaje o Vás sdělit na základě právních předpisů nebo v reakci na soudní či úřední postup nebo na základě rozhodnutí orgánu veřejné moci. Mohou od nás vyžadovat Vaše údaje také pro účely vymáhání právních povinností, národní bezpečnosti, boje proti terorismu nebo jiných záležitostí týkajících se veřejné bezpečnosti.
+•	Dalším stranám ve spojení s korporátními transakcemi: Údaje o Vás můžeme předat třetí straně v rámci fúze nebo převodu, akvizice nebo prodeje nebo v případě bankrotu.
+•	Dalším stranám s Vaším souhlasem nebo na Vaši žádost: Kromě sdělení popsaných v těchto Zásadách ochrany osobních údajů můžeme shromážděné údaje sdílet se třetími stranami s Vaším samostatně uděleným souhlasem nebo na Vaši žádost.
+
+JAK JSOU VAŠE ÚDAJE ZABEZPEČENÉ?
+
+Ochranu osobních údajů bereme vážně. Přijali jsme fyzická a technická opatření, abychom shromažďované údaje zabezpečili. Přestože však podnikáme patřičné kroky k ochraně shromážděných údajů, žádné webové stránky, internetové přenosy, počítačový systém ani bezdrátové připojení není z povahy věci zcela bezpečné.
+
+KAM ZASÍLÁME VAŠE ÚDAJE?
+
+Při používání našich Služeb bude docházet k přenosu, ukládání a zpracování poskytnutých osobních údajů v zemi Vašeho bydliště a mimo něj v souladu s těmito zásadami. Vaše osobní údaje budou přenášeny konkrétně do Korejské republiky. Právní předpisy na ochranu osobních údajů a další právní předpisy v zemích, do kterých mohou být vaše údaje přenášeny, nemusí být tak komplexní jako v zemi Vašeho bydliště.
+
+[Pouze pro občany EHP (Evropského hospodářského prostoru)]
+
+Kromě toho může při používání Služeb docházet k přenosu, ukládání a zpracování poskytnutých osobních údajů v jiných zemích. Jedná se mimo jiné o země Evropského hospodářského prostoru, Spojené státy americké, Čínu, Singapur, Vietnam, Indii, Kanadu, Filipíny a Japonsko. V souladu s platnými právními předpisy podnikneme patřičná opatření, abychom zajistili, že Vaše osobní údaje zůstanou chráněné. Tato opatření zahrnují použití standardních smluvních doložek pro zabezpečení přenosu osobních údajů mimo země EHP. Pokud chcete požádat o další informace nebo chcete získat kopii platných smluv, kontaktujte nás. Přečtěte si část KONTAKT. 
+
+JAKÁ JSOU VAŠE PRÁVA?
+
+Vaše osobní údaje patří Vám. Můžete nás požádat, abychom vám poskytli informace o shromažďovaných údajích, a můžete nás požádat o jejich odstranění nebo o opravu nepřesností. Také nás můžete požádat, abychom omezili zpracování, sdílení nebo přenos osobních údajů a také abychom Vám poskytli shromážděné osobní údaje, abyste je mohli použít pro své vlastní účely. Nicméně požadavek na výmaz osobních údajů může mít také za následek ztrátu přístupu k poskytovaným Službám. Nebudeme moci vymazat takové údaje, které musíme uchovávat na základě platných právních předpisů.
+
+Chcete-li učinit požadavek týkající se Vašich práv nebo vznést dotaz, kontaktujte nás. Přečtěte si část KONTAKT.
+
+JAK DLOUHO ÚDAJE O VÁS UCHOVÁVÁME?
+
+Vaše osobní údaje nebudeme uchovávat déle než po dobu nezbytnou k plnění účelu, za kterým byly shromážděny. To znamená, že jakmile nebudou údaje dále potřebné, budou vymazány a odstraněny z našich systémů. 
+
+Přijali jsme přiměřená opatření, která zajišťují, že jsou údaje o Vás zpracovány a uchovány pouze podle následujících principů:
+
+1.	po dobu, po kterou jsou údaje používány k poskytování Služby,
+2.	jak to vyžaduje právní předpis, smlouva nebo je to vyžadováno s ohledem na naše povinnosti plynoucí z právních předpisů,
+3.	pouze po dobu nezbytně nutnou k účelu, za kterým byly údaje shromážděny, nebo jak je vyžadováno příslušnou smlouvou nebo platnými právními předpisy nebo za statistickými účely s použitím patřičných bezpečnostních opatření.
+
+JAKÉ SLUŽBY TŘETÍCH STRAN VYUŽÍVÁME?
+
+Některý obsah, reklamy a funkce v našich Službách jsou poskytovány třetími stranami. Tyto třetí strany mohou používat soubory cookies, beacons, sledovací pixely a další nástroje za účelem shromáždění údajů o tom, jak tyto Služby používáte. Tyto třetí strany nejsou přímo pod kontrolou společnosti Samsung, a proto doporučujeme, abyste se seznámili s jejich zásadami ochrany osobních údajů a zjistili tak, jak Vaše údaje používají.
+
+U některých aplikací a Služeb, včetně sociálních sítí, přijímáme a ukládáme přihlašovací údaje a další údaje, které nám dovolíte přijímat, když se k těmto aplikacím a Službám přihlásíte.
+
+KONTAKT
+
+Pokud chcete aktualizovat své předvolby, aktualizovat údaje, odeslat požadavek nebo se nás na něco zeptat, kontaktujte nás.
+
+Rovněž nás můžete kontaktovat na adrese:
+
+Správce osobních údajů
+Samsung Electronics Co., Ltd.
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+[Pouze pro občany EHP (Evropského hospodářského prostoru)]
+
+Společnost Samsung Electronics má pobočky v Evropě, a proto může zajistit, aby váš požadavek nebo dotaz vyřizoval tým pro ochranu údajů ve vašem regionu.
+
+Nejsnadněji nás můžete kontaktovat prostřednictvím naší stránky Podpora ochrany osobních údajů na adrese https://www.samsung.com/request-desk. 
+
+Rovněž nás můžete kontaktovat na adrese:
+
+European Data Protection Officer
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+
+Pokud se domníváte, že naše zpracování vašich osobních údajů porušuje právní předpisy, můžete podat stížnost u příslušného orgánu dohledu. Kontakty na všechny orgány dohledu EU naleznete na stránce https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+ZÁSADY OCHRANY OSOBNÍCH ÚDAJŮ SPOLEČNOSTI SAMSUNG – DODATEK PRO SMART TV (”Dodatek č. 1)
+
+Služba společnosti Samsung Smart TV nabízí řadu funkcí, které poskytují kvalitnější video obsah, přizpůsobené televizní zážitky, filmy, připojení k sociálním sítím a možnost ovládat televizor Smart TV a komunikovat s ním pomocí hlasových příkazů. Údaje získané prostřednictvím Smart TV a zařízení připojených ke Smart TV shromažďujeme, používáme, sdílíme a ukládáme způsoby popsanými v těchto Zásadách ochrany osobních údajů společnosti Samsung. Tento Dodatek obsahuje další podrobnosti o způsobech ochrany osobních údajů u některých funkcí služby Smart TV.
+
+Služba Smart TV je navržena tak, aby Vám umožnila snadno najít video pořady a další obsah. Například získáte přístup k údajům o živém televizním vysílání poskytovaném Vaším kabelovým nebo satelitním operátorem nebo k nabídkám videa na vyžádání poskytovaným nezávislými poskytovateli obsahu prostřednictvím vyhledávacích nástrojů zobrazovaných na Vaší Smart TV.
+V případě živého televizního vysílání určujeme, jaký obsah je pro Vás dostupný, zčásti na základě Vašeho PSČ. Kromě toho Vám služba Smart TV pomáhá vyhledávat a využívat další obsah služby Smart TV lépe vyhovující Vašim požadavkům tím, že zvýrazní pořady a obsah, který Vás bude pravděpodobně zajímat, případně Vám poskytne další Služby, které zkvalitní Váš zážitek ze sledování televize. Tato doporučení a další Služby jsou založené na:
+•	údajích o obsahu, který jste sledovali, zakoupili, stáhli nebo přehráli prostřednictvím aplikací Samsung ve Smart TV nebo v jiných zařízeních (Informace ve vztahu ke sledování TV najdete v sekci „Zobrazení informačních služeb“.);
+•	údajích o aplikacích, které jste použili ve Smart TV;
+•	údajích o vašich kliknutích na tlačítka Líbí, Nelíbí, Sledovat a na další tlačítka ve Smart TV;
+•	dotazovaných výrazech, které zadáváte do vyhledávacích funkcí Smart TV, včetně výrazů zadávaných při hledání konkrétního video obsahu;
+•	dalších údajích o použití Smart TV a o zařízení, včetně, mimo jiné, IP adresy, záznamů o použití, údajů identifikujících konfiguraci vašeho hardwaru nebo softwaru, údajů z prohlížeče a požadovaných stránkách.
+
+Zobrazení informačních služeb
+Tento Dodatek č. 1 byste si měli přečíst spolu se Zásadami ochrany osobních údajů společnosti Samsung, které rovněž platí ve vztahu k přizpůsobení zážitků Vašim preferencím pomocí Smart TV. Naleznete je na adrese https://account.samsung.com/membership/pp.
+Aby vám Smart TV mohla poskytovat zážitky přizpůsobené Vašim preferencím, jsou některé funkce a Služby založené na historii sledování televize a údajích o využití Smart TV.
+Historie sledování televize zahrnuje informace o sítích, kanálech, navštívených webových stránkách a programech, které sledujete prostřednictvím Smart TV, a množství času, který jejich sledováním strávíte.
+K získání těchto údajů můžeme použít ACR (automatic content recognition – automatické rozpoznání obsahu) a další technologie. Smart TV přenáší fragmenty obrazu nebo údaje z televizního tuneru, aby bylo možné identifikovat programy, které sledujete.
+Nastavení soukromí můžete kdykoli změnit pomocí menu nastavení, kde můžete výhradně dle svého rozhodnutí určitou funkci nebo Službu vypnout. V takovém případě nebude pro danou funkci nebo Službu historie sledování televize shromažďována.
+
+[Pouze pro občany EHP (Evropského hospodářského prostoru)]
+
+Při používání našich Služeb bude v souladu s těmito zásadami docházet k přenosu, ukládání a zpracování poskytnutých osobních údajů mimo zemi vašeho trvalého bydliště do Korejské republiky. Kromě toho může při používání Služeb docházet k přenosu, ukládání a zpracování poskytnutých osobních údajů do jiných zemí. Jedná se mimo jiné o země Evropského hospodářského prostoru, Spojené státy americké a Kanadu. Upozorňujeme, že právní předpisy na ochranu soukromí a další předpisy v zemích mimo Evropský hospodářský prostor, do kterých mohou být Vaše údaje přenášeny, nemusí být tak komplexní jako ve Vaší zemi. V souladu s platnými předpisy podnikneme patřičná opatření, abychom zajistili, že Vaše osobní údaje zůstanou chráněné. Tato opatření zahrnují použití standardních smluvních doložek pro zabezpečení přenosu osobních údajů mimo země EHP. Pokud potřebujete další informace nebo chcete získat kopii platných smluv, kontaktujte nás prostřednictvím stránky Podpora ochrany osobních údajů (https://www.samsung.com/request-desk).
+Vezměte prosím na vědomí, že Vaše nastavení úrovně soukromí může ovlivnit dostupnost nebo kvalitu zobrazení konkrétních informačních služeb.
+
+Služba Personalizace reklam
+Služba Personalizace reklam („Služba Personalizace reklam“) poskytuje možnost přijímat a zobrazovat užitečné, interaktivní a personalizované reklamy na produkty a služby nabízené společností Samsung a třetími stranami v Samsung Smart TV nebo v různých platformách a zařízeních Samsung a platformách a zařízeních třetích stran, včetně lineárních reklam (tj. televizních a rozhlasových), reklam na webu, v mobilních zařízeních a tabletech.
+
+Aby pro Vás byly reklamy v zařízeních relevantnější, spoléhá Služba Personalizace reklam na historii sledování televize (včetně údajů o sítích, kanálech, navštívených webových stránkách a programech, které sledujete prostřednictvím Samsung Smart TV a množství času, který jejich sledováním strávíte), údaje o používání Samsung Smart TV a další statistické údaje získané z důvěryhodných zdrojů třetích stran. K získání Vaší historie sledování televize můžeme použít ACR (automatic content recognition – automatické rozpoznání obsahu) a další technologie.
+
+Na základě výše uvedených údajů vytváříme skupiny vlastníků televizorů Samsung Smart TV, kteří sdílí podobné zájmy, a používáme tyto skupiny pro Službu Personalizace reklam. Výše uvedené údaje se používají k určení skupin, ke kterým je Váš televizor Samsung Smart TV přiřazen, a jaké reklamy tudíž bude Vaše zařízení zobrazovat.
+
+Kromě toho můžete Službu Personalizace reklam kdykoli vypnout pomocí menu Nastavení v Samsung Smart TV.
+
+Vaše nastavení soukromí týkající se Služby Personalizace reklam neovlivní příjem nebo zobrazení jiných typů reklamy a marketingových informací, které nejsou speciálně založeny na historii sledování televize nebo na údajích o využití Samsung Smart TV. Tyto jiné typy reklam a marketingových informací budou založeny na jiných údajích, například na zobecněných údajích o poloze a jiných odhadovaných nebo odvozených údajích. Ty reklamy mohou být pro Vás méně relevantní, protože nejsou založeny na Vašich zájmech.
+
+Podrobnější informace o Službě Personalizace reklam najdete v Dodatku pro Službu Personalizace reklam na konci Dodatku pro službu Rozpoznávání hlasu.
+
+PSID
+Historie sledování a údaje o využití Smart TV shromážděné za účelem poskytování personalizované reklamy budou spojeny s náhodně vygenerovaným, dočasným a resetovatelným identifikátorem zařízení nazvaným Personalised Service ID nebo „PSID“.
+Identifikátor PSID můžete kdykoliv resetovat prostřednictvím menu Nastavení ve Vaší Smart TV. V návaznosti na reset bude historie sledování Smart TV a údaje o využívání Smart TV ve vztahu k personalizované reklamě odděleny od předchozího PSID. Když resetujete PSID, kvalita personalizované reklamy nemusí odpovídat Vašim zájmům.
+
+Rozpoznávání hlasu
+Smart TV můžete ovládat a mnoho jejích funkcí můžete používat pomocí hlasových příkazů.
+Když zapnete Rozpoznávání hlasu, můžete ovládat Smart TV hlasem. Aby bylo možné poskytnout funkci Rozpoznávání hlasu, hlasové příkazy budou přenášeny (společně s údaji o Vašem zařízení, včetně identifikátorů zařízení) k nám a my je převedeme na text, abychom Vám mohli poskytovat funkcionalitu Rozpoznávání hlasu. Kromě toho může společnost Samsung shromažďovat hlasové příkazy a přidružené texty za účelem vyhodnocení a vylepšení těchto funkcí. Společnost Samsung bude shromažďovat Vaše hlasové příkazy, když budete požadovat po Smart TV konkrétní vyhledávání tím, že stisknete aktivační tlačítko na dálkovém ovládání nebo na obrazovce, nebo vyslovíte příkaz probuzení (např. „Hi, Bixby“) a začnete mluvit do mikrofonu na dálkovém ovládání nebo Smart TV.
+Pokud Rozpoznávání hlasu nezapnete, nebudete moci funkce rozpoznávání hlasu používat.
+Sběr dat  prostřednictvím Rozpoznávání hlasu můžete kdykoli vypnout pomocí menu Nastavení. Potom ovšem nebudete moci funkce rozpoznávání hlasu používat.
+
+Podrobnější informace o Rozpoznávání hlasu najdete v Dodatku pro službu Rozpoznávání hlasu, které je obsaženo na konci tohoto Dodatku č.2.
+
+Třetí strany
+Uvědomte si, že když sledujete video nebo používáte aplikace nebo obsah poskytovaný třetí stranou, poskytovatel může shromažďovat nebo přijímat údaje o Vaší Smart TV (např. její IP adresu a identifikátory zařízení), požadované transakci (např. Váš požadavek na zakoupení nebo vypůjčení videa) a Vašem používání aplikace nebo služby. Společnost Samsung nenese odpovědnost za ochranu osobních údajů ani bezpečnostní postupy těchto poskytovatelů. Buďte obezřetní a přečtěte si prohlášení o ochraně osobních údajů platná pro webové stránky a služby třetích stran, které používáte.
+
+Funkce v konkrétních zemích
+Vezměte na vědomí, že jedna nebo více funkcí popsaných v Dodatku č. 1 nemusí být v místě vašeho bydliště k dispozici.
+
+ZÁSADY OCHRANY OSOBNÍCH ÚDAJŮ SPOLEČNOSTI SAMSUNG – DODATEK PRO SLUŽBU ROZPOZNÁVÁNÍ HLASU (”Dodatek č. 2”)
+
+Datum účinnosti: 30. duben 2019
+
+Společnost Samsung Electronics a její přidružené společnosti respektují Vaše soukromí. Tento Dodatek č. 2 se vztahuje na osobní údaje, které shromažďujeme prostřednictvím služby Rozpoznávání hlasu („Služba Rozpoznávání hlasu“).
+
+Služba Rozpoznávání hlasu je služba, která poskytuje uživatelům možnost vyhledávat a zobrazovat obsah a spravovat své prostředí zahrnující produkty Samsung pomocí hlasu. Funkce služby zahrnují zpracování přirozeného hlasu při vyhledávání obsahu a ovládání Samsung Smart TV; přístup k internetu, informace o počasí a další služby, které uživatelé od Samsung Smart TV očekávají.
+
+V závislosti na vybraném jazyce můžete používat zdokonalenou funkci rozpoznávání hlasu – Bixby. Aktivaci funkce Bixby poznáte pomocí ikon, bannerů nebo jiných značek na obrazovce Samsung Smart TV.
+
+Tento Dodatek č. 2 poskytuje další specifické informace týkající se způsobu použití vašich osobních údajů ve Službě Rozpoznávání hlasu a měli byste si ho přečíst spolu se Zásadami ochrany osobních údajů společnosti Samsung, které rovněž platí pro používání Služby Rozpoznávání hlasu. Naleznete je na adrese https://account.samsung.com/membership/pp.
+
+V tomto Dodatku č. 2 jsou popsány kategorie údajů shromažďovaných prostřednictvím Služby Rozpoznávání hlasu, a jak můžeme tyto údaje používat. Dále uvádíme možnosti, které máte k dispozici ohledně našeho používání těchto údajů. Společnost Samsung je správcem v rámci zpracování osobních údajů.
+
+JAKÉ ÚDAJE SHROMAŽĎUJEME?
+Prostřednictvím Služby Rozpoznávání hlasu můžeme různými způsoby získávat údaje o Vás. Mezi typy získávaných osobních údajů patří:
+
+•	Údaje o účtu Samsung (nepovinné): Když se přihlásíte k účtu Samsung v televizoru Smart TV, můžeme shromažďovat údaje přidružené k účtu Samsung používané pro přístup ke Službě Rozpoznávání hlasu, například vaše jméno, e-mailovou adresu nebo ID účtu Samsung.
+
+•	Interakce se Službou Rozpoznávání hlasu: Můžeme shromažďovat údaje, které si vyměňujete se Službou Rozpoznávání hlasu prostřednictvím interakcí se Službami, včetně nahrávek hlasových příkazů (například Vašich otázek, požadavků a pokynů), Vašich obrázků, jiných vstupů a údajů, které obdržíte ze Služeb (například reakcí, odpovědí a obsahu). Rovněž můžeme získávat další údaje související s Vaším používáním Služby Rozpoznávání hlasu, včetně údajů souvisejících s používanými aplikacemi, navštěvovanými webovými stránkami a obrázky, hudbou, položkami kalendáře, záložkami a obsahem a daty z jiných aplikací, webových stránek a služeb Samsung a třetích stran, které obdržíme z aplikací a služeb Samsung a třetích stran a které Služba Rozpoznávání hlasu využívá pro poskytování různých Služeb, například streamování hudby a informace o počasí.
+
+•	Údaje o zeměpisné poloze: Můžeme zjistit přesnou zeměpisnou polohu zařízení a získat další údaje související s Vaší polohou prostřednictvím informací o PSČ uložených v televizoru, které lze získat prostřednictvím IP adresy nebo Vašeho zadání za určitým účelem, například abychom vám poskytli Služby.
+
+•	Údaje o zařízeních a aplikacích: Automatizovanými prostředky můžeme shromažďovat údaje o Vašich zařízeních podporujících Službu Rozpoznávání hlasu, například model zařízení, verze operačního systému, konfigurace a nastavení zařízení, IP adresy, identifikátory zařízení a další jedinečné identifikátory. Kromě toho můžeme získat údaje o tom, jak, kdy a jak dlouho používáte zařízení podporující Službu Rozpoznávání hlasu, včetně používání Služby Rozpoznávání hlasu a aplikací a služeb Samsung a třetích stran v zařízeních (například seznam aplikací v zařízení, hudbu přehrávanou v zařízeních, navštěvované webové stránky a provedená vyhledávání).
+
+JAK ÚDAJE O VÁS POUŽÍVÁME?
+Údaje získávané prostřednictvím Služby Rozpoznávání hlasu můžeme používat k následujícím účelům:
+
+•	poskytování Služeb, jako jsou reakce na Vaše požadavky, otázky a pokyny uskutečněné prostřednictvím Služby Rozpoznávání hlasu;
+•	identifikace a ověření, abyste mohli používat Službu Rozpoznávání hlasu;
+•	vylepšení a přizpůsobení Vašeho používání Služby Rozpoznávání hlasu, například poskytování obsahu a reakcí přizpůsobených našim uživatelům a způsobu jejich interakce se Službou Rozpoznávání hlasu;
+•	komunikace ohledně našich produktů a Služeb a zasílání oznámení, obsahu, upozornění, nabídek, propagačních akcí, marketingových informací, prohlášení a reklam (s vaším samostatně uděleným souhlasem);
+•	reakce na vaše požadavky a dotazy;
+•	provozování, vyhodnocování a zdokonalování naší podnikatelské činnosti (včetně vyvíjení nových produktů; zdokonalování a vylepšování našich produktů a Služeb; správy naší komunikace; analýzy našich produktů, zákaznické základny a Služeb; provádění výzkumu trhu; provádění analýzy dat; vedení účetnictví, provádění auditu a jiných interních procesů);
+•	povolení používat určité aplikace a služby třetích stran;
+•	ochrana před podvody a jinou kriminální činností, zamezení vzniku odpovědnosti a závazků, identifikace takových případků a jejich předcházení;
+•	zajištění shody s platnými požadavky právních předpisů, relevantními průmyslovými normami a našimi zásadami, včetně tohoto Dodatku č. 2 a Zásad ochrany osobních údajů účtu Samsung.
+
+Prostřednictvím Služby Rozpoznávání hlasu můžeme průběžně shromažďovat osobní údaje o Vašich online aktivitách v zařízeních podporujících Službu Rozpoznávání hlasu a v aplikacích, na webových stránkách a v jiných online službách třetích stran. V rámci našich Služeb můžeme používat analytické služby třetích stran. Poskytovatelé těchto analytických služeb nám pomáhají analyzovat Vaše používání Služeb a zlepšovat naše Služby. Získané údaje jim mohou být předány nebo je mohou přímo shromažďovat tito poskytovatelé a jiné relevantní třetí strany, které údaje používají, například k vyhodnocení používání Služeb, k pomoci při poskytování Služeb a diagnostice technických problémů.
+
+Společnost Samsung zpracovává osobní údaje k výše uvedeným účelům. Právní základ společnosti Samsung k zpracování osobních údajů zahrnuje zpracování, které je: 
+•	nezbytné pro naplnění smlouvy mezi Vámi a společností Samsung (například, aby Vám byly poskytovány Služby a abyste byli identifikováni a ověřeni tak, abyste mohli využívat určité Služby); 
+•	nezbytné pro splnění požadavků stanovených platnými právními předpisy (například, aby byla dodržena platná pravidla evidence a pro povinné předávání údajů orgánům prosazujícím právo); 
+•	nezbytné pro legitimní zájmy společnosti Samsung (například, abychom mohli spravovat náš vztah s Vámi a zlepšovat Služby); a 
+•	založené na souhlasu našich zákazníků (například abychom s vámi mohli komunikovat o našich produktech a Službách a poskytovali Vám marketingové informace), který může být následně kdykoli odvolán, jestliže nás budete kontaktovat postupem uvedeným v sekci KONTAKT těchto Zásad ochrany osobních údajů společnosti Samsung, aniž by byla dotčena zákonnost zpracování na základě souhlasu před jeho odvoláním.
+
+Nezbytným požadavkem k uzavření smlouvy je, abyste nám poskytli osobní údaje ke zpracování, jak je popsáno v textu výše. Pokud nám osobní údaje neposkytnete, nebudeme Vám moci nabídnout všechny funkce dostupné prostřednictvím Služby Rozpoznávání hlasu.
+
+VAŠE MOŽNOSTI
+Službu Rozpoznávání hlasu můžete kdykoli vypnout pomocí menu Nastavení, avšak poté pravděpodobně nebudete moci Službu Rozpoznávání hlasu používat.
+
+V souvislosti s Vašimi osobními údaji, které shromažďujeme, Vám současně také nabízíme jisté možnosti. Pokud chcete změnit své předvolby, omezit komunikaci z naší strany nebo odeslat žádost, kontaktujte nás postupem uvedeným v sekci KONTAKT těchto Zásad ochrany osobních údajů společnosti Samsung
+
+AKTUALIZACE DODATKU Č. 2
+Tento Dodatek č. 2 může být čas od času aktualizováno, aby odráželo změny v našich postupech zpracování osobních údajů týkajících se Služeb nebo změny platných právních předpisů. Na náš web a/nebo do Vašeho zařízení odešleme upozornění, kterým Vás uvědomíme ohledně jakýchkoli významných změn v našem Dodatku č. 2. Na začátku takového upozornění uvedeme datum poslední aktualizace.
+
+ZÁSADY OCHRANY OSOBNÍCH ÚDAJŮ SPOLEČNOSTI SAMSUNG – DODATEK PRO K SLUŽBĚ PERSONALIZACE REKLAM (”Dodatek č. 3”)
+
+Datum účinnosti: 30. duben 2019
+
+Společnost Samsung Electronics a přidružené společnosti respektují Vaše soukromí. Tento Dodatek č. 3 se vztahuje na osobní údaje, které shromažďujeme prostřednictvím služeb Personalizace reklam („Služba Personalizace reklam“).
+
+Tento Dodatek č. 3 poskytuje další konkrétní informace týkající se způsobu použití Vašich osobních údajů ve Službě Personalizace reklam a měli byste si ho přečíst spolu se Zásadami ochrany osobních údajů společnosti Samsung, které rovněž platí pro používání Služby Personalizace reklam a najdete je na adrese https://account.samsung.com/membership/pp.
+
+V tomto Dodatku č. 3 jsou popsány kategorie údajů používané prostřednictvím Služby Personalizace reklam, jak tyto údaje používáme a dále uvádíme možnosti, které máte k dispozici ohledně našeho používání těchto údajů a uplatňování vašich práv. Společnost Samsung je správcem při zpracování osobních údajů.
+
+CO JE SLUŽBA PERSONALIZACE REKLAM?
+Služba Personalizace reklam poskytuje možnost přijímat a zobrazovat užitečné, interaktivní a personalizované reklamy na produkty a Služby nabízené společností Samsung a třetími stranami v Samsung Smart TV nebo v různých platformách a zařízeních Samsung a třetích stran, včetně lineárních reklam (tj. televizních a rozhlasových), reklam na webu, v mobilních zařízeních a tabletech.
+
+Aby pro vás byly reklamy v zařízeních relevantnější, spoléhá Služba Personalizace reklam na historii sledování televize (včetně údajů o sítích, kanálech, navštívených webových stránkách a programech, které sledujete prostřednictvím Samsung Smart TV a množství času, který jejich sledováním strávíte), údaje o používání Samsung Smart TV a další statistické údaje získané z důvěryhodných zdrojů údajů třetích stran. K získání Vaší historie sledování televize můžeme použít ACR (automatic content recognition – automatické rozpoznání obsahu) a další technologie.
+
+Na základě výše uvedených údajů vyváříme skupiny vlastníků televizorů Samsung Smart TV, kteří sdílí podobné zájmy, a používáme tyto skupiny pro Službu Personalizace reklam. Výše uvedené údaje se používají k určení skupin, ke kterým je váš televizor Samsung Smart TV přiřazen, a jaké reklamy tudíž bude vaše zařízení přijímat.
+
+PSID
+Údaje o používání zařízení shromažďované pro účely poskytování Služby Personalizace reklam budou spojeny s náhodně vygenerovaným, dočasným a resetovatelným identifikátorem zvaným PSID. Identifikátor PSID můžete resetovat způsobem popsaným v sekci Vaše možnosti tohoto Dodatku č. 3.
+
+JAKÉ ÚDAJE SHROMAŽĎUJEME?
+Prostřednictvím Služby Personalizace reklam získáváme údaje o Vašich zařízeních různými způsoby. Mezi typy získávaných údajů patří:
+•	Údaje o zařízení: Shromažďujeme různé údaje, například model zařízení, verze operačního systému, konfigurace a nastavení zařízení, IP adresa, identifikátory zařízení a další identifikátory.
+•	Údaje o využití zařízení a záznamy o používání: Shromažďujeme údaje o tom, jak, kdy a jak dlouho zařízení používáte, včetně interakcí se Službou Personalizace reklam a aplikacemi a službami Samsung a třetích stran v zařízeních (například seznam aplikací v zařízení).
+•	Údaje o sledování: Shromažďujeme Vaši historii sledování televize. Historie sledování televize zahrnuje údaje o sítích, kanálech, navštívených webových stránkách a programech, které sledujete prostřednictvím Samsung Smart TV, a času, který jejich sledováním strávíte. 
+K získání historie sledování televize můžeme použít ACR a další technologie.
+•	Statistické údaje: Můžeme používat statistické údaje o Vás nebo Vašich zařízeních, například zobecněnou polohu nebo odhadovanou věkovou skupinu. Tyto statistické údaje získáváme z komerčně dostupných zdrojů (v souladu s právními předpisy), například od našich nezávislých poskytovatelů služeb. Spolupracujeme pouze s těmi nezávislými poskytovateli služeb, kteří zajistí, aby tyto údaje byly získány zákonným způsobem, a mohou nám je poskytovat k použití a zveřejnění.
+
+Servery společnosti Samsung mohou během vaší interakce se Službou Personalizace reklam přijmout například údaje o Vašich interakcích se Službou Personalizace reklam, zeměpisné poloze a zařízeních používaných pro Službu Personalizace reklam.
+
+JAK ÚDAJE O VÁS POUŽÍVÁME?
+Údaje získávané prostřednictvím Služby Personalizace reklam používáme k následujícím účelům:
+
+•	poskytování Služby Personalizace reklam;
+•	vylepšení a přizpůsobení Vašeho používání Služby Personalizace reklam;
+•	komunikace s Vámi prostřednictvím e-mailu a zasílaných notifikací ohledně produktů a služeb nabízených společností Samsung a třetími stranami, která jsou přizpůsobená Vašim zájmům (s vaším výslovným souhlasem);
+•	reakce na Vaše požadavky a dotazy;
+•	provozování, vyhodnocování a zdokonalování našeho podnikání (včetně vyvíjení nových produktů; zdokonalování a vylepšování našich produktů a Služeb; správy naší komunikace; analýzy našich produktů, zákaznické základny a Služeb; provádění výzkumu trhu; provádění analýzy dat; vedení účetnictví, provádění auditu a jiných interních procesů);
+•	ochrana před podvody a jinou kriminální činností, zamezení vzniku odpovědnosti a závazků, identifikace takových případů a jejich přecházení;
+•	zajištění souladu s platnými požadavky právních předpisů, relevantními průmyslovými normami a našimi zásadami, včetně tohoto Dodatku č. 3 a Zásad ochrany osobních údajů účtu Samsung.
+Společnost Samsung zpracovává osobní údaje k výše uvedeným účelům. Právní základ společnosti Samsung pro zpracování osobních údajů zahrnuje zpracování, které je: 
+•	nezbytné pro naplnění smlouvy mezi Vámi a společností Samsung (například aby Vám byla poskytována Služba Personalizace reklam a abyste byli identifikováni a ověřeni); 
+•	nezbytné pro splnění požadavků právních předpisů (například aby byla dodržena platná pravidla evidence a pro povinné předávání údajů orgánům prosazující právo); 
+•	nezbytné pro legitimní zájmy společnosti Samsung (například abychom mohli spravovat náš vztah s vámi a zlepšovat Službu Personalizace reklam); a 
+•	založené na souhlasu našich zákazníků (například abychom s Vámi mohli komunikovat o našich produktech a Službách a poskytovali Vám marketingové informace), který může být následně kdykoli odvolán v menu Nastavení postupem uvedeným v sekci Vaše možnosti tohoto Dodatku č. 3, aniž by byla dotčena zákonnost zpracování na základě souhlasu před jeho odvoláním.
+
+Nezbytným požadavkem k používání Služby Personalizace reklam je, abyste nám poskytli osobní údaje ke zpracování, jak je popsáno v textu výše. Pokud nám osobní údaje neposkytnete, nebudeme Vám moci nabídnout všechny funkce dostupné prostřednictvím Služby Personalizace reklam.
+
+VAŠE MOŽNOSTI
+PSID můžete kdykoli resetovat pomocí menu nastavení. Po resetování budou historie sledování televize a údaje o využití Smart TV odděleny od předchozího PSID. Když PSID resetujete, může být dotčena kvalita Služby Personalizace reklam.
+
+Kromě toho můžete Službu Personalizace reklam kdykoli vypnout pomocí menu Nastavení v Samsung Smart TV.
+
+Vaše nastavení soukromí týkající se Služby Personalizace reklam neovlivní příjem nebo zobrazení jiných typů reklamy a marketingových informací, které nejsou speciálně založeny na historii sledování televize nebo na údajích o využití Samsung Smart TV. Tyto jiné typy reklam a marketingových informací budou založeny na jiných údajích, například na zobecněných údajích o poloze a jiných odhadovaných nebo odvozených údajích. Tyto reklamy mohou být pro Vás méně relevantní, protože nejsou založeny na Vašich zájmech.
+
+AKTUALIZACE NAŠEHO DODATKU
+Tento Dodatek č. 3 může být čas od času aktualizováno, aby odráželo změny v našich postupech zpracování osobních údajů týkajících se Služby Personalizace reklam nebo změny platných právních předpisů. Na náš web a/nebo do Vašeho zařízení odešleme upozornění, kterým Vás uvědomíme ohledně jakýchkoli významných změn v našem Dodatku č. 3. Na začátku tohoto upozornění uvedeme datum poslední aktualizace.
+
+Tiskárny a kopírky Samsung jsou nyní součástí řady produktů HP. Prohlášení o ochraně osobních údajů společnosti HP naleznete na tomto odkazu: http://www.hp.com/go/privacy.

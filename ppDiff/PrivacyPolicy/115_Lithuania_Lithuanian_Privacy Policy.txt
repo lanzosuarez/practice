@@ -1,0 +1,336 @@
+﻿„SAMSUNG“ PRIVATUMO POLITIKOS SVARBIAUSI ASPEKTAI
+
+„Samsung Electronics“ supranta, koks svarbus klientams yra privatumas. Mes norime užtikrinti, kad suprantate, kaip renkame ir naudojame jūsų asmeninę informaciją jums naudojantis „Samsung“ įrenginiais ir paslaugomis, įskaitant mobiliuosius telefonus, planšetinius kompiuterius, televizorius, buitinę techniką, internetines paslaugas ir kt.
+
+Nors ši Privatumo politika taikoma visoms mūsų paslaugoms, jei reikia, mes taip pat pateikiame papildomos su privatumu susijusios informacijos, taikomos konkrečioms paslaugoms.
+
+ASMENINĖS INFORMACIJOS APŽVALGA
+
+Mes renkame jūsų tiesiogiai pateiktą asmeninę informaciją, informaciją apie tai, kaip naudojatės mūsų paslaugomis, ir informaciją, gautą iš trečiųjų šalių šaltinių. Ši informacija mums reikalinga, kad galėtume teikti jums paslaugas, suprasti, kaip naudojatės mūsų paslaugomis, kad galėtume jas pagerinti ir pritaikyti jūsų poreikiams, ir sukurti klientams reikalingų programėlių, technologijų ir turinio. Asmeninę informaciją taip pat naudojame siekdami pateikti su jūsų interesais susijusios reklamos.
+
+DALIJIMASIS JŪSŲ ASMENINE INFORMACIJA
+
+Galime dalytis jūsų asmenine informacija su įmonėmis, susijusiomis su „Samsung Electronics“, ir kitomis įmonėmis, kurios teikia paslaugas „Samsung Electronics“ vardu. Mes taip pat galime dalytis jūsų asmenine informacija su patikimomis partnerių įmonėmis, pvz., mobiliojo ryšio paslaugų teikėjais ar draudimo bendrovėmis, kurios jums teikia jūsų užsakytus produktus ir paslaugas bei informaciją apie jus dominančius produktus ir paslaugas. Galime atskleisti asmeninę informaciją teisėsaugos institucijoms, kai to reikia vadovaujantis teisės aktais arba siekiant apsaugoti „Samsung Electronics“ ir jos klientus.
+
+1. KOKIĄ INFORMACIJĄ RENKAME? 
+2. KAIP NAUDOJAME JŪSŲ INFORMACIJĄ?
+3. SU KUO DALIJAMĖS JŪSŲ INFORMACIJA?
+4. KAIP APSAUGOME JŪSŲ INFORMACIJĄ?
+5. KUR SIUNČIAME JŪSŲ DUOMENIS?
+6. KOKIOS YRA JŪSŲ TEISĖS?
+7. KIEK LAIKO SAUGOME JŪSŲ INFORMACIJĄ?
+8. KOKIOMIS TREČIŲJŲ ŠALIŲ PASLAUGOMIS NAUDOJAMĖS?
+9. SUSISIEKITE SU MUMIS
+
+„SAMSUNG“ PRIVATUMO POLITIKA
+
+Įsigaliojimo data: 2019 m. balandis 30 d.
+
+Ši Privatumo politika taikoma visiems mūsų „Samsung“ įrenginiams ir paslaugoms, įskaitant mobiliuosius telefonus, planšetinius kompiuterius, televizorius, buitinę techniką, internetines paslaugas ir kt., kurie toliau bendrai vadinami Paslaugomis.
+
+Taip pat rekomenduojame dažnai tikrinti, ar Privatumo politika neatnaujinta. Galime periodiškai atnaujinti šią Privatumo politiką, kad ji atspindėtų su Paslaugomis susijusios mūsų asmeninės informacijos tvarkymo praktikos arba taikomų teisės aktų pakeitimus. Savo interneto svetainėje arba jūsų įrenginyje iš anksto paskelbsime pranešimą, kuriuo informuosime apie esminius mūsų Privatumo politikos pakeitimus, o Privatumo politikos viršuje nurodysime paskiausio atnaujinimo datą. Naujausią Privatumo politikos versiją visada galima peržiūrėti čia: https://account.samsung.com/membership/pp.
+
+KOKIĄ INFORMACIJĄ RENKAME?
+
+„Samsung Electronics“ renka jūsų asmeninę informaciją įvairiais būdais.
+
+Informacija, kurią pateikiate tiesiogiai
+
+Naudojantis tam tikromis Paslaugomis informaciją mums galima pateikti tiesiogiai. Pavyzdžiui:
+
+•	Kai kuriate paskyrą arba profilį, galime paprašyti nurodyti tokią informaciją kaip jūsų vardas, gimimo data ar el. pašto adresas.
+•	Jei iš mūsų užsisakote produktą ar mokamą paslaugą, galime paprašyti nurodyti savo vardą, kontaktinę informaciją, siuntimo ir mokėjimo informaciją, kad galėtume vykdyti jūsų užsakymą.
+•	Kad galėtume atsakyti į jūsų užklausą, kai kreipiatės į klientų aptarnavimo tarnybą, galime paprašyti pateikti informacijos, kad galėtume nustatyti jūsų tapatybę ir produktą, dėl kurio kreipiatės.
+•	Kai bendraujate su mūsų klientų aptarnavimo tarnybos specialistais ar kitais su Paslaugomis susijusiais specialistais, visa komunikacija bus perduodama per mūsų sistemas.
+•	Jei bendrinate savo kontaktus, mes rinksime informaciją apie telefono numerius ir kitą kontaktinę informaciją, kad būtų paprasčiau bendrinti failus ir siųsti pranešimus. Galite išjungti arba apriboti šias funkcijas savo įrenginiuose naudodami nustatymų meniu.
+
+Informacija apie tai, kaip naudojatės Paslaugomis
+
+Be jūsų pateikiamos informacijos, pasinaudodami įrenginyje veikiančia programine įranga ir kitomis priemonėmis rinksime informaciją apie tai, kaip naudojatės mūsų Paslaugomis. Rinksime toliau nurodytą informaciją.
+
+•	Įrenginio informacija: jūsų aparatinės įrangos modelis, informacija apie įrenginio aparatinę įrangą, IMEI numeris ir kiti unikalūs įrenginio identifikatoriai, telefono numeris, serijos numeris, pardavimo kodas, prieigos duomenys, dabartinė programinės įrangos versija, MCC (mobilusis šalies kodas), MNC (mobiliojo tinklo kodas), MAC adresas, IP adresas, slapukai, pikseliai, prenumeratos, operacinės sistemos versijos ir įrenginių, kuriuos naudodami pasiekiate Paslaugas, nustatymai.
+•	Žurnalo informacija: diagnostinė, techninė, klaidų ir naudojimo informacija, pvz., informacija apie naudojimosi Paslaugomis laiką ir trukmę, paieškos užklausų terminai, kuriuos įvedate įrenginyje naudodamiesi konkrečia „Samsung“ paslauga, ir bet kokia informacija, saugoma slapukuose, kuriuos nustatėme jūsų įrenginiuose.
+•	Vietos informacija: jūsų įrenginio GPS signalas arba informacija apie netoliese esančius „Wi-Fi“ prieigos taškus ir mobiliojo ryšio bokštus, kuri gali būti perduota mums, kai naudojatės tam tikromis Paslaugomis ir esate įjungę vietos nustatymo funkciją.
+•	Balso informacija: jūsų balso įrašai, kuriuos sukuriame ir saugome savo serveriuose, kai įjungiate šią funkciją ir balso komandomis valdote Paslaugą arba kai kreipiatės į mūsų klientų aptarnavimo tarnybą. Atkreipkite dėmesį, kad, jei dirbame su trečiosios šalies paslaugų teikėju, mūsų vardu teikiančiu šnekos konvertavimo į tekstą paslaugas, jis gali gauti ir saugoti tam tikras balso komandas pagal sutartį, sudarytą tarp mūsų ir patikimo trečiosios šalies paslaugų teikėjo.
+•	„Samsung“ klaviatūros informacija: žodžiai, kuriuos renkate įjungę nuspėjamojo teksto funkciją. Ši funkcija gali būti pasiūlyta kartu su jūsų „Samsung account“, kad būtų galima sinchronizuoti duomenis ir juos naudoti kituose „Samsung“ mobiliuosiuose įrenginiuose. Išvalyti duomenis galite naudodami nuspėjamojo teksto nustatymus.
+•	Žiūrėjimo informacija: tinklai, kanalai, lankytos svetainės ir programos, žiūrėtos jūsų įrenginiuose, ir jų žiūrėjimo trukmė.
+•	Kita informacija apie tai, kaip naudojatės Paslaugomis, pvz., jūsų naudojamos programėlės, lankomos svetainės ir sąveika su turiniu, pateikiamu naudojantis Paslauga.
+
+Viešai arba komerciškai prieinama informacija arba bendrinama informacija
+
+Kartais renkame viešai arba komerciškai prieinamą informaciją, įskaitant informaciją iš jūsų naudojamų socialinių tinklų, ir ją sujungiame su kita apie jus turima informacija, kad galėtume geriau suprasti jūsų poreikius, interesus ir pageidavimus. Taip pat kartais renkame informaciją apie jus, kai kiti asmenys pateikia tokią informaciją naudodamiesi mūsų Paslaugomis, pvz., tokią informaciją kaip jūsų vardas ir kontaktinė informacija, kai kiti asmenys siunčia jums žinutę ar bendrina su jumis failus.
+
+Kita mūsų renkama informacija
+
+Taip pat galime rinkti kitą informaciją apie jus, jūsų įrenginius arba tai, kaip naudojatės Paslaugomis, kurią sutinkate mums siųsti.
+
+Trečiųjų šalių teikiamos analizės paslaugos
+
+Naudojantis tam tikromis Paslaugomis, laikui bėgant per trečiųjų šalių svetaines, įrenginius, programėles ir kitas internetines funkcijas bei paslaugas galime rinkti asmeninę informaciją apie jūsų veiklą internete, kai lankotės svetainėse ir naudojatės prijungtais įrenginiais. Teikdami Paslaugas galime naudotis trečiųjų šalių teikiamomis analizės paslaugomis, pvz., „Google Analytics“. Šias analizės paslaugas administruojantys paslaugų tiekėjai padeda mums analizuoti, kaip naudojatės Paslaugomis, ir jas tobulinti. Mūsų surinkta informacija gali būti atskleista tokiems paslaugų teikėjams ir kitoms atitinkamoms trečiosioms šalims (arba renkama jų tiesiogiai), kurie naudoja šią informaciją, pavyzdžiui, siekdami įvertinti naudojimąsi Paslaugomis, padėti administruoti Paslaugas ir diagnozuoti technines problemas. Norėdami sužinoti daugiau apie „Google Analytics“, apsilankykite http://www.google.com/analytics/learn/privacy.html ir https://www.google.com/policies/privacy/partners/.
+
+Jūsų pasirinkimo galimybės
+
+Galite nuspręsti mums nesuteikti tam tikros informacijos, pvz., informacijos, kurią prašoma nurodyti registruojant „Samsung account“. Tokiu atveju gali būti apribotos jūsų galimybės naudotis tam tikromis Paslaugomis. Mes pasistengsime paaiškinti tokius apribojimus, kai prašysime jūsų pateikti informaciją, kad galėtumėte priimti apgalvotą sprendimą. Pavyzdžiui, naudojant „Samsung Cloud“ galima saugoti atsarginę savo informacijos kopiją ir sukurti atkūrimo tašką, bet „Samsung Cloud“ nėra sukurta ar skirta konfidencialiai informacijai saugoti ar apdoroti.
+
+KAIP NAUDOJAME JŪSŲ INFORMACIJĄ?
+
+Renkamą informaciją naudojame siekdami:
+•	padėti užregistruoti jus ar jūsų įrenginį, kad galėtumėte naudotis mūsų Paslaugomis;
+•	teikti jūsų pageidaujamą Paslaugą ar funkciją;
+•	teikti pritaikytą turinį ir personalizuotas paslaugas, remiantis jūsų ankstesne veikla naudojantis mūsų Paslaugomis;
+•	pateikti pritaikytos reklamos, akcijų ir pasiūlymų, kurie gali jus sudominti, mūsų svetainėse, trečiųjų šalių svetainėse ir internetinėse platformose, pvz., socialinių tinklų svetainėse;
+•	pateikti akcijų ir pasiūlymų tiesioginės rinkodaros priemonėmis, bet tik tokiu atveju, jei esate davę atskirą sutikimą;
+•	analizuoti savo produktus ir paslaugas, kad galėtume geriau suprasti savo klientus ir pateikti atitinkamos informacijos, paslaugų ir funkcijų;
+•	sužinoti jūsų nuomonę apie mūsų produktus ir paslaugas ir atlikti klientų apklausas, jei esate davę atskirą sutikimą, jei reikia;
+•	teikti su jūsų įrenginiais susijusius programinės įrangos naujinius, techninės priežiūros paslaugas ir pagalbą;
+•	laikytis teisės aktų ir teisinių procesų reikalavimų;
+•	apsaugoti „Samsung Electronics“ ir bet kurios su ja susijusios įmonės, verslo partnerių ar klientų teises, nuosavybę ar saugumą.
+
+Mes renkame ir sujungiame informaciją, kurią renkame apie jus, kai naudojatės mūsų Paslaugomis ir įrenginiais, arba kurią gauname iš kitų šaltinių, siekdami dar geriau pritaikyti Paslaugas jūsų poreikiams. Pavyzdžiui, naudodami savo „Samsung account“ prisijungimo duomenis galite pasiekti ne tik tą Paslaugą, prie kurios prisiregistravote, bet ir kitas Paslaugas, kurios naudoja „Samsung account“. Taip pat naudojame informaciją, kurią pateikiate tiesiogiai arba per kitus šaltinius, kaip aprašyta pirmiau, kad galėtume pateikti turinio, kuris gali jums patikti arba kurio pageidaujate. 
+
+Galite priimti tam tikrus sprendimus, susijusius su jūsų informacijos naudojimu. Norėdami sužinoti daugiau, žr. skyrių KOKIOS JŪSŲ TEISĖS?.
+
+[Skirta tik Europos ekonominės erdvės (EEE) šalių gyventojams]
+
+„Samsung“ tvarko asmeninę informaciją pirmiau aprašytais tikslais. Teisinis pagrindas, kuriuo remdamasi „Samsung“ tvarko asmeninę informaciją, apima tvarkymą, kuris atliekamas: 
+i)	siekiant padaryti tai, ką esame jums pažadėję, pvz., teikti jums Paslaugą;
+ii)	siekiant plėtoti verslo interesus (pavyzdžiui, administruoti mūsų santykius su jumis ir gerinti klientų aptarnavimo kokybę), įskaitant pranešimus mūsų svetainėje, trečiosios šalies svetainėse ir internetinėse platformose;
+iii)	laikytis teisės aktų ir teisinių procesų reikalavimų;
+iv)	gavus jūsų sutikimą (pavyzdžiui, leidžiate mums siųsti tiesioginės rinkodaros pranešimus). Jei davėte sutikimą, bet kada galite jį atšaukti susisiekę su mumis, kaip nurodyta šios Privatumo politikos skyriuje SUSISIEKITE SU MUMIS.
+
+„Samsung Electronics“ yra duomenų valdytojas, apdorojantis jūsų asmeninę informaciją, kaip aprašyta pirmiau. Pateikiant tam tikrus tiesioginės rinkodaros pranešimus ir pritaikytą reklamą Europoje, „Samsung Electronics (UK) Limited“, įsikūrusi Jungtinėje Karalystėje, taip pat yra jūsų asmeninę informaciją apdorojantis duomenų valdytojas. Kai kurios Europoje veikiančios „Samsung“ dukterinės įmonės taip pat apdoroja jūsų asmeninę informaciją savo šalyse. Jeigu to reikalaujama, Europoje veikianti „Samsung“ antrinė įmonė savo svetainėje yra pateikusi savo vietinę Privatumo politiką, kurioje tai yra paaiškinta.
+
+SU KUO DALIJAMĖS JŪSŲ INFORMACIJA?
+
+Jūsų informaciją galime atskleisti savo įmonės viduje, bet tik tiems asmenims, kuriems jos reikia, kad galėtų toliau teikti Paslaugas arba padėtų atsakyti į jūsų užklausas. 
+
+Jūsų informaciją taip pat atskleisime toliau nurodytiems subjektams, kiek tai būtina, kad būtų galima teikti Paslaugas:
+
+•	Susijusios įmonės: kitos „Samsung Electronics” grupės įmonės, kurias bendrovė valdo arba kurios jai priklauso. 
+•	Verslo partneriai: partneriai, su kuriais bendradarbiaujame, kad galėtume jums teikti užsakytas arba įsigytas Paslaugas. Pavyzdžiui, mes galime bendradarbiauti su banku, kad naudodamiesi viena iš mūsų Paslaugų galėtumėte greičiau ir paprasčiau atlikti mokėjimus. Tokie verslo partneriai valdo ir tvarko jūsų asmeninę informaciją.
+•	Paslaugų teikėjai: atidžiai atrinktos įmonės, teikiančios paslaugas mums arba mūsų vardu, pvz., įmonės, kurios mums padeda atlikti remonto darbus, padeda klientų susisiekimo centruose, padeda vykdyti klientų aptarnavimo veiklą, reklamuoti (įskaitant pritaikytos reklamos pateikimą mūsų svetainėse, trečiųjų šalių svetainėse ar internetinėse platformose), vykdyti klientų pasitenkinimo apklausas, teikti sąskaitas arba kurios mūsų vardu siunčia el. laiškus. Tokie paslaugų teikėjai taip pat yra įsipareigoję saugoti jūsų informaciją.
+•	Kitos šalys, kai to reikalaujama remiantis teisės aktais arba kai to reikia siekiant apsaugoti mūsų Paslaugas: pavyzdžiui, gali reikėti atskleisti jūsų informaciją vadovaujantis teisės aktais, reaguojant į teisinius procesus ar valdžios institucijų gautą teismo sprendimą. Valdžios institucijos taip pat gali reikalauti, kad pateiktume jūsų informaciją teisėsaugos, nacionalinio saugumo, kovos su terorizmu ir kitokiais tikslais, susijusiais su visuomenės saugumu.
+•	Kitos šalys, susijusios su įmonių operacijomis: jūsų informaciją trečiajai šaliai galime atskleisti įmonių jungimosi, įsigijimo, pardavimo arba bankroto atveju.
+•	Kitos šalys (jums sutikus arba jūsų nurodymu): be šioje Privatumo politikoje nurodytų atskleidimo atvejų, galime dalytis informacija apie jus su trečiosiomis šalimis jums atskirai sutinkant arba to pageidaujant.
+
+KAIP APSAUGOME JŪSŲ INFORMACIJĄ?
+
+Mes labai rimtai žiūrime į duomenų apsaugą. Siekdami apsaugoti surinktą informaciją, įdiegėme fizinių ir techninių saugumo priemonių. Nors taikome adekvačias priemones jūsų informacijai apsaugoti, norime pabrėžti, kad jokios svetainės, duomenų perdavimo internetu, kompiuterinės sistemos ar belaidžio ryšio negalima laikyti visiškai saugiu.
+
+KUR SIUNČIAME JŪSŲ DUOMENIS?
+
+Jums naudojantis mūsų Paslaugomis, jūsų asmeninė informacija gali būti perduodama, saugoma ir tvarkoma ne jūsų gyvenamojoje šalyje, kiek tai neprieštarauja šiai politikai. Konkrečiau, jūsų asmeninė informacija gali būti perduodama į Korėjos Respubliką. Atkreipkite dėmesį, kad šalių, į kurias gali būti perduodama jūsų informacija, duomenų apsaugos ir kiti teisės aktai gali būti ne tokie visapusiai kaip jūsų šalyje.
+
+[Skirta tik Europos ekonominės erdvės (EEE) šalių gyventojams]
+
+Be to, jums naudojantis Paslaugomis, jūsų asmeninė informacija taip pat gali būti perduodama, saugoma ir tvarkoma kitose šalyse, įskaitant Europos ekonominės erdvės šalis, Jungtines Amerikos Valstijas, Kiniją, Singapūrą, Vietnamą, Indiją, Kanadą, Filipinus ir Japoniją, bet jomis neapsiribojama. Siekdami užtikrinti nuolatinę jūsų asmeninės informacijos apsaugą, imsimės atitinkamų priemonių pagal taikomus teisės aktus. Tokiomis priemonėmis gali būti standartinės sutarties sąlygos, skirtos apsaugoti duomenų perdavimą ne į EEE šalis. Norėdami gauti daugiau informacijos arba sudarytų sutarčių kopiją, susisiekite su mumis. Žr. skyrių SUSISIEKITE SU MUMIS. 
+
+KOKIOS YRA JŪSŲ TEISĖS?
+
+Jūsų asmeninė informacija priklauso jums. Galite mūsų paprašyti, kad pateiktume išsamią informaciją apie tai, kokius duomenis esame surinkę apie jus, ir paprašyti juos ištrinti arba ištaisyti netikslumus. Be to, galite paprašyti apriboti jūsų asmeninės informacijos tvarkymą, perdavimą ar dalijimąsi tokia informacija, taip pat paprašyti pateikti jūsų asmeninę informaciją, kurią surinkome, kad galėtumėte ją naudoti savo tikslais. Tačiau paprašę ištrinti asmeninę informaciją galite netekti prieigos prie mūsų teikiamų Paslaugų. Mes neištrinsime duomenų, kuriuos būtina saugoti laikantis teisės aktų reikalavimų.
+
+Jei norite pasinaudoti atitinkamomis savo teisėmis arba pateikti užklausą, susisiekite su mumis. Žr. skyrių SUSISIEKITE SU MUMIS.
+
+KIEK LAIKO SAUGOME JŪSŲ INFORMACIJĄ?
+
+Jūsų asmeninę informaciją saugosime tik tol, kol tai yra būtina jos surinkimo tikslais. Tai reiškia, kad informacija bus sunaikinta arba ištrinta iš mūsų sistemų, kai jos nebereikės.
+
+Imamės atitinkamų veiksmų siekdami užtikrinti, kad informacija apie jus būtų tvarkoma ir saugoma pagal tokią logiką:
+
+1.	mažiausiai tiek laiko, kiek informacija naudojama siekiant jums teikti kokią nors paslaugą; 
+2.	tiek laiko, kiek numatyta teisės aktais, sutartyje arba atsižvelgiant į teisinius įsipareigojimus;
+3.	tik tol, kol tai yra būtina jos surinkimo tikslais, arba ilgiau, jei tai numatyta bet kokioje sutartyje, taikomuose teisės aktuose ar statistiniais tikslais, kuriems taikomi atitinkami saugikliai.
+
+KOKIOMIS TREČIŲJŲ ŠALIŲ PASLAUGOMIS NAUDOJAMĖS?
+
+Tam tikrą turinį, reklamą ir funkcijas, pasiekiamas naudojantis mūsų Paslaugomis, teikia trečiosios šalys. Šios trečiosios šalys gali naudoti slapukus, signalinius indikatorius, sekimo pikselius ir kitus įrankius, kuriais renka informaciją apie tai, kaip naudojatės Paslaugomis. Šių trečiųjų šalių „Samsung“ tiesiogiai nekontroliuoja, todėl rekomenduojame perskaityti jų privatumo politikas, kad žinotumėte, kaip jos naudoja jūsų duomenis.
+
+Naudojantis tam tikromis programėlėmis ir paslaugomis, įskaitant socialinius tinklus, mes gauname ir išsaugome prisijungimo informaciją ir kitą informaciją, kurią leidžiate mums gauti, kai prisijungiate prie šių programėlių ir paslaugų.
+
+SUSISIEKITE SU MUMIS
+
+Susisiekite su mumis, jei norite atnaujinti savo nuostatas, patikslinti asmeninę informaciją, pateikti užklausą arba užduoti klausimų.
+
+Su mumis taip pat galite susisiekti adresu:
+
+Duomenų valdytojas
+Samsung Electronics Co., Ltd.
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+[Skirta tik Europos ekonominės erdvės (EEE) šalių gyventojams]
+
+„Samsung Electronics“ turi savo biurų visoje Europoje, todėl galime užtikrinti, kad jūsų prašymą ar užklausą apdoros jūsų regione dirbantys duomenų apsaugos specialistai.
+
+Paprasčiausia su mumis susisiekti per mūsų privatumo palaikymo puslapį https://www.samsung.com/request-desk. 
+
+Su mumis taip pat galite susisiekti adresu:
+
+Europos duomenų apsaugos pareigūnas
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+
+Jei manote, kad jūsų asmeninė informacija tvarkoma pažeidžiant taikomus teisės aktus, galite pateikti skundą atitinkamai priežiūros institucijai. Visų ES priežiūros institucijų kontaktinę informaciją galima rasti adresu https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+„SAMSUNG“ PRIVATUMO POLITIKA – „SMART TV“ PRIEDAS
+
+„Samsung“ paslauga „Smart TV“ siūlo įvairių funkcijų, kurios apima patobulintą vaizdo turinį, pritaikytą TV turinį, filmus, ryšį su socialiniais tinklais ir galimybę balso komandomis valdyti „Smart TV“. Per jūsų „Smart TV“ ir prie „Smart TV“ prijungtus įrenginius renkame, naudojame, bendriname ir saugome informaciją, kaip nurodyta „Samsung“ privatumo politikoje. Šiame Priede pateikiama papildomos informacijos apie tam tikrų „Smart TV“ funkcijų privatumo nuostatas.
+
+„Smart TV“ padeda lengvai rasti ir pasiekti vaizdo programas bei kitą turinį. Pavyzdžiui, galite rasti informacijos apie tiesiogines televizijos programas, kurias jums siūlo kabelinės ar palydovinės televizijos operatorius, ir trečiųjų šalių turinio teikėjų teikiamus užsakomojo vaizdo turinio pasiūlymus, naudodami „Smart TV“ paieškos vadovus.
+Tiesioginių televizijos programų atveju jums pasiekiamą turinį iš dalies nustatome pagal jūsų pašto indeksą. Be to, „Smart TV“ padeda rasti kitokio, aktualesnio „Smart TV“ turinio – išryškinamos galimai jus dominančios programos ar turinys arba teikiamos papildomos paslaugos, pagerinančios žiūrėjimo patirtį. Šios rekomendacijos ir papildomos paslaugos yra grindžiamos:
+•	informacija apie turinį, kurį žiūrėjote, įsigijote, atsisiuntėte ar transliavote naudodami „Samsung“ programėles, esančias „Smart TV“ ar kituose įrenginiuose (apie televizijos žiūrėjimo informaciją skaitykite tolesniame skirsnyje „Žiūrėjimo informacijos paslaugos“);
+•	informacija apie programėles, kurias pasiekėte naudodami „Smart TV“;
+•	informacija apie mygtukų „Patinka“, „Nepatinka“, „Žiūrėti dabar“ ir kt. spustelėjimus jūsų „Smart TV“;
+•	užklausų terminais, kuriuos įvedate naudodami „Smart TV“ paieškos funkcijas, įskaitant atvejus, kai ieškojote konkretaus vaizdo turinio;
+•	kita „Smart TV“ naudojimo ir įrenginio informacija, įskaitant IP adresą, žurnalo duomenis, informaciją, identifikuojančią jūsų aparatinės ir programinės įrangos konfigūraciją, naršyklės informaciją, pageidaujamus puslapius ir kt., bet tuo neapsiribojant.
+
+Žiūrėjimo informacijos paslaugos
+Šį privatumo pranešimą reikia skaityti su „Samsung“ privatumo politika, kuri taip pat taikoma naudojantis pritaikytu „Smart TV“ turiniu. Dokumentą galima rasti adresu https://account.samsung.com/membership/pp.
+Kad galėtume jums teikti pritaikytą „Smart TV“ turinį, kai kurios funkcijos ir paslaugos bus teikiamos atsižvelgiant į jūsų TV žiūrėjimo istoriją ir „Smart TV“ naudojimo informaciją.
+TV žiūrėjimo istorijoje yra informacijos apie tinklus, kanalus, lankytas svetaines ir programas, žiūrėtas per „Smart TV“, ir jų žiūrėjimo trukmę.
+Šiai informacijai rinkti galime naudoti automatinio turinio atpažinimo (ACR) ir kitas technologijas. Jūsų „Smart TV“ perduoda vaizdo įrašų fragmentus arba TV imtuvo informaciją, kad būtų galima nustatyti, kokios programos buvo žiūrėtos.
+Bet kada galite pakeisti privatumo nuostatą naudodami nustatymų meniu ir savo nuožiūra išjungti tam tikrą funkciją ar paslaugą; tokiu atveju nebebus renkama TV žiūrėjimo istorija, reikalinga konkrečiai funkcijai ar paslaugai teikti.
+
+[Skirta tik Europos ekonominės erdvės (EEE) šalių gyventojams]
+
+Jums naudojantis mūsų Paslaugomis, jūsų asmeninė informacija gali būti perduodama, saugoma ir tvarkoma ne jūsų gyvenamojoje šalyje, o Korėjoje, kiek tai neprieštarauja šiai politikai. Be to, jums naudojantis Paslaugomis, jūsų asmeninė informacija taip pat gali būti perduodama, saugoma ir tvarkoma kitose šalyse, pavyzdžiui, Europos ekonominės erdvės šalyse, Jungtinėse Amerikos Valstijose ir Kanadoje, bet jomis neapsiribojama. Atminkite, kad ne Europos ekonominės erdvės šalių, į kurias gali būti perduodama jūsų informacija, duomenų apsaugos ir kiti teisės aktai gali būti ne tokie visapusiai kaip jūsų šalyje. Siekdami užtikrinti nuolatinę jūsų asmeninės informacijos apsaugą, imsimės atitinkamų priemonių pagal taikomus teisės aktus. Tokiomis priemonėmis gali būti standartinės sutarties sąlygos, skirtos apsaugoti duomenų perdavimą ne į EEE šalis. Norėdami gauti daugiau informacijos arba sudarytų sutarčių kopiją, susisiekite su mumis apsilankę mūsų privatumo palaikymo puslapyje (https://www.samsung.com/request-desk).
+Atminkite, kad pasirinkta privatumo nuostata gali paveikti paslaugos, kuriai teikti reikalinga žiūrėjimo istorija, prieinamumą arba kokybę.
+
+Interesais pagrįstos reklamos paslaugos
+Interesais pagrįstos reklamos paslaugos (toliau – IPR paslaugos) suteikia galimybę gauti ir peržiūrėti naudingą, interaktyvią ir interesais pagrįstą reklamą apie „Samsung“ ir trečiųjų šalių siūlomus produktus bei paslaugas jūsų „Samsung Smart TV“ ar įvairiose „Samsung“ ir trečiųjų šalių platformose ar įrenginiuose, įskaitant linijines reklamas internete, mobiliuosiuose įrenginiuose ir planšetiniuose kompiuteriuose.
+
+Kad jūsų įrenginiuose rodoma reklama būtų aktualesnė jums, IPR paslauga pasikliaus jūsų TV žiūrėjimo istorija (įskaitant „Samsung Smart TV“ naudotus tinklus, žiūrėtus kanalus, lankytas svetaines, žiūrėtas programas ir jų žiūrėjimo trukmę), „Samsung Smart TV“ naudojimo informacija ir kitais statistiniais duomenimis, gautais iš patikimų trečiųjų šalių duomenų šaltinių. Jūsų TV žiūrėjimo istorijai fiksuoti galime naudoti automatinio turinio atpažinimo (ACR) ir kitas technologijas.
+
+Remdamiesi pirmiau pateikta informacija, sukuriame „Samsung Smart TV“ savininkų grupes, kurių interesai panašūs, tada šias grupes naudojame teikdami IPR paslaugą. Pirmiau nurodyta informacija naudojama siekiant nustatyti, kuriai grupei priskirti jūsų „Samsung Smart TV“, ir nuo to priklauso, kokią reklamą gaus jūsų įrenginiai.
+
+IPR paslaugą bet kada galite išjungti naudodami „Samsung Smart TV“ nustatymų meniu.
+
+Atminkite, kad jūsų privatumo nuostata, susijusi su IPR paslauga, neturės įtakos kitų tipų reklamų ir rinkodaros pranešimų, kurie nėra konkrečiai paremti TV žiūrėjimo istorija arba „‭Samsung Smart TV“ naudojimo informacija, gavimui. Tokios kitų tipų reklamos ir rinkodaros pranešimai bus pagrįsti kita informacija, pvz., apibendrinta vieta ir kita apytikre ar numanoma informacija. Jie gali būti mažiau aktualūs, nes nėra pagrįsti jūsų interesais.‬‬‬‬‬
+
+Išsamesnės informacijos apie IPR paslaugas rasite šio Priedo apačioje esančiame IPR paslaugų privatumo pranešime.
+
+PSID
+Jūsų „Smart TV“ žiūrėjimo istorija ir naudojimo informacija, surinkta, kad būtų galima rodyti interesais pagrįstą reklamą, bus susieta su atsitiktine tvarka parinktu, nepastoviu ir atkuriamu įrenginio identifikatoriumi, vadinamu pritaikytos paslaugos ID arba PSID („Personalized Service ID“).
+Bet kuriuo metu galite atkurti PSID naudodami „Smart TV“ nustatymų meniu. Jį atkūrus jūsų „Smart TV“ žiūrėjimo istorija ir „Smart TV“ naudojimo informacija, susijusi su interesais pagrįsta reklama, bus atsieta nuo ankstesnio PSID. Atminkite, kad atkūrus PSID gali nepavykti užtikrinti geriausios pritaikytos ir interesais pagrįstos reklamos kokybės.
+
+Balso atpažinimas
+Balso komandomis galite valdyti „Smart TV“ ir naudoti daugelį jo funkcijų.
+Jei įjungsite Balso atpažinimo funkciją, „Smart TV“ galėsite valdyti balsu. Kad būtų galima naudoti Balso atpažinimo funkciją, jūsų balso komandos (ir informacija apie jūsų įrenginį, įskaitant jo identifikatorius) bus perduotos mums ir mes jas konvertuosime į tekstą. Be to, „Samsung“ gali rinkti balso komandas ir susijusius tekstus, kad galėtume įvertinti ir patobulinti šias funkcijas. „Samsung“ rinks jūsų balso komandas, kai pateikiate konkrečią užklausą „Smart TV“ spustelėdami aktyvinimo mygtuką nuotolinio valdymo pulte arba ekrane arba ištardami pažadinimo frazę (pvz., „Hi, Bixby“) ir kalbėdami į nuotolinio valdymo pulto arba „Smart TV“ mikrofoną.
+Jei neįjungsite Balso atpažinimo funkcijos, negalėsite naudoti balso atpažinimo funkcijų.
+Galite bet kada išjungti su Balso atpažinimo funkcija susijusių duomenų rinkimą naudodami nustatymų meniu. Tačiau tai padarę, negalėsite naudotis Balso atpažinimo funkcijomis.
+
+Daugiau informacijos apie Balso atpažinimo funkciją rasite šio Priedo apačioje esančiame Privatumo pranešime, skirtame Balso atpažinimo paslaugai.
+
+Trečiosios šalys
+Atminkite, kad žiūrint vaizdo įrašą arba naudojant programas ar turinį, teikiamą trečiosios šalies, šis teikėjas gali rinkti arba gauti informaciją apie jūsų „Smart TV“ (pvz., jo IP adresą ir įrenginio identifikatorius), pageidaujamą operaciją (pvz., jūsų prašymą nusipirkti ar išsinuomoti vaizdo įrašą) ir naudojimąsi programa arba paslauga. „Samsung“ neatsako už šių teikėjų privatumo ar saugos praktikas. Turėtumėte būti atsargūs ir peržiūrėti privatumo nuostatas, taikomas naudojamoms trečiųjų šalių svetainėms ir paslaugoms.
+
+Konkrečioms šalims skirtos funkcijos
+Atkreipiame dėmesį, kad viena ar kelios funkcijos, aprašytos šiame „Smart TV“ priede, gali būti neprieinamos atsižvelgiant į jūsų gyvenamąją vietą.
+
+PRIVATUMO PRANEŠIMAS, SKIRTAS BALSO ATPAŽINIMO PASLAUGAI
+
+Įsigaliojimo data: 2019 m. balandis 30 d.
+
+„Samsung Electronics“ ir su ja susijusios įmonės gerbia jūsų susirūpinimą privatumu. Šis Privatumo pranešimas taikomas asmeninei informacijai, kurią renkame teikdami Balso atpažinimo paslaugą (toliau – Balso paslauga).
+
+Balso paslauga suteikia vartotojams galimybę rasti ir peržiūrėti turinį bei valdyti įvairius „Samsung“ produktus tik balsu. Jos funkcijos apima natūraliosios kalbos apdorojimą vykdant turinio paiešką ir naudojantis „Samsung Smart TV“, internetu, oro prognozėmis ir kitomis paslaugomis, kurių vartotojai tikisi iš savo „Samsung Smart TV“.
+
+Atsižvelgiant į pasirinktą kalbą, galima naudotis patobulinta balso atpažinimo funkcija „Bixby“. Suaktyvinę „Bixby“, „Samsung Smart TV“ ekrane matysite atitinkamų piktogramų, reklamjuosčių ir kitų ženklų.
+
+Šiame Privatumo pranešime pateikiama papildomos konkrečios informacijos, kaip jūsų asmeninė informacija naudojama teikiant Balso paslaugą. Šį pranešimą reikia skaityti su „Samsung“ privatumo politika, kuri taip pat taikoma jums gaunant Balso paslaugą. Dokumentą galima rasti adresu https://account.samsung.com/membership/pp.
+
+Šiame Privatumo pranešime aprašoma, kokių rūšių informacija renkama teikiant Balso paslaugą, kaip galime naudoti šią informaciją ir kaip galite daryti įtaką tokios informacijos naudojimui. „Samsung“ yra asmeninę informaciją apdorojantis duomenų valdytojas.
+
+KOKIĄ INFORMACIJĄ RENKAME?
+Teikdami Balso paslaugą įvairiais būdais renkame informaciją apie jus. Toliau nurodyta, kokią asmeninę informaciją gauname.
+
+•	„Samsung account“ informacija (pasirinktinai). Kai prisijungiate prie „Samsung account“ naudodami savo „Smart TV“, galime rinkti informaciją, susijusią su jūsų „Samsung account“, naudojama norint pasiekti Balso paslaugą, pvz., tokią informaciją kaip jūsų vardas, el. pašto adresas ir „Samsung account“ ID.
+
+•	Sąveika su Balso paslauga. Galime rinkti informaciją, kuria keičiatės su Balso paslauga, kai naudojatės Paslaugomis, įskaitant jūsų balso komandų įrašus (pvz., klausimai, užklausos ir nurodymai), nuotraukas, kitas įvestis ir informaciją, kurią gaunate naudodamiesi Paslaugomis (pvz., atsakas, atsakymai ir turinys). Taip pat galime rinkti kitokią informaciją, susijusią su naudojimusi Balso paslauga, įskaitant informaciją (pvz., susijusią su jūsų naudojamomis programėlėmis ir lankomomis svetainėmis, taip pat nuotraukas, muziką, kalendoriaus įrašus, žymas, turinį bei duomenis iš kitų „Samsung“ ir trečiųjų šalių programėlių, svetainių ir paslaugų), kurią gauname iš „Samsung“ ir trečiųjų šalių programėlių bei paslaugų, pasiekiamų ar naudojamų per Balso paslaugą, kad galėtume teikti jums Paslaugas (pvz., muzikos transliacijas ir oro prognozes).
+
+•	Geografinės vietos duomenys. Galime gauti jūsų įrenginio geografinės vietos duomenis ir kitą informaciją, susijusią su jūsų buvimo vieta, naudodami televizoriuje saugomą pašto indekso informaciją, kurią galima gauti su jūsų IP adresu arba jūsų įvestimis, kai siekiame tam tikrų tikslų, pavyzdžiui, teikti jums Paslaugas.
+
+•	Įrenginio ir programėlių informacija. Naudodami automatizuotas priemones galime rinkti informaciją apie įrenginius, kuriuose teikiamos Balso paslaugos, pvz., apie įrenginių modelius, OS versijas, įrenginių konfigūraciją ir nustatymus, IP adresus, įrenginių identifikatorius ir kitus unikalius identifikatorius. Taip pat galime gauti informacijos apie tai, kaip, kada ir kaip ilgai naudojate Balso paslaugą teikiančius įrenginius, įskaitant jūsų naudojimąsi Balso paslauga ir „Samsung“ bei trečiųjų šalių programėlėmis ir paslaugomis įrenginiuose (pvz., programėlių, įdiegtų jūsų įrenginiuose, sąrašas, juose leidžiama muzika, lankomos svetainės ir vykdomos paieškos).
+
+KAIP NAUDOJAME JŪSŲ INFORMACIJĄ?
+Teikiant Balso paslaugą surinktą informaciją galime naudoti siekdami:
+
+•	teikti jums Paslaugą, pvz., atsakyti į jūsų užklausas, klausimus ir nurodymus, pateiktus naudojantis Balso paslauga;
+•	nustatyti ir patvirtinti jūsų tapatybę, kad galėtumėte naudotis Balso paslauga;
+•	tobulinti ir pritaikyti Balso paslaugą jūsų poreikiams, pvz., teikti turinį ir atsaką, pritaikytą vartotojams pagal tai, kaip jie naudojasi Balso paslauga;
+•	gavę jūsų atskirą sutikimą, informuoti apie mūsų produktus ir paslaugas ir siųsti pranešimus, turinį, perspėjimus, pasiūlymus, informaciją apie akcijas, rinkodaros informaciją, žinutes ir reklamas;
+•	atsakyti į jūsų užklausas ir klausimus;
+•	vykdyti, vertinti ir tobulinti savo veiklą (įskaitant naujų produktų kūrimą, produktų ir paslaugų tobulinimą, komunikacijos valdymą, produktų, klientų bazės ir paslaugų analizę, rinkos tyrimų vykdymą, duomenų analizę, apskaitą, auditą ir kitas vidines funkcijas);
+•	suteikti jums galimybę naudotis tam tikromis trečiųjų šalių programėlėmis ir paslaugomis;
+•	apsaugoti nuo sukčiavimo ir kitos nusikalstamos veiklos, teisinių pretenzijų ir kitokios atsakomybės, identifikuoti tokią veiklą ir užkirsti jai kelią;
+•	laikytis taikomuose teisės aktuose numatytų reikalavimų, atitinkamų pramonės standartų ir savo politikos nuostatų, įskaitant šį Privatumo pranešimą, „Samsung account“ privatumo politiką.
+
+Laikui bėgant per trečiųjų šalių programėles, svetaines ir kitas internetines paslaugas galime rinkti asmeninę informaciją apie jūsų veiklą internete naudojantis įrenginiais, kuriuose veikia Balso paslauga. Teikdami savo Paslaugas galime naudotis trečiųjų šalių teikiamomis analizės paslaugomis. Šias analizės paslaugas administruojantys teikėjai mums padeda analizuoti, kaip naudojatės mūsų Paslaugomis, ir jas tobulinti. Informacija, kurią gauname, gali būti atskleista arba tiesiogiai renkama šių paslaugų teikėjų ir kitų atitinkamų trečiųjų šalių, kurios naudoja informaciją, pavyzdžiui, norint įvertinti naudojimąsi Paslaugomis, padėti teikti Paslaugas ir diagnozuoti technines problemas.
+
+„Samsung“ tvarko asmeninę informaciją pirmiau aprašytais tikslais. Teisinis pagrindas, kuriuo remdamasi „Samsung“ tvarko asmeninę informaciją, apima tvarkymą, kuris: yra būtinas vykdant jūsų sutartį su „Samsung“ (pavyzdžiui, siekiant teikti jums Paslaugas ir nustatyti bei patvirtinti jūsų tapatybę, kad galėtumėte naudotis tam tikromis Paslaugomis); yra būtinas siekiant vykdyti teisės aktų reikalavimus (pavyzdžiui, laikytis taikomų apskaitos taisyklių ir atskleisti informaciją, kai tai privaloma pagal teisės aktus); yra būtinas ginant teisėtus „Samsung“ interesus (pavyzdžiui, administruojant mūsų santykius su jumis ir tobulinant Paslaugas); yra grindžiamas mūsų klientų sutikimu (pavyzdžiui, siekiant pranešti jums apie mūsų produktus bei paslaugas ir teikti jums rinkodaros informaciją). Sutikimą tvarkyti tokią informaciją galima vėliau bet kada atšaukti susisiekus su mumis, kaip nurodyta „Samsung“ privatumo politikos dalyje „Susisiekite su mumis“, bet tai neturės įtakos tvarkymo operacijų, vykdytų prieš atšaukiant sutikimą, teisėtumui.
+
+Norėdami sudaryti su mumis sutartį, turite mums pateikti savo asmeninę informaciją, kuri bus tvarkoma, kaip aprašyta pirmiau. Jeigu nepateiksite mums asmeninės informacijos, negalėsime jums teikti visų funkcijų, pasiekiamų naudojantis Balso paslauga.
+
+JŪSŲ PASIRINKIMO GALIMYBĖS
+Bet kuriuo metu galite išjungti Balso paslaugą naudodami nustatymų meniu, bet tai padarę nebegalėsite naudotis Balso paslauga.
+
+Be to, siūlome jums keletą pasirinkimo galimybių, susijusių su asmenine informacija, kurią apie jus gauname. Jei norite atnaujinti savo nuostatas, apriboti pranešimus, kuriuos gaunate iš mūsų, arba pateikti užklausą, susisiekite su mumis, kaip nurodyta „Samsung“ privatumo politikos dalyje „Kaip susisiekti su mumis“
+
+PRIVATUMO PRANEŠIMO ATNAUJINIMAS
+Šis Privatumo pranešimas gali būti reguliariai atnaujinamas, kad atspindėtų su Paslaugomis susijusios mūsų asmeninės informacijos tvarkymo praktikos arba taikomų teisės aktų pakeitimus. Savo interneto svetainėje ir (arba) jūsų įrenginyje paskelbsime pranešimą, kuriuo informuosime apie visus svarbius mūsų Privatumo pranešimo pakeitimus, o pranešimo viršuje nurodysime paskutinio jo atnaujinimo datą.
+
+PRIVATUMO PRANEŠIMAS, TAIKOMAS INTERESAIS PAGRĮSTOS REKLAMOS PASLAUGAI
+
+Įsigaliojimo data: 2019 m. balandis 30 d.
+
+„Samsung Electronics“ ir su ja susijusios įmonės gerbia jūsų susirūpinimą privatumu. Šis Privatumo pranešimas taikomas asmeninei informacijai, kurią renkame teikdami Interesais pagrįstos reklamos paslaugas (toliau – IPR paslauga”).
+
+Šiame Privatumo pranešime pateikiama papildomos konkrečios informacijos apie tai, kaip jūsų asmeninė informacija naudojama teikiant IPR paslaugą. Šį pranešimą reikia skaityti su „Samsung“ privatumo politika, kuri taip pat taikoma jums gaunant IPR paslaugą. Dokumentą galima rasti adresu https://account.samsung.com/membership/pp.
+
+Šiame Privatumo pranešime aprašoma, kokių tipų informacija naudojama teikiant Interesais pagrįstą reklamą, kaip tokią informaciją naudojame, kaip galite daryti įtaką tokios informacijos naudojimui ir pasinaudoti savo teisėmis. „Samsung“ yra asmeninę informaciją apdorojantis duomenų valdytojas.
+
+KAS YRA IPR PASLAUGA?
+IPR paslauga sukurta teikti galimybę gauti ir peržiūrėti naudingą, interaktyvią bei interesais pagrįstą produktų ir paslaugų reklamą, kurią „Samsung“ ir trečiosios šalys siūlo jūsų „Samsung Smart TV“ ar kitose įvairiose „Samsung“ ir trečiųjų šalių platformose bei įrenginiuose, įskaitant linijines reklamas internete, mobiliuosiuose įrenginiuose ir planšetiniuose kompiuteriuose.
+
+Kad jūsų įrenginiuose rodoma reklama būtų aktualesnė jums, IPR paslauga pasikliaus jūsų TV žiūrėjimo istorija (įskaitant „Samsung Smart TV“ naudotus tinklus, žiūrėtus kanalus, lankytas svetaines, žiūrėtas programas ir jų žiūrėjimo trukmę), „Samsung Smart TV“ naudojimo informacija ir kitais statistiniais duomenimis, gautais iš patikimų trečiųjų šalių duomenų šaltinių. Jūsų TV žiūrėjimo istorijai fiksuoti galime naudoti automatinio turinio atpažinimo (ACR) ir kitas technologijas.
+
+Remdamiesi pirmiau pateikta informacija, sukuriame „Samsung Smart TV“ savininkų grupes, kurių interesai panašūs, tada šias grupes naudojame teikdami IPR paslaugą. Pirmiau nurodyta informacija naudojama siekiant nustatyti, kuriai grupei priskirti jūsų „Samsung Smart TV“, ir nuo to priklauso, kokią reklamą gaus jūsų įrenginiai.
+
+PSID
+Informacija apie įrenginio naudojimą, surinkta, kad būtų galima teikti IPR paslaugą, bus susieta su atsitiktine tvarka parinktu, nepastoviu ir atkuriamu identifikatoriumi, vadinamu PSID. Savo PSID galite atkurti taip, kaip nurodyta šio Privatumo pranešimo dalyje „Jūsų pasirinkimo galimybės“.
+
+KOKIĄ INFORMACIJĄ RENKAME?
+Teikdami IPR paslaugą, informaciją apie jūsų įrenginius gauname įvairiais būdais. Toliau nurodyti mūsų gaunamos informacijos tipai.
+•	Įrenginio informacija. Renkame tokią informaciją kaip jūsų įrenginio modelis, operacinės sistemos versijos, įrenginių konfigūracijos ir nustatymai, IP adresai, įrenginių identifikatoriai ir kiti unikalūs identifikatoriai.
+•	Informacija apie įrenginių naudojimą ir žurnalo informacija. Renkame informaciją apie tai, kaip, kada ir kiek laiko naudojatės įrenginiais, įskaitant interaktyvų naudojimąsi IPR paslauga ir „Samsung“ bei trečiųjų šalių programėlėmis ir paslaugomis įrenginiuose (pvz., jūsų įrenginyje įdiegtų programėlių sąrašą).
+•	Žiūrėjimo informacija. Renkame jūsų TV žiūrėjimo istoriją. TV žiūrėjimo istorijoje yra informacijos apie tinklus, kanalus, lankytas svetaines ir programas, žiūrėtas per „Samsung Smart TV“, ir žiūrėjimo trukmę. TV žiūrėjimo istorijai fiksuoti galime naudoti ACR ir kitas technologijas.
+•	Statistinė informacija. Galime naudoti statistinę informaciją apie jus ar jūsų įrenginius, pvz., apibendrintą vietą ir apytikrę amžiaus grupę. Šią statistinę informaciją gauname iš komercinių šaltinių (kiek leidžia teisės aktai), pvz., mūsų trečiųjų šalių paslaugų teikėjų. Dirbame tik su tais trečiųjų šalių paslaugų teikėjais, kurie užtikrina, kad ši informacija gauta laikantis taikomų teisės aktų ir kad gautą informaciją galime naudoti ir atskleisti.
+
+„Samsung“ serveriai gauna informaciją, kai interaktyviai naudojatės IPR paslauga, pvz., informaciją apie interaktyvų naudojimąsi IPR paslauga, jūsų geografinę buvimo vietą ir įrenginius, kuriais naudodamiesi gaunate IPR paslaugą.
+
+KAIP NAUDOJAME JŪSŲ INFORMACIJĄ?
+Teikdami IPR paslaugą surinktą informaciją galime naudoti siekdami:
+
+•	teikti jums IPR paslaugą;
+•	tobulinti ir pritaikyti IPR paslaugą pagal jūsų poreikius;
+•	gavus atskirą jūsų sutikimą, informuoti jus el. paštu ir „Push“ pranešimais apie „Samsung“ ir trečiųjų šalių siūlomus produktus bei paslaugas, pritaikytas jūsų interesams;
+•	atsakyti į jūsų užklausas ir klausimus;
+•	vykdyti, vertinti ir tobulinti savo veiklą (įskaitant naujų produktų kūrimą, produktų ir paslaugų tobulinimą, komunikacijos valdymą, produktų, klientų bazės ir paslaugų analizę, rinkos tyrimų vykdymą, duomenų analizę, apskaitą, auditą ir kitas vidines funkcijas);
+•	apsaugoti nuo sukčiavimo ir kitos nusikalstamos veiklos, teisinių pretenzijų ir kitokios atsakomybės, identifikuoti tokią veiklą ir užkirsti jai kelią;
+•	laikytis taikomuose teisės aktuose numatytų reikalavimų, atitinkamų pramonės standartų ir savo politikos nuostatų, įskaitant šį Privatumo pranešimą, „Samsung account“ privatumo politiką.
+
+„Samsung“ tvarko asmeninę informaciją pirmiau aprašytais tikslais. Teisinis pagrindas, kuriuo remdamasi „Samsung’“ tvarko asmeninę informaciją, apima tvarkymą, kuris: yra būtinas vykdant jūsų sutartį su „Samsung“ (pavyzdžiui, siekiant teikti jums IPR paslaugą ir nustatyti bei patvirtinti jūsų tapatybę); yra būtinas siekiant vykdyti teisės aktų reikalavimus (pavyzdžiui, laikytis taikomų apskaitos taisyklių ir atskleisti informaciją, kai tai privaloma pagal teisės aktus); yra būtinas ginant teisėtus „Samsung“ interesus (pavyzdžiui, administruojant mūsų santykius su jumis ir tobulinant IPR paslaugą); yra grindžiamas mūsų klientų sutikimu (pavyzdžiui, siekiant keistis su jumis informacija apie mūsų produktus ir paslaugas bei teikti jums rinkodaros informaciją). Sutikimą tvarkyti tokią informaciją galima bet kada atšaukti naudojant nustatymų meniu, kaip nurodyta šio Privatumo pranešimo dalyje „Jūsų pasirinkimo galimybės“, bet tai neturės įtakos tvarkymo operacijų, vykdytų prieš atšaukiant sutikimą, teisėtumui.
+
+Kad galėtumėte gauti IPR paslaugą, privalote leisti mums tvarkyti savo asmeninę informaciją, kaip aprašyta pirmiau. Jeigu nepateiksite mums asmeninės informacijos, negalėsime jums teikti visų funkcijų, pasiekiamų naudojantis IPR paslauga.
+
+JŪSŲ PASIRINKIMO GALIMYBĖS
+PSID galite bet kada atkurti naudodami nustatymų meniu. Jį atkūrus, jūsų TV žiūrėjimo istorija ir „Smart TV“ naudojimo informacija bus atsieta nuo buvusio PSID. Atminkite, kad atkūrus PSID gali būti paveikta IPR paslaugos kokybė.
+
+Be to, IPR paslaugą galite bet kada išjungti naudodami „Samsung Smart TV“ nustatymų meniu.
+
+Atminkite, kad jūsų privatumo nuostata, susijusi su IPR paslauga, neturės įtakos kitų tipų reklamų ir rinkodaros pranešimų, kurie nėra konkrečiai paremti TV žiūrėjimo istorija arba „‭Samsung Smart TV“ naudojimo informacija, gavimui. Tokios kitų tipų reklamos ir rinkodaros pranešimai bus pagrįsti kita informacija, pvz., apibendrinta vieta ir kita apytikre ar numanoma informacija. Jie gali būti mažiau aktualūs, nes nėra pagrįsti jūsų interesais.‬‬‬‬‬
+
+PRIVATUMO PRANEŠIMO ATNAUJINIMAS
+Šis Privatumo pranešimas gali būti reguliariai atnaujinamas, kad atspindėtų su IPR paslauga susijusios mūsų asmeninės informacijos tvarkymo praktikos arba taikomų teisės aktų pakeitimus. Savo interneto svetainėje ir (arba) jūsų įrenginyje paskelbsime pranešimą, kuriuo informuosime apie visus svarbius mūsų privatumo pranešimo pakeitimus, o pranešimo viršuje nurodysime paskutinio jo atnaujinimo datą.
+
+„Samsung“ spausdinimo ir kopijavimo produktai dabar priklauso HP produktų šeimai. HP privatumo pranešimą rasite šiuo adresu: http://www.hp.com/go/privacy.

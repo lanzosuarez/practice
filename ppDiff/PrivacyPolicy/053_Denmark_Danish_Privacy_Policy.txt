@@ -1,0 +1,342 @@
+﻿SAMSUNG VIGTIGE PUNKTER I FORTROLIGHEDSPOLITIKKEN
+
+Samsung Electronics ved, hvor vigtigt fortrolighed er for vores kunder. Vi ønsker at sikre, at du forstår, hvordan vi indsamler og bruger dine personoplysninger på tværs af alle vores Samsung-enheder og -tjenester, fra mobiltelefoner og tablets til fjernsyn, husholdningsapparater, onlinetjenester og mere.
+
+Mens denne fortrolighedspolitik er gældende for alle vores tjenester, vil vi også levere yderligere oplysninger om fortrolighed i relation til bestemte tjenester, hvor det er nødvendigt. 
+
+OVERSIGT OVER PERSONOPLYSNINGER
+
+Vi indsamler personoplysninger, som du leverer direkte, oplysninger om din anvendelse af vores tjenester og oplysninger fra tredjepartskilder. Vi bruger disse oplysninger til at levere tjenester til dig, få indblik i, hvordan du bruger vores tjenester, så vi kan forbedre og brugertilpasse din oplevelse, og til at udvikle det mest relevante inden for apps, teknologier og indhold til vores kunder. Vi bruger også personoplysninger til at levere brugertilpasset annoncering, som er skræddersyet efter dine interesser.
+
+DELING AF DINE PERSONOPLYSNINGER
+
+Vi kan dele dine personoplysninger med Samsung Electronics datterselskaber og associerede selskaber og med virksomheder, der leverer tjenester på vegne af Samsung Electronics. Vi kan også dele dine personoplysninger med betroede partnere såsom mobiludbydere eller forsikringsselskaber, der leverer produkter og tjenester til dig, som du har bedt om, og oplysninger om produkter og tjenester, du kunne være interesseret i. Vi deler personoplysninger med retshåndhævende myndigheder, når det kræves af loven, eller for at beskytte Samsung Electronics og deres brugere.
+
+1. HVILKE OPLYSNINGER INDSAMLER VI? 
+2. HVORDAN BRUGER VI DINE OPLYSNINGER? 
+3. HVEM DELER VI DINE OPLYSNINGER MED? 
+4. HVORDAN BESKYTTER VI DINE OPLYSNINGER? 
+5. HVOR SENDER VI DINE DATA HEN? 
+6. HVAD ER DINE RETTIGHEDER? 
+7. HVOR LÆNGE BEHOLDER VI DINE OPLYSNINGER? 
+8. HVILKE TREDJEPARTSTJENESTER BRUGER VI? 
+9. KONTAKT OS 
+
+SAMSUNG FORTROLIGHEDSPOLITIK
+
+Ikrafttrædelsesdato: 30. april 2019
+
+Denne fortrolighedspolitik er gældende for alle vores Samsung-enheder og -tjenester, fra mobiltelefoner og tablets til fjernsyn, husholdningsapparater og mere, som samlet kaldes for Tjenester.
+
+Det er vigtigt, at du hyppigt vender tilbage for at kontrollere opdateringer af fortrolighedspolitikken. Vi kan opdatere denne fortrolighedspolitik med jævne mellemrum for at afspejle ændringer i vores fremgangsmåder i forhold til behandling af personoplysninger, for så vidt angår Tjenesterne eller ændringer i gældende lov. Vi offentliggør en meddelelse på vores websted eller din enhed for at give dig besked på forhånd om væsentlige ændringer i vores fortrolighedspolitik og angiver øverst i fortrolighedspolitikken, hvornår den senest er blevet opdateret. Den mest aktuelle version af fortrolighedspolitikken vil altid være tilgængelig her: https://account.samsung.com/membership/pp.
+
+HVILKE OPLYSNINGER INDSAMLER VI?
+
+Samsung Electronics indsamler dine personoplysninger på flere forskellige måder.
+
+Oplysninger, som du giver direkte
+
+Nogle tjenester gør det muligt at indsamle oplysninger direkte fra dig. Eksempler:
+
+•	Når du opretter en konto eller en profil hos os, kan det være, at vi beder om oplysninger såsom dit navn, din fødselsdato eller din e-mailadresse.
+•	Hvis du bestiller et produkt eller en betalt tjeneste fra os, kan vi bede om dit navn, din adresse, dine kontaktoplysninger samt leverings- og betalingsoplysninger for at behandle din ordre.
+•	For at kunne svare dig, når du kontakter kundeservice, kan vi få brug for oplysninger til at verificere din identitet og det produkt, du spørger om.
+•	Når du kommunikerer med vores kundeservicemedarbejdere eller andre servicemedarbejdere, overføres din kommunikation via vores systemer.
+•	Hvis du deler dine kontakter, indsamler vi deres telefonnumre og andre kontaktoplysninger for at muliggøre fildeling og beskedtjenester. Du kan deaktivere eller begrænse disse funktioner under Indstillinger på dine enheder.
+
+Oplysninger om din anvendelse af Tjenester
+
+Ud over de oplysninger, som du direkte leverer, vil vi indsamle oplysninger om din anvendelse af vores Tjenester via software på dine enheder og på andre måder. Vi indsamler følgende:
+
+•	Enhedsoplysninger: Din hardwaremodel, oplysninger om enhedshardware, IMEI-nummer og andre entydige enheds-id’er, telefonnummer, serienummer, salgskode, adgangsregistrering, aktuel softwareversion, MCC (Mobile Country Code), MNC (Mobile Network Code), MAC-adresse, IP-adresse, cookies, pixels, abonnementsoplysninger, operativsystemversioner og indstillinger for de enheder, du bruger til at få adgang til Tjenester.
+•	Logoplysninger: Diagnostiske, tekniske, fejl- og brugsoplysninger, f.eks. tidspunkt og varighed for din anvendelse af Tjenester, søgeord, når du angiver søgeord på din enhed i forbindelse med en bestemt Samsung-tjeneste, og oplysninger, der gemmes i cookies, som vi har anbragt på dine enheder.
+•	Placeringsoplysninger: Din enheds GPS-signal eller oplysninger om nærliggende Wi-Fi-adgangspunkter og mobilmaster, der kan blive overført til os, når du bruger visse Tjenester og aktiverer funktionen Placering.
+•	Stemmeoplysninger: Optagelser af din stemme, som vi foretager (og kan gemme på vores servere), når du aktiverer denne funktion og bruger stemmekommandoer til at styre en Tjeneste, eller når du kontakter vores kundeserviceteam. Bemærk, at hvis vi samarbejder med en tredjepartstjenesteudbyder, der udbyder tale-til-tekst-konverteringstjenester på vores vegne, kan denne udbyder modtage og gemme visse stemmekommandoer i henhold til den kontrakt, der er indgået mellem os og vores betroede tredjepartstjenesteudbyder.
+•	Samsung-tastaturoplysninger: De ord, du skriver, når du aktiverer Ordbog. Denne funktion kan blive tilbudt i forbindelse med din Samsung-konto med henblik på at synkronisere dataene, så de kan bruges på dine andre Samsung-mobilenheder. Du kan rydde dataene ved at gå til indstillingerne for Ordbog.
+•	Visningsoplysninger: Netværk, kanaler, besøgte websteder og programmer, du har set på dine enheder og den tid, du har brugt på at se dem.
+•	Andre oplysninger om din anvendelse af Tjenester, f.eks. de apps, du bruger, de websteder, du besøger, og hvordan du interagerer med det indhold, der tilbydes via en Tjeneste.
+
+Offentligt eller kommercielt tilgængelige eller delte oplysninger
+
+Vi indsamler nogle gange offentlige eller kommercielt tilgængelige oplysninger, herunder oplysninger fra sociale netværk, du bruger, og kombinerer disse med andre oplysninger om dig, så vi bedre kan forstå dine behov, interesser og præferencer. Vi indsamler også nogle gange oplysninger om dig, når andre leverer dem ved hjælp af vores Tjenester, f.eks. dit navn og dine kontaktoplysninger, når andre sender en besked til dig eller deler filer med dig.
+
+Andre oplysninger, som vi indsamler
+
+Vi kan også indsamle andre oplysninger om dig, dine enheder eller din anvendelse af Tjenester, som du indvilliger i at sende os.
+
+Tredjepartsanalyse
+
+Via visse Tjenester kan vi indsamle personoplysninger om dine onlineaktiviteter på websteder og tilsluttede enheder over tid og på tværs af tredjepartswebsteder, -enheder, -apps samt andre onlinefunktioner og -tjenester. Vi kan bruge tredjepartsanalysetjenester til vores Tjenester, såsom dem fra Google Analytics. De tjenesteudbydere, der administrerer disse analysetjenester, gør det muligt at analysere din brug af Tjenesterne og forbedre Tjenesterne. De oplysninger, vi får, kan videregives til eller indsamles direkte af disse udbydere og andre relevante tredjeparter, der bruger oplysningerne. Det kunne f.eks. være til at evaluere brugen af Tjenesterne, administrere Tjenesterne og diagnosticere tekniske problemer. Læs mere om Google Analytics på http://www.google.com/analytics/learn/privacy.html og https://www.google.com/policies/privacy/partners/.
+
+Dine indstillinger
+
+Du kan vælge ikke at give os bestemte typer oplysninger såsom oplysninger, der anmodes om ved registrering af en Samsung-konto. I nogle tilfælde kan dette begrænse din mulighed for at anvende nogle Tjenester. Vi vil gøre vores bedste for at forklare disse begrænsninger, når vi anmoder om dine oplysninger, så du kan træffe en informeret beslutning. For eksempel giver Samsung Cloud dig mulighed for at sikkerhedskopiere dine oplysninger og oprette et gendannelsespunkt. Dog er Samsung Cloud ikke designet eller beregnet til opbevaring eller behandling af følsomme oplysninger.
+
+HVORDAN BRUGER VI DINE OPLYSNINGER?
+
+Vi bruger de oplysninger, vi indsamler, til følgende formål:
+•	til at hjælpe dig eller din enhed med registrering til vores Tjenester
+•	til at levere en Tjeneste eller funktion, som du anmoder om
+•	til at levere tilpasset indhold og personliggjorte tjenester baseret på dine seneste aktiviteter på vores Tjenester
+•	til at levere tilpassede annoncer, kampagner og tilbud, der kunne interessere dig, på vores websteder, tredjeparts-websteder og onlineplatforme såsom sociale medier
+•	til kun at levere kampagner og tilbud via direkte marketing, når du har givet os særskilt samtykke
+•	til at analysere vores produkter og tjenester, så vi kan opnå større indsigt i vores kunder og tilbyde dig den mest relevante kommunikation og de mest relevante tjenester og oplevelser
+•	til at spørge til din mening om vores produkter og tjenester og udføre kundeundersøgelser med dit særskilte samtykke, hvis det kræves
+•	til at levere softwareopdateringer, vedligeholdelsestjenester og support til dine enheder
+•	til at overholde loven og retsprocedurerne
+•	til at beskytte Samsung Electronics eller nogen af vores tilknyttede virksomheders, forretningspartneres eller kunders rettigheder, ejendom eller sikkerhed
+
+Vi bruger og kombinerer de oplysninger, vi indsamler om dig fra vores Tjenester, enheder og kilder, til at give dig en bedre oplevelse. Du kan f.eks. bruge dine Samsung-kontooplysninger til både den Tjeneste, du har tilmeldt dig, og andre Tjenester, der bruger Samsung-konti. Vi bruger også de oplysninger, som du angiver direkte eller via andre kilder som beskrevet ovenfor, til at levere indhold, som kunne være noget for dig, eller som du har personliggjort. 
+
+Du har mulighed for at træffe valg i relation til behandlingen af dine personoplysninger. Se afsnittet HVAD ER DINE RETTIGHEDER? for at få mere at vide.
+
+[Kun for bosiddende i Det Europæiske Økonomiske Samarbejdsområde (EØS)]
+
+Samsung behandler personoplysninger til de formål, der er beskrevet ovenfor. Samsungs juridiske grundlag for at behandle personoplysninger inkluderer behandling: 
+(i)	Så vi kan holde vores løfter over for dig, såsom at levere en Tjeneste til dig (databeskyttelsesforordningens artikel 6, stk. 1, litrra b). 
+(ii)	Vores legitime interesse i at fremme vores forretningsinteresser (for eksempel at forvalte vores forhold til dig og forbedre din kundeserviceoplevelse), herunder kommunikation på vores hjemmeside, tredjepartswebsteder og onlineplatforme (databeskyttelsesforordningens artikel 6, stk. 1, litra f)
+(iii)	For at overholde loven og retsprocedurerne (databeskyttelsesforordningens artikel 6, stk. 1, litra c og databeskyttelsesforordningens artikel 6, stk. 1, litra e)
+(iv)	Med dit samtykke (for eksempel at sende direkte marketingkommunikation) (databeskyttelsesforordningens artikel 6, stk. 1, litra a). Hvis du giver samtykke, kan du altid ophæve det igen ved at kontakte os som angivet i afsnittet KONTAKT OS i denne fortrolighedspolitik.
+
+Samsung Electronics er dataansvarlig for personoplysninger som beskrevet ovenfor. For visse typer direkte marketing og tilpasset annoncering i Europa er Samsung Electronics (UK) Limited, som er beliggende i Storbritannien, er disse også dataansvarlige for dine personoplysninger. Nogle af Samsungs europæiske datterselskaber behandler også dine personoplysninger i deres lande. Når det er relevant, har Samsungs europæiske datterselskab sin egen lokale fortrolighedspolitik på sit websted til at forklare dette.
+
+HVEM DELER VI DINE OPLYSNINGER MED?
+
+Vi videregiver dine oplysninger internt i vores virksomhed, men kun til dem, der skal bruge dem til at levere yderligere Tjenester eller til at hjælpe dig med dine ønsker. 
+
+Vi vil også videregive eller overlade dine oplysninger til følgende enheder, men kun i det omfang, at dette er nødvendigt for at levere vores Tjenester:
+
+•	Tilknyttede virksomheder: Andre virksomheder i Samsung Electronics-koncernen, som vi styrer eller ejer. 
+•	Forretningspartnere: Partnere, som vi samarbejder med for at give dig de Tjenester, du har anmodet om eller købt. Vi kan f.eks. samarbejde med en bank, så du kan bruge en af vores Tjenester til at foretage hurtigere eller mere effektive betalinger. Disse forretningspartnere styrer og administrerer dine personoplysninger.
+•	Tjenesteudbydere: Omhyggeligt udvalgte virksomheder, som leverer tjenester til eller på vegne af os, som f.eks. virksomheder, der hjælper os med reparationer, kundekontaktcentre, kundeserviceaktiviteter, annoncering (herunder tilpasset annoncering på vores websteder, tredjeparts-websteder eller onlineplatforme), udførelse af kundetilfredshedsundersøgelser eller fakturering, eller som sender e-mails på vores vegne. Disse udbydere er også forpligtet til at beskytte dine oplysninger.
+•	Andre parter, når det kræves af loven eller er nødvendigt for at beskytte vores Tjenester: Det kan f.eks. være nødvendigt i henhold til loven, en retsprocedure eller en retskendelse fra statslige myndigheder at videregive dine oplysninger. De kan også forsøge at indhente dine oplysninger hos os med henblik på retshåndhævelse, national sikkerhed, antiterrorisme eller andre problematikker, der er relateret til den offentlige sikkerhed.
+•	Andre parter i forbindelse med virksomhedstransaktioner: Vi kan udlevere dine oplysninger til en tredjepart som en del af en sammenlægning, overtagelse eller et salg eller i tilfælde af konkurs.
+•	Andre parter med dit samtykke eller ifølge din anvisning: Ud over de offentliggørelser, der er beskrevet i denne Fortrolighedspolitik, kan vi dele oplysninger om dig med tredjepart, når du separat giver dit samtykke til dette eller anmoder om en sådan deling.
+
+HVORDAN BESKYTTER VI DINE OPLYSNINGER?
+
+Vi tager databeskyttelse alvorligt. Vi har indført fysiske og tekniske sikkerhedsforanstaltninger for at beskytte de oplysninger, som vi indsamler. Men vær opmærksom på, at selvom vi træffer rimelige forholdsregler for at beskytte dine oplysninger, er der ikke noget websted, nogen internetoverførsel, noget computersystem eller nogen trådløs forbindelse, der er fuldstændig sikker.
+
+HVOR SENDER VI DINE DATA HEN?
+
+Din brug af vores Tjenester vil omfatte overførsel, opbevaring og behandling af dine personoplysninger i og uden for det land, hvori du er bosiddende, i overensstemmelse med denne politik. Specifikt vil dine personoplysninger blive overført til Republikken Korea. Vær opmærksom på, at databeskyttelsen og andre love i lande, som dine oplysninger kan blive overført til, ikke nødvendigvis er så omfattende som dem i dit eget land.
+
+[Kun for bosiddende i Det Europæiske Økonomiske Samarbejdsområde (EØS)]
+
+Derudover kan din brug af Tjenesterne også omfatte overførsel, opbevaring og behandling af dine personoplysninger til og i andre lande. Disse lande omfatter, uden begrænsning, lande i Det Europæiske Økonomiske Samarbejdsområde, USA, Kina, Singapore, Vietnam, Indien, Canada, Filippinerne og Japan. Vi tager de relevante forholdsregler i overensstemmelse med gældende lov for at sikre, at dine personoplysninger forbliver beskyttet. Sådanne forholdsregler omfatter brugen af standardkontraktklausuler til at beskytte overførslen af data uden for EØS. Hvis du har brug for flere oplysninger eller ønsker en kopi af de gældende aftaler, bedes du kontakte os. Se afsnittet KONTAKT OS. 
+
+HVAD ER DINE RETTIGHEDER?
+
+Dine personoplysninger tilhører dig. Du kan bede os om oplysninger angående, hvad vi har indsamlet, og du kan bede os om at slette dem eller rette eventuelle unøjagtigheder. Du kan også bede os om at begrænse behandling, deling eller overførsel af dine personoplysninger samt at udlevere de personoplysninger, som vi har indsamlet om dig, så du kan bruge dem til egne formål. Dog kan anmodninger om at slette dine personoplysninger også medføre tab af adgang til Tjenester, som vi tilbyder. Vi vil ikke slette data, som vi er lovmæssigt forpligtet til at opbevare.
+Kontakt os for at foretage en anmodning angående dine rettigheder eller en forespørgsel. Se afsnittet KONTAKT OS.
+
+HVOR LÆNGE BEHOLDER VI DINE OPLYSNINGER?
+
+Vi beholder ikke dine personoplysninger længere end, det er nødvendigt til det formål, som de er indsamlet til. Det betyder, at oplysninger vil blive destrueret eller slettet fra vores systemer, når de ikke længere er nødvendige.
+
+Vi tager de nødvendige forholdsregler for at sikre, at vi behandler og opbevarer oplysningerne om dig baseret på følgende logik:
+
+1.	Som minimum i den periode, i hvilken oplysningerne bruges til at levere en tjeneste til dig
+2.	I overensstemmelse med lov, en kontrakt, eller for så vidt angår vores lovbestemte forpligtelser
+3.	Kun så længe det er nødvendigt for behandlingen af det formål, de er indsamlet til, eller længere, hvis det kræves i henhold til kontrakt, gældende love eller til statistiske formål, der er underlagt relevante sikkerhedsforanstaltninger.
+
+HVILKE TREDJEPARTSTJENESTER BRUGER VI?
+
+Noget af indholdet, annonceringen og funktionaliteten på vores Tjenester leveres af tredjeparter. Disse tredjeparter kan bruge cookies, beacons, sporingspixels og andre værktøjer til at indhente oplysninger om din brug af disse Tjenester. Disse tredjeparter kontrolleres ikke direkte af Samsung, så vi anbefaler, at du kontrollerer deres fortrolighedspolitikker for at få indblik i, hvordan de bruger dine data.
+
+For nogle apps og tjenester, herunder sociale netværk, modtager og gemmer vi loginoplysninger samt andre oplysninger, som du giver os tilladelse til at modtage, når du opretter forbindelse til disse apps og tjenester.
+
+KONTAKT OS
+
+Du kan kontakte os for at opdatere dine præferencer, opdatere eller rette dine oplysninger, sende en anmodning eller stille os spørgsmål.
+
+Du kan også kontakte os på:
+
+Kontrolansvarlig
+Samsung Electronics Co., Ltd.
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+[Kun for bosiddende i Det Europæiske Økonomiske Samarbejdsområde (EØS)]
+
+Samsung Electronics har kontorer i hele Europa, så vi kan sikre, at din anmodning eller forespørgsel håndteres af databeskyttelsesteamet i din region.
+
+Den nemmeste måde at kontakte os på er gennem vores side med support til fortrolighed på https://www.samsung.com/request-desk. 
+
+Du kan også kontakte os på:
+
+Europæisk databeskyttelsesansvarlig
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+
+Du kan indgive en klage til den relevante tilsynsførende myndighed, hvis du anser vores behandling af dine personoplysninger som en overtrædelse af gældende lov. Kontaktoplysninger til alle EU’s tilsynsførende myndigheder kan findes på https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+SAMSUNG FORTROLIGHEDSPOLITIK – SMART TV TILLÆG
+
+Samsungs Smart TV-tjeneste tilbyder et sæt funktioner, der leverer forbedret videoindhold, tilpassede tv-oplevelser, film, forbindelser til sociale netværkstjenester og mulighed for at kontrollere og interagere med dit Smart TV med stemmekommandoer. Vi indsamler, bruger, deler og opbevarer oplysninger via dit Smart TV og de enheder, der er tilknyttet dit Smart TV, på måder beskrevet i Samsungs fortrolighedspolitik. Dette tillæg indeholder yderligere detaljer om Samsungs behandling af dine personoplysninger ved brug af Smart TV.
+
+Dit Smart TV er designet til at gøre det let for dig at finde og få adgang til videoprogrammer og andet indhold. Du kan f.eks. få adgang til oplysninger om direkte tv-programmer, der distribueres til dig via din kabel- eller satellitoperatør, og tilbud om on-demand-videoindhold, der distribueres af tredjeparts indholdsleverandører via søgbare guides, som vises på dit Smart TV.
+I tilfælde af direkte tv-programmer fastlægger vi, hvilket indhold der er tilgængeligt for dig, delvist baseret på dit postnummer. Desuden hjælper Smart TV dig med at finde og opleve andet Smart TV-indhold, der er mere relevant for dig, ved at fremhæve programmer og indhold, som med sandsynlighed vil interessere dig, eller levere ekstra tjenester, som kan forbedre din visningsoplevelse. Vi baserer disse anbefalinger og ekstra tjenester på:
+•	Oplysninger om indhold, som du har set, købt, downloadet eller streamet via Samsung-applikationer på dit Smart TV eller andre enheder (se afsnittet ‘Visning af oplysningstjenester’ herunder for oplysninger om tv-visningsoplysninger);
+•	Oplysninger om applikationer, som du har fået adgang til via dit Smart TV;
+•	Oplysninger om dine klik på "Synes godt om", "Synes ikke om", "Se nu" og andre knapper på dit Smart TV;
+•	Søgeord, som du angiver i Smart TV-søgefunktioner, herunder når du søger efter specifikt videoindhold;
+•	Andre oplysninger om brug af Smart TV og andre enheder, herunder, men ikke begrænset til, IP-adresse, logdata, oplysninger, der identificerer din hardware- eller softwarekonfiguration, browseroplysninger og sider, du anmoder om.
+
+Visning af oplysningstjenester
+Denne fortrolighedsbemærkning skal læses sammen med Samsungs fortrolighedspolitik, der ligeledes gælder for din modtagelse af tilpassede Smart TV-oplevelser, og du finder den på https://account.samsung.com/membership/pp.
+For at levere brugertilpassede Smart TV-oplevelser til dig vil nogle af vores funktioner og tjenester være baseret på dit tv's visningsoversigt og dine Smart TV-brugsoplysninger.
+Din tv-visningsoversigt indeholder oplysninger om netværk, kanaler, besøgte websteder og programmer, du har set på dit Smart TV, og den tid, du har brugt på at se dem.
+Vi kan bruge automatisk genkendelse af indhold (ACR) og andre teknologier til at indhente disse oplysninger. Dit Smart TV overfører stumper af videoer eller oplysninger om tv-tuner for at fastslå, hvilke programmer der ses.
+Du kan til enhver tid ændre dit valg vedrørende beskyttelse af personoplysninger ved at gå til indstillingsmenuen og deaktivere den specifikke funktion eller tjeneste efter eget valg, og i så tilfælde vil din tv-visningsoversigt ophøre med at vise den specifikke funktion eller tjeneste.
+
+[Kun for bosiddende i Det Europæiske Økonomiske Samarbejdsområde (EØS)]
+
+Din brug af vores Tjenester vil omfatte overførsel, opbevaring og behandling af dine personoplysninger i et land, hvori du ikke er bosiddende, til Korea, i overensstemmelse med denne politik. Derudover kan din brug af Tjenesterne også omfatte overførsel, opbevaring og behandling af dine personoplysninger til og i andre lande. Disse lande omfatter, uden begrænsning, lande i Det Europæiske Økonomiske Samarbejdsområde, USA og Canada. Bemærk, at lovene om databeskyttelse og anden lovgivning i de lande uden for Det Europæiske Økonomiske Samarbejdsområde, hvortil dine oplysninger kan blive overført, muligvis ikke er så omfattende som i dit land. Vi tager de relevante forholdsregler i overensstemmelse med gældende lov for at sikre, at dine personoplysninger forbliver beskyttet. Sådanne forholdsregler omfatter brugen af standardkontraktklausuler til at beskytte overførslen af data uden for EØS. Hvis du har brug for flere oplysninger eller ønsker en kopi af de gældende aftaler, skal du kontakte os på vores side med support til fortrolighed (https://www.samsung.com/request-desk).
+Vær opmærksom på, at dit valg vedrørende beskyttelse af private oplysninger kan påvirke tilgængeligheden eller kvaliteten af den specifikke tjeneste, som er baseret på visningsoplysninger.
+
+Interessebaserede annonceringstjenester
+De interessebaserede annonceringstjenester ("IBA-tjenesterne") er designet til at give mulighed for at hente og få vist nyttige, interaktive og interessebaserede annoncer om produkter og tjenester udbudt af Samsung og tredjeparter på dit Samsung Smart TV eller på tværs af platforme eller enheder fra Samsung og tredjeparter, herunder linjebaserede reklamer, på internettet, mobilenheder og tablets.
+
+For at gøre annoncering på dine enheder mere relevant for dig vil IBA-tjenesten være baseret på dit tv's visningsoversigt (herunder oplysninger om netværk, kanaler, besøgte websteder og programmer, du har set på dit Samsung Smart TV, og den tid, du har brugt på at se dem), Samsung Smart TV-brugsoplysninger, og andre statistikdata indhentet fra datakilder fra tredjepart, som der er tillid til. Vi kan bruge automatisk genkendelse af indhold (ACR) og andre teknologier til at indhente dit tv's visningsoversigt.
+
+Baseret på oplysningerne ovenfor opretter vi grupper af Samsung Smart TV-ejere, der deler de samme interesser, og bruger disse grupper til IBA-tjenesten. Oplysningerne ovenfor bruges til at beslutte, hvilke grupper dit Samsung Smart TV skal tilknyttes og dermed, hvilke annoncer dine enheder modtager.
+
+Du kan til enhver tid deaktivere IBA-tjenesten ved at gå til menuen Indstillinger på dit Samsung Smart TV.
+
+Vær opmærksom på, at dit valg vedrørende beskyttelse af private oplysninger med hensyn til IBA-tjenesten ikke vil påvirke, om du modtager eller får vist andre typer annoncer og marketing, der ikke specifikt er baseret på tv-visningsoversigt eller Samsung Smart TV-brugsoplysninger. Disse typer af annoncer og marketing vil være baseret på oplysninger som f.eks. generel placering og andre estimerede eller udledte oplysninger. De kan være mindre relevante, da de ikke er baseret på dine interesser.
+For at få mere at vide om IBA-tjenesterne skal du se fortrolighedsbemærkningen for IBA-tjenester nederst i dette tillæg.
+
+PSID
+Smart TV-visningsoversigten og -brugsoplysningerne, som er indsamlet med henblik på at tilbyde interessebaserede annonceringer, vil blive tilknyttet en randomiseret, ikke-vedvarende enhedsidentifikator, der kan nulstilles, som kaldes tilpasset tjeneste-id eller “PSID”.
+Du kan til enhver tid nulstille dit PSID ved at gå til menuen Indstillinger på dit Smart TV, og når det er nulstillet, vil tilknytningen af din Smart TV-visningsoversigt og dine Smart TV-brugsoplysninger med hensyn til interessebaserede annonceringer være fjernet fra det forrige PSID. Vær opmærksom på, at hvis du nulstiller dit PSID, vil kvaliteten af brugertilpassede og interessebaserede annonceringer muligvis ikke være finindstillet.
+
+Stemmegenkendelse
+Du kan kontrollere dit Smart TV og bruge mange af dets funktioner ved hjælp af stemmekommandoer.
+Hvis du aktiverer Stemmegenkendelse, kan du interagere med dit Smart TV ved hjælp af din stemme. For at funktionen Stemmegenkendelse kan leveres, vil dine stemmekommandoer blive overført (sammen med oplysninger om din enhed, herunder enheds-id'er) til os, og vi vil konvertere dine stemmekommandoer til tekst for at kunne levere stemmegenkendelsesfunktioner. Derudover kan Samsung indsamle stemmekommandoer og tilknyttede tekster, så vi kan vurdere og forbedre funktionerne. Samsung vil indsamle dine stemmekommandoer, når du foretager en specifik anmodning i Smart TV ved enten at klikke på aktiveringsknappen på fjernbetjeningen eller på skærmen eller ved at sige et vækkeord (f.eks. “Hi, Bixby”), og når du taler i mikrofonen på fjernbetjeningen eller Smart TV.
+Hvis du ikke aktiverer stemmegenkendelse, vil du ikke kunne bruge stemmegenkendelsesfunktionerne.
+Du kan til enhver tid deaktivere indsamling af data vedrørende Stemmegenkendelse ved at gå til menuen Indstillinger. Dette vil imidlertid forhindre, at du kan bruge stemmegenkendelsesfunktionerne.
+
+For at få mere at vide om stemmegenkendelse skal du se fortrolighedsbemærkningen for stemmegenkendelse nederst i dette tillæg.
+
+Tredjeparter
+Vær opmærksom på, at når du ser en video eller får adgang til applikationer eller indhold, der leveres af en tredjepart, kan leverandøren indsamle eller modtage oplysninger om dit Smart TV (f.eks. IP-adresse og enheds-id'er), den ønskede transaktion (f.eks. din anmodning om at købe eller leje videoen) og din anvendelse af applikationen eller tjenesten. Samsung er ikke ansvarlig for disse leverandørers praksisser i forbindelse med sikkerhed eller hemmeligholdelse af oplysninger. Du skal udvise forsigtighed og gennemse de fortrolighedserklæringer, som er gældende for tredjeparts-websteder og -tjenester, som du bruger.
+
+Landespecifikke funktioner
+Vær opmærksom på, at en eller flere af de funktioner, der er beskrevet i dette tillæg for Smart TV, måske ikke er tilgængelige for dig afhængigt af, hvor du bor.
+
+FORTROLIGHEDSOPLYSNINGER VEDRØRENDE STEMMEGENKENDELSESTJENESTEN
+
+Ikrafttrædelsesdato: 30. april 2019
+
+Samsung Electronics og dets associerede selskaber respekterer dine bekymringer i forhold til fortrolighed. Denne Fortrolighedsbemærkning gælder for de personoplysninger, vi indsamler via tjenesten stemmegenkendelse (“Stemmetjenesten”).
+
+Stemmetjenesten er en tjeneste, der giver brugere mulighed for at finde og se indhold og administrere deres verden på tværs af Samsung-produkter ved hjælp af deres stemme. Dens funktioner inkluderer den naturlige sprogbehandling i indholdssøgning og Samsung Smart TV-styring samt internet, vejr og andre tjenester, som brugere forventer af deres Samsung Smart TV'er.
+
+Afhængigt af det sprog, du vælger, kan du bruge og nyde godt af den forbedrede funktion til stemmegenkendelse, Bixby. Når Bixby er aktiveret, kan du bruge det ved hjælp af ikoner, bannere og andre mærker på skærmen på dit Samsung Smart TV.
+
+Denne fortrolighedsbemærkning indeholder yderligere, specifikke oplysninger om, hvordan dine personoplysninger bruges sammen med stemmetjenesten, og den skal læses sammen med Samsungs fortrolighedspolitik, der ligeledes gælder for din modtagelse af stemmetjenesten, og som du finder på https://account.samsung.com/membership/pp.
+
+I denne Fortrolighedsbemærkning beskriver vi de typer oplysninger, der indsamles via stemmetjenesten, hvordan vi kan bruge oplysningerne, og de valgmuligheder, du har, når det gælder vores brug af oplysningerne. Samsung er den kontrolansvarlige, når det gælder behandlingen af personoplysninger.
+
+HVILKE OPLYSNINGER INDSAMLER VI?
+Vi kan indhente oplysninger om dig på forskellig vis via stemmetjenesten. De typer personoplysninger, vi indhenter, omfatter:
+
+•	Samsung-kontooplysninger (valgfrit). Når du logger ind på din Samsung-konto på dit Smart TV, kan vi indsamle oplysninger, der er knyttet til din Samsung-konto, og som bruges til at få adgang til stemmetjenesten, såsom dit navn, din e-mailadresse og id'et til din Samsung-konto.
+
+•	Interaktioner med stemmetjenesten. Vi kan indsamle oplysninger, du udveksler med stemmetjenesten via dine interaktioner med tjenesterne, herunder optagelser af dine stemmekommandoer (f.eks. dine spørgsmål, anmodninger og instruktioner), dine billeder og andet input, og de oplysninger, du modtager fra tjenesterne (f.eks. reaktioner, svar og indhold). Vi kan også indhente andre oplysninger, der er relateret til din brug af stemmetjenesten, herunder de oplysninger (f.eks. oplysninger, der er relateret til de apps, du bruger, de websteder, du besøger og billeder, musik, kalenderposter, bogmærker samt indhold og data fra andre apps, websteder og tjenester fra Samsung og tredjepart), vi modtager fra apps og tjenester fra Samsung og tredjepart, der er tilgået eller brugt via stemmetjenesten, med henblik på at levere tjenesterne (f.eks. musikstreamning og vejr) til dig.
+
+•	Data om geoplacering. Vi kan modtage din enheds geoplacering og andre oplysninger, der er relateret til din placering, via oplysninger om postnummer lagret på tv’et, der kan indhentes via din IP-adresse eller via dit input til bestemte formål. Det kunne f.eks. være at levere Tjenesterne til dig.
+
+•	Oplysninger om enheder og apps. Vi kan bruge automatiske hjælpemidler til at indsamle oplysninger om dine enheder, der er kompatible med stemmetjenesten, f.eks. enhedsmodeller, OS-versioner, konfigurationer og indstillinger af enheder, IP-adresser samt enhedsidentifikatorer og andre unikke identifikatorer. Derudover kan vi få oplysninger om, hvordan, hvornår og hvor længe du bruger dine enheder, der er kompatible med stemmetjenesten, herunder din brug af stemmetjenesten og apps og tjenester fra Samsung og tredjepartsapps på enhederne (f.eks. en liste med apps på dine enheder, musik, der er afspillet på dine enheder, de websteder, du besøger, og de søgninger, du foretager).
+
+HVORDAN BRUGER VI DINE OPLYSNINGER?
+Vi kan bruge oplysninger, vi indhenter via stemmetjenesten, til at:
+
+•	levere Tjenesterne til dig, f.eks. ved at svare på dine anmodninger, spørgsmål og instruktioner, der foretages via stemmetjenesten;
+•	identificere og godkende dig, så du kan bruge stemmetjenesten;
+•	forbedre og tilpasse din oplevelse med stemmetjenesten, f.eks. i forhold til levering af indhold og svar, der er skræddersyet til vores brugere og den måde, de interagerer med stemmetjenesten på;
+•	kommunikere med dig om vores produkter og tjenester og give dig meddelelser, indhold, vigtige beskeder, tilbud, kampagner, marketingoplysninger, kommunikationsmeddelelser og reklamer med dit separate samtykke;
+•	svare på dine anmodninger og forespørgsler;
+•	drive, evaluere og forbedre vores virksomhed (herunder udvikling af nye produkter, styrkelse og forbedring af vores produkter og tjenester, styring af vores kommunikation, analyse af vores produkter, kundebase og tjenester, udførelse af markedsundersøgelser, udførelse af dataanalyse og udførelse af bogføring, revision og andre interne funktioner);
+•	give dig mulighed for at interagere med og bruge visse apps og tjenester fra tredjepart;
+•	beskytte mod, identificere og forhindre bedrageri og anden kriminel aktivitet, krav og andre hæftelser; og
+•	overholde og håndhæve juridiske krav, relevante branchestandarder og vores politikker, herunder denne fortrolighedsbemærkning og fortrolighedspolitikken for Samsung-kontoen.
+
+Vi kan via stemmetjenesten indsamle personoplysninger om dine onlineaktiviteter på enheder, der er kompatible med stemmetjeneste, over tid og på tværs af tredjepartsapps, websteder og andre onlinetjenester. Vi kan bruge tredjepartsanalysetjenester til vores Tjenester. De udbydere, der administrerer disse analysetjenester, gør det muligt at analysere din brug af Tjenesterne og forbedre vores Tjenester. De oplysninger, vi får, kan være videregivet til eller indsamlet direkte af disse udbydere og andre relevante tredjeparter, der bruger oplysninger. Det kunne f.eks. være til at evaluere brugen af Tjenesterne, levere Tjenesterne og diagnosticere tekniske problemer.
+
+Samsung behandler personoplysninger til de formål, der er beskrevet ovenfor. Samsungs juridiske grundlag for at behandle personoplysninger omfatter behandling, der er: 
+•	nødvendig for at opfylde kontrakten mellem dig og Samsung (f.eks. for at levere Tjenester til dig og til at identificere og godkende dig, så du kan bruge bestemte Tjenester) (databeskyttelsesforordningens artikel 6, stk. 1, litra b);
+•	nødvendig for at overholde juridiske krav (f.eks. for at overholde gældende bogføringsregler og for at foretage obligatorisk videregivelse af oplysninger til politimyndighederne) (databeskyttelsesforordningens artikel 6, stk. 1, litra c og artikel 6, stk. 1, litra e);
+•	nødvendig for at Samsungs kan forfølge en legitim interesse (f.eks. for at håndtere vores relation med dig og for at forbedre Tjenesterne) (databeskyttelsesforordningens artikel 6, stk. 1, litra f);
+•	baseret på vores kunders samtykke (f.eks. for at kunne kommunikere med dig om vores produkter og tjenester og for at kunne give dig marketingoplysninger) (databeskyttelsesforordningens artikel 6, stk. 1, litra a) der efterfølgende til enhver tid kan trækkes tilbage ved at kontakte os, sådan som det er angivet i afsnittet Kontakt os i Samsungs fortrolighedspolitik, uden at påvirke lovligheden af den samtykkebaserede behandling før tilbagetrækningen af et sådant samtykke.
+
+For at kunne indgå i en kontrakt skal du give os personoplysninger, som vi kan behandle som angivet herover. Hvis du ikke afgiver personoplysninger til os, kan vi ikke levere alle de funktioner, der er tilgængelige via stemmetjenesten, til dig.
+
+DINE VALGMULIGHEDER
+Du kan når som helst deaktivere stemmetjenesten ved at gå til menuen Indstillinger. Dette kan imidlertid forhindre, at du kan bruge stemmetjenesten.
+
+Vi tilbyder dig også visse valgmuligheder i forbindelse med de personoplysninger, vi indhenter om dig. For at opdatere dine præferencer, begrænse den kommunikation, du får fra os, eller sende en anmodning kan du kontakte os, sådan som det er angivet i afsnittet Sådan kan vi kontaktes i Samsungs fortrolighedspolitik
+
+OPDATERINGER TIL VORES FORTROLIGHEDSBEMÆRKNING
+Denne Fortrolighedsbemærkning kan blive opdateret med jævne mellemrum for at afspejle ændringer i vores fremgangsmåder i forhold til personoplysninger, for så vidt angår Tjenesterne eller ændringer i gældende lov. Vi offentliggør en meddelelse på vores websted og/eller din enhed for at give dig besked om vigtige ændringer i vores fortrolighedsbemærkning og angiver øverst i meddelelsen, hvornår den senest er blevet opdateret.
+
+FORTROLIGHEDSBEMÆRKNING FOR TJENESTEN INTERESSEBASEREDE ANNONCERINGER
+
+Ikrafttrædelsesdato: 30. april 2019
+
+Samsung Electronics og dets associerede selskaber respekterer dine bekymringer i forhold til fortrolighed. Denne Fortrolighedsbemærkning gælder for de personoplysninger, vi indsamler via tjenesten Interessebaserede annonceringer (“IBA-tjenesten”).
+
+Denne fortrolighedsbemærkning indeholder yderligere, specifikke oplysninger om, hvordan dine personoplysninger bruges sammen med IBA-tjenesten, og den skal læses sammen med Samsungs fortrolighedspolitik, der ligeledes gælder for din modtagelse af IBA-tjenesten, og som du finder på https://account.samsung.com/membership/pp.
+
+I denne fortrolighedsbemærkning beskriver vi de typer oplysninger, der bruges via Interessebaserede annonceringer, hvordan vi bruger oplysningerne, hvor lang tid vi beholder oplysningerne, hvem vi kan dele dem med, og de valgmuligheder, du har, når det gælder vores brug af oplysningerne og udøvelsen af dine rettigheder. Samsung er den kontrolansvarlige, når det gælder behandlingen af personoplysninger.
+
+HVAD ER IBA-TJENESTEN?
+IBA-tjenesten er designet til at give mulighed for at hente og få vist nyttige, interaktive og interessebaserede annoncer om produkter og tjenester udbudt af Samsung og tredjeparter på dit Samsung Smart TV eller på tværs af platforme eller enheder fra Samsung og tredjeparter, herunder linjebaserede reklamer, på internettet, mobilenheder og tablets.
+
+For at gøre annoncering på dine enheder mere relevant for dig vil IBA-tjenesten være baseret på dit tv's visningsoversigt (herunder oplysninger om netværk, kanaler, besøgte websteder og programmer, du har set på dit Samsung Smart TV, og den tid, du har brugt på at se dem), Samsung Smart TV-brugsoplysninger, og andre statistikdata indhentet fra datakilder fra tredjepart, som der er tillid til. Vi kan bruge automatisk genkendelse af indhold (ACR) og andre teknologier til at indhente dit tv's visningsoversigt.
+
+Baseret på oplysningerne ovenfor opretter vi grupper af Samsung Smart TV-ejere, der deler de samme interesser, og bruger disse grupper til IBA-tjenesten. Oplysningerne ovenfor bruges til at beslutte, hvilke grupper dit Samsung Smart TV skal tilknyttes og dermed, hvilke annoncer dine enheder modtager.
+
+PSID
+Oplysninger om anvendelsen af din enhed, som indsamles med henblik på at tilbyde IBA-tjenesten, vil blive tilknyttet et randomiseret, ikke-vedvarende enheds-id, kaldet PSID. Du kan nulstille dit PSID som angivet i afsnittet Dine valgmuligheder i denne fortrolighedsbemærkning.
+
+HVILKE OPLYSNINGER INDSAMLER VI?
+Vi får oplysninger om dine enheder på forskellig vis via IBA-tjenesten. De typer oplysninger, vi indhenter, omfatter:
+•	Enhedsoplysninger. Vi indsamler oplysninger som f.eks. din enhedsmodel, versioner af operativsystem, enhedskonfiguration og -indstillinger, IP-adresse, enheds-id’er og andre id’er.
+•	Anvendelse af enhed og logoplysninger. Vi indsamler oplysninger om, hvordan, hvornår og hvor længe du bruger dine enheder, herunder dine interaktioner med IBA-tjenesten og apps og tjenester fra Samsung og tredjeparter på enhederne (f.eks. en liste over apps på dine enheder).
+•	Visningsoplysninger. Vi indsamler dit tv's visningsoversigt. Din tv-visningsoversigt indeholder oplysninger om netværk, kanaler, besøgte websteder og programmer, du har set på dit Samsung Smart TV, og den tid, du har brugt på at se dem. Vi kan bruge automatisk genkendelse af indhold til at indhente dit tv's visningsoversigt.
+•	Statistikoplysninger. Vi kan bruge statistikoplysninger om dig eller dine enheder, såsom generel placering og estimeret aldersgruppe. Vi indhenter disse statistikoplysninger fra kommercielt tilgængelige kilder (som tilladt i henhold til loven), såsom vores tredjepartstjenesteudbydere. Vi samarbejder kun med tredjepartstjenesteudbyder, der sikrer, at disse oplysninger er indhentet i overensstemmelse med gældende lovgivning og kan stilles til rådighed til os til brug og offentliggørelse.
+
+Når du interagerer med IBA-tjenesten, modtager Samsungs servere oplysninger, såsom oplysninger om dine interaktioner med IBA-tjenesten, din geoplacering og de enheder, du bruger til at modtage IBA-tjenesten.
+
+HVORDAN BRUGER VI DINE OPLYSNINGER?
+Vi bruger de oplysninger, vi indhenter via IBA-tjenesten, til at:
+
+•	levere IBA-tjenesten til dig;
+•	forbedre og brugertilpasse din oplevelse med IBA-tjenesten;
+•	kommunikere med dig med dit separate samtykke via e-mail og push-beskeder angående produkter og tjenester fra Samsung og tredjeparter, som er skræddersyet efter dine interesser;
+•	svare på dine anmodninger og forespørgsler;
+•	drive, evaluere og forbedre vores virksomhed (herunder udvikling af nye produkter, styrkelse og forbedring af vores produkter og tjenester, styring af vores kommunikation, analyse af vores produkter, kundebase og tjenester, udførelse af markedsundersøgelser, udførelse af dataanalyse og udførelse af bogføring, revision og andre interne funktioner); 
+•	beskytte mod, identificere og forhindre bedrageri og anden kriminel aktivitet, krav og andre hæftelser; og
+•	overholde og håndhæve juridiske krav, relevante branchestandarder og vores politikker, herunder denne fortrolighedsbemærkning og fortrolighedspolitikken for Samsung-kontoen.
+
+Samsung behandler personoplysninger til de formål, der er beskrevet ovenfor. Samsungs juridiske grundlag for at behandle personoplysninger omfatter behandling, der er: 
+
+•	nødvendig for at opfylde kontrakten mellem dig og Samsung (f.eks. for at levere IBA-tjenesten til dig og til at identificere og godkende dig) (databeskyttelsesforordningens artikel 6, stk. 1, litra b);
+•	nødvendig for at overholde juridiske krav (f.eks. for at overholde gældende bogføringsregler og for at foretage obligatorisk videregivelse af oplysninger til politimyndighederne) (databeskyttelsesforordningens artikel 6, stk. 1, litra c og artikel 6, stk. 1, litra e); 
+•	nødvendig i forhold til Samsungs legitime interesser (f.eks. for at håndtere vores relation med dig og for at forbedre IBA-tjenesten) (databeskyttelsesforordningens artikel 6, stk. 1, litra f); 
+•	baseret på vores kunders samtykke (f.eks. for at kunne kommunikere med dig om vores produkter og tjenester og for at kunne give dig marketingoplysninger), der efterfølgende til enhver tid kan trækkes tilbage ved at gå til menuen Indstillinger som angivet i afsnittet Dine valgmuligheder i denne fortrolighedsbemærkning, uden at påvirke lovligheden af den samtykkebaserede behandling før tilbagetrækningen af et sådant samtykke databeskyttelsesforordningens artikel 6, stk. 1, litra a).
+
+For at du kan modtage IBA-tjenesten, er det nødvendigt, at du afgiver personoplysninger til os, som vi kan behandle som angivet herover. Hvis du ikke giver os personoplysninger, kan vi ikke levere alle de funktioner, der er tilgængelige via IBA-tjenesten, til dig.
+
+DINE VALGMULIGHEDER
+Du kan til enhver tid nulstille dit PSID ved at gå til indstillingsmenuen, og når det er nulstillet, vil tilknytningen af dit tv's visningsoversigt og dine Smart TV-brugsoplysninger være fjernet fra det forrige PSID. Vær opmærksom på, at hvis du nulstiller dit PSID, kan det påvirke kvaliteten af IBA-tjenesten.
+Derudover kan du til enhver tid deaktivere IBA-tjenesten ved at gå til menuen Indstillinger på dit Samsung Smart TV.
+
+Vær opmærksom på, at dit valg vedrørende beskyttelse af private oplysninger med hensyn til IBA-tjenesten ikke vil påvirke, om du modtager eller får vist andre typer annoncer og marketing, der ikke specifikt er baseret på tv-visningsoversigt eller Samsung Smart TV-brugsoplysninger. Disse typer af annoncer og marketing vil være baseret på oplysninger som f.eks. generel placering og andre estimerede eller udledte oplysninger. De kan være mindre relevante, da de ikke er baseret på dine interesser.
+
+OPDATERINGER TIL VORES FORTROLIGHEDSBEMÆRKNING
+Denne Fortrolighedsbemærkning kan blive opdateret med jævne mellemrum for at afspejle ændringer i vores fremgangsmåder i forhold til beskyttelse af personoplysninger, for så vidt angår IBA-tjenesten, eller ændringer i gældende lov. Vi offentliggør en meddelelse på vores websted og/eller din enhed for at give dig besked om vigtige ændringer i vores fortrolighedsbemærkning og angiver øverst i meddelelsen, hvornår den senest er blevet opdateret.
+
+Samsung-produkter til udskrivning og kopiering er nu en del af HP-produktfamilien. Se fortrolighedsbemærkningen fra HP på følgende link: http://www.hp.com/go/privacy.

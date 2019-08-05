@@ -1,0 +1,335 @@
+﻿SAMSUNGI PRIVAATSUSPOLIITIKA OLULISIMAD PUNKTID
+
+Samsung Electronics teab, kui oluline on klientide jaoks privaatsus. Tahame olla kindlad, et mõistate, kuidas me teie isikuandmeid kogume ja kasutame kõigis meie Samsungi seadmetes ning teenustes, alates mobiiltelefonidest ja tahvelarvutitest, lõpetades telerite, kodumasinate, võrguteenuste ning muuga.
+
+See privaatsuspoliitika kehtib kõigile meie teenustele, kuid vajaduse korral pakume ka lisateavet konkreetsete teenustega seotud privaatsuse kohta.
+
+ISIKUANDMETE ÜLEVAADE
+
+Kogume isikuandmeid, mida otse esitate, teavet selle kohta, kuidas te meie teenust kasutate, ja teavet kolmanda osapoole allikatest. Kasutame neid andmeid teile teenuste pakkumiseks, selleks et mõista, kuidas te meie teenuseid kasutate, et saaksime teie kasutuskogemust parandada ja isikupärastada ning arendada kõige olulisemaid rakendusi, tehnoloogiaid ja sisu oma klientide jaoks. Kasutame isikuandmeid ka teie huvidega sobivate kohandatud reklaamide pakkumiseks.
+
+ISIKUANDMETE JAGAMINE
+
+Me võime jagada teie isikuandmeid Samsung Electronicsi sidusettevõtetega ja Samsung Electronicsi nimel teenuseid osutavate ettevõtetega. Peale selle võime jagada isikuandmeid usaldusväärsete partneritega, näiteks mobiilsideteenuse pakkujate või kindlustusfirmadega, kes pakuvad teile tooteid ja teenuseid, mida soovite, ning teavet toodete ja teenuste kohta, mis teile huvi võivad pakkuda. Jagame isikuandmeid õiguskaitseasutustega, kui seda nõuab seadus või Samsung Electronicsi ja selle kasutajate kaitsmiseks.
+
+1. MEIE KOGUTAV TEAVE 
+2. KUIDAS ME TEIE TEAVET KASUTAME? 
+3. KELLEGA ME TEIE TEAVET JAGAME? 
+4. KUIDAS ME TEIE TEAVET TURVALISENA HOIAME? 
+5. KUHU ME TEIE ANDMED SAADAME? 
+6. TEIE ÕIGUSED
+7. KUI KAUA ME TEIE ANDMEID SÄILITAME? 
+8. MILLISEID KOLMANDA OSAPOOLE TEENUSEID ME KASUTAME? 
+9. VÕTKE MEIEGA ÜHENDUST 
+
+SAMSUNGI PRIVAATSUSAVALDUS
+
+Jõustumise kuupäev: 30. aprill 2019
+
+See privaatsuspoliitika kehtib kõikidele Samsungi seadmetele ja teenustele, alates mobiiltelefonidest ning tahvelarvutitest, lõpetades telerite, kodumasinate, võrguteenuste ja muuga, mida ühiselt nimetatakse teenusteks.
+
+Oluline on, et külastaksite sageli seda lehte, et olla kursis privaatsuspoliitika värskendustega. Võime seda privaatsusavaldust värskendada regulaarselt, et seoses teenustega arvestada muutustega meiepoolses isikuandmete töötlemises või muutustega kohaldatavas seaduses. Avaldame oma veebisaidil või teie seadmes varakult teate meie privaatsuspoliitika olulistest muudatustest ja osutame privaatsuspoliitika päises, millal seda viimati värskendati. Privaatsuspoliitika ajakohaseim versioon on alati kättesaadav siin: https://account.samsung.com/membership/pp.
+
+MEIE KOGUTAV TEAVE
+
+Samsung Electronics kogub teie isikuandmeid mitmel viisil.
+
+Teave, mida otse edastate
+
+Mõni teenus võimaldab teil meile teavet otse edastada. Näiteks.
+
+•	Kui loote meie juures konto või profiili, võime küsida teavet, näiteks teie nime, sünnikuupäeva või meiliaadressi.
+•	Kui tellite meilt toote või tasulise teenuse, võime teilt tellimuse töötlemiseks küsida teie nime, aadressi, kontaktteavet ning kohaletoimetamis- ja makseteavet.
+•	Vastuste andmiseks, kui võtate ühendust klienditeenindusega, võime koguda teavet, et tuvastada teie isikut ja toodet, mille kohta päringu esitate.
+•	Kui suhtlete meie klienditeeninduse töötajate või teiste teenuste töötajatega, saadetakse teie suhtlus läbi meie süsteemi.
+•	Kui lubate oma kontakte jagada, siis kogume nende telefoninumbreid ja muud kontaktteavet, et hõlbustada failijagamist ning sõnumsidet. Nende funktsioonide väljalülitamiseks või piiramiseks valige oma seadmes Seaded.
+
+Teave teenuste teiepoolse kasutamise kohta
+
+Peale andmete, mis te ise annate, kogume andmeid teenuste teiepoolse kasutamise kohta ka teie seadmes oleva tarkvara kaudu ja ka muudel viisidel. Me kogume järgmisi andmeid.
+
+•	Seadme andmed: teenustele juurdepääsemiseks kasutatava seadme riistvara mudel, seadme riistvara andmed, IMEI number ja muud seadme kordumatud identifikaatorid, telefoninumber, seerianumber, müügikood, juurdepääsuandmed, praegune tarkvaraversioon, MCC (mobiiltelefoni riigi kood), MNC (mobiilivõrgu kood), MAC-aadress, IP-aadress, küpsised, pikslid, tellimuse andmed, operatsioonisüsteemi versioonid ning seaded.
+•	Logiandmed: diagnostilised, tehnilised, vea- ja kasutusandmed, nagu teiepoolne teenuste kasutamise aeg ning kestus, otsingute märksõnad, kui sisestate seadmesse otsingusõnad konkreetse Samsungi teenuse kohta, ja andmed, mis on talletatud küpsistesse, mis me teie seadmetesse oleme salvestanud.
+•	Asukohaandmed: teie seadme GPS-signaal või lähedalasuvate Wi-Fi-pääsupunktide ja mobiilsidemastide andmed, mis võidakse meile edastada, kui kasutate teatud teenuseid ning lubate asukohaandmete funktsiooni.
+•	Hääleandmed: teie hääle salvestised, mis me teeme (ja talletame oma serveritesse), kui lubate selle funktsiooni ning kasutate teenuse juhtimiseks häälkäsklusi või kui võtate ühendust meie klienditeeninduse meeskonnaga. Pange tähele, et kui töötame kolmandast isikust teenusepakkujaga, kes pakub kõne tekstiks teisendamise teenust meie nimel, siis võib see teenusepakkuja saada ja salvestada teatud häälkäsklusi kooskõlas meie ning meie usaldusväärse kolmandast isikust teenusepakkuja vahel sõlmitud lepinguga.
+•	Samsungi klaviatuuri andmed: sõnad, mis te kirjutate, kui lubate ennustava teksti funktsiooni. Seda funktsiooni võidakse pakkuda koos Samsungi kontoga, et sünkroonida andmeid teie teistes Samsungi mobiilsideseadmetes kasutamiseks. Saate need andmed kustutada, minnes ennustava teksti seadetesse.
+•	Vaatamise teave: seadmes vaadatud võrgud, kanalid, külastatud veebisaidid ja saated ning nende vaatamisele kulutatud aeg.
+•	Muu teave selle kohta, kuidas teenuseid kasutate, nt kasutatud rakendused, külastatud veebilehed ja kuidas te teenuse kaudu pakutavat sisu kasutate.
+
+Avalikult või äriliselt kättesaadav või jagatud teave
+
+Mõnikord kogume avalikult või äriliselt kättesaadavat teavet, sh teavet sotsiaalvõrgustikest, mida kasutate, ja kombineerime seda muu teabega teie kohta, et mõistaksime paremini teie vajadusi, huvisid ning eelistusi. Mõnikord kogume ka teavet teie kohta, kui teised inimesed seda meie teenuste kaudu pakuvad, näiteks teie nime ja kontaktteavet, kui teised saadavad teile sõnumi või jagavad teiega faile.
+
+Muu meie kogutav teave
+
+Peale selle võime koguda teie, teie seadmete või teenuste teiepoolse kasutamise kohta muud teavet, mida nõustute meile saatma.
+
+Muu pakkuja analüütika
+
+Teatud teenuste kaudu võime koguda isikuandmeid teie tegevuste kohta veebis veebisaitidel ja ühendatud seadmetes aja jooksul ning kolmandate osapoolte rakendustes, seadmetes, rakendustes ja muudes veebilahendustes ning -teenustes. Me võime oma teenuste jaoks kasutada kolmandate osapoolte analüüsiteenuseid, näiteks Google Analyticsi teenuseid. Nimetatud analüüsiteenuste haldajad aitavad meil analüüsida teiepoolset teenuste kasutamist ja teenuseid paremaks muuta. Nimetatud teenusepakkujatele võib meie kogutud teavet avaldada või lubada neil seda otse koguda, samuti vastavatel kolmandatel osapooltel, kes kasutavad teavet näiteks teenuste kasutamise hindamiseks, teenuste haldamisele kaasaaitamiseks ja tehniliste probleemide tuvastamiseks. Lisateavet Google Analyticsi kohta lugege lehtedelt http://www.google.com/analytics/learn/privacy.html ja https://www.google.com/policies/privacy/partners/.
+
+Teie valikud
+
+Võite loobuda meile teatud tüüpi teabe edastamisest (nt teave, mida küsitakse Samsungi konto registreerimisel). Mõnel juhul võib see mõjutada mõne teenuse kasutamist. Anname endast parima, et selgitada teilt teavet küsides neid piiranguid, et saaksite langetada teadliku otsuse. Näiteks lubab Samsung Cloud varundada teavet ja luua taastamiskohta, kuid Samsung Cloud pole loodud ega mõeldud tundliku teabe talletamiseks või töötlemiseks.
+
+KUIDAS ME TEIE TEAVET KASUTAME?
+
+Kasutame kogutud andmeid järgmistel eesmärkidel.
+•	Selleks et aidata registreerida teid või teie seadet meie teenustesse
+•	Teie soovitud teenuse või funktsiooni pakkumiseks
+•	Kohandatud sisu pakkumiseks ja isikupärastatud teenuste andmiseks teie varasemate tegevuste põhjal meie teenustes
+•	Kohandatud reklaamide, reklaamikampaaniate ja pakkumiste tegemiseks, mis võiksid teile huvi pakkuda meie veebisaitidel, kolmanda osapoole veebisaitidel ning võrguplatvormidel, nt sotsiaalmeedia saitidel
+•	Reklaamikampaaniate ja pakkumiste tegemiseks otseturunduse kaudu ainult siis, kui olete selleks andnud eraldi nõusoleku
+•	Meie toodete ja teenuste analüüsimiseks, et aidata meil oma kliente paremini mõista, pakkumaks teile kõige sobivamaid teadaandeid, teenuseid ning kasutuskogemust
+•	Teie arvamuse küsimiseks meie toodete ja teenuste kohta ning kliendiküsitluste korraldamiseks teie eraldi nõusoleku alusel, kui see on nõutud
+•	Teie seadmetele tarkvaravärskenduste, hooldusteenuste ja toe pakkumiseks
+•	Seaduse ja seaduslike protsesside täitmiseks
+•	Samsung Electronicsi mis tahes sidusettevõtete, äripartnerite või klientide õiguste, vara või ohutuse kaitsmiseks
+
+Kasutame ja kombineerime teilt meie teenustest, seadmetest või muudest allikatest kogutud teavet, et pakkuda teile paremat kogemust. Näiteks võite kasutada oma Samsungi konto üksikasju mitte ainult teenuses, kuhu olete registreeritud, aga ka muudes teenustes, kus kasutatakse Samsungi kontosid. Kasutame ka teavet, mida esitate otse või läbi muude allikate, nagu on kirjeldatud üleval, et pakkuda teile sisu, mis teile meeldida võiks või mille oleme teie jaoks isikupärastanud. 
+
+Teil on esitatava teabe kohta valikud. Lisateabe saamiseks vaadake jaotist TEIE ÕIGUSED.
+
+[Ainult Euroopa Majanduspiirkonna (EMP) elanikele]
+Samsung töötleb isikuandmeid eelnimetatud eesmärkidel. Samsungi juriidiline alus isikuandmete töötlemiseks sisaldab töötlemist: 
+(i)	selleks et saaksime pidada kinni teile antud lubadustest, näiteks pakkuda teile teenust
+(ii)	oma ärihuvide edendamiseks (nt meie ja teie vahelise suhte haldamiseks ning teie klienditeeninduskogemuse parandamiseks), sh suhtlus meie veebisaidil, kolmanda osapoole veebisaitidel ja võrguplatvormidel
+(iii)	seaduse ja seaduslike protsesside täitmiseks
+(iv)	teie nõusolekul (näiteks otseturunduse saatmiseks). Kui annate nõusoleku, võite alati selle tühistada, kui võtate meiega ühendust nii, nagu kirjeldatud selle privaatsusavalduse jaotises „VÕTKE MEIEGA ÜHENDUST”.
+
+Samsung Electronics on isikliku teabe töötlemise kontrollija, nagu on kirjeldatud üleval. Osal otseturundusest ja kohandatud reklaamidest Euroopas on Samsung Electronics (UK) Limited (mis asub Ühendkuningriigis) samuti isikuandmete kontrollija. Mõni Euroopa Samsungi sidusettevõtetest töötleb samuti teie isikuandmeid teie riigis. Vajaduse korral on Euroopa Samsungi sidusettevõttel oma veebisaidil selle selgitamiseks kohalik privaatsuspoliitika.
+
+KELLEGA ME TEIE TEAVET JAGAME?
+
+Avaldame teie teavet oma ettevõttesiseselt, aga ainult nende osadega, kellel on seda vaja teenuste pakkumiseks või teie päringutega aitamiseks. 
+
+Samuti avalikustame teie andmeid järgmistele üksustele ja ainult ulatuses, mis on vajalik teenuste osutamiseks.
+
+•	Sidusettevõtted: muud Samsung Electronics Groupi ettevõtted, mida meie juhime või omame. 
+•	Äripartnerid: partnerid, kellega teeme koostööd, et pakkuda teile soovitud või ostetud teenuseid. Näiteks võime teha koostööd pangaga, et saaksite kasutada üht meie teenust kiiremate ja tõhusamate maksete tegemiseks. Need äripartnerid kontrollivad ja haldavad teie isikuandmeid.
+•	Teenusepakkujad: hoolega valitud ettevõtted, mis osutavad teenuseid meie nimel, näiteks ettevõtted, mis aitavad meid seadmete remondi, kliendi kontaktkeskuste, klienditeenindustegevuste, reklaamide (sh kohandatud reklaamid meie veebisaidil, kolmanda osapoole veebisaitidel või võrguplatvormidel), kliendi rahuloluküsitluste korraldamisega või arveldamisega või mis saadavad meie nimel e-kirju. Need pakkujad on samuti pühendunud teie isikuandmete kaitsmisele.
+•	Muud osapooled, kui seda nõuab seadus või kui on vajalik meie teenuste kaitsmiseks: näiteks võib seadus, seaduslik protsess või kohtumäärus nõuda valitsusasutustelt teie andmete avaldamist. Nad võivad meilt teie teavet küsida ka õiguskaitse, riikliku julgeoleku, terrorismivastasuse või muude avaliku turvalisuse probleemidega seotud probleemide korral.
+•	Ettevõtte tehingutega seotud muud osapooled: võime avalikustada teie andmeid kolmandale isikule liitumise või üleviimise, omandamise või müügi osana või pankroti korral.
+•	Muud osapooled teie nõusolekul või suunamisel: lisaks selles privaatsusavalduses kirjeldatud avalikustamiste võime teie isikuandmeid jagada kolmandate isikutega, kui te annate selliseks jagamiseks eraldi nõusoleku või kui te seda jagamist nõuate.
+
+KUIDAS ME TEIE TEAVET TURVALISENA HOIAME?
+
+Suhtume isikuandmete kaitsesse tõsiselt. Oleme kogutava teabe kaitsmiseks võtnud füüsilisi ja tehnilisi turbemeetmeid. Pidage siiski meeles, et kuigi astume teie andmete kaitsmiseks mõistlikke samme, pole ükski veebisait, Interneti-ülekanne, arvutisüsteem ega juhtmevaba ühendus täiesti turvaline.
+
+KUHU ME TEIE ANDMED SAADAME?
+
+Teiepoolne teenuste kasutamine hõlmab teie andmete edastamist, talletamist ja töötlemist teie asukohariigist ja väljaspool seda kooskõlas selle privaatsusavaldusega. Eeskätt edastatakse teie isikuandmed Korea Vabariiki. Pange tähele, et riikide, kuhu teie teavet võidakse edastada, andmekaitse- ja muud seadused ei pruugi olla sama põhjalikud kui teie riigi vastavad seadused.
+
+[Ainult Euroopa Majanduspiirkonna (EMP) elanikele]
+
+Lisaks hõlmab teiepoolne teenuste kasutamine teie isikuandmete edastamist, talletamist ja töötlemist teistes riikides, nende hulgas Euroopa Majanduspiirkonna riigid, Ameerika Ühendriigid ja Kanada. Võtame asjakohaseid meetmeid, järgides kehtivaid seaduseid, et tagada teie isikliku teabe kaitse. Nende meetmete hulka kuuluvad lepingu tüüptingimused andmete kaitsmiseks edastamisel väljapoole Euroopa Majanduspiirkonda. Lisateabe või koopia saamiseks paika pandud lepingute kohta võtke meiega ühendust. Vt jaotist VÕTKE MEIEGA ÜHENDUST. 
+
+TEIE ÕIGUSED
+
+Teie isikuandmed kuuluvad teile. Võite meilt küsida täpsemalt selle kohta, mida oleme kogunud, ja võite paluda meil andmeid kustutada või parandada vigu. Võite ka paluda meil piirata teie isikuandmete töötlemist, jagamist või edastamist ja esitada teile teie isikuandmeid, mida oleme kogunud, et saaksite neid ise kasutada. Kuid kui palute meil oma isikuandmed kustutada, võib sellega kaduda juurdepääs meie pakutavatele teenustele. Me ei kustuta andmeid, mille säilitamist nõuab seadus.
+
+Palve esitamiseks teie õigustega seoses või päringu esitamiseks võtke meiega ühendust. Vt jaotist VÕTKE MEIEGA ÜHENDUST.
+
+KUI KAUA ME TEIE ANDMEID SÄILITAME?
+
+Me ei säilita teie isikuandmeid kauem, kui see on vajalik eesmärgil, milleks need koguti. See tähendab, et andmed hävitatakse või kustutatakse meie süsteemidest, kui neid enam vaja ei ole.
+
+Võtame asjakohaseid meetmeid, et teie isikuandmeid töödeldaks ja säilitataks ainult järgmistel põhimõtetel:
+
+1.	vähemalt aja jooksul, mil andmeid kasutatakse teile teenuse pakkumiseks; 
+2.	nagu on nõutud seaduse, lepingu või seoses meie õiguslike kohustusega;
+3.	ainult seni, kuni see on vajalik andmete kogumise eesmärgil, nende töötlemise ajaks või kauemaks, kui seda nõuab mis tahes leping või kohaldatav seadus, või statistilisel eesmärgil, millele rakenduvad asjakohased turbemeetmed.
+
+MILLISEID KOLMANDA OSAPOOLE TEENUSEID ME KASUTAME?
+
+Osa meie teenuste sisust, reklaamidest ja funktsioonidest pakuvad kolmandad osapooled. Need kolmandad osapooled võivad kasutada küpsiseid, majakaid, jälgimispiksleid ja muid vahendeid andmete kogumiseks selle kohta, kuidas te neid teenuseid kasutate. Neid kolmandaid osapooli ei juhi otse Samsung, nii et soovitame teil vaadata nende privaatsuspoliitikaid, et mõistaksite, kuidas nad teie andmeid kasutavad.
+
+Mõne rakenduse ja teenuse kohta (sh sotsiaalvõrgustikud) saame ja talletame sisselogimisandmeid ning muud teavet, mida lubate meil saada, kui ühendute nende rakenduste ja teenustega.
+
+VÕTKE MEIEGA ÜHENDUST
+
+Oma eelistuste muutmiseks, isikuandmete korrigeerimiseks, taotluste esitamiseks või meile küsimuste esitamiseks võtke meiega ühendust.
+
+Võite meiega ühendust võtta ka allolevaid andmeid kasutades:
+
+Andmetöötleja
+Samsung Electronics Co., Ltd.
+129, Samsung-ro, Yeongtong-gu,
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+[Ainult Euroopa Majanduspiirkonna (EMP) elanikele]
+
+Ettevõttel Samsung Electronics on kontorid üle Euroopa, nii et saame tagada, et teie taotluse või päringuga tegeleb teie piirkonnas paiknev andmekaitsemeeskond.
+
+Lihtsaim viis meiega ühenduse võtmiseks on kasutada privaatsusalase toe lehte veebisaidil https://www.samsung.com/request-desk. 
+
+Võite meiega ühendust võtta ka allolevaid andmeid kasutades:
+
+Euroopa andmekaitseametnik
+Samsung Electronics (UK) Limited
+Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+
+Kui leiate, et teie isikuandmeid töödeldes rikume kohaldatavat seadust, võite esitada kaebuse asjakohasele järelevalveasutusele. Kõigi ELi järelevalveasutuste kontaktandmed leiate aadressilt https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+SAMSUNG PRIVAATSUSPOLIITIKA – SMART TV LISA
+
+Samsungi Smart TV teenus sisaldab funktsioonikomplekti, mis pakub täiustatud videosisu, kohandatud televisiooni-, filmi- ja muid sisusoovitusi, võimaldab ühenduda suhtlusvõrguteenustega ning teil oma Smart TV-d juhtida ja sellega suhelda žestide ning häälkäskluste abil. Me kogume, kasutame, jagame ja talletame teavet läbi teie Smart TV ning Smart TV-ga ühendatud seadmete Samsungi privaatsuspoliitikas kirjeldatud viisidel. See lisa pakub täiendavaid üksikasju mõne Smart TV funktsiooni privaatsustavade kohta.
+
+Rakendus Smart TV võimaldab teil hõlpsasti leida videosaateid ja muud sisu ning neile juurde pääseda. Näiteks võite juurde pääseda teabele televisiooni otsesaadete kohta, mida edastab teie kaabel- või satelliitside operaator, ja nõudevideo sisu pakkumiste kohta, mida edastavad kolmanda osapoole sisupakkujad teie Smart TV-s kuvatavate otsinguvõimalusega saatekavade kaudu.
+
+Televisiooni otsesaadete puhul teeme teile saadaoleva sisu kindlaks osaliselt teie sihtnumbri põhjal. Peale selle aitab Smart TV teha otsitavad kavad ja muu Smart TV sisu teile asjakohasemaks, tõstes esile saated ning sisu, mis võiks teile tõenäolisemalt huvi pakkuda, või pakkudes lisateenuseid, mis võiksid teie vaatamiselamust paremaks muuta. Meie soovitused põhinevad järgmisel:
+
+•	teabel sisu kohta, mida olete Samsungi rakenduste kaudu oma Smart TV-s või muudes seadmetes vaadanud, ostnud, alla laadinud või voogesitanud (teleri vaatamise kohta vaadake lähemalt järgnevast jaotisest „Teabeteenuste vaatamine”);
+•	teabel rakenduste kohta, millele olete juurde pääsenud Smart TV kaudu;
+•	teabel teie klõpsamiste kohta Smart TV nuppudel Meeldib, Ei meeldi, Vaata kohe jne;
+•	päringusõnadel, mille olete sisestanud Smart TV otsingufunktsioonis, sh kindla videosisu otsimisel;
+•	muul Smart TV kasutus- ja seadmeteabel, muu hulgas teie IP-aadressil, logiandmetel, riist- või tarkvara konfiguratsiooni tuvastaval teabel, brauseriteabel ja teie soovitud lehtedel.
+
+Teabeteenuste vaatamine
+Privaatsusteadet tuleks lugeda koos Samsungi privaatsuspoliitikaga, mis kehtib ka kohandatud Smart TV kasutuskogemustele ja mille leiate aadressilt https://account.samsung.com/membership/pp.
+Kohandatud Smart TV kasutuskogemuse pakkumiseks oleneb osa meie funktsioone ja teenuseid teie teleri vaatamisajaloost ning Smart TV kasutusteabest.
+Teie teleri vaatamisajalugu sisaldab teavet Smart TV-s vaadatud võrkude, kanalite, külastatud veebisaitide ja saadete ning nende vaatamisele kulutatud aja kohta.
+Võime kasutada selle teabe hankimiseks automaatset sisutuvastust (ACR) ja muid tehnoloogiaid. Teie Smart TV edastab vaadatud programmide määramiseks videolõike või TV-tuuneri teavet.
+Võite oma privaatsuse valikut menüüs Seaded alati muuta, keelates omal soovil teatud funktsiooni või teenuse. Sel juhul lõpetatakse konkreetse funktsiooni või teenusega seotud teleri vaatamisajaloo kogumine.
+
+[Ainult Euroopa Majanduspiirkonna (EMP) elanikele]
+
+Teiepoolne teenuste kasutamine hõlmab teie andmete edastamist, talletamist ja töötlemist väljaspool teie asukohariiki, täpsemalt Koreas, kooskõlas selle privaatsusavaldusega. Peale selle hõlmab teiepoolne teenuste kasutamine teie isikuandmete edastamist, talletamist ja töötlemist teistes riikides, nende hulgas Euroopa Majanduspiirkonna riigid, Ameerika Ühendriigid ja Kanada. Pidage meeles, et väljaspool Euroopa Majanduspiirkonda asuvate riikide, kuhu teie isikuandmeid võidakse edastada, andmekaitse- ja muud seadused ei pruugi olla sama üksikasjalikud kui teie riigis. Võtame asjakohaseid meetmeid, järgides kehtivaid seaduseid, et tagada teie isikliku teabe kaitse. Nende meetmete hulka kuuluvad lepingu tüüptingimused andmete kaitsmiseks edastamisel väljapoole Euroopa Majanduspiirkonda. Lisateabe või koopia saamiseks paika pandud lepingute kohta võtke meiega ühendust privaatsusalase toe lehel (https://www.samsung.com/request-desk).
+Pidage meeles, et teie privaatsuse valik võib mõjutada konkreetse vaatamisteabel põhineva teenuse kättesaadavust või kvaliteeti.
+
+Huvipõhised turundusteenused
+Huvipõhised turundusteenused („IBA teenused”) on loodud selleks, et pakkuda võimalust saada ja vaadata kasulikke, interaktiivseid ja huvipõhiseid reklaame toodete ja teenuste kohta, mida pakub Samsung ja kolmandad osapooled teie Samsung Smart TV-s või erinevates Samsungi ja kolmanda osapoole platvormides või seadmetes, sh lineaarsetes reklaamides, veebis, mobiilsideseadmetes ja tahvelarvutites.
+
+Selleks et pakkuda teie seadmetes teie jaoks asjakohasemaid reklaame, tugineb IBA teenus teie teleri vaatamisajaloole (kaasa arvatud teabele võrkude, kanalite, külastatud veebisaitide ja Samsung Smart TV-s vaadatud programmide ning nende vaatamisele kulutatud aja kohta), Samsung Smart TV kasutusteabele ja teistele statistilistele andmetele, mis on hangitud usaldusväärsetest kolmanda osapoole andmeallikatest. Võime kasutada teie teleri vaatamisajaloo hankimiseks automaatset sisutuvastust (ACR) ja muid tehnoloogiaid.
+
+Loome eespool toodud teabe põhjal Samsung Smart TV omanike rühmad, mis jagavad sarnaseid huvisid, ja kasutame neid rühmasid IBA teenuse jaoks. Eespool toodud teavet kasutatakse, et määrata kindlaks rühmad, kuhu teie Samsung Smart TV on määratud, ja seega, milliseid reklaame teie seadmetesse saata.
+
+Võite IBA teenuse mis tahes ajal välja lülitada, külastades Samsung Smart TV menüüd Seaded.
+
+Pange tähele, et teie IBA teenusega seotud privaatsusevalik ei mõjuta seda, kas saate muud tüüpi reklaame ja turundust, mis ei ole seotud teie teleri vaatamisajaloo või Samsung Smart TV kasutusteabega. Need muud tüüpi reklaamid ja turundus põhinevad teistel andmetel, nagu üldine asukoht ja muud hinnangulised või tuletatud andmed. Need võivad olla vähem asjakohased, sest need ei põhine teie huvidel.
+
+IBA teenuste kohta lisateabe saamiseks vt selle lisa lõpus asuvat IBA teenuste privaatsusteatist.
+
+PSID
+Teie Smart TV vaatamisajalugu ja kasutusteave, mida kogutakse huvipõhiste reklaamide pakkumiseks, seotakse juhusliku, ebapüsiva ja lähtestatava seadmeidentifikaatoriga (PSID – Personalized Service ID).
+Võite oma PSID mis tahes ajal lähtestada, külastades Smart TV menüüd Seaded. Kui see on lähtestatud, eraldatakse teie Smart TV vaatamisajalugu ja Smart TV kasutusteave seoses huvipõhise turundusega selle eelmisest PSID-st. Pidage meeles, et PSID lähtestamise korral ei pruugita kohandatud ja huvipõhiste reklaamide kvaliteeti peenhäälestada.
+
+Häältuvastus
+Saate oma Smart TV-d juhtida ja selle paljusid funktsioone häälkäskluste abil kasutada.
+Häältuvastuse lubamisel saate Smart TV-ga suhelda oma hääle abil. Häältuvastusfunktsiooni võimaldamiseks edastatakse teie häälkäsklused (koos seadmeteabega, sh seadme tunnustega) meile ja me teisendame need häältuvastuse funktsioonide pakkumise eesmärgil tekstiks. Peale selle võib Samsung koguda häälkäsklusi ja seotud tekste selleks, et saaksime funktsioone hinnata ja täiustada. Samsung kogub teie häälkäsklusi ainult siis, kui teete Smart TV-s kindla otsingutaotluse, vajutades kaugjuhtimispuldil või ekraanil aktiveerimisnuppu või öeldes äratusväljendi (nt „Hi, Bixby”) ja rääkides kaugjuhtimispuldi või Smart TV mikrofoni.
+Kui te häältuvastust ei luba, ei saa te häältuvastusfunktsioone kasutada.
+Võite häältuvastuse andmete kogumise menüüs Seaded igal ajal keelata. See aga võib takistada häältuvastuse funktsioonide kasutamist.
+
+Häältuvastuse kohta lisateabe saamiseks vt selle lisa lõpus asuvat häältuvastuse privaatsusteatist.
+
+Kolmandad osapooled
+Pidage meeles, et kui vaatate mõnd videot või kasutate rakendust, mille pakkuja on kolmas osapool, võib see pakkuja koguda või saada teavet teie Smart TV kohta (nt selle IP-aadressi ja seadmetunnused), nõutud tehingute kohta (nt teie taotlus video ostmiseks või laenamiseks) ning rakenduse või teenuse teiepoolse kasutamise kohta. Samsung ei vastuta nende pakkujate privaatsus- ega turbetavade eest. Peaksite olema väga ettevaatlik ning vaatama üle kasutatavate kolmanda isiku veebisaitide ja teenuste privaatsusavaldused.
+
+Asukohariigiga seotud funktsioonid
+Pidage meeles, et mõni selles Smart TV lisas kirjeldatud funktsioonidest ei pruugi teie asukohariigis saadaval olla.
+
+HÄÄLTUVASTUSE TEENUSE PRIVAATSUSTEADE
+
+Jõustumise kuupäev: 30. aprill 2019
+
+Samsung Electronics ja meie sidusettevõtted mõistavad teie muret privaatsuse pärast. See privaatsusteade kehtib isikuandmetele, mida kogume häältuvastuse teenuse („häälteenus”) kaudu.
+Häälteenus on teenus, mis annab kasutajatele võimaluse otsida ja vaadata sisu ning hallata oma maailma Samsungi toodetes, kasutades selleks ainult oma häält. Selle funktsioonide hulka kuuluvad loomulik keele töötlemine sisuotsingus ja Samsung Smart TV juhtimine; Internet ning ilma- ja muud teenused, mida kasutajad on harjunud oma Samsung Smart TV-dest saama.
+Valitud keelest olenevalt võib teil olla võimalik kasutada ja nautida täiustatud häältuvastusfunktsiooni Bixby. Bixby töötamisest annavad märku Samsung Smart TV ekraanil kuvatud ikoonid, bännerid ja teised märgid.
+
+Privaatsusteatest leiate lisateavet selle kohta, kuidas teie isikuandmeid kasutatakse seoses Häälteenusega, ja seda tuleks lugeda koos Samsungi privaatsuspoliitikaga, mis kehtib ka Häälteenuse teiepoolsele kasutamisele ja mille leiate aadressilt https://account.samsung.com/membership/pp.
+
+Selles privaatsusteates on kirjeldatud, mis liiki teavet Häälteenuse kaudu kogutakse, kuidas me võime seda teavet kasutada ja millised on teie valikuvõimalused meiepoolse teabe kasutamise suhtes. Samsung on isikliku teabe töötlemise kontrollija.
+
+MEIE KOGUTAV TEAVE
+Häälteenuse kaudu saame teie kohta teavet mitmel moel. Meieni jõuavad järgmist liiki isikuandmed.
+
+•	Samsungi konto teave (valikuline). Kui logite Samsungi kontole Smart TV-s sisse, võime koguda teavet, mis on seotud teie Samsungi kontoga, mida kasutate Häälteenusele juurdepääsuks, näiteks teie nime, meiliaadressi ja Samsungi konto ID-d.
+
+•	Häälteenusega suhtlemine. Võime koguda andmeid häälteenuse teiepoolse kasutuse kohta selle alusel, kuidas te kasutate teenuseid, sh teie häälkäskluste salvestused (nt teie küsimused, päringud ja juhised), teie pildid ja muud sisestused ning samuti andmed selle kohta, mida te teenustelt saate (nt tagasiside, vastused ja sisu). Me võime saada ka muud teavet selle põhjal, kuidas te Häälteenust kasutate, sh Samsungilt ja kolmandate osapoolte rakendustelt ning teenustelt saadud teavet (sh teavet teie kasutatud rakenduste kohta, teie külastatud veebilehtede ja teie kontaktiloendite kohta, piltide, muusika, kalendrimärkmete, järjehoidjate, märkmete, äratuskella ja teabe kohta muude Samsungi ning kolmandate osapoolte rakenduste, kodulehtede ja teenuste kohta), kuhu on juurde pääsetud või mida on kasutatud Häälteenuse abil, et teile teenuseid osutada (näiteks muusika voogesitus ja ilmateade).
+
+•	Geolokaliseerimise andmed. Teatud eesmärkidel, näiteks teile teenuse pakkumiseks, võime telerisse talletatud sihtnumbri alusel, mille saame teie IP-aadressi või teiepoolse sisestamise kaudu, saada andmeid teie seadme asukoha kohta ning muid teie asukohaga seotud andmeid.
+
+•	Seadme ja rakenduse teave. Võime koguda automaatselt teavet teie Häälteenuse võimekusega seadmete kohta, näiteks seadmete mudelid, OS-versioonid, seadmete konfiguratsioonid ja seaded, IP-aadressid ning seadmete tuvastajad ning muud kordumatud tuvastajad. Peale selle võime saada teavet selle kohta kuidas, millal ja kui kaua kasutate Häälteenuse võimekusega seadmeid, sh teie Häälteenuse ja Samsungi ning kolmandate osapoolte rakenduste ja teenuste kasutamine seadmetega (näiteks teie seadmetel leiduv rakenduste loend, nendega kuulatud muusika, teie külastatud kodulehed ning teie tehtud päringud).
+
+KUIDAS ME TEIE TEAVET KASUTAME?
+Võime kasutada Häälteenuse kaudu saadud teavet järgmisel otstarbel:
+
+•	teile teenuste osutamiseks, näiteks teie häälteenuse kaudu esitatud taotlustele, küsimustele ja juhistele vastamiseks;
+•	teie tuvastamiseks ja isikusamastamiseks teatud Häälteenuste kasutamiseks;
+•	teie Häälteenuse kasutuskogemuse parandamiseks ja just teile kohandamiseks, näiteks meie kasutajate järgi sisu ning vastuste edastamiseks selle põhjal, kuidas kasutajad Häälteenust kasutavad;
+•	teie eraldi nõusoleku alusel teie teavitamiseks meie toodetest ja teenustest ning teile teavituste, sisu, hoiatuste, pakkumiste, sooduspakkumiste, turundusteabe, teadete ja reklaami edastamiseks;
+•	teie taotlustele ja järelpärimistele vastamiseks;
+•	meie äritegevuse juhtimiseks, selle hindamiseks ja parandamiseks (sh uute toodete väljaarendamiseks, meie toodete ning teenuste parandamiseks ja edasiarendamiseks, teavitustöö korraldamiseks, toodete, kliendibaasi ning teenuste analüüsiks, turu-uuringute ja andmeanalüütika tegemiseks, aga ka raamatupidamise, auditeerimise ning muude sisekontrolli protseduuride jaoks);
+•	võimaldamaks teil suhelda teatud kolmanda isiku rakenduste ja teenustega ning neid kasutada;
+•	pettuste ja muude kriminaalsete tegevuste, nõuete ning muude kohustuste ennetamiseks, tuvastamiseks ja nende vastu kaitsmiseks;
+•	kehtivate seadusnormide, vastavate tööstusstandardite ja meie reeglite, sh see privaatsusteade, Samsungi konto privaatsuspoliitika järgimiseks ning kohaldamiseks.
+
+Häälteenuse kaudu võime koguda aja jooksul ja kolmanda isiku rakendustes, veebisaitidel ning muudes veebiteenustes isikuandmeid teie tegevuste kohta veebis seadmetega, kus häälteenus on aktiveeritud. Me võime oma teenuste jaoks kasutada kolmanda isiku analüütikateenuseid. Nende analüütikateenuste pakkujad aitavad meil analüüsida seda, kuidas te teenuseid kasutate, ja meie teenuseid paremaks muuta. Nimetatud teenusepakkujatele võib meie kogutud teavet avaldada või lubada neil seda otse koguda, samuti vastavatel kolmandatel osapooltel, kes kasutavad teavet näiteks teenuste kasutamise hindamiseks, teenuste osutamisele kaasaaitamiseks ja tehniliste probleemide tuvastamiseks.
+
+Samsung töötleb isikuandmeid eelnimetatud eesmärkidel. Samsungi õiguslik alus isikuandmete töötlemiseks hõlmab andmetöötlust, mis on vajalik teie ja Samsungi vahelise lepingu täitmiseks (näiteks teile teenuste osutamiseks, teie tuvastamiseks ning isikusamastamiseks, et te saaksite teatud teenuseid kasutada), õiguslike nõuete järgmiseks (näiteks kohaldatavatele raamatupidamiseeskirjadele vastamiseks ja seadusest tulenevate andmete avalikustamise kohustuste täitmiseks), Samsungi põhjendatud huvide kaitseks (näiteks meie omavahelise suhte haldamiseks ning teenuste parandamiseks) ja mis tugineb meie klientide nõusolekul (näiteks teiega suhtlemiseks meie toodete ning teenuste teemal ja teile turundusteabe edastamiseks), mida võib hiljem igal ajal tagasi võtta Samsungi privaatsusavalduse jaotises „Võtke meiega ühendust” täpsustatu kohaselt, ilma et see mõjutaks enne nõusoleku tagasivõtmist aset leidnud andmetöötluse seaduslikkust.
+
+Lepingu sõlmimiseks peate meile edastama isiklikke andmeid eelmainitud andmetöötluse jaoks. Kui te isiklikke andmeid ei edasta, ei saa me teile kõiki Häälteenuse kaudu kättesaadavaid funktsioone võimaldada.
+
+TEIE VALIKUD
+Saate häälteenuse menüüst Seaded igal ajal välja lülitada. Sellisel juhul ei pruugi teil aga olla enam võimalik häälteenust kasutada.
+
+Samuti pakume teile teatud valikuid seoses isikuandmetega, mida teilt saame. Teie eelistuste värskendamiseks, meilt saadud teatiste piiramiseks või taotluste esitamiseks võtke meiega ühendust, nagu on täpsustatud Samsungi privaatsusavalduse jaotises „Võtke meiega ühendust”
+
+MEIE PRIVAATSUSTEATE VÄRSKENDUSED
+Seda privaatsusteadet värskendatakse regulaarselt, et kajastada meie isikuandmetega seotud praktikate muutumist teenustes või kohalduva seaduse muudatusi. Me avaldame oma veebisaidil ja/või teie seadmel teate meie privaatsusteate olulistest muudatustest ning anname teate päises teada, millal seda viimati värskendati.
+
+HUVIPÕHISE REKLAAMITEENUSE PRIVAATSUSTEADE
+
+Jõustumise kuupäev: 30. aprill 2019
+
+Samsung Electronics ja meie sidusettevõtted mõistavad teie muret privaatsuse pärast. See privaatsusteade kehtib isikuandmetele, mida kogume huvipõhiste reklaamiteenuste („IBA teenus”) kaudu.
+
+Privaatsusteatest leiate täiendavat teavet selle kohta, kuidas teie isikuandmeid kasutatakse seoses IBA teenusega, ja seda tuleks lugeda koos Samsungi globaalse privaatsuspoliitikaga, mis kehtib ka IBA teenuse teiepoolsele kasutamisele ja mille leiate aadressilt https://account.samsung.com/membership/pp.
+
+Selles privaatsusteates on kirjeldatud, mis liiki teavet huvipõhiste reklaamide kaudu kasutatakse, kuidas me võime seda teavet kasutada, kui kaua me teavet säilitame, kellega võime seda jagada ja millised on teie valikuvõimalused meiepoolse teabe kasutamise suhtes ning kuidas te saate oma õigusi maksma panna. Samsung on isikliku teabe töötlemise kontrollija.
+
+MIS ON IBA TEENUS?
+IBA teenus on loodud selleks, et pakkuda võimalust saada ja vaadata kasulikke, interaktiivseid ning huvipõhiseid reklaame toodete ja teenuste kohta, mida pakuvad Samsung ning kolmandad osapooled teie Samsung Smart TV-s või erinevates Samsungi ja kolmanda osapoole platvormides või seadmetes, sh lineaarsetes reklaamides, veebis, mobiilsideseadmetes ning tahvelarvutites.
+
+Selleks et pakkuda teie seadmetes teie jaoks asjakohasemaid reklaame, tugineb IBA teenus teie teleri vaatamisajaloole (kaasa arvatud teabele võrkude, kanalite, külastatud veebisaitide ja Samsung Smart TV-s vaadatud programmide ning nende vaatamisele kulutatud aja kohta), Samsung Smart TV kasutusteabele ja teistele statistilistele andmetele, mis on hangitud usaldusväärsetest kolmanda osapoole andmeallikatest. Võime kasutada teie teleri vaatamisajaloo hankimiseks automaatset sisutuvastust (ACR) ja muid tehnoloogiaid.
+
+Loome eespool toodud teabe põhjal Samsung Smart TV omanike rühmad, mis jagavad sarnaseid huvisid, ja kasutame neid rühmasid IBA teenuse jaoks. Eespool toodud teavet kasutatakse, et määrata kindlaks rühmad, kuhu teie Samsung Smart TV on määratud, ja seega, milliseid reklaame teie seadmetesse saata.
+
+PSID
+IBA teenuse pakkumise eesmärgil kogutud teave teie seadme kasutamise kohta lingitakse juhusliku, ajutise ja lähtestatava seadmetunnusega, mida nimetatakse PSID reklaamitunnuseks. Võite oma PSID lähtestada, nagu on täpsustatud privaatsusteate jaotises Teie valikud.
+
+MEIE KOGUTAV TEAVE
+IBA teenuse kaudu saame teie seadmete kohta teavet mitmel moel. Meieni jõuab järgmist liiki teave.
+•	Seadme teave. Me kogume andmeid, nagu teie seadme mudel, operatsioonisüsteemi versioonid, seadme konfiguratsioonid ja seaded, IP-aadress, seadme identifikaatorid ning muud identifikaatorid.
+•	Seadme kasutuse ja logiandmed. Kogume teavet selle kohta kuidas, millal ja kui kaua te kasutate oma seadmeid, sh teie IBA teenuse ning Samsungi ja kolmandate osapoolte rakenduste ning teenuste kasutamine seadmetes (näiteks teie seadmetel leiduv rakenduste loend).
+•	Vaatamise andmed. Kogume teie teleri vaatamisajalugu. Teie teleri vaatamisajalugu sisaldab teavet Samsung Smart TV-s vaadatud võrkude, kanalite, külastatud veebisaitide ja saadete ning nende vaatamisele kulutatud aja kohta. Võime kasutada selle teleri vaatamisajaloo hankimiseks ACR-i ja muid tehnoloogiaid.
+•	Statistilised andmed. Võime teie või teie seadmete kohta kasutada statistilist teavet, nagu üldine asukoht ja hinnanguline vanuserühm. Hangime selle statistilise teabe äriliselt kättesaadavatest allikatest (seadusega lubatud määral), nagu meie kolmandast osapoolest teenusepakkujad. Teeme koostööd ainult kolmandast osapoolest teenusepakkujatega, kes tagavad, et see teave on hangitud kohalduvate seaduste järgi ja seda võib meile kasutamiseks ning avalikustamiseks esitada.
+
+Samsungi serverid saavad teavet teie IBA teenusega suhtlemise, teie asukoha ja seadmete kohta, mille kaudu te IBA teenust kasutate.
+
+KUIDAS ME TEIE TEAVET KASUTAME?
+Me kasutame IBA teenuse kaudu saadud teavet järgmisel otstarbel:
+
+•	teile IBA teenuse pakkumiseks;
+•	teie IBA teenuse kasutuskogemuse täiustamiseks ja kohandamiseks;
+•	teie eraldi nõusolekul teile e-posti ja kommertsteavituste kaudu selliste Samsungi ning kolmandate osapoolte pakutatavate toodete ja teenuste teavituste saatmiseks, mis sobivad teie huvidega;
+•	teie taotlustele ja järelpärimistele vastamiseks;
+•	meie äritegevuse juhtimiseks, selle hindamiseks ja parandamiseks (sh uute toodete väljaarendamiseks, meie toodete ning teenuste parandamiseks ja edasiarendamiseks, teavitustöö korraldamiseks, toodete, kliendibaasi ning teenuste analüüsiks, turu-uuringute ja andmeanalüütika tegemiseks, aga ka raamatupidamise, auditeerimise ning muude sisekontrolli protseduuride jaoks); 
+•	pettuste ja muude kriminaalsete tegevuste, nõuete ning muude kohustuste ennetamiseks, tuvastamiseks ja nende vastu kaitsmiseks;
+•	kehtivate seadusnormide, vastavate tööstusstandardite ja meie reeglite, sh see privaatsusteade, Samsungi konto privaatsuspoliitika järgimiseks ning kohaldamiseks.
+
+Samsung töötleb isikuandmeid eelnimetatud eesmärkidel. Samsungi õiguslik alus isikuandmete töötlemiseks hõlmab järgmist töötlemist: teie ja Samsungi vahelise lepingu täitmiseks vajalik andmetöötlus (näiteks, et teile IBA teenust osutada ja teid tuvastada ning autentida); andmetöötlus on vajalik seaduse järgimiseks (näiteks kehtivad raamatupidamisreeglid ja kohustuslike teavituste jaoks õiguskaitseasutustele); vajalik Samsungi põhjendatud huvide kaitseks (näiteks suhtlemiseks teiega ja IBA teenuse parandamiseks); ja tugineb meie klientide nõusolekul (näiteks teiega suhtlemine meie toodete ja teenuste teemal ning teile turundusteabe edastamiseks), mida järgnevalt võib igal ajal tagasi võtta menüüs Seaded, nagu on täpsustatud selle privaatsusteate jaotises Teie valikud, samas jääb enne nõusoleku tagasivõtmist aset leidnud andmetöötlus ikka seaduspäraseks.
+
+IBA teenuse kasutamise alustamiseks peate te meile edastama isiklikke andmeid eelmainitud andmetöötluse jaoks. Kui te isikuandmeid ei edasta, ei saa me teile võimaldada kõiki IBA teenuses saadaolevaid funktsioone.
+
+TEIE VALIKUD
+Võite PSID menüüs Seaded alati lähtestada, misjärel teie teleri vaatamisajalugu ja Smart TV kasutusteave katkestatakse eelmisest PSID-st. Pidage meeles, et PSID lähtestamine võib mõjutada IBA teenuse kvaliteeti.
+
+Peale selle võite IBA teenuse mis tahes ajal välja lülitada, külastades Samsung Smart TV menüüd Seaded.
+
+Pange tähele, et teie IBA teenusega seotud privaatsuse valik ei mõjuta seda, kas saate muud tüüpi reklaame ja turundust, mis ei ole seotud teie teleri vaatamisajaloo või Samsung Smart TV kasutusteabega. Need muud tüüpi reklaamid ja turundus põhinevad teistel andmetel, nagu üldine asukoht ja muud hinnangulised või tuletatud andmed. Need võivad olla vähem asjakohased, sest need ei põhine teie huvidel.
+
+MEIE PRIVAATSUSTEATE VÄRSKENDUSED
+Seda privaatsusteadet värskendatakse regulaarselt, et seoses IBA teenusega arvestada muutustega meiepoolses isikuandmete töötlemises või muutustega kohalduvas seaduses. Me avaldame oma veebisaidil ja/või teie seadmel teate meie privaatsusteate olulistest muudatustest ning anname teate päises teada, millal seda viimati värskendati.
+
+Samsungi printimis- ja kopeerimistooted kuuluvad nüüd HP tootepere hulka. Tutvuge HP privaatsusavaldusega järgmisel lingil: http://www.hp.com/go/privacy.
